@@ -1,0 +1,12 @@
+[LOGGER STARTED]
+
+Proton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Proton.AlertsReadout_AlertsReadoutOnGUI_Patch
+Proton.AlertsReadout_AlertsReadoutUpdate_Patch
+Proton.Alert_Constructor_Patch
+Proton.GlowGrid_Patch+GlowGrid_RegisterGlower_Patch
+Proton.GlowGrid_Patch+GlowGrid_DeRegisterGlower_Patch
+Proton.GlowGrid_Patch+GlowGrid_MarkGlowGridDirty_Patch
+Proton.GlowGrid_Patch+GlowGrid_RecalculateAllGlow_Patch
+
