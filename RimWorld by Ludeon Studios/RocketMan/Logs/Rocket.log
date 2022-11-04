@@ -605,3 +605,11 @@ Bucket[0].Count = 1
 Created ticker bucket: BaseInterval=8000 BucketInterval=8000
 
 Bucket[0].Count = 1
+
+ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Alerts:YieldTab
+
+ROCKETMAN: Found function with attribute YieldTabContent, TabContent_DilationSettings:YieldTab
+
+ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Grapher:YieldTab
+
+ROCKETMAN: Found function with attribute YieldTabContent, TabContent_WorldPawns:YieldTab

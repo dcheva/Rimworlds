@@ -7,7 +7,6 @@
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
     <li>ludeon.rimworld.biotech</li>
-    <li>1.3.odz.hairs</li>
     <li>vanillaexpanded.vanillatraitsexpanded</li>
     <li>dani.moretraits</li>
     <li>fluffy.colonymanager</li>
@@ -18,19 +17,16 @@
     <li>oskarpotocki.vanillaexpanded.royaltypatches</li>
     <li>syrchalis.processor.framework</li>
     <li>dankpyon.medieval.overhaul</li>
-    <li>carnysenpai.enableoversizedweapons</li>
     <li>frozensnowfox.complexjobs</li>
     <li>frozensnowfox.nodefaultshelfstorage</li>
     <li>fuu.usefulterror</li>
     <li>kittahkhan.justafleshwound</li>
     <li>dontstopthemusic.kv.rw</li>
     <li>forcedojob.kv.rw</li>
-    <li>kyd.coveryournose</li>
     <li>kyd.joykind.condensed</li>
     <li>derekbickley.ltocolonygroupsfinal</li>
     <li>limetreesnake.systems</li>
     <li>limetreesnake.furnishing</li>
-    <li>nals.facialanimation</li>
     <li>khitrir.gunlinksaffectmortars</li>
     <li>khitrir.qualitysensitivepsychicfoilhelmets</li>
     <li>syrchalis.bulletcasings</li>
@@ -39,8 +35,6 @@
     <li>mlie.xndtinytweaks</li>
     <li>spoonshortage.adogsaidanimalprosthetics</li>
     <li>brrainz.achtung</li>
-    <li>rimsenal.hair</li>
-    <li>rooboid.royalhair</li>
     <li>unlimitedhugs.hugslib</li>
     <li>unlimitedhugs.allowtool</li>
     <li>roolo.almostthere</li>
@@ -91,10 +85,11 @@
     <li>tammybee.cutplantsbeforebuilding</li>
     <li>georodin.deepdrillindicator</li>
     <li>trojan.deathrattle</li>
-    <li>com.yayo.yayoani</li>
     <li>v1024.ebframework</li>
     <li>erdelf.humanoidalienraces</li>
     <li>jecrell.jecstools</li>
+    <li>regrowth.botr.core</li>
+    <li>regrowth.botr.extinctanimalspack</li>
     <li>sineswiper.xenobionicpatcher</li>
     <li>odeum.wmbp</li>
     <li>owlchemist.windows</li>
@@ -123,7 +118,6 @@
     <li>owlchemist.undergroundpowerconduits</li>
     <li>gondragon.uinotincluded</li>
     <li>marvinkosh.ughyougotme</li>
-    <li>densevoid.tribalheadgear</li>
     <li>carnysenpai.traitraritycolors</li>
     <li>superniquito.traiticons</li>
     <li>owlchemist.toggleableshields</li>
@@ -156,8 +150,6 @@
     <li>owlchemist.scatteredflames</li>
     <li>na.satisfactoryroyaltiers</li>
     <li>denev.saferpastedispenser</li>
-    <li>rooboid.hdhair</li>
-    <li>rooboid.glasseshairhd</li>
     <li>uuugggg.roomfood</li>
     <li>telardo.romanceontherim</li>
     <li>krkr.rocketman</li>
@@ -189,7 +181,6 @@
     <li>sgc.moreutilitypacks</li>
     <li>turnovus.submod.backpacksarenotbelts</li>
     <li>murmur.oocmovespeedboost</li>
-    <li>oracle.erin.tattoos</li>
     <li>proxyer.optionalicons4ai</li>
     <li>seohyeon.optimizationmeats</li>
     <li>scorpio.optimizationleathers</li>
@@ -223,9 +214,7 @@
     <li>haecriver.injuredcarry</li>
     <li>400.impassablehchestudeephwater</li>
     <li>syrus.hmschoice</li>
-    <li>bs.hpr</li>
     <li>ogliss.ykara.harvesteverything</li>
-    <li>neronix17.hairstyles</li>
     <li>ancientgammoner.groundtargeter</li>
     <li>mlie.foodpoisoningstackfix</li>
     <li>warlocksforge.fishtraps</li>
@@ -244,10 +233,13 @@
     <li>dubwise.dubsperformanceanalyzer.steam</li>
     <li>murmur.enemyselfpreservation</li>
     <li>erin.decorations</li>
-    <li>erin.hairredux</li>
-    <li>erin.hair2</li>
     <li>karmgahl.factioncustomizer</li>
     <li>kosaro.fahrenheitandcelsius</li>
+    <li>regrowth.botr.aspenforest</li>
+    <li>regrowth.botr.borealforestexpansion</li>
+    <li>regrowth.botr.swampexpansion</li>
+    <li>regrowth.botr.temperateforestexpansion</li>
+    <li>regrowth.botr.tundraexpansion</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>
