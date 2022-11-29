@@ -749,19 +749,7 @@
   &lt;isSelected&gt;false&lt;/isSelected&gt;
   &lt;label&gt;war bow&lt;/label&gt;
   &lt;extraRotation&gt;0&lt;/extraRotation&gt;
-&lt;/Record&gt;&lt;/Bow_War&gt;&lt;RG_MammothTusk&gt;&lt;Record&gt;
-  &lt;isSelected&gt;false&lt;/isSelected&gt;
-  &lt;label&gt;mammoth tusk&lt;/label&gt;
-  &lt;extraRotation&gt;0&lt;/extraRotation&gt;
-&lt;/Record&gt;&lt;/RG_MammothTusk&gt;&lt;RG_RawDevilsHole&gt;&lt;Record&gt;
-  &lt;isSelected&gt;false&lt;/isSelected&gt;
-  &lt;label&gt;devils hole pupfish&lt;/label&gt;
-  &lt;extraRotation&gt;0&lt;/extraRotation&gt;
-&lt;/Record&gt;&lt;/RG_RawDevilsHole&gt;&lt;RG_RawCoelacanths&gt;&lt;Record&gt;
-  &lt;isSelected&gt;false&lt;/isSelected&gt;
-  &lt;label&gt;coelacanths&lt;/label&gt;
-  &lt;extraRotation&gt;0&lt;/extraRotation&gt;
-&lt;/Record&gt;&lt;/RG_RawCoelacanths&gt;&lt;/DictRecordHandler&gt;</customRotations>
+&lt;/Record&gt;&lt;/Bow_War&gt;&lt;/DictRecordHandler&gt;</customRotations>
     <dualWieldSelection>&lt;DictRecordHandler&gt;&lt;ThrumboHorn&gt;&lt;Record&gt;
   &lt;isSelected&gt;false&lt;/isSelected&gt;
   &lt;label&gt;рог трумбо&lt;/label&gt;
@@ -1502,19 +1490,7 @@
   &lt;isSelected&gt;false&lt;/isSelected&gt;
   &lt;label&gt;war bow&lt;/label&gt;
   &lt;extraRotation&gt;0&lt;/extraRotation&gt;
-&lt;/Record&gt;&lt;/Bow_War&gt;&lt;RG_MammothTusk&gt;&lt;Record&gt;
-  &lt;isSelected&gt;false&lt;/isSelected&gt;
-  &lt;label&gt;mammoth tusk&lt;/label&gt;
-  &lt;extraRotation&gt;0&lt;/extraRotation&gt;
-&lt;/Record&gt;&lt;/RG_MammothTusk&gt;&lt;RG_RawDevilsHole&gt;&lt;Record&gt;
-  &lt;isSelected&gt;true&lt;/isSelected&gt;
-  &lt;label&gt;devils hole pupfish&lt;/label&gt;
-  &lt;extraRotation&gt;0&lt;/extraRotation&gt;
-&lt;/Record&gt;&lt;/RG_RawDevilsHole&gt;&lt;RG_RawCoelacanths&gt;&lt;Record&gt;
-  &lt;isSelected&gt;true&lt;/isSelected&gt;
-  &lt;label&gt;coelacanths&lt;/label&gt;
-  &lt;extraRotation&gt;0&lt;/extraRotation&gt;
-&lt;/Record&gt;&lt;/RG_RawCoelacanths&gt;&lt;/DictRecordHandler&gt;</dualWieldSelection>
+&lt;/Record&gt;&lt;/Bow_War&gt;&lt;/DictRecordHandler&gt;</dualWieldSelection>
     <twoHandSelection>&lt;DictRecordHandler&gt;&lt;ThrumboHorn&gt;&lt;Record&gt;
   &lt;isSelected&gt;false&lt;/isSelected&gt;
   &lt;label&gt;рог трумбо&lt;/label&gt;
@@ -2255,19 +2231,7 @@
   &lt;isSelected&gt;true&lt;/isSelected&gt;
   &lt;label&gt;war bow&lt;/label&gt;
   &lt;extraRotation&gt;0&lt;/extraRotation&gt;
-&lt;/Record&gt;&lt;/Bow_War&gt;&lt;RG_MammothTusk&gt;&lt;Record&gt;
-  &lt;isSelected&gt;false&lt;/isSelected&gt;
-  &lt;label&gt;mammoth tusk&lt;/label&gt;
-  &lt;extraRotation&gt;0&lt;/extraRotation&gt;
-&lt;/Record&gt;&lt;/RG_MammothTusk&gt;&lt;RG_RawDevilsHole&gt;&lt;Record&gt;
-  &lt;isSelected&gt;false&lt;/isSelected&gt;
-  &lt;label&gt;devils hole pupfish&lt;/label&gt;
-  &lt;extraRotation&gt;0&lt;/extraRotation&gt;
-&lt;/Record&gt;&lt;/RG_RawDevilsHole&gt;&lt;RG_RawCoelacanths&gt;&lt;Record&gt;
-  &lt;isSelected&gt;false&lt;/isSelected&gt;
-  &lt;label&gt;coelacanths&lt;/label&gt;
-  &lt;extraRotation&gt;0&lt;/extraRotation&gt;
-&lt;/Record&gt;&lt;/RG_RawCoelacanths&gt;&lt;/DictRecordHandler&gt;</twoHandSelection>
+&lt;/Record&gt;&lt;/Bow_War&gt;&lt;/DictRecordHandler&gt;</twoHandSelection>
   </Roolo.DualWield>
   <RunAndGun>
     <weaponSelecter_new>LotRD_MeleeWeapon_AxeBattle,False,False,dwarf battle axe|LotRD_Bow_DwarvenCross,False,False,dwarf crossbow|LotRD_MeleeWeapon_AxeWarGimli,True,False,dwarf double-bearded axe|LotRD_Bow_Dwarven,False,False,dwarf horn bow|LotRD_MeleeWeapon_AxeGimliWalking,False,False,dwarf walking axe|LotRD_MeleeWeapon_DwarfSpear,False,False,dwarf-spear|LotRD_MeleeWeapon_DwarfSwordBandit,False,False,dwarf-sword|LotRE_MeleeWeapon_Lhang,False,False,elf lhang|LotRE_MeleeWeapon_Saber,False,False,elf saber|LotRE_MeleeWeapon_WhiteKnives,False,False,elf white knives|Flamebow,False,False,flamebow|LotRE_Bow_Galadhrim,False,False,galadhrim-elf bow|LotRH_AnklebiterAxe,False,False,hobbit anklebiter axe|LotRH_Baskethilt,False,False,hobbit basket-hilted sword|LotRH_Pitchfork,False,False,hobbit pitchfork|LotRE_Bow_Mirkwood,False,False,mirkwood-elf bow|LotRD_MeleeWeapon_DwarfSword,False,False,noble dwarf-sword|LotRE_Bow_Rivendell,False,False,rivendell-elf bow|Weapon_GrenadeTox,False,False,tox grenades|Gun_ToxbombLauncher,True,False,toxbomb launcher|Gun_AssaultRifle,True,False,автомат|Gun_ChainShotgun,True,False,автоматический дробовик|Gun_MachinePistol,False,False,автоматический пистолет|VWE_MeleeWeapon_Halberd,False,False,алебарда|VWE_Bow_Crossbow,False,False,арбалет|VWE_Bow_Compound,False,False,блочный лук|VWE_Gun_BattleRifle,True,False,боевая винтовка|VWE_MeleeWeapon_CombatKnife,False,False,боевой нож|VWE_CombatHandgun,False,False,боевой пистолет|VWE_MeleeWeapon_BattleAxe,False,False,боевой топор|MeleeWeapon_Mace,False,False,булава|Gun_BoltActionRifle,True,False,винтовка|VWE_Gun_LeverActionRifle,False,False,винтовка рычажного действия|VWE_Gun_MarksmanRifle,True,False,высокоточная винтовка|MeleeWeapon_Gladius,False,False,гладиус|VWE_Gun_GrenadeLauncher,True,False,гранатомет|Bow_Great,False,False,длинный лук|VWE_Bow_Long,False,False,длинный лук|MeleeWeapon_LongSword,False,False,длинный меч|Gun_PumpShotgun,True,False,дробовик|MeleeWeapon_Club,False,False,дубина|VWE_MeleeWeapon_Baton,False,False,дубинка|VWE_SmokeGrenade,False,False,дымовая граната|Gun_SmokeLauncher,True,False,дымовой гранатомёт|MeleeWeapon_Ikwa,False,False,иклва|VWE_Gun_Carbine,False,False,карабин|Weapon_GrenadeMolotov,False,False,коктейли молотова|MeleeWeapon_Spear,False,False,копьё|Bow_Short,False,False,короткий лук|VWE_Gun_Flintlock,False,False,кремневое ружье|VWE_Gun_AntiMaterialRifle,True,False,крупнокалиберная винтовка|VWE_Gun_LightSMG,False,False,легкий пистолет-пулемет|VWE_Throwing_Rocks,False,False,метательные камни|VWE_Throwing_Knives,False,False,метательные ножи|Gun_Minigun,True,False,миниган|VWE_Gun_ChargeMinigun,True,False,многоствольный энергопулемет|MeleeWeapon_Warhammer,True,False,молот|VWE_MeleeWeapon_Hammer,False,False,молоток|MeleeWeapon_MonoSword,False,False,мономеч|VWE_Gun_Musket,False,False,мушкет|MeleeWeapon_Knife,False,False,нож|VWE_SawedOffShotgun,False,False,обрез|VWE_Gun_Flamethrower,True,False,огнемет|VWE_Gun_FireExtinguisher,True,False,огнетушитель|Weapon_GrenadeFrag,False,False,осколочные гранаты|Pila,True,False,пилум|Gun_Autopistol,False,False,пистолет|VWE_Gun_SMG,False,False,пистолет-пулемет|Gun_HeavySMG,True,False,пистолет-пулемёт|MeleeWeapon_PlasmaSword,False,False,плазменный меч|MeleeWeapon_PlasmaSwordBladelink,False,False,плазменный синхромеч|VWE_Tool_Whip,False,False,плеть|VWE_Gun_SemiAutomaticRifle,False,False,полуавтоматическое ружье|VWE_Gun_ChargeRocketLauncher,True,False,продвинутая ракетница|MeleeWeapon_PsyfocusStaff,False,False,пси-посох|VWE_Gun_RocketLauncher,True,False,ракетница|Gun_TripleRocket,True,False,ракетница «Тройка»|Gun_DoomsdayRocket,True,False,ракетница судного дня|Gun_IncendiaryLauncher,True,False,реактивный огнемёт|Gun_Revolver,False,False,револьвер|Bow_Recurve,False,False,рекурсивный лук|ThrumboHorn,False,False,рог трумбо|VWE_Gun_HandCannon,False,False,ручная пушка|Gun_LMG,True,False,ручной пулемёт|VWE_MeleeWeapon_Shovel,False,False,саперная лопатка|VWE_FlashGrenade,False,False,свето-шумовая граната|MeleeWeapon_MonoSwordBladelink,False,False,синхромономеч|MeleeWeapon_ZeusHammerBladelink,False,False,синхроэлектромолот|ElephantTusk,False,False,слоновий бивень|Gun_SniperRifle,True,False,снайперская винтовка|VWE_Gun_ChargeSniperRifle,True,False,снайперская энерговинтовка|MeleeWeapon_Axe,False,False,топор|VWE_MeleeWeapon_Axe,False,False,топор|VWE_Gun_HMG,True,False,тяжелый пулемет|VWE_Gun_ServiceRifle,True,False,штурмовая винтовка|MeleeWeapon_BreachAxe,False,False,штурмовой топор|MeleeWeapon_Zeushammer,False,False,электромолот|Gun_EmpLauncher,True,False,ЭМИ-гранатомёт|Weapon_GrenadeEMP,False,False,ЭМИ-гранаты|VWE_Gun_ChargeSMG,False,False,энерго пистолет-пулемет|Gun_ChargeRifle,True,False,энерговинтовка|VWE_Gun_ChargeShotgun,True,False,энергодробовик|Gun_ChargeLance,True,False,энергокопьё|VWE_Gun_ChargePistol,False,False,энергопистолет|VWE_Gun_ChargeLMG,True,False,энергопулемет</weaponSelecter_new>

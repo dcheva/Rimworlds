@@ -112,11 +112,6 @@
 				<label>Технологии</label>
 			</li>
 			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
-				<defName>CM_Semi_Random_Research_MainButton_Next_Research</defName>
-				<iconPath>UI/Buttons/MainButtons/IconResearch</iconPath>
-				<label>Research</label>
-			</li>
-			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
 				<defName>ResearchReinvented</defName>
 				<iconPath>RRIcon</iconPath>
 				<label>Project</label>

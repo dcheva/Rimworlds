@@ -7,64 +7,30 @@
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
     <li>ludeon.rimworld.biotech</li>
-    <li>vanillaexpanded.vanillatraitsexpanded</li>
-    <li>dani.moretraits</li>
-    <li>fluffy.colonymanager</li>
-    <li>owlchemist.cherrypicker</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>lwm.deepstorage</li>
     <li>oskarpotocki.vanillaexpanded.ideologypatches</li>
     <li>oskarpotocki.vanillaexpanded.royaltypatches</li>
     <li>syrchalis.processor.framework</li>
-    <li>dankpyon.medieval.overhaul</li>
     <li>frozensnowfox.complexjobs</li>
-    <li>frozensnowfox.nodefaultshelfstorage</li>
-    <li>fuu.usefulterror</li>
-    <li>kittahkhan.justafleshwound</li>
     <li>dontstopthemusic.kv.rw</li>
     <li>forcedojob.kv.rw</li>
-    <li>kyd.joykind.condensed</li>
-    <li>derekbickley.ltocolonygroupsfinal</li>
-    <li>limetreesnake.systems</li>
-    <li>limetreesnake.furnishing</li>
-    <li>khitrir.gunlinksaffectmortars</li>
-    <li>khitrir.qualitysensitivepsychicfoilhelmets</li>
-    <li>syrchalis.bulletcasings</li>
-    <li>syrchalis.harvestyieldpatch</li>
     <li>mlie.xndmemorableauroras</li>
     <li>mlie.xndtinytweaks</li>
-    <li>spoonshortage.adogsaidanimalprosthetics</li>
-    <li>brrainz.achtung</li>
     <li>unlimitedhugs.hugslib</li>
     <li>unlimitedhugs.allowtool</li>
     <li>roolo.almostthere</li>
     <li>vanillaexpanded.vcef</li>
     <li>vanillaexpanded.vmemese</li>
-    <li>sarg.alphamemes</li>
-    <li>tikubonn.anestheticgunmod</li>
-    <li>statistno1.arcadiusgift</li>
-    <li>com.bymarcin.architecticons</li>
     <li>aoba.architecture</li>
-    <li>razor2.3.anotherrimworldmod.autocutblight</li>
-    <li>meltup.beautifuloutdoors</li>
-    <li>bedrestforfoodpoisoning.1trickponyta</li>
-    <li>lbmaian.begonemessage</li>
-    <li>nephlite.advexplosions</li>
     <li>kikohi.bettergroundpenetratingscanner</li>
     <li>drummeur.betterlinkablecolors</li>
     <li>roolo.dualwield</li>
-    <li>mlie.betterprojectileorigin</li>
-    <li>aelanna.betterpyromania</li>
-    <li>thegoofyone.betterspots</li>
     <li>vendan.legodude17.bsd.update</li>
-    <li>owlchemist.bettervanillamasking</li>
     <li>m00nl1ght.geologicallandforms</li>
     <li>m00nl1ght.geologicallandforms.biometransitions</li>
-    <li>denev.bizarrefoodsoncaravan</li>
-    <li>goudaquiche.bloodandstains</li>
     <li>chippedchap.blueprinttotalstooltip</li>
     <li>fluffy.blueprints</li>
-    <li>mosi.bridgecolor</li>
     <li>uuugggg.buildfrominventory</li>
     <li>buildable.terrain</li>
     <li>brrainz.cameraplus</li>
@@ -74,13 +40,10 @@
     <li>owlchemist.cleanpathfinding</li>
     <li>hatti.cleaningarea</li>
     <li>kikohi.coloreddeepresources</li>
-    <li>mlie.combatreadinesscheck</li>
-    <li>petetimessix.compacthediffs</li>
     <li>miyamiya.compressedraid.latest</li>
     <li>mlie.convertthenrecruit</li>
     <li>kathanon.floatsubmenu</li>
     <li>kathanon.craftwithcolor</li>
-    <li>mawy.craftable</li>
     <li>ogam.customplayericon</li>
     <li>tammybee.cutplantsbeforebuilding</li>
     <li>georodin.deepdrillindicator</li>
@@ -88,18 +51,13 @@
     <li>v1024.ebframework</li>
     <li>erdelf.humanoidalienraces</li>
     <li>jecrell.jecstools</li>
-    <li>regrowth.botr.core</li>
-    <li>regrowth.botr.extinctanimalspack</li>
     <li>sineswiper.xenobionicpatcher</li>
     <li>odeum.wmbp</li>
-    <li>owlchemist.windows</li>
     <li>codeoptimist.jobsofopportunity</li>
     <li>tammybee.whereismyweapon</li>
     <li>revolus.whatsmissing</li>
     <li>deivisis.weightprice</li>
     <li>mlie.wehadatrader</li>
-    <li>zzz.wallvitalsmonitor</li>
-    <li>mlie.variousspaceshipchunk</li>
     <li>vanillaexpanded.vwe</li>
     <li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
     <li>petetimessix.researchreinvented</li>
@@ -111,8 +69,6 @@
     <li>vanillaexpanded.vcefaddon</li>
     <li>vanillaexpanded.vee</li>
     <li>vanillaexpanded.basegeneration</li>
-    <li>vanillaexpanded.vaeaccessories</li>
-    <li>shira.vaeapatch</li>
     <li>uuugggg.usebedrolls</li>
     <li>madarauchiha.undraftaftertucking</li>
     <li>owlchemist.undergroundpowerconduits</li>
@@ -125,16 +81,13 @@
     <li>gt.sam.tilledsoil</li>
     <li>uuugggg.thickarmor</li>
     <li>uuugggg.thepriceisright</li>
-    <li>balistafreak.stopdropandroll</li>
     <li>scherub.stonecuttingextended</li>
     <li>zhrocks11.stackablechunks_copy</li>
-    <li>jaxe.bubbles</li>
     <li>weilbyte.snapout</li>
     <li>dhultgren.smarterconstruction</li>
     <li>denev.smartturretcovering</li>
     <li>sarg.smartspeed</li>
     <li>owlchemist.smartfarming</li>
-    <li>bustedbunny.slaverebellionsimproved</li>
     <li>owlchemist.wallutilities</li>
     <li>owlchemist.fridgeutilities</li>
     <li>owlchemist.ceilingutilities</li>
@@ -144,22 +97,16 @@
     <li>shavius.vepatches</li>
     <li>uuugggg.sharetheload</li>
     <li>captainmuscles.semirandomresearch.unofficial</li>
-    <li>avilmask.selfdyeing</li>
     <li>tammybee.selectablesculpturegraphic</li>
     <li>roolo.searchanddestroy</li>
-    <li>owlchemist.scatteredflames</li>
     <li>na.satisfactoryroyaltiers</li>
-    <li>denev.saferpastedispenser</li>
     <li>uuugggg.roomfood</li>
-    <li>telardo.romanceontherim</li>
     <li>krkr.rocketman</li>
     <li>arandomkiwi.rimsaves</li>
     <li>jaxe.rimhud</li>
     <li>owlchemist.researchpowl</li>
     <li>uuugggg.replacestuff</li>
-    <li>yipnz.removeweatheroverlay</li>
     <li>brat.removerealreligions</li>
-    <li>mlie.relevantstatsindescription</li>
     <li>xrushha.reinstallablealtars</li>
     <li>twistedpacifist.reasonablecomponents</li>
     <li>lucifer.realisticrooms</li>
@@ -167,7 +114,6 @@
     <li>sgc.quests</li>
     <li>hatti.qualitybuilder</li>
     <li>legodude17.qualcolor</li>
-    <li>mlie.prostheticnomissingbodyparts</li>
     <li>neptimus7.progressrenderer</li>
     <li>bustedbunny.prisonersarenotswines</li>
     <li>berryragepyre.prisonerrecreation</li>
@@ -175,24 +121,15 @@
     <li>owlchemist.perspectivetrees</li>
     <li>owlchemist.perspectivedoors</li>
     <li>owlchemist.perspectivebuildings</li>
-    <li>owlchemist.permeableterrain</li>
     <li>fed1splay.pawntargetfix</li>
-    <li>saucypigeon.pawnbadge</li>
-    <li>sgc.moreutilitypacks</li>
     <li>turnovus.submod.backpacksarenotbelts</li>
     <li>murmur.oocmovespeedboost</li>
-    <li>proxyer.optionalicons4ai</li>
     <li>seohyeon.optimizationmeats</li>
     <li>scorpio.optimizationleathers</li>
     <li>ogre.ogrestack</li>
     <li>ltoddy.notaweapon</li>
     <li>dvs.norandomrelations</li>
     <li>sabership.noprecipoverfogofwar</li>
-    <li>doug.nojobauthors</li>
-    <li>bar0th.nodebris</li>
-    <li>oblitus.mylittleplanet</li>
-    <li>4loris4.morelinkables</li>
-    <li>hol.words</li>
     <li>wexman.mines</li>
     <li>mario1.3patch.metaldontburn</li>
     <li>m00nl1ght.mappreview</li>
@@ -203,43 +140,18 @@
     <li>lordoftherims.hobbits</li>
     <li>lordoftherims.elves</li>
     <li>lordoftherims.dwarves</li>
-    <li>smashphil.loadinginprogress</li>
-    <li>brrainz.lineofsightfix</li>
     <li>krafs.levelup</li>
-    <li>zal.keptb</li>
-    <li>mlie.justputitoverthere</li>
     <li>brrainz.justignoremepassing</li>
-    <li>iforgotmysocks.justcopy</li>
-    <li>nestofmoon.jobslimittweak</li>
     <li>haecriver.injuredcarry</li>
     <li>400.impassablehchestudeephwater</li>
-    <li>syrus.hmschoice</li>
-    <li>ogliss.ykara.harvesteverything</li>
-    <li>ancientgammoner.groundtargeter</li>
-    <li>mlie.foodpoisoningstackfix</li>
     <li>warlocksforge.fishtraps</li>
-    <li>inglix.fasterbiosculptingpod</li>
-    <li>merthsoft.designatorshapes</li>
-    <li>flangopink.disableautoselecttravelsupplies</li>
     <li>captainmuscles.prioritizeresearch</li>
     <li>tikubonn.dontblockdoor</li>
-    <li>dracoix.doormat.r12a</li>
-    <li>telardo.dragselect</li>
-    <li>mlie.drugpolicyfix</li>
     <li>dubwise.dubsbreakmod</li>
     <li>dubwise.dubsmintmenus</li>
     <li>dubwise.dubsmintminimap</li>
-    <li>dubwise.dubspaintshop</li>
     <li>dubwise.dubsperformanceanalyzer.steam</li>
-    <li>murmur.enemyselfpreservation</li>
-    <li>erin.decorations</li>
-    <li>karmgahl.factioncustomizer</li>
-    <li>kosaro.fahrenheitandcelsius</li>
-    <li>regrowth.botr.aspenforest</li>
-    <li>regrowth.botr.borealforestexpansion</li>
-    <li>regrowth.botr.swampexpansion</li>
-    <li>regrowth.botr.temperateforestexpansion</li>
-    <li>regrowth.botr.tundraexpansion</li>
+    <li>carnysenpai.enableoversizedweapons</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>
