@@ -79,10 +79,6 @@
 				<label>Работа</label>
 			</li>
 			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
-				<defName>Fluffy_Manager</defName>
-				<label>Менеджер</label>
-			</li>
-			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
 				<defName>Schedule</defName>
 				<iconPath>UI/Buttons/MainButtons/IconSchedule</iconPath>
 				<label>Режим дня</label>
@@ -165,12 +161,6 @@
 				<defName>MintGearMenu</defName>
 				<iconPath>Mint/UI/Parka</iconPath>
 				<label>Mint gear menu</label>
-				<minimized>True</minimized>
-			</li>
-			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
-				<defName>PaintShop</defName>
-				<iconPath>JOP/PaintBrush</iconPath>
-				<label>Dubs paint shop</label>
 				<minimized>True</minimized>
 			</li>
 			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
