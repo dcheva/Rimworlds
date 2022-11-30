@@ -12,6 +12,7 @@
     <li>oskarpotocki.vanillaexpanded.ideologypatches</li>
     <li>oskarpotocki.vanillaexpanded.royaltypatches</li>
     <li>syrchalis.processor.framework</li>
+    <li>fluffy.colonymanager</li>
     <li>frozensnowfox.complexjobs</li>
     <li>dontstopthemusic.kv.rw</li>
     <li>forcedojob.kv.rw</li>
@@ -51,6 +52,8 @@
     <li>v1024.ebframework</li>
     <li>erdelf.humanoidalienraces</li>
     <li>jecrell.jecstools</li>
+    <li>regrowth.botr.core</li>
+    <li>regrowth.botr.extinctanimalspack</li>
     <li>sineswiper.xenobionicpatcher</li>
     <li>odeum.wmbp</li>
     <li>codeoptimist.jobsofopportunity</li>
@@ -94,6 +97,7 @@
     <li>petetimessix.simplesidearms</li>
     <li>lanilor.simplerecycling</li>
     <li>zilla.fertilityinfo</li>
+    <li>vanillaexpanded.vaeaccessories</li>
     <li>shavius.vepatches</li>
     <li>uuugggg.sharetheload</li>
     <li>captainmuscles.semirandomresearch.unofficial</li>
@@ -152,6 +156,23 @@
     <li>dubwise.dubsmintminimap</li>
     <li>dubwise.dubsperformanceanalyzer.steam</li>
     <li>carnysenpai.enableoversizedweapons</li>
+    <li>frozensnowfox.nodefaultshelfstorage</li>
+    <li>ih.clean.textures</li>
+    <li>ancientgammoner.groundtargeter</li>
+    <li>iforgotmysocks.justcopy</li>
+    <li>mlie.justputitoverthere</li>
+    <li>regrowth.botr.aspenforest</li>
+    <li>regrowth.botr.borealforestexpansion</li>
+    <li>regrowth.botr.swampexpansion</li>
+    <li>regrowth.botr.temperateforestexpansion</li>
+    <li>regrowth.botr.tundraexpansion</li>
+    <li>bustedbunny.slaverebellionsimproved</li>
+    <li>shira.vaeapatch</li>
+    <li>vanillaexpanded.vfearchitect</li>
+    <li>vanillaexpanded.vfeart</li>
+    <li>vanillaexpanded.vfepropsanddecor</li>
+    <li>vanillaexpanded.vanillatraitsexpanded</li>
+    <li>mlie.variousspaceshipchunk</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>

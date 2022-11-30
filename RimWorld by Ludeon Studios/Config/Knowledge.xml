@@ -31,7 +31,7 @@
     </li>
     <li>
       <key>GroupGotoHereDragging</key>
-      <value>0</value>
+      <value>0.4</value>
     </li>
     <li>
       <key>BuildOrbitalTradeBeacon</key>
@@ -195,7 +195,7 @@
     </li>
     <li>
       <key>TileInspector</key>
-      <value>0.6899998</value>
+      <value>1</value>
     </li>
     <li>
       <key>Outfits</key>
@@ -239,7 +239,7 @@
     </li>
     <li>
       <key>TradingRequiresPermit</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SteamDeckControlsMainMenu</key>
@@ -303,7 +303,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsBasic</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SidearmsDropping</key>
@@ -327,7 +327,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedDrafted</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsLosingWeapons</key>

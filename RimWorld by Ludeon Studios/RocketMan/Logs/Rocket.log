@@ -284,6 +284,10 @@ PROTON:[NOTANERROR] patching Alert_UnhappyNudity:Void .ctor() finished!
 
 PROTON:[NOTANERROR] patching Alert_PermitAvailable:Void .ctor() finished!
 
+PROTON:[NOTANERROR] patching Alert_NoManager:Void .ctor() finished!
+
+PROTON:[NOTANERROR] patching Alert_NoTable:Void .ctor() finished!
+
 PROTON:[NOTANERROR] patching Alert_AnimalNeedsRescuing:Void .ctor() finished!
 
 PROTON:[NOTANERROR] patching Alert_AnimalNeedsTend:Void .ctor() finished!
@@ -595,11 +599,3 @@ Bucket[0].Count = 1
 Created ticker bucket: BaseInterval=8000 BucketInterval=8000
 
 Bucket[0].Count = 1
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Alerts:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_DilationSettings:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Grapher:YieldTab
-
-ROCKETMAN: Found function with attribute YieldTabContent, TabContent_WorldPawns:YieldTab

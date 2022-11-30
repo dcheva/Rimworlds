@@ -54,6 +54,17 @@
 				<li>LotRE_DeerMallorn</li>
 				<li>LotRD_DragonFireDrakeRace</li>
 				<li>LotRD_GiantBoarRace</li>
+				<li>RG_WoollyMammoth</li>
+				<li>RG_WoollyRhinoceros</li>
+				<li>RG_WoollyStegosaurus</li>
+				<li>RG_SabertoothSquirrel</li>
+				<li>RG_Dodo</li>
+				<li>RG_TerrorBird</li>
+				<li>RG_ArcticDrak</li>
+				<li>RG_Velociraptor</li>
+				<li>RG_Thrinaxodon</li>
+				<li>RG_Synthetion</li>
+				<li>RG_Megalenhydris</li>
 			</keys>
 			<values>
 				<li>Leather_Chitin</li>
@@ -105,6 +116,17 @@
 				<li>Leather_Heavy</li>
 				<li>Leather_Heavy</li>
 				<li>Leather_Heavy</li>
+				<li>Leather_Heavy</li>
+				<li>Leather_Heavy</li>
+				<li>Leather_Heavy</li>
+				<li>Leather_Heavy</li>
+				<li>Leather_Heavy</li>
+				<li>Leather_Plain</li>
+				<li>Leather_Light</li>
+				<li>Leather_Heavy</li>
+				<li>Leather_Heavy</li>
+				<li>Leather_Plain</li>
+				<li>Leather_Plain</li>
 				<li>Leather_Heavy</li>
 				<li>Leather_Heavy</li>
 			</values>
