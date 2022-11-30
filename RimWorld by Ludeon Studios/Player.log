@@ -6741,7 +6741,3143 @@ character editor instance created
 allowing apparel to be colorable...
 checking editor settings...
 CharacterEditor v1.4.1030 ...done
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Setting up 3 worker threads for Enlighten.
-  Thread -> id: 9e4 -> priority: 1 
-  Thread -> id: 1f64 -> priority: 1 
-  Thread -> id: 600 -> priority: 1 
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+ROCKETMAN: RocketMan settings are stored in <color=red>C:\Users\Dmytro\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\RocketMan\Mod_2479389928_RocketMod.xml</color>
+Could not load reference to Verse.ThingDef named AM_UnshackledDryad 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hampshire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Gloucestershire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_NorthernBoar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ravelder 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Angus 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Daer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_DireBoar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Direwolf 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hyena 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Rox 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_LargeCobraForest 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_LargeCobraCave 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_GiantConstrictorForest 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_GiantConstrictorCave 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_LindwurmForest 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_LindwurmCave 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named TG_ExecuteDownedRaiders 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named AM_AnimaBurialLink 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named AM_InstallRelic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named AM_TrantrumJob 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named AM_DeliverCorpseToCell 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named AM_DeliverStuffToCell 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named AM_LoadCorpseToThing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named AM_DeliverThingsToCell 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named AM_VisitCorpseContainer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named BlightCutDesignated 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named PyromaniacJob_WatchFlame 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named RomanceOnTheRim_Breakup 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named RomanceOnTheRim_RomanceAttempt 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named RomanceOnTheRim_MarriageProposal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named RomanceOnTheRim_GoToLoversPos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named RomanceOnTheRim_InitiateKiss 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named RomanceOnTheRim_ReceiveKiss 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named RomanceOnTheRim_PillowTalk 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named RomanceOnTheRim_PlayInstrument 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named RomanceOnTheRim_EnjoyPerformance 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named RomanceOnTheRim_SkygazeTogether 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named VTE_StealItems 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named ManagingAtManagingStation 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named PaintThings 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named PaintCells 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named CleanRoom 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named FireFight 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named DankPyon_Play_CupAndDice 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named SelfPreservation 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ROCKETMAN: Defs loaded!
+ROCKETMAN: Patched KeyBinder!
+PROTON: Analyzer patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PROTON: Analyzer patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PROTON: Patching finished
+SOYUZ: Patching finished
+ROCKETMAN: XMLParser started
+ROCKETRULES: IgnoreMeRule for OskarPotocki.VFE.Mechanoid
+ROCKETRULES: IgnoreMeRule for Alaestor.MiscRobots.PlusPlus
+ROCKETRULES: IgnoreMeRule for Haplo.Miscellaneous.Robots
+ROCKETRULES: IgnoreMeRule for ChJees.Androids
+ROCKETRULES: IgnoreMeRule for automatic.autocleaner
+ROCKETRULES: IgnoreMeRule for neronix17.mechadroids
+ROCKETRULES: IgnoreMeRule for neronix17.outerrim.galaxies
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.drones
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.legacy
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory
+[0.001253 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
+ROCKETRULES: IgnoreMe add def by name: LotRD_DragonFireDrakeRace
+ROCKETMAN: Patching finished
+[WhatsMissing] Patched Dialog_BillConfig
+[HugsLib] initializing AlmostThere, Roolo.DualWield, BlueprintTotalsTooltip, kathanon.CraftWithColor, DeathRattle, V1024-EBF, XenobionicPatcher, StackableChunks, SearchAndDestroy
+[HugsLib][warn] Missing enum setting labels for enum Verse.CameraZoomRange 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib][warn] Missing enum setting labels for enum CraftWithColor.MySettings+ColorChangeMode 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib][warn] Missing enum setting labels for enum CraftWithColor.MySettings+ColorChangeModeNoIdeo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[XenobionicPatcher] Prep work / pre-caching (took 0.0120s; 221 defs)
+[XenobionicPatcher] Injected animal surgical recipes into other animals (took 0.0320s; 1,350 combinations)
+[XenobionicPatcher] Injected humanlike surgical recipes into other humanlikes (took 0.0070s; 590 combinations)
+[XenobionicPatcher] Injected artificial part surgical recipes into mechs (took 0.0070s; 1,035 combinations)
+[XenobionicPatcher] Injected animal surgical recipes into humanlikes (took 0.0020s; 90 combinations)
+[XenobionicPatcher] Injected humanlike surgical recipes into animals (took 0.0170s; 8,850 combinations)
+[XenobionicPatcher] Injected fleshlike surgical recipes into fleshlikes (took 0.0240s; 9,440 combinations)
+[XenobionicPatcher] Cleaning up hand/foot surgical recipes (took 0.0000s)
+[XenobionicPatcher] Merged duplicate surgical recipes, hyperlinking, and sorting (took 0.2430s)
+[StackableChunks] Chunk Stacks set too: 15
+[StackableChunks] Slag Stacks set too: 15
+[OgreStack]: Modify Stack Sizes Complete
+Unloading 5 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 28240.
+Total: 412.170300 ms (FindLiveObjects: 2.651300 ms CreateObjectMapping: 2.323900 ms MarkObjects: 406.447500 ms  DeleteObjects: 0.747200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.924600 ms
+QualityBuilder added property to '196' things
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 28265.
+Total: 350.248400 ms (FindLiveObjects: 1.383500 ms CreateObjectMapping: 1.877300 ms MarkObjects: 346.938400 ms  DeleteObjects: 0.048700 ms)
+
+Loading game from file Поселение1 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - LWM.DeepStorage
+  - OskarPotocki.VanillaExpanded.IdeologyPatches
+  - OskarPotocki.VanillaExpanded.RoyaltyPatches
+  - syrchalis.processor.framework
+  - FrozenSnowFox.ComplexJobs
+  - dontstopthemusic.kv.rw
+  - forcedojob.kv.rw
+  - Mlie.XNDMemorableAuroras
+  - Mlie.XNDTinyTweaks
+  - UnlimitedHugs.HugsLib
+  - UnlimitedHugs.AllowTool
+  - roolo.AlmostThere
+  - VanillaExpanded.VCEF
+  - VanillaExpanded.VMemesE
+  - Aoba.Architecture
+  - kikohi.BetterGroundPenetratingScanner
+  - drummeur.BetterLinkableColors
+  - Roolo.DualWield
+  - vendan.legodude17.bsd.update
+  - m00nl1ght.GeologicalLandforms
+  - m00nl1ght.GeologicalLandforms.BiomeTransitions
+  - ChippedChap.BlueprintTotalsTooltip
+  - Fluffy.Blueprints
+  - Uuugggg.BuildFromInventory
+  - Buildable.Terrain
+  - brrainz.cameraplus
+  - Kopp.CaravanItemSelectionEnhanced
+  - jovianpug.caravanlageliminator
+  - void.charactereditor
+  - Owlchemist.CleanPathfinding
+  - hatti.cleaningarea
+  - kikohi.ColoredDeepResources
+  - miyamiya.compressedraid.latest
+  - Mlie.ConvertThenRecruit
+  - kathanon.FloatSubMenu
+  - kathanon.CraftWithColor
+  - Ogam.CustomPlayerIcon
+  - tammybee.cutplantsbeforebuilding
+  - georodin.deepdrillindicator
+  - trojan.deathrattle
+  - V1024.EBFramework
+  - erdelf.HumanoidAlienRaces
+  - jecrell.jecstools
+  - SineSwiper.XenobionicPatcher
+  - Odeum.WMBP
+  - CodeOptimist.JobsOfOpportunity
+  - tammybee.whereismyweapon
+  - Revolus.WhatsMissing
+  - deivisis.weightprice
+  - Mlie.WeHadATrader
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - PeteTimesSix.ResearchReinvented
+  - vanillaexpanded.skills
+  - vanillaracesexpanded.saurid
+  - vanillaexpanded.outposts
+  - VanillaExpanded.Ideo.RelicsAndArtifacts
+  - VanillaExpanded.Ideo.IconsandSymbols
+  - VanillaExpanded.VCEFAddon
+  - VanillaExpanded.VEE
+  - VanillaExpanded.BaseGeneration
+  - Uuugggg.UseBedrolls
+  - madarauchiha.undraftaftertucking
+  - Owlchemist.UndergroundPowerConduits
+  - GonDragon.UINotIncluded
+  - marvinkosh.ughyougotme
+  - CarnySenpai.TraitRarityColors
+  - Superniquito.TraitIcons
+  - Owlchemist.ToggleableShields
+  - Owlchemist.ToggleableReadouts
+  - GT.Sam.TilledSoil
+  - Uuugggg.ThickArmor
+  - Uuugggg.ThePriceIsRight
+  - Scherub.StonecuttingExtended
+  - zhrocks11.stackablechunks_copy
+  - weilbyte.snapout
+  - dhultgren.smarterconstruction
+  - denev.SmartTurretCovering
+  - sarg.smartspeed
+  - Owlchemist.SmartFarming
+  - Owlchemist.WallUtilities
+  - Owlchemist.FridgeUtilities
+  - Owlchemist.CeilingUtilities
+  - PeteTimesSix.SimpleSidearms
+  - lanilor.simplerecycling
+  - zilla.fertilityinfo
+  - shavius.VEpatches
+  - Uuugggg.ShareTheLoad
+  - CaptainMuscles.SemiRandomResearch.unofficial
+  - tammybee.selectablesculpturegraphic
+  - roolo.SearchAndDestroy
+  - NA.SatisfactoryRoyalTiers
+  - Uuugggg.RoomFood
+  - Krkr.RocketMan
+  - aRandomKiwi.RimSaves
+  - Jaxe.RimHUD
+  - Owlchemist.ResearchPowl
+  - Uuugggg.ReplaceStuff
+  - brat.removerealreligions
+  - xrushha.ReinstallableAltars
+  - twistedpacifist.ReasonableComponents
+  - Lucifer.RealisticRooms
+  - tammybee.raiderinfo
+  - SGC.quests
+  - hatti.qualitybuilder
+  - legodude17.qualcolor
+  - neptimus7.progressrenderer
+  - bustedbunny.PrisonersAreNotSwines
+  - BerryRagepyre.PrisonerRecreation
+  - Mehni.PickUpAndHaul
+  - Owlchemist.PerspectiveTrees
+  - Owlchemist.PerspectiveDoors
+  - Owlchemist.PerspectiveBuildings
+  - fed1sPlay.PawnTargetFix
+  - turnovus.submod.backpacksarenotbelts
+  - Murmur.OOCMoveSpeedBoost
+  - seohyeon.OptimizationMeats
+  - Scorpio.OptimizationLeathers
+  - Ogre.OgreStack
+  - Ltoddy.NotAWeapon
+  - dvs.NoRandomRelations
+  - sabership.NoPrecipOverFogOfWar
+  - WexMan.Mines
+  - mario1.3patch.metaldontburn
+  - m00nl1ght.MapPreview
+  - Saebbi181.LordHofHtheHRimsHCEHPatch (incompatible version)
+  - erdelfHandHJecrell593.LordHofHtheHRimsHUHUnlimited (incompatible version)
+  - erdelfHandHJecrell382.LordHofHtheHRimsHUHTheHThirdHAge (incompatible version)
+  - jecrell.doorsexpanded
+  - LordOfTheRims.Hobbits
+  - LordOfTheRims.Elves
+  - LordOfTheRims.Dwarves
+  - Krafs.LevelUp
+  - brrainz.justignoremepassing
+  - Haecriver.InjuredCarry
+  - 400.ImpassableHChestUdeepHWater
+  - warlocksforge.fishtraps
+  - CaptainMuscles.PrioritizeResearch
+  - tikubonn.DontBlockDoor
+  - Dubwise.DubsBreakMod
+  - Dubwise.DubsMintMenus
+  - dubwise.dubsmintminimap
+  - Dubwise.DubsPerformanceAnalyzer.steam
+  - CarnySenpai.EnableOversizedWeapons
+Exception parsing latest version: System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Int32.Parse (System.String s, System.Globalization.NumberStyles style, System.IFormatProvider provider) [0x0000e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Convert.ToInt32 (System.String value, System.IFormatProvider provider) [0x00005] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at RimWorld.LatestVersionGetter+<Start>d__4.MoveNext () [0x000bf] in <da600864a9db4f8087fd0b640e5c28b6>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_Bear 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named ManagingSoftware 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named AdvancedManagingSoftware 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named PowerManagement 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_RusticFurniture 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_RoyalRusticFurniture 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_RusticStorage 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_CarrierBirds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_LeatherTanning 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_TextileSpinning 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_DesertLooming 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Silk 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_CandleMaking 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Presser 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Jewelry 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Engineering 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Mining 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Windmill 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Crossbow 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_HeavyCrossbow 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Ballista 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Trebuchet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Alchemy 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Steel 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Tar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Gunpowder 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_BrewingCider 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_BrewingAle 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_BrewingWine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Tailoring 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_ProtectiveClothing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_ChainArmor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_HuntingBow 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_WarBow 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_BasicSpears 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_MilitarySpears 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_NobleSpears 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_BasicPolearms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_MilitaryPolearms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_NoblePolearms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_BasicMaces 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_MilitaryMaces 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_NobleMaces 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_BasicHammers 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_MilitaryHammers 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_NobleHammers 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_BasicAxes 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_MilitaryAxes 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_NobleAxes 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_BasicCleavers 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_MilitaryCleavers 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_NobleCleavers 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_BasicSwords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_MilitarySwords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_FruitTreeSowing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_BasicAgriculture 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_IntermediateAgriculture 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_AdvancedAgriculture 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_TreeGriffonBerry 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_BasicCooking 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_IntermediateCooking 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_AdvancedCooking 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_FoodPreservation 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Smoker 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Grill 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_StewPot 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named DankPyon_Oven 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named SimpleAnimalProsthetics 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named AnimalBionics 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named AnimalHeal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_Plasteel 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_Hyperweave 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_Synthread 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_GlitterworldMedicine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_Neutroamine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_Luciferium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_MechSerumHealer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_MechSerumResurrector 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_Antigrain 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_PsychicFoilHelmet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_BroadshieldCore 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_Royaltyweapons 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_RoyaltyPersonaweapons 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Mawy_PsyFocus 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named Glassworks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named AdvancedGlassworks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named ImprovedCabinet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named MechanicsCabinet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named ScientistsCabinet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named SurgicalLamp 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named SurgicalInstruments 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named AdvancedMultiAnalyzer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ResearchProjectDef named ED_SimpleDecorations 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.ResearchProjectDef and System.Single. label=progress 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_Dog 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_Wolf 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_Panthera 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_Camel 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_Bluefur 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_Bear 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_GuineaPig 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_Pig 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_Chinchilla 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_Fox 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_Elephant 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_Rhinoceros 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leather_Thrumbo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named FM_BasicManagerStation 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named FM_ManagerStation 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named FM_AIManager 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ale 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_WortAle 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Cider 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Wine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MustWine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_JuiceApple 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_JuiceAppleUnfermented 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MincedApple 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Bust 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Pedestal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ArmorStatue 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ancient_Column 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RNGLarge2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RNG2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ArchonSculpture2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ArchonObeliskSculpture2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Obelisk2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Brazier2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Brazier1x1c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticStool 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticChair 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticEndTable 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticTable1x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ReinforcedRusticTable1x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticTable2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ReinforcedRusticTable2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticRoundTable2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Table2x4c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ReinforcedTable2x4c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Candles 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_CandleStand 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticLamp 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticChest 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MetalStrongbox 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RoyalChest 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticDresser 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticCloset 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticBookshelf 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BedWicker 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BedWickerDouble 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_StrawBed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_StrawBedDouble 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BedFur 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BedFurDouble 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticHearth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RoyalCloset 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RoyalBookshelf 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RoyalArmchair 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RoyalTable2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RoyalTable2x4c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RoyalEndTable 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RoyalDresser 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RoyalTudorBed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_DummyLeather 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Smoker 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Presser 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticFermentingBarrel 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Dankpyon_CupAndDice 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Building_ChaliceSilver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Building_ChaliceGold 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Building_BowlSilver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Building_BowlGold 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Building_SkullGold 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Building_SkullEmerald 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Building_SkullSapphire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Building_SkullRuby 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Building_AncientCodex 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ToolRack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_QuenchingBucket 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Grinder 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Bellows 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticCookingTools 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BirdPost 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ScribeTable 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_StonecuttingSpot 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ButchersBlock 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticCookingTable 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_StoneOven 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Grill 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_StewPot 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Millstone 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Workbench 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_JewelryBench 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_CleaningBench 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_AdvancedResearchBench 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Post 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_SpinningWheel 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_TailorsBench 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Furnace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Anvil 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugPatched1x1c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugPatched2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugPatched3x3c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugHyena2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugWolfTimber2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugWolfArctic2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugCougar2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugPanther2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugGrizzlyBear3x3c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugPolarBear3x3c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugRox3x3c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugThrumbo3x3c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugDaer4x4c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RugHuman1x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ruined_AncientColumn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Turret_Trebuchet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_WoodLogs1x1c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_WoodLogs1x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_DarkWoodLogs1x1c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_DarkWoodLogs1x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Bricks1x1c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Bricks1x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Bricks2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RusticBarrelClosed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BarrelWoodLog 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BarrelIronOre 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BarrelSilverOre 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BarrelGoldOre 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BarrelCoalOre 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BarrelTextiles 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BarrelLeather 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BarrelComponentBasic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Crate1x1c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Crate1x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RackEmpty 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RackSword 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RackSpear 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RackMixed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShelfEmpty 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShelfFilled1c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShelfFilled2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShelfFilledEmerald 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShelfFilledSapphire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShelfFilledRuby 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShelfFilledSilverware 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShelfFilledChaliceSilver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShelfFilledChaliceGold 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShelfFilledWine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShelfFilledFood 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShelfFilledIngot 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShelfFilledBook 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_StrawPile 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_AncientReliquaryEmpty 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RoxHorn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_DaerAntler 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_DireBoarTusk 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealRations 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealRationsVegetarian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_DriedMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_SmokedMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealCheese 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealRoxSteak 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealGriffonBerryPie 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealSteakWithWine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealCheeseSoup 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealBreadSoup 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealHeartyStew 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealApplePie 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealHuntersStew 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealGrilledCheese 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealGrilledSausages 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealQuiche 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealSweetPancakes 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealPumpkinPie 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealPumpkinSoup 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealTomatoOmelette 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealBoneSoup 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealBread 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealWeakStew 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealFriedEggs 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealMashedPotatoes 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealMushroomSoup 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealVegetablePot 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealPumpkinFritters 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealGrilledSkewers 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealBoiledBeansAndOnion 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MealWinterLentilSoup 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Book 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Book_TheBeginning 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Book_IntoTheRuins 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Book_AncientCodex 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_TornNote_Song1c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ChaliceSilver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ChaliceGold 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BowlSilver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BowlGold 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_SkullGold 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_SkullEmerald 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_SkullSapphire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_SkullRuby 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_DiceGold 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_DiceEmerald 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_DiceSapphire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_DiceRuby 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Treatise_Shooting 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Treatise_Melee 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Treatise_Construction 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Treatise_Mining 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Treatise_Cooking 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Treatise_Plants 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Treatise_Animals 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Treatise_Crafting 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Treatise_Artistic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Treatise_Medicine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Treatise_Social 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Treatise_Intellectual 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_DarkWoodLog 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ElvenWoodLog 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_DryadWoodLog 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_AncientWoodLog 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Coal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_IronOre 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_IronIngot 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_SilverOre 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_GoldOre 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Bone 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Linen 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Citrine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Amber 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Onyx 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Emerald 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Sapphire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ruby 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_EggLargeForestCobraFertilized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_EggLargeCobraCaveFertilized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_EggConstrictorForestFertilized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_EggConstrictorCaveFertilized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_EggLindwurmForestFertilized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_EggLindwurmCaveFertilized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_HideTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_HideSmall 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_HideMedium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_HideLarge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_HideHuge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ThickHideTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ThickHideSmall 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ThickHideMedium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ThickHideLarge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ThickHideHuge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_SoftPeltTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_SoftPeltSmall 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_SoftPeltMedium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_SoftPeltLarge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_SoftPeltHuge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_HeavyPeltTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_HeavyPeltSmall 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_HeavyPeltMedium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_HeavyPeltLarge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_HeavyPeltHuge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ScaleTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ScaleSmall 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ScaleMedium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ScaleLarge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ScaleHuge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ThickScaleTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ThickScaleSmall 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ThickScaleMedium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ThickScaleLarge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_ThickScaleHuge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_BirdTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_BirdSmall 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_BirdMedium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_BirdLarge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_BirdHuge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_Hyena 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_WolfDirewolf 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_WolfTimber 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_WolfArctic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_Cougar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_Panther 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_Muffalo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_Bison 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_DireBoar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_BearGrizzly 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_BearPolar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_Rhinoceros 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_Megasloth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_Elephant 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_Rox 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_GiantConstrictor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_Daer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_Lindwurm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_Thrumbo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Hide_Human 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Leather_Rawhide 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Fat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Tallow 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Flour 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Straw 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Salt 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Sugar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Spices 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Sausages 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ComponentBasic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Paper 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_TanningLiquor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Tar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Gunpowder 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_BallistaBolt 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_StoneBoulder 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_StoneBoulderTarred 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawFlax 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawCotton 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawWheat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawGrapes 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Sugarcane 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawHerb 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawTomatoes 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawApples 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawLemons 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawCabbages 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawCarrots 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawGarlic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawOnions 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawPumpkins 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawLentils 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_GriffonBerry 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_RawMacci 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Leather_Daer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Leather_Lindwurm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_WoolRox 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_UnfinishedHide 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Hauberk 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Heavy_Hauberk 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Heraldic_Hauberk1c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Heraldic_Hauberk2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Heraldic_Hauberk3c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Heraldic_Hauberk4c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Footwear_BootsLeather 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Footwear_BootsSplinted 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Footwear_BootsPlate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Handwear_GlovesLeather 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Handwear_GlovesSplinted 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Handwear_GlovesPlate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Brigandine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Breast_Plate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_FullPlate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_FullPlateGilded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_FullPlateNamed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Necklace_Citrine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Necklace_Jade 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Necklace_Amber 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Necklace_Onyx 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Necklace_Emerald 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Necklace_Sapphire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Necklace_Ruby 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ring_Citrine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ring_Jade 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ring_Amber 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ring_Onyx 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ring_Emerald 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ring_Sapphire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ring_Ruby 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Sackcloth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Leather_Tunic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Padded_Surcoat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Dankpyon_Apparel_Gambeson 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Padded_Leather 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Light_Lamellar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Hose 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Trousers 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Braies 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ring_Holding 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ring_Haste 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Ring_Tending 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Apparel_Quiver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_RedBandana 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_Hood 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_coif 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ArmingCap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_FullArmingCap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ZweihandersHat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_PaddedNasalHelmet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_PaddedKettleHelmet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_PaddedFlatTopHelmet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ChainCoif 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ChainCoifClosed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ChainCoifFull 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ChainNasalHelmet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ChainNasalRedHelmet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ChainKettleHelmet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_Chain_FlatTopHelmet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ClosedChain_FlatTopHelmet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ChainClosedFlatTopHelmet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ZweihanderHelm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ZweihanderHelmAmboise 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ZweihanderHelmSoren 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ZweihanderHelmOswin 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ZweihanderHelmHesse 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ClosedBascinetHelmet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_SalletHelmet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_GreatHelm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_HeraldicGreatHelm1c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_HeraldicGreatHelm2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_HeraldicGreatHelm3c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_HeraldicGreatHelm4c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_Armet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ArmetGilded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Headgear_ArmetNamed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Shield 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShieldKite 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShieldHeater 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShieldHeater_Amboise 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShieldHeater_Soren 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShieldHeater_Oswin 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_ShieldHeater_Hesse 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Bludgeon 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_NomadMace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_MorningStar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_WingedMace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Goedendag 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_TwoHandedMace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_TwoHandedFlangedMace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_MilitiaSpear 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_BoarSpear 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_FightingSpear 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Warfork 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Spetum 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Pitchfork 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_HookedBlade 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Billhook 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Pike 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_PikeAmboise 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_PikeSoren 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_PikeOswin 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_PikeHesse 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Swordlance 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Halberd 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Pickaxe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_MilitaryPick 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Warhammer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_TwoHandedMallet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_TwoHandedHammer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Polehammer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Hatchet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Handaxe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_FightingAxe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_WoodcuttersAxe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Bardiche 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Greataxe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Longaxe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Falchion 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_ArmingSword 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_FencingSword 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_NobleSword 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Longsword 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_Greatsword 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_NamedGreatsword 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_NamedGreatsword1c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_NamedGreatsword2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_NamedGreataxe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_NamedTwoHandedHammer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_NamedTwoHandedHammer1c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_NamedHalberd 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_MeleeWeapon_NamedHalberd1c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Crossbow 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_CrossbowHeavy 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Handgonne 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Weapon_PotFire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Weapon_PotFlash 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Weapon_PotFlashSmoke 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Bow_Hunting 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Bow_War 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Tree_Apple 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Tree_Lemon 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_Tree_GriffonBerry 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_TreeLylses 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_TreeScara 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_GreatOak 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_GreatIter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_GreatFir 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DankPyon_GreatWillow 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named UsefulTerror_HeartAcidifier 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_HemnesDouble 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_HemnesSingle 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_HangingBed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Klimpfjall 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Kyrre 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_KivikS 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Mullfjallet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Kivik 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_StockholmSofa 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_TableTelevision 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_laptop 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Firepit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_FirepitRound 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Fireplace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_OilLamp 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Lantern 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_TableLantern 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_ElectricTableLantern 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Lanternpost 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Lightpost 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Astrid 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Vidja 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_PathA 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_PathB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_PathC 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_AtlasWoodCover 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_BearRug 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_RugCarpet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_CircleCarpet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_WoolViscouseS 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_WoolViscouseLCarpet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_WalmartCarpet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_RoyalCarpet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Malsjo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_HyllisS 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_HyllisL 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Stockholm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Norraryd 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Arkelstorp 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Skogsta 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Askholmen 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_NordvikenB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_NordvikenW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Gamlared 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_IdanasN 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_IdanasD 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_KoppangD 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Havsta 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_Counter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_CounterB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_CounterS 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LTS_CounterG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named TableAnimalProsthetics 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ProstheticTailAnimal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SimpleProstheticLegAnimal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SimpleProstheticArmAnimal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named NoseAnimalSimple 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named JawAnimalSimple 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named EarAnimalSimple 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SpineAnimalSimple 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicLegAnimal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicArmAnimal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicEyeAnimal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named JawAnimalBionic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named EarAnimalBionic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SpineAnimalBionic 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AnimalBrainStimulator 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicAnimalHeart 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicAnimalStomach 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicAnimalLung 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicAnimalLiver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicAnimalKidney 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named UnfinishedAnimalPart 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_SkyBurialSpot 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_Urn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_MummyMale 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_MummyFemale 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_Pyramid 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_GrandGate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_FuturisticObelisk 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_FuturisticStele 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_FuturisticPyramid 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_GreatPyramid 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_Sphynx 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_Megalith 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_StoneBedroll 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_AncientBed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_AncientDoubleBed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_AncientOperatingTable 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_AncientLockerBank 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_Neolithic_StoneTable_1x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_Neolithic_StoneTable_2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_Neolithic_StoneTable_2x4c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_Neolithic_StoneTable_3x3c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_Neolithic_WoodenTable_1x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_Neolithic_WoodenTable_2x2c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_Neolithic_WoodenTable_2x4c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_Neolithic_WoodenTable_3x3c 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_TrapBlunt 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_AnimalDatabase 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_JewishSlab_Medium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_JewishSlab_Broad 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_KemeticSlab_Medium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_KemeticSlab_Broad 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_HinduSlab_Medium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_HinduSlab_Broad 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_SteampunkSlab_Medium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_SteampunkSlab_Broad 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_CorsairSlab_Medium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_CorsairSlab_Broad 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_JainSlab_Medium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_JainSlab_Broad 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_SikhSlab_Medium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_SikhSlab_Broad 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_IslamicSlab_Medium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_IslamicSlab_Broad 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_ChristianSlab_Medium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_ChristianSlab_Broad 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_BuddhistSlab_Medium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_BuddhistSlab_Broad 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AM_BlocksPristineLimestone 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Gun_AnestheticGun 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Wall_M_VitalsMonitor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VAEA_Apparel_Backpack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VAEA_Apparel_BattleBanner 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VAEA_Apparel_MedicBag 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VAEA_Apparel_Quiver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VAEA_Apparel_ToolBelt 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VAEA_Apparel_AmmoPack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VAEA_Apparel_ExplosiveBelt 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VAEA_Apparel_RangedShieldBelt 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VAEA_Apparel_RessurectorBelt 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VAEA_Apparel_MiniTurretPack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SGC_Apparel_RoboticRig 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SGC_Apparel_TraumaKit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SGC_Apparel_SurvivalPack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SGC_Apparel_RescueFrame 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SGC_Apparel_Forklift 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SGC_Apparel_FieldMortar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AdvancedMultiAnalyzer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ToolCabinetA 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ToolCabinetB 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ToolCabinetC 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named KitchenCupboard 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SurgicalLamp 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SurgicalInstruments 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LotRD_Leather_Dragon 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named KEP_AimingHand 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named KEP_ArchotechMultiToolArm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named KEP_ChainsawArm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named KEP_ChefHand 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named KEP_ComputingArm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named KEP_MiningHand 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named KEP_MultiToolArm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named KEP_TamersHand 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named KEP_ToolboxArm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named KEP_TradersJaw 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LT_DoorMatLeather 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LT_DoorMatBigLeather 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LT_DoorMatRed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LT_DoorMatOrange 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LT_DoorMatGreen 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LT_DoorMatTeal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LT_DoorMatBlue 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LT_DoorMatBigRed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LT_DoorMatBigOrange 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LT_DoorMatBigGreen 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LT_DoorMatBigTeal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LT_DoorMatBigBlue 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_Doormat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_Bin 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_SmallPhotos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_Candles 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_PetBowl 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_Plushie 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_Vase 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_Laptop 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_SmallPlant 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_Paper 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_Papers 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_Book 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_PileofBooks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_CatTower 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_DogHouse 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_Pillow 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_Trophy 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ED_Clock 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SGC_Apparel_Jetpack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SGC_Apparel_CommandTower 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Stomach 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Spine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Eye 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Ear 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Brain 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Nose 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Jaw 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Arm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Hand 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Leg 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Foot 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_Plasteel 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_Hyperweave 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_Synthread 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_GlitterworldMedicine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_Neutroamine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_Luciferium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_MechSerumHealer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_MechSerumResurrector 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_Antigrain 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_PsychicFoilHelmet 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_BroadshieldCore 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_Royaltyweapons 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_RoyaltyPersonaweapons 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Techprint_Mawy_PsyFocus 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_DankPyon_Hampshire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_DankPyon_Gloucestershire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_DankPyon_NorthernBoar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_DankPyon_Ravelder 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_DankPyon_Angus 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_DankPyon_Daer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_DankPyon_DireBoar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_DankPyon_Direwolf 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_DankPyon_Hyena 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_DankPyon_Rox 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_DankPyon_LargeCobraForest 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_DankPyon_LargeCobraCave 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Reached max messages limit. Stopping logging to avoid spam. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_DankPyon_GiantConstrictorForest 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 32956.
+Total: 456.385900 ms (FindLiveObjects: 1.667300 ms CreateObjectMapping: 2.769100 ms MarkObjects: 451.834100 ms  DeleteObjects: 0.114900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 1.032900 ms
+
+Unloading 4756 unused Assets to reduce memory usage. Loaded Objects now: 29646.
+Total: 655.727000 ms (FindLiveObjects: 3.340200 ms CreateObjectMapping: 3.369700 ms MarkObjects: 642.608900 ms  DeleteObjects: 6.407900 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.387100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 29667.
+Total: 681.703800 ms (FindLiveObjects: 1.455400 ms CreateObjectMapping: 2.224700 ms MarkObjects: 677.971600 ms  DeleteObjects: 0.051800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 34222.
+Total: 715.679400 ms (FindLiveObjects: 1.867800 ms CreateObjectMapping: 2.740300 ms MarkObjects: 711.013100 ms  DeleteObjects: 0.057800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.312500 ms
+
+Unloading 5467 unused Assets to reduce memory usage. Loaded Objects now: 32481.
+Total: 956.716800 ms (FindLiveObjects: 3.360600 ms CreateObjectMapping: 2.940800 ms MarkObjects: 940.882700 ms  DeleteObjects: 9.532300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 37192.
+Total: 1008.886200 ms (FindLiveObjects: 1.990100 ms CreateObjectMapping: 2.768800 ms MarkObjects: 1004.069700 ms  DeleteObjects: 0.057100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.322800 ms
+
+Unloading 4706 unused Assets to reduce memory usage. Loaded Objects now: 32510.
+Total: 1101.116000 ms (FindLiveObjects: 2.996000 ms CreateObjectMapping: 2.863100 ms MarkObjects: 1089.182300 ms  DeleteObjects: 6.074200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 37221.
+Total: 1172.451300 ms (FindLiveObjects: 2.006000 ms CreateObjectMapping: 2.721200 ms MarkObjects: 1167.666800 ms  DeleteObjects: 0.056700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.322400 ms
+
+Unloading 5587 unused Assets to reduce memory usage. Loaded Objects now: 32860.
+Total: 1765.989900 ms (FindLiveObjects: 3.111100 ms CreateObjectMapping: 2.914400 ms MarkObjects: 1750.340700 ms  DeleteObjects: 9.623100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 37398.
+Total: 1800.841700 ms (FindLiveObjects: 2.011100 ms CreateObjectMapping: 2.738900 ms MarkObjects: 1796.032600 ms  DeleteObjects: 0.058400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.321900 ms
+
+Unloading 4696 unused Assets to reduce memory usage. Loaded Objects now: 33077.
+Total: 2001.959300 ms (FindLiveObjects: 3.160700 ms CreateObjectMapping: 2.945400 ms MarkObjects: 1989.380800 ms  DeleteObjects: 6.471700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 37664.
+Total: 2219.215400 ms (FindLiveObjects: 2.008200 ms CreateObjectMapping: 2.796900 ms MarkObjects: 2214.349200 ms  DeleteObjects: 0.060600 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 1f24 -> priority: 1 
+  Thread -> id: 1948 -> priority: 1 
+  Thread -> id: 1cc8 -> priority: 1 

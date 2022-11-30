@@ -10,7 +10,7 @@
 		<SavedPatches_Update />
 		<SavedPatches_Tick />
 		<allEnabled>
-			<li>False</li>
+			<li>True</li>
 			<li>False</li>
 			<li>False</li>
 		</allEnabled>
@@ -18,5 +18,8 @@
 			<keys />
 			<values />
 		</alertfilter>
+		<performance.tempcache-isEnabled>True</performance.tempcache-isEnabled>
+		<performance.buildingrepair-isEnabled>True</performance.buildingrepair-isEnabled>
+		<performance.zoom-isEnabled>True</performance.zoom-isEnabled>
 	</ModSettings>
 </SettingsBlock>

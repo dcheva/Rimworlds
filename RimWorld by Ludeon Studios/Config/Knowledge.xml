@@ -11,11 +11,11 @@
     </li>
     <li>
       <key>Rescuing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Capturing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ShieldBelts</key>
@@ -23,11 +23,11 @@
     </li>
     <li>
       <key>InteractingWithTraders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Drafting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GroupGotoHereDragging</key>
@@ -55,7 +55,7 @@
     </li>
     <li>
       <key>DrugPolicies</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TVForSickPeople</key>
@@ -63,11 +63,11 @@
     </li>
     <li>
       <key>PrisonerTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SetGrowingZonePlant</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DrugBurning</key>
@@ -107,11 +107,11 @@
     </li>
     <li>
       <key>Forbidding</key>
-      <value>0</value>
+      <value>0.8</value>
     </li>
     <li>
       <key>GrowingFood</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>EquippingWeapons</key>
@@ -119,15 +119,15 @@
     </li>
     <li>
       <key>Alerts</key>
-      <value>0.840001</value>
+      <value>1</value>
     </li>
     <li>
       <key>Mining</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>WorkTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ForbiddingDoors</key>
@@ -139,11 +139,11 @@
     </li>
     <li>
       <key>FormCaravan</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalTaming</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalTraining</key>
@@ -159,7 +159,7 @@
     </li>
     <li>
       <key>HomeArea</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SpoilageAndFreezers</key>
@@ -175,7 +175,7 @@
     </li>
     <li>
       <key>AllowedAreas</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MedicalOperations</key>
@@ -183,11 +183,11 @@
     </li>
     <li>
       <key>TimeAssignments</key>
-      <value>0.8000001</value>
+      <value>1</value>
     </li>
     <li>
       <key>ManualWorkPriorities</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GettingMoreTraders</key>
@@ -195,7 +195,7 @@
     </li>
     <li>
       <key>TileInspector</key>
-      <value>0</value>
+      <value>0.6899998</value>
     </li>
     <li>
       <key>Outfits</key>
@@ -211,7 +211,7 @@
     </li>
     <li>
       <key>ClickingMessages</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ShotAccuracyTooltip</key>
@@ -251,7 +251,7 @@
     </li>
     <li>
       <key>MeditationSchedule</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MeditationDesiredPsyfocus</key>

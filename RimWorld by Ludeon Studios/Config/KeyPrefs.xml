@@ -4,28 +4,28 @@
     <key>MapDolly_Up</key>
     <value>
       <keyBindingA>W</keyBindingA>
-      <keyBindingB>UpArrow</keyBindingB>
+      <keyBindingB>None</keyBindingB>
     </value>
   </li>
   <li>
     <key>MapDolly_Down</key>
     <value>
       <keyBindingA>S</keyBindingA>
-      <keyBindingB>DownArrow</keyBindingB>
+      <keyBindingB>None</keyBindingB>
     </value>
   </li>
   <li>
     <key>MapDolly_Left</key>
     <value>
       <keyBindingA>A</keyBindingA>
-      <keyBindingB>LeftArrow</keyBindingB>
+      <keyBindingB>None</keyBindingB>
     </value>
   </li>
   <li>
     <key>MapDolly_Right</key>
     <value>
       <keyBindingA>D</keyBindingA>
-      <keyBindingB>RightArrow</keyBindingB>
+      <keyBindingB>None</keyBindingB>
     </value>
   </li>
   <li>
@@ -53,7 +53,7 @@
     <key>Cancel</key>
     <value>
       <keyBindingA>Escape</keyBindingA>
-      <keyBindingB>None</keyBindingB>
+      <keyBindingB>Backspace</keyBindingB>
     </value>
   </li>
   <li>
@@ -519,6 +519,209 @@
     </value>
   </li>
   <li>
+    <key>DubsOptimizerKey</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>DubsOptimizerRestartKey</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>dpa_ToggleAlertBlock</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>TMB_ToggleAutoDesignatePlantsCutMode</key>
+    <value>
+      <keyBindingA>Backslash</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_BuildMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintResearch</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintWheel</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintBillMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_PinningHide</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintGearMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>TimeSpeed_Slower</key>
+    <value>
+      <keyBindingA>End</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>TimeSpeed_Faster</key>
+    <value>
+      <keyBindingA>Home</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ShowCellInspector</key>
+    <value>
+      <keyBindingA>LeftAlt</keyBindingA>
+      <keyBindingB>RightAlt</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ShowEyedropper</key>
+    <value>
+      <keyBindingA>LeftControl</keyBindingA>
+      <keyBindingB>RightControl</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>Dev_ToggleDevPalette</key>
+    <value>
+      <keyBindingA>LeftBracket</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>VFE_Dev_Restart</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ToggleTracking</key>
+    <value>
+      <keyBindingA>Backslash</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>Blueprint_Flip</key>
+    <value>
+      <keyBindingA>F</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>RocketKeyBindingDisable</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>RocketKeyToggleAlerts</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>RocketKeyToggleDebugging</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>RocketKeyToggleForcedSlowdowns</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>LPR_ManualRendering</key>
+    <value>
+      <keyBindingA>Alpha9</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>LPR_ManualRendering_ForceFullMap</key>
+    <value>
+      <keyBindingA>Alpha0</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MUR_ToggleBoost</key>
+    <value>
+      <keyBindingA>Alpha5</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MiniMap</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_PingTool</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>HotkeyEditor</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>HotkeyTeleport</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>DefensivePositionGizmo</key>
     <value>
       <keyBindingA>T</keyBindingA>
@@ -610,93 +813,9 @@
     </value>
   </li>
   <li>
-    <key>DubsOptimizerKey</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>DubsOptimizerRestartKey</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>dpa_ToggleAlertBlock</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>TMB_ToggleAutoDesignatePlantsCutMode</key>
-    <value>
-      <keyBindingA>Backslash</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_BuildMenu</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_MintResearch</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_MintWheel</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_MintBillMenu</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_PinningHide</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MintMenus_MintGearMenu</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>MainTab_MedicalTab</key>
     <value>
       <keyBindingA>M</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>HotkeyEditor</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>HotkeyTeleport</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
