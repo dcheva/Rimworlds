@@ -7698,3 +7698,36 @@ Parameter name: type
   at VFECore.Dialog_NewFactionSpawning.SpawnWithoutBases () [0x00002] in <fb9ae140abf54bf9a978ac13cceaacb6>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+Error while generating pawn. Rethrowing. Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00003] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at (wrapper dynamic-method) Verse.ThingMaker.Verse.ThingMaker.MakeThing_Patch1(Verse.ThingDef,Verse.ThingDef)
+  at (wrapper dynamic-method) RimWorld.PawnApparelGenerator+PossibleApparelSet.RimWorld.PawnApparelGenerator+PossibleApparelSet.GiveToPawn_Patch0(RimWorld.PawnApparelGenerator/PossibleApparelSet,Verse.Pawn)
+  at (wrapper dynamic-method) RimWorld.PawnApparelGenerator.RimWorld.PawnApparelGenerator.GenerateStartingApparelFor_Patch4(Verse.Pawn,Verse.PawnGenerationRequest)
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GenerateGearFor_Patch4(Verse.Pawn,Verse.PawnGenerationRequest)
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.TryGenerateNewPawnInternal_Patch0(Verse.PawnGenerationRequest&,string&,bool,bool)
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GenerateNewPawnInternal_Patch1(Verse.PawnGenerationRequest&)
+  at Verse.PawnGenerator.GenerateOrRedressPawnInternal (Verse.PawnGenerationRequest request) [0x00188] in <da600864a9db4f8087fd0b640e5c28b6>:0 
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GeneratePawn_Patch3(Verse.PawnGenerationRequest) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+An error occurred when trying to spawn faction MedTimes_Faction_Societies:
+Value cannot be null.
+Parameter name: type
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00003] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at (wrapper dynamic-method) Verse.ThingMaker.Verse.ThingMaker.MakeThing_Patch1(Verse.ThingDef,Verse.ThingDef)
+  at (wrapper dynamic-method) RimWorld.PawnApparelGenerator+PossibleApparelSet.RimWorld.PawnApparelGenerator+PossibleApparelSet.GiveToPawn_Patch0(RimWorld.PawnApparelGenerator/PossibleApparelSet,Verse.Pawn)
+  at (wrapper dynamic-method) RimWorld.PawnApparelGenerator.RimWorld.PawnApparelGenerator.GenerateStartingApparelFor_Patch4(Verse.Pawn,Verse.PawnGenerationRequest)
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GenerateGearFor_Patch4(Verse.Pawn,Verse.PawnGenerationRequest)
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.TryGenerateNewPawnInternal_Patch0(Verse.PawnGenerationRequest&,string&,bool,bool)
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GenerateNewPawnInternal_Patch1(Verse.PawnGenerationRequest&)
+  at Verse.PawnGenerator.GenerateOrRedressPawnInternal (Verse.PawnGenerationRequest request) [0x00188] in <da600864a9db4f8087fd0b640e5c28b6>:0 
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GeneratePawn_Patch3(Verse.PawnGenerationRequest)
+  at RimWorld.Faction.TryGenerateNewLeader () [0x00254] in <da600864a9db4f8087fd0b640e5c28b6>:0 
+  at RimWorld.FactionGenerator.NewGeneratedFaction (RimWorld.FactionGeneratorParms parms) [0x001f0] in <da600864a9db4f8087fd0b640e5c28b6>:0 
+  at VFECore.NewFactionSpawningUtility.SpawnWithoutSettlements (RimWorld.FactionDef factionDef) [0x0002b] in <fb9ae140abf54bf9a978ac13cceaacb6>:0 
+  at VFECore.Dialog_NewFactionSpawning.SpawnWithoutBases () [0x00002] in <fb9ae140abf54bf9a978ac13cceaacb6>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
