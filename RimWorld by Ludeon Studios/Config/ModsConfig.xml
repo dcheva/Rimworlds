@@ -7,11 +7,13 @@
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
     <li>ludeon.rimworld.biotech</li>
+    <li>owlchemist.cherrypicker</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>lwm.deepstorage</li>
     <li>oskarpotocki.vanillaexpanded.ideologypatches</li>
     <li>oskarpotocki.vanillaexpanded.royaltypatches</li>
     <li>syrchalis.processor.framework</li>
+    <li>dankpyon.medieval.overhaul</li>
     <li>fluffy.colonymanager</li>
     <li>frozensnowfox.complexjobs</li>
     <li>dontstopthemusic.kv.rw</li>
@@ -54,7 +56,6 @@
     <li>jecrell.jecstools</li>
     <li>regrowth.botr.core</li>
     <li>regrowth.botr.extinctanimalspack</li>
-    <li>sineswiper.xenobionicpatcher</li>
     <li>odeum.wmbp</li>
     <li>codeoptimist.jobsofopportunity</li>
     <li>tammybee.whereismyweapon</li>
@@ -95,6 +96,7 @@
     <li>owlchemist.fridgeutilities</li>
     <li>owlchemist.ceilingutilities</li>
     <li>petetimessix.simplesidearms</li>
+    <li>unknown.perevod.petetimessix.simplesidearms</li>
     <li>lanilor.simplerecycling</li>
     <li>zilla.fertilityinfo</li>
     <li>vanillaexpanded.vaeaccessories</li>
@@ -105,6 +107,8 @@
     <li>roolo.searchanddestroy</li>
     <li>na.satisfactoryroyaltiers</li>
     <li>uuugggg.roomfood</li>
+    <li>spoonshortage.adogsaidanimalprosthetics</li>
+    <li>sineswiper.xenobionicpatcher</li>
     <li>krkr.rocketman</li>
     <li>arandomkiwi.rimsaves</li>
     <li>jaxe.rimhud</li>
@@ -126,7 +130,6 @@
     <li>owlchemist.perspectivedoors</li>
     <li>owlchemist.perspectivebuildings</li>
     <li>fed1splay.pawntargetfix</li>
-    <li>turnovus.submod.backpacksarenotbelts</li>
     <li>murmur.oocmovespeedboost</li>
     <li>seohyeon.optimizationmeats</li>
     <li>scorpio.optimizationleathers</li>
@@ -173,6 +176,64 @@
     <li>vanillaexpanded.vfepropsanddecor</li>
     <li>vanillaexpanded.vanillatraitsexpanded</li>
     <li>mlie.variousspaceshipchunk</li>
+    <li>brrainz.achtung</li>
+    <li>galacticcake180.cheaperhresearch</li>
+    <li>skullywag126.medievalshields</li>
+    <li>vindar163.medievalhtimes</li>
+    <li>skullywag171.extendedfabrics</li>
+    <li>faeldray242.firepithshtorchhsconce</li>
+    <li>owlchemist.windows</li>
+    <li>udon.veterancolonist</li>
+    <li>roolo.giddyupcore</li>
+    <li>roolo.giddyuprideandroll</li>
+    <li>roolo.giddyupcaravan</li>
+    <li>roolo.giddyupbattlemounts</li>
+    <li>sarg.giddyupsaddles</li>
+    <li>telardo.romanceontherim</li>
+    <li>avilmask.researchwhatever</li>
+    <li>thegoofyone.researchassistants</li>
+    <li>yipnz.removeweatheroverlay</li>
+    <li>mlie.relevantstatsindescription</li>
+    <li>jgh.qualitybuilder</li>
+    <li>mlie.prostheticnomissingbodyparts</li>
+    <li>owlchemist.permeableterrain</li>
+    <li>saucypigeon.pawnbadge</li>
+    <li>doug.nojobauthors</li>
+    <li>bar0th.nodebris</li>
+    <li>sgc.moreutilitypacks</li>
+    <li>turnovus.submod.backpacksarenotbelts</li>
+    <li>4loris4.morelinkables</li>
+    <li>hol.words</li>
+    <li>sugarshow.medievalmusic</li>
+    <li>joedaly.medmeds.mo</li>
+    <li>nunahuralshamikh.medmed</li>
+    <li>mlie.mepictarmor</li>
+    <li>brrainz.lineofsightfix</li>
+    <li>zal.keptb</li>
+    <li>nestofmoon.jobslimittweak</li>
+    <li>haplo.miscellaneous.beesnhoney</li>
+    <li>ogliss.ykara.harvesteverything</li>
+    <li>karmgahl.factioncustomizer</li>
+    <li>murmur.enemyselfpreservation</li>
+    <li>bjr1984.dubsskylights.addon</li>
+    <li>mlie.drugpolicyfix</li>
+    <li>telardo.dragselect</li>
+    <li>flangopink.disableautoselecttravelsupplies</li>
+    <li>unlimitedhugs.defensivepositions</li>
+    <li>mawy.craftable</li>
+    <li>mlie.combatreadinesscheck</li>
+    <li>neronix17.retexture.charactereditor</li>
+    <li>mosi.bridgecolor</li>
+    <li>bedrestforfoodpoisoning.1trickponyta</li>
+    <li>meltup.beautifuloutdoors</li>
+    <li>syrchalis.harvestyieldpatch</li>
+    <li>khitrir.qualitysensitivepsychicfoilhelmets</li>
+    <li>limetreesnake.systems</li>
+    <li>limetreesnake.furnishing</li>
+    <li>derekbickley.ltocolonygroupsfinal</li>
+    <li>kyd.joykind.condensed</li>
+    <li>fuu.usefulterror</li>
+    <li>dani.moretraits</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>

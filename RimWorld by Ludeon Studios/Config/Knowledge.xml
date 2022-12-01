@@ -341,5 +341,17 @@
       <key>BuildersTryMine</key>
       <value>0</value>
     </li>
+    <li>
+      <key>GUC_Animal_Handling</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BM_Mounting</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BM_Enemy_Mounting</key>
+      <value>0</value>
+    </li>
   </knowledge>
 </ConceptKnowledge>
