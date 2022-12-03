@@ -4939,3 +4939,353 @@ JP_PP: Environment Patch Enabled
 Biotech Expansion - Core Loaded!
 [Geological Landforms v1.5.2] Found landform data in the following mods: Geological Landforms, Biome Transitions
 [Geological Landforms v1.5.2] Loaded 33 landforms of which 0 are edited and 0 are custom.
+MVCF successfully applied 32 patches
+OnLevelWasLoaded was found on ModInitializerComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed 
+(Filename:  Line: 369)
+
+CharacterEditor v1.4.1205 initializing...
+updating labels for russian / русский...
+loading pawn slot content from file...
+character editor instance created
+checking editor settings...
+activating bodysize genes...
+bodysizes genes are active
+CharacterEditor v1.4.1205 ...done
+Combat Extended :: Ammo injected
+Combat Extended :: Bounds pre-generated
+Combat Extended :: Checking Better Turrets
+Checking Multiplayer Compat
+Combat Extended :: Checking Misc Turrets
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+CAI: attempting LoadIf for ceteam.combatextended
+CAI: Load success 'active't<System.Boolean> from 'ceteam.combatextended'
+CAI: Load success 'ReloadWeapon't<Verse.JobDef> from 'ceteam.combatextended'
+CAI: Load success 'HunkerDown't<Verse.JobDef> from 'ceteam.combatextended'
+CAI: Load success 'Verb_ShootCE_isAiming't<System.Reflection.FieldInfo> from 'ceteam.combatextended'
+CAI: Load success 'Verb_ShootCE't<System.Type> from 'ceteam.combatextended'
+CAI: Load success 'ProjectilePropertiesCE't<System.Type> from 'ceteam.combatextended'
+CAI: Load success 'ProjectilePropertiesCE_ArmorPenetrationSharp't<System.Reflection.FieldInfo> from 'ceteam.combatextended'
+CAI: Load success 'ProjectilePropertiesCE_ArmorPenetrationBlunt't<System.Reflection.FieldInfo> from 'ceteam.combatextended'
+CAI: Load success 'ToolCE't<System.Type> from 'ceteam.combatextended'
+CAI: Load success 'ToolCE_ArmorPenetrationSharp't<System.Reflection.FieldInfo> from 'ceteam.combatextended'
+CAI: Load success 'ToolCE_ArmorPenetrationBlunt't<System.Reflection.FieldInfo> from 'ceteam.combatextended'
+CAI: Load success 'Building_TurretGunCE't<System.Type> from 'ceteam.combatextended'
+CAI: Load success 'Building_TurretGunCE_Active't<System.Reflection.MethodInfo> from 'ceteam.combatextended'
+CAI: Load success 'Building_TurretGunCE_MannedByColonist't<System.Reflection.MethodInfo> from 'ceteam.combatextended'
+CAI: Load success 'Building_TurretGunCE_IsMannable't<System.Reflection.MethodInfo> from 'ceteam.combatextended'
+CAI: attempting LoadIf for dubwise.dubsmintminimap
+CAI: Load success 'active't<System.Boolean> from 'dubwise.dubsmintminimap'
+CAI: Load success 'Fogged't<System.Reflection.MethodInfo> from 'dubwise.dubsmintminimap'
+CAI: Load success 'DrawAllPawns't<System.Reflection.MethodInfo> from 'dubwise.dubsmintminimap'
+[HugsLib] initializing StackXXL, Hospitality, CashRegister, Gastronomy, BattleMounts, GiddyUpCaravan, GiddyUpCore, GiddyUpRideAndRoll
+[StackXXL] Loaded
+CE is trying to create default parameter lists ...
+creating default parameter list for genes...
+Could not create default type. Field 'Verse.GeneDef.deathHistoryEvent' not found.
+  at s.a () [0x0003e] in <cb089a98036648abb111f0b07a919a81>:0 
+  at CharacterEditor.CEditor+b.b (h A_0) [0x002cf] in <cb089a98036648abb111f0b07a919a81>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+creating default parameter list for apparel...
+241 default entities for apparel created
+creating default parameter list for items...
+3005 default entities for items created
+creating default parameter list for weapons...
+255 default entities for weapons created
+creating default parameter list for turrets...
+38 default entities for turrets created
+...lists created
+CE is trying to apply modified parameters...
+Arming cap Модификация загружена
+no modifications for weapons
+Chocolate Модификация загружена
+патрон .303 British (БЗ) Модификация загружена
+The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at CharacterEditor.CEditor+a.b () [0x00052] in <cb089a98036648abb111f0b07a919a81>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 5)
+UnloadTime: 12.418200 ms
+QualityBuilder added property to '173' things
+
+Unloading 944 unused Assets to reduce memory usage. Loaded Objects now: 40159.
+Total: 945.215300 ms (FindLiveObjects: 51.120800 ms CreateObjectMapping: 5.400400 ms MarkObjects: 886.223000 ms  DeleteObjects: 2.470500 ms)
+
+Loading game from file Test with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - bs.betterlog
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - sarg.alphagenes
+  - FrozenSnowFox.BetterAncientComplexLoot
+  - VanillaExpanded.VCEF
+  - DakkPasserida.AnimaReplant
+  - ReGrowth.BOTR.Core
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - JangoDsoul.TheForge.Anvil
+  - JangoDsoul.TheForge.NCRArmory
+  - DerekBickley.LegacyTerrainOverhaulFinal
+  - LimeTreeSnake.Systems
+  - syrchalis.processor.framework
+  - RWNodeTree.RWNodeTree
+  - RWNodeTree.RWWeaponModularization
+  - Owlchemist.ToggleableOverlays
+  - rimfridge.kv.rw
+  - LWM.DeepStorage
+  - OskarPotocki.VFE.Mechanoid
+  - OskarPotocki.VanillaFactionsExpanded.MedievalModule
+  - CETeam.CombatExtended
+  - TMC.EFT.Melee
+  - Wemd.RealisticDarknessLight
+  - Wild.Addictol
+  - AndrewRaphaelLukasik.AllowEverything
+  - UnlimitedHugs.HugsLib
+  - UnlimitedHugs.AllowTool
+  - biowreck.AncientFalloutArmory
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEA
+  - ifsck.ancientmedicallinking
+  - scpchemfuel.appliances
+  - Bombadier.BetterWallsAndFloors
+  - Creeper.BetterInfoCard
+  - m00nl1ght.GeologicalLandforms
+  - m00nl1ght.GeologicalLandforms.BiomeTransitions
+  - Murmur.WallLight
+  - seos.m.vfea.vault.wnd
+  - seos.m.vfea.vault.s
+  - zal.vwretexture
+  - VanillaExpanded.VWEMS
+  - VanillaExpanded.VWEL
+  - vanillaexpanded.skills
+  - ReGrowth.BOTR.AspenForest
+  - VanillaExpanded.VPlantsE
+  - MrHydralisk.VOEAdditionalOutposts
+  - VanillaExpanded.VMemesE
+  - VanillaExpanded.VIEHAR
+  - VanillaExpanded.VARME
+  - Superniquito.TraitIcons
+  - hobtook.tradeui
+  - GT.Sam.TilledSoil
+  - JangoDsoul.T45b.PowerArmor
+  - Owlchemist.FridgeUtilities
+  - seos.m.storages
+  - Indeed.StackXXL
+  - smashphil.srtsexpanded
+  - legodude17.smartdecon
+  - dhultgren.smarterconstruction
+  - sarg.smartspeed
+  - Owlchemist.SmartFarming
+  - Usgiyi.SlaveOutfits
+  - PeteTimesSix.SimpleSidearms
+  - Owlchemist.SeedsPleaseLite
+  - Owlchemist.ScatteredStones
+  - roolo.giddyupcore
+  - thelastbulletbender.saddleup
+  - trinity.RuntimeGCupdated
+  - Mlie.RunAndHide
+  - RU.Vanilla.Weapons.Expanded.Laser
+  - Krkr.RocketMan
+  - Mlie.RoadsOfTheRim
+  - aRandomKiwi.RimSaves
+  - sindre0830.RimNauts2
+  - MalteSchulze.RIMMSqol
+  - Jaxe.RimHUD
+  - Dubwise.Rimefeller
+  - Owlchemist.ResearchPowl
+  - avilmask.ResearchWhatever
+  - ReGrowth.BOTR.TundraExpansion
+  - ReGrowth.BOTR.TemperateForestExpansion
+  - ReGrowth.BOTR.SwampExpansion
+  - ReGrowth.BOTR.BorealForestExpansion
+  - Uuugggg.RandomResearch
+  - bustedbunny.PrisonersAreNotSwines
+  - Mehni.PickUpAndHaul
+  - Owlchemist.PerspectiveTrees
+  - Owlchemist.PerspectiveEaves
+  - Owlchemist.WallUtilities
+  - Owlchemist.PerspectiveBuildings
+  - SaucyPigeon.PawnBadge
+  - Mlie.MoreFactionInteraction
+  - bonible.medullinpure
+  - Witek.MechsCanHaulToCharger
+  - hydrologist.MechanitorCommandRelays
+  - LWM.FuelFilter
+  - Krafs.LevelUp
+  - jecrell.jecstools
+  - Aoba.Fortress.Industrial.Concrete
+  - erdelf.HumanoidAlienRaces
+  - Orion.Hospitality
+  - HC.Animal.4
+  - HC.Animal.3
+  - HC.Animal.2
+  - HC.Animal.1
+  - Grimworld.Lasguns
+  - Telefonmast.GraphicsSettings
+  - bs.mbifvte
+  - Aoba.CargoContainer.Waste
+  - Orion.CashRegister
+  - void.charactereditor
+  - Neronix17.Retexture.CharacterEditor
+  - CrashM.ColorCodedMoodBar.11
+  - CETeam.CombatExtendedGuns
+  - Dubwise.DubsBadHygiene
+  - avilmask.CommonSense
+  - Nyan.CustomPawnGeneration
+  - Ogliss.Mythos.DiseasesOverhauled
+  - ForZa.DiseasesOverhauledBiosculptor
+  - proxyer.dismantleancientjunk
+  - tikubonn.DrugCommandOverhaul
+  - Dubwise.DubsApparelTweaks
+  - Dubwise.DubsMintMenus
+  - dubwise.dubsmintminimap
+  - Dubwise.Rimatomics
+  - nilchei.dynamicdiplomacy
+  - Cocaine.ElectricStonecuttingTable
+  - Witek.FabricorsCanRepairMechs
+  - JangoDsoul.Fallout.NukaCola
+  - YeffScry.Fallout2Soundtrack
+  - YeffScry.Fallout3Soundtrack
+  - YeffScry.Fallout4Soundtrack
+  - YeffScry.Fallout76Soundtrack
+  - YeffScry.FalloutNVSoundtrack
+  - Mlie.FalloutRacesTheRobotsPack
+  - YeffScry.FalloutSoundtrack
+  - Fuglypump.FalloutTraits
+  - LegendaryMinuteman.FRWP
+  - Murmur.FasterProjectiles
+  - Orion.Gastronomy
+  - sarg.giddyupsaddles
+  - roolo.giddyupbattlemounts
+  - roolo.giddyupcaravan
+  - roolo.giddyuprideandroll
+  - EdB.PrepareCarefully.alonske.fork.kotobike
+  - Dopwop.SimpleDwarves
+  - Mlie.Apothecary
+  - ILuvSilicon.BasicMedicine2
+  - Krkr.rule56
+  - Uuugggg.TDFindLib
+  - Uuugggg.CtrlF
+  - newcolonist.largefactionbases
+  - Haplo.Miscellaneous.MapGenFactionbase
+  - Mlie.MonstrousCompendium
+  - Unon.NoBurnMetal
+  - jp.perfectpathing
+  - MrKociak.RandomisedStoneRefinery
+  - RU.pashka.VinaLx.ResearchPalForked
+  - Am.Rus.Splashes
+  - Am.Rus.Vapor
+  - Owlchemist.SimpleChains.Lumber
+  - Owlchemist.SimpleFX.Smoke2
+  - MysticFelines.SimpleFX.Smoke2.Patches
+  - Owlchemist.SimpleFX.Splashes
+  - Owlchemist.SimpleFX.Vapor
+  - Owlchemist.CeilingUtilities
+  - seos.m.st.liaraangry
+  - VanillaExpanded.VCEFAddon
+  - Ogliss.g223.wanderingcaravans
+  - EdB.PrepareCarefully.alonske.fork
+  - Odz.40k.ImperialGuard.DKOK
+  - Odz.40k.OrdoTempestus.TempestusScions
+  - biotexpans.core
+  - enzo4ka12.biotexpans.core
+  - flangopink.disableautoselecttravelsupplies
+  - huhu.lions.PS2NSBOarmor
+  - PlanetSide2.ru
+  - Uuugggg.TDSBugFixes
+  - brrainz.cameraplus
+  - hatti.cleaningarea
+  - Kamikadza13.legodude17.qualcolor
+  - hatti.qualitybuilder
+  - Uuugggg.ReplaceStuff
+  - RU.pashka.Uuugggg.ReplaceStuff
+Could not resolve reference to object with loadID Thing_Human36089 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.DirectPawnRelation curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Precept_1000 of type RimWorld.Precept. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(AnyBodyPartButGroinCovered_Disapproved_Memory, moodPowerFactor=1, moodOffset=0, age=4800) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Precept_999 of type RimWorld.Precept. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(AnyBodyPartButGroinCovered_Disapproved_Memory, moodPowerFactor=1, moodOffset=0, age=4800) curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Human36089 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.DirectPawnRelation curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+A hidden ritual precept was missing, adding: Conversion ritual (leader) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Pawn Fernanda has relation "Parent" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Pawn Mai has relation "Spouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Dining spot count changed from 0 to 0
+checking editor settings...
+activating bodysize genes...
+bodysizes genes are active
+QualityBuilder added to приказы category.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 5)
+
+Unloading 259 unused Assets to reduce memory usage. Loaded Objects now: 47092.
+Total: 798.485700 ms (FindLiveObjects: 2.631200 ms CreateObjectMapping: 7.729600 ms MarkObjects: 787.764500 ms  DeleteObjects: 0.359800 ms)
+
+Constructed TargetInfo with cell=(49, 0, 49) and a null map. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at BetterInfoCard.Dialog_InfoCard_Patch.get_QuickSearchWidgetInstanced (Verse.Dialog_InfoCard dialog) [0x00001] in <fb43dc73ecaa40e6bab770f7b2aedb53>:0 
+  at (wrapper dynamic-method) Verse.Dialog_InfoCard.Verse.Dialog_InfoCard.get_CommonSearchWidget_Patch0(Verse.Dialog_InfoCard)
+  at (wrapper dynamic-method) Verse.Window.Verse.Window.InnerWindowOnGUI_Patch0(Verse.Window,int)
+  at UnityEngine.GUI.CallWindowDelegate (UnityEngine.GUI+WindowFunction func, System.Int32 id, System.Int32 instanceID, UnityEngine.GUISkin _skin, System.Int32 forceRect, System.Single width, System.Single height, UnityEngine.GUIStyle style) [0x00078] in <83a6362a90a344f1831389f7137844c4>:0 
+ 
+(Filename: <eae584ce26bc40229c1b1aa476bfa589> Line: 0)
+
