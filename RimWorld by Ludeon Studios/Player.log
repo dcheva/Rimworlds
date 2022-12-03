@@ -5289,3 +5289,33 @@ KeyNotFoundException: The given key was not present in the dictionary.
  
 (Filename: <eae584ce26bc40229c1b1aa476bfa589> Line: 0)
 
+loading icon for custom xenotype 
+selected=CE_Apparel_Backpack
+selected=CE_Apparel_TribalBackpack
+searching for compatible apparel in subpath=Things/Apparel/TribalPack .. found=8 .. checking for matching entity=CE_Tribalpack
+DebugLoadIDsSavingErrorsChecker error: tried to register deep-saved object with loadID Thing_MrHandy40820__Smash_Managed, but it's already here. label=MVCF_ManagedVerb (not cleared after the previous save? different objects have the same load ID? the same object is deep-saved twice?) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MVCF.ManagedVerb was already deepsaved at . 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DebugLoadIDsSavingErrorsChecker error: tried to register deep-saved object with loadID Verb_Thing_MrHandy40820__Smash, but it's already here. label=li (not cleared after the previous save? different objects have the same load ID? the same object is deep-saved twice?) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CombatExtended.Verb_MeleeAttackCE was already deepsaved at . 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wrote screenshot C:/Users/Dmytro/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Test.jpg of size 312549
+DebugLoadIDsSavingErrorsChecker error: tried to register deep-saved object with loadID Thing_MrHandy40820__Smash_Managed, but it's already here. label=MVCF_ManagedVerb (not cleared after the previous save? different objects have the same load ID? the same object is deep-saved twice?) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MVCF.ManagedVerb was already deepsaved at . 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DebugLoadIDsSavingErrorsChecker error: tried to register deep-saved object with loadID Verb_Thing_MrHandy40820__Smash, but it's already here. label=li (not cleared after the previous save? different objects have the same load ID? the same object is deep-saved twice?) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CombatExtended.Verb_MeleeAttackCE was already deepsaved at . 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wrote screenshot C:/Users/Dmytro/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Test.jpg of size 311601
