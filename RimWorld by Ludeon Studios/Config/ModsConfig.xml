@@ -8,9 +8,11 @@
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
     <li>ludeon.rimworld.biotech</li>
-    <li>frozensnowfox.betterancientcomplexloot</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>sarg.alphagenes</li>
+    <li>frozensnowfox.betterancientcomplexloot</li>
     <li>vanillaexpanded.vcef</li>
+    <li>dakkpasserida.animareplant</li>
     <li>regrowth.botr.core</li>
     <li>frozensnowfox.filthvanisheswithrainandtime</li>
     <li>jangodsoul.theforge.anvil</li>
@@ -20,7 +22,6 @@
     <li>syrchalis.processor.framework</li>
     <li>rwnodetree.rwnodetree</li>
     <li>rwnodetree.rwweaponmodularization</li>
-    <li>rwnodetree.modularizationvanillaweapon</li>
     <li>owlchemist.toggleableoverlays</li>
     <li>rimfridge.kv.rw</li>
     <li>lwm.deepstorage</li>
@@ -59,6 +60,7 @@
     <li>hobtook.tradeui</li>
     <li>gt.sam.tilledsoil</li>
     <li>jangodsoul.t45b.powerarmor</li>
+    <li>owlchemist.fridgeutilities</li>
     <li>seos.m.storages</li>
     <li>indeed.stackxxl</li>
     <li>smashphil.srtsexpanded</li>
@@ -93,6 +95,7 @@
     <li>mehni.pickupandhaul</li>
     <li>owlchemist.perspectivetrees</li>
     <li>owlchemist.perspectiveeaves</li>
+    <li>owlchemist.wallutilities</li>
     <li>owlchemist.perspectivebuildings</li>
     <li>saucypigeon.pawnbadge</li>
     <li>mlie.morefactioninteraction</li>
@@ -148,6 +151,42 @@
     <li>roolo.giddyupbattlemounts</li>
     <li>roolo.giddyupcaravan</li>
     <li>roolo.giddyuprideandroll</li>
+    <li>edb.preparecarefully.alonske.fork.kotobike</li>
+    <li>dopwop.simpledwarves</li>
+    <li>mlie.apothecary</li>
+    <li>iluvsilicon.basicmedicine2</li>
+    <li>krkr.rule56</li>
+    <li>uuugggg.tdfindlib</li>
+    <li>uuugggg.ctrlf</li>
+    <li>unlimitedhugs.defensivepositions</li>
+    <li>newcolonist.largefactionbases</li>
+    <li>haplo.miscellaneous.mapgenfactionbase</li>
+    <li>mlie.monstrouscompendium</li>
+    <li>anonymous189.monstroushcompendiumhpcontinuedqhrus</li>
+    <li>unon.noburnmetal</li>
+    <li>jp.perfectpathing</li>
+    <li>mrkociak.randomisedstonerefinery</li>
+    <li>ru.pashka.vinalx.researchpalforked</li>
+    <li>am.rus.splashes</li>
+    <li>am.rus.vapor</li>
+    <li>owlchemist.simplechains.lumber</li>
+    <li>owlchemist.simplefx.smoke2</li>
+    <li>mysticfelines.simplefx.smoke2.patches</li>
+    <li>owlchemist.simplefx.splashes</li>
+    <li>owlchemist.simplefx.vapor</li>
+    <li>owlchemist.ceilingutilities</li>
+    <li>seos.m.st.liaraangry</li>
+    <li>vanillaexpanded.vcefaddon</li>
+    <li>ogliss.g223.wanderingcaravans</li>
+    <li>edb.preparecarefully.alonske.fork</li>
+    <li>odz.40k.imperialguard.dkok</li>
+    <li>odz.40k.ordotempestus.tempestusscions</li>
+    <li>biotexpans.core</li>
+    <li>enzo4ka12.biotexpans.core</li>
+    <li>flangopink.disableautoselecttravelsupplies</li>
+    <li>huhu.lions.ps2nsboarmor</li>
+    <li>planetside2.ru</li>
+    <li>uuugggg.tdsbugfixes</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>

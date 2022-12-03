@@ -4455,4 +4455,49 @@
       <a>0</a>
     </Color>
   </CacheEntry>
+  <CacheEntry>
+    <DefName>TileAYPlaster</DefName>
+    <Color>
+      <r>0.29174304</r>
+      <g>0.275153637</g>
+      <b>0.214970648</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>TileAYPlasterSalt</DefName>
+    <Color>
+      <r>0.5238537</r>
+      <g>0.502749145</g>
+      <b>0.417559415</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>AG_CrackedConcrete</DefName>
+    <Color>
+      <r>0.380392164</r>
+      <g>0.3764706</g>
+      <b>0.380392164</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>AG_RustedTile</DefName>
+    <Color>
+      <r>0.211764708</r>
+      <g>0.219607845</g>
+      <b>0.203921571</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>AG_BurntCarpet</DefName>
+    <Color>
+      <r>0.152941182</r>
+      <g>0.149019614</g>
+      <b>0.152941182</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
 </ArrayOfCacheEntry>

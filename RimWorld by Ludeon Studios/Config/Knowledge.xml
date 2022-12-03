@@ -15,7 +15,7 @@
     </li>
     <li>
       <key>Capturing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ShieldBelts</key>
@@ -27,7 +27,7 @@
     </li>
     <li>
       <key>Drafting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GroupGotoHereDragging</key>
@@ -55,7 +55,7 @@
     </li>
     <li>
       <key>DrugPolicies</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TVForSickPeople</key>
@@ -63,7 +63,7 @@
     </li>
     <li>
       <key>PrisonerTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SetGrowingZonePlant</key>
@@ -71,7 +71,7 @@
     </li>
     <li>
       <key>DrugBurning</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DoorOpenSpeed</key>
@@ -115,7 +115,7 @@
     </li>
     <li>
       <key>EquippingWeapons</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Alerts</key>
@@ -143,11 +143,11 @@
     </li>
     <li>
       <key>AnimalTaming</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalTraining</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>InfoCard</key>
@@ -183,7 +183,7 @@
     </li>
     <li>
       <key>TimeAssignments</key>
-      <value>0.6571522</value>
+      <value>1</value>
     </li>
     <li>
       <key>ManualWorkPriorities</key>
@@ -283,7 +283,7 @@
     </li>
     <li>
       <key>GenesAndXenotypes</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Mechanitors</key>
@@ -299,7 +299,7 @@
     </li>
     <li>
       <key>CE_Reload</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_ReloadNoMag</key>
@@ -319,7 +319,7 @@
     </li>
     <li>
       <key>CE_AimModes</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_Spotting</key>
@@ -331,7 +331,7 @@
     </li>
     <li>
       <key>CE_AimingSystem</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_Stabilizing</key>
@@ -355,15 +355,15 @@
     </li>
     <li>
       <key>CE_WornBulk</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_Crouching</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_NightVision</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_MuzzleFlash</key>

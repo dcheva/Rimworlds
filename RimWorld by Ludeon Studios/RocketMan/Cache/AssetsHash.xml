@@ -5518,4 +5518,421 @@
   <Asset id="C:\Games\RimWorld 1.4\Mods\Giddy - up!Ride and Roll\Defs\PawnColumnDefs\PawnColumn_Checkbox.xml" hash="6623271297360897173" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Giddy - up!Ride and Roll\Defs\UpdateFeatureDefs\UpdateFeatures.xml" hash="4560342615789751367" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\RW_ModularizationWeapon\1.4\Defs\Jobs_Misc.xml" hash="16489683088538452455" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Character Editor\Defs\CharEditor.xml" hash="2483095062080959467" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Character Editor\Defs\GradientHairMasks.xml" hash="13288496430261497960" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Character Editor\v1.4\Defs\LifeStageGiant.xml" hash="8096035658497654183" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Replantable Anima Trees\Patches\AnimaTreePatch.xml" hash="13382285198398024439" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Utilities Fridge\Patches\patch.owlchemist.fridgeutilities.xml" hash="14871385840512866501" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Utilities Fridge\1.4\Defs\fridge.xml" hash="10234029210946022312" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\SeedsPlease Lite\Mods\mlie.apothecary\Defs\mlie.apothecary.xml" hash="524062192448721188" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Utilities Wall\Patches\patch.owlchemist.wallutilities.xml" hash="17620099562644137188" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Utilities Wall\Patches\patch.noVents.xml" hash="911791828671822181" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Utilities Wall\1.4\Patches\patch.owlchemist.wallutilities.walllight.xml" hash="2068071015258836643" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Utilities Wall\1.4\Defs\Deflist.xml" hash="8382381448822103747" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Utilities Wall\1.4\Defs\ThingDefs_Buildings\WallUtilities.xml" hash="1863712812351695749" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Utilities Wall\1.4\Defs\ThingDefs_Buildings\Fencepost_Lights.xml" hash="5961206519523628790" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[DW] Simple Dwarves - Xenotype + Dwarf Faction\1.4\Defs\GeneDefs\XenotypeDefs.xml" hash="17185980050818080944" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[DW] Simple Dwarves - Xenotype + Dwarf Faction\1.4\Defs\FactionDefs\NameMakers_DW_Dwarf.xml" hash="18163338393667601880" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[DW] Simple Dwarves - Xenotype + Dwarf Faction\1.4\Defs\CultureDefs\Cultures.xml" hash="13353014865574798177" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[DW] Simple Dwarves - Xenotype + Dwarf Faction\1.4\Defs\FactionDefs\FactionDef_DW_Dwarf.xml" hash="8366861955591637571" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_LotRims.xml" hash="8646001845422054595" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_RimOverhaul.xml" hash="18200962543469555216" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\owlchemist.simplefxsmoke.xml" hash="18228017577188768823" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Vanilla.xml" hash="15879344152519450912" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_LTS_Ammo.xml" hash="14041870016382246129" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_RimPlas.xml" hash="11984673902314659871" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Atlas_Materials.xml" hash="4914498220697242469" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_LWM_Deep_Storage_AY.xml" hash="6166674745893094648" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_VFE.xml" hash="6322897065081621984" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_SD_Medic_Addons.xml" hash="131215661614601601" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Coal.xml" hash="706619088454202532" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Medieval_Times.xml" hash="992066133192512957" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_VG.xml" hash="1583046257915122921" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Dubs_Bad_Hygiene.xml" hash="503359031756109480" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_VG_Salt.xml" hash="1267811883951592499" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_MS.xml" hash="11296934175205359944" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Z_Charcoal.xml" hash="9030230856811440304" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Seeds_Please.xml" hash="11975218625655575598" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_PreservingBarrel.xml" hash="1963873011933627882" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Fermenter.xml" hash="4030604626185108505" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patch_CamouflageandStealth.xml" hash="1000506871349435452" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Simply_Coal_WMD.xml" hash="6473211776669077929" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Remote_Tech.xml" hash="720687882815388807" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Gloomy.xml" hash="10892726948597782205" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_SI_SIR.xml" hash="15819905100333313337" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patch_DO_AYDrugs.xml" hash="10954590311465693749" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_RFF.xml" hash="2606856515004069474" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_SmokedMeat.xml" hash="1977872683698649558" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patch_ElectricStoneTable.xml" hash="9841690159821350849" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Immunities.xml" hash="211295008077945968" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Tribal_Signalfire.xml" hash="7552608779634034049" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_Industrialisation.xml" hash="1775796849721281069" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Patches\Patches_KMoreStones.xml" hash="13891234584831974223" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\Defs_AYBuildingBase.xml" hash="17882775526353444529" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYStJohnsWortFlowers.xml" hash="10104901119853483208" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Oils\Defs_AYStarAniseOil.xml" hash="807037953435370341" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Teas\Defs_AYGingerTea.xml" hash="14959906792536871965" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Oils\Defs_AYStJohnsWortOil.xml" hash="10440617858320345366" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\ApothecaryTable\Defs_AYApothecaryTable.xml" hash="16086661118269882809" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYTurmericRoot.xml" hash="5283207139329096050" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Teas\Defs_AYGinsengTea.xml" hash="11849644326735305133" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYWhiteWillowBark.xml" hash="5767795697987259953" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Oils\Defs_AYWormwoodOil.xml" hash="11052189226815107795" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\AYBrazier\Defs_AYBrazier.xml" hash="1244621500191687454" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Teas\Defs_AYHenbaneTea.xml" hash="3170260905685971212" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYWormwoodLeaves.xml" hash="2620295739710737851" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\AYPassiveCooler\Defs_AYPassiveCooler.xml" hash="4062839997066423740" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Oils\Defs_AYYarrowOil.xml" hash="1742961137460914188" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Teas\Defs_AYKaleTea.xml" hash="12318530981693329528" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYYarrowMaterial.xml" hash="7318988933234458610" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Powders\Defs_AYCinchonaPowder.xml" hash="5395314535166445503" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\Candle\Defs_AYCandles.xml" hash="17410574401172003515" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Teas\Defs_AYNettleTea.xml" hash="1164731844664827368" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Powders\Defs_AYGarlicPowder.xml" hash="15014281939260829017" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\CastArtTable\Defs_AYCastArtTable.xml" hash="12436136430120606701" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Medicine\Defs_AYMedicine.xml" hash="11837487120413347222" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Teas\Defs_AYQuinineTea.xml" hash="16878061106302867546" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\CastArtTable\Defs_AYLargeCastArtTable.xml" hash="7161344619987559493" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYAloeVera.xml" hash="16671738194153617290" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Powders\Defs_AYGingerPowder.xml" hash="11315075182460301825" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Teas\Defs_AYTurmericTea.xml" hash="8083599804991945426" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\CharcoalKiln\Defs_AYCharcoalKiln.xml" hash="18418266644082536698" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYBelladonna.xml" hash="9209812272280809164" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Powders\Defs_AYGinkgoPowder.xml" hash="2543215243122836164" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\CompostBarrel\Defs_AYCompostBarrel.xml" hash="14643086093926554524" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Tonics\Defs_FluTonic.xml" hash="12067888502510728362" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYCinchona.xml" hash="12748290680697919925" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\HerbBox\Defs_AYHerbBox.xml" hash="508673848800687734" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Powders\Defs_AYGinsengPowder.xml" hash="8212134595060631979" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYGarlic.xml" hash="8172290841534922429" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Tonics\Defs_WillowTonic.xml" hash="11344369307303091254" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\PotashBarrel\Defs_AYPotashBarrel.xml" hash="13679012529402872985" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Powders\Defs_AYHenbanePowder.xml" hash="15150916590955446526" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYGinger.xml" hash="18392150831188262310" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Tonics\Defs_WormwoodTonic.xml" hash="147082520859923707" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\PreserveBarrel\Defs_AYPreserveBarrel.xml" hash="14054448369107178507" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYGinkgoBiloba.xml" hash="11343012153175371061" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Powders\Defs_AYKalePowder.xml" hash="8134692536178449304" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Apparel\Defs_AYapothecary.xml" hash="13276414201390667218" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYGinseng.xml" hash="2295173916799307325" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Powders\Defs_AYNettlePowder.xml" hash="9428937328409046576" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Apparel\Defs_AYHerbalist.xml" hash="12963964576451849109" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\Vanilla_Charcoal\Defs_Vanilla_Charcoal.xml" hash="10250304049505937288" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYHenbane.xml" hash="12176562117613989048" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Powders\Defs_AYTurmericPowder.xml" hash="3738111377201214742" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Equipment\Defs_AYFilthBase.xml" hash="5784502940867294510" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\WashingTub\Defs_AYWashingTub.xml" hash="8451826426097216519" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYKale.xml" hash="5532979324102560575" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Powders\Defs_AYWhiteWillowPowder.xml" hash="15987686015864342465" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Equipment\AYSalt_Bucket\AYSalt_Bucket.xml" hash="9539155926871340297" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Buildings\WaterGrower\Defs_AYWaterGrower.xml" hash="16925784367959781790" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYLavender.xml" hash="13151167645579656215" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Textiles\Defs_AYNettleHemp.xml" hash="15181094975961091147" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Categories\Defs_AYCategories.xml" hash="9032001936853229935" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYAloeLeaves.xml" hash="3058333674071390865" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYNettle.xml" hash="18021363827315955845" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Equipment\AYWoodAsh_Bucket\AYWoodAsh_Bucket.xml" hash="1436456708569635655" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Defs_AYDrugsBase.xml" hash="309441590492301429" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYBelladonnaBerries.xml" hash="11230762232295264986" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYPlantsBase.xml" hash="5411572706758176361" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Elixirs\Defs_ElixirCalming.xml" hash="3530663133423174111" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Misc\Defs_AYAbsinthe.xml" hash="11434960852437015808" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYStarAnise.xml" hash="2790038676228183231" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYCinchonaBark.xml" hash="9927289068086841981" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYStJohnsWort.xml" hash="8707509569860185612" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYGarlicBulb.xml" hash="8645196151584404863" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Misc\Defs_AYAmmoniaWater.xml" hash="3025512536790380131" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Elixirs\Defs_ElixirInciting.xml" hash="15882250123763575042" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYTurmeric.xml" hash="1410607657529473106" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYGingerRoot.xml" hash="6516855376758861776" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Elixirs\Defs_ElixirLucidity.xml" hash="12696856726752031895" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYWhiteWillow.xml" hash="9769772588436617875" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Misc\Defs_AYCalciumCarbonate.xml" hash="9944009334795534523" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYGinkgoLeaves.xml" hash="10330644149539901555" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYGinkgoSeeds.xml" hash="11977059935029509521" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYWormwood.xml" hash="817541085553666068" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Elixirs\Defs_ElixirSoothing.xml" hash="17910375664564415206" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Misc\Defs_AYCharcoal.xml" hash="6173196412598489950" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYGinsengRoot.xml" hash="4215444467405357994" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Plants\Defs_AYYarrow.xml" hash="6946684979913619181" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Ointments\Defs_AYAloeCream.xml" hash="9204311686999708507" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYHenbaneLeaves.xml" hash="18022951281141420232" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Misc\Defs_AYCompost.xml" hash="17454093062631224454" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Recipes\Defs_ClothesWashing.xml" hash="487442313131509718" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYKaleLeaves.xml" hash="13729471417702693460" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Ointments\Defs_AYLavenderBalm.xml" hash="17433503637337164305" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Misc\Defs_AYPotash.xml" hash="15018024126970284589" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Recipes\Defs_DestroyProducts.xml" hash="8902684082122841323" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYLavenderFlowers.xml" hash="3526103855151076798" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Misc\Defs_AYPottingMix.xml" hash="9507786525529909457" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYNettleLeaves.xml" hash="3038575855652153430" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Ointments\Defs_AYLavenderSoap.xml" hash="14051245874262884010" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Recipes\Defs_PlasterArt.xml" hash="7749091627750168922" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Misc\Defs_AYPreserveMix.xml" hash="13877232064675790590" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Resources\Defs_AYStarAniseFlowers.xml" hash="7505361554623399946" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Ointments\Defs_AYScarCream.xml" hash="5336253833800374802" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Misc\Defs_AYSalAmmoniac.xml" hash="5607901040669702912" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Research\Defs_ResearchAY.xml" hash="6968068340330271434" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Ointments\Defs_AYYarrowCream.xml" hash="11062693603608737914" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Misc\Defs_AYSalt.xml" hash="10794366572662242998" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Salts\Defs_AYSmellingSalts.xml" hash="866356863816300767" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Misc\Defs_AYTallow.xml" hash="15742234307185631159" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Salts\Defs_AYStomachSalts.xml" hash="11902484099061064142" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Oils\Defs_AYAloeOil.xml" hash="17086699765414323992" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Drugs\Smokes\Defs_AYHenbaneJoint.xml" hash="14796373017197756856" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Oils\Defs_AYHenbaneOil.xml" hash="12519780880801487992" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Apothecary (Continued)\1.4\Defs\Items\Products\Oils\Defs_AYLavenderOil.xml" hash="5325320870159127392" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Basic Medicine\1.4\Patches\IndustialMedicinePatch.xml" hash="11155372737342935558" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Basic Medicine\1.4\Defs\ResearchProjectDefs\ResearchProjects_BasicMedicine.xml" hash="2705016368337625593" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Basic Medicine\1.4\Defs\ThingDefs_Items\Items_Resource_Manufactured.xml" hash="11073975788851255419" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\CAI 5000 - Advance Combat AI Mod\Patches\Races_Animal_Base.xml" hash="10145960941784389652" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\CAI 5000 - Advance Combat AI Mod\Defs\Stats\Stats_AI.xml" hash="13130735227387187981" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\CAI 5000 - Advance Combat AI Mod\Defs\ThingDef_Buildings\Buildings_Security.xml" hash="9234650686456511058" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Ctrl F\Defs\CtrlFKeyBinding.xml" hash="11101544842232067443" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Defensive Positions\Defs\JobDefs\DefensivePositionsJobs.xml" hash="17792706496828587038" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Defensive Positions\Defs\MoteDefs\DefensivePositionsMotes.xml" hash="16550392337176439631" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Defensive Positions\Defs\UpdateFeatureDefs\UpdateFeatures.xml" hash="15654953367489723538" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Defensive Positions\Defs\KeyBindingDefs\KeyBindings.xml" hash="8971934758765029297" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Defensive Positions\Defs\KeyBindingCategoryDefs\KeyBindingCategories.xml" hash="18193285492218241181" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Large Faction Bases\1.4\Patches\RimWar_Large.xml" hash="17193010279782833953" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Large Faction Bases\1.4\Patches\Ideology_Large.xml" hash="14971449982741915405" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Large Faction Bases\1.4\Patches\Royalty_Large.xml" hash="16802233334659148466" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Large Faction Bases\Defs\DutyDef\Duties_Settlement2.xml" hash="13257969367300893199" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Large Faction Bases\Defs\ThingDef\IED.xml" hash="15234436736397059072" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Large Faction Bases\1.4\Defs\ThingSetMakerDefs\ThingSetMakers_MapGen.xml" hash="1967243673559506589" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Large Faction Bases\1.4\Defs\Rules\Rules.xml" hash="4249248114058168152" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Large Faction Bases\1.4\Defs\Rules\Rules_Indoors.xml" hash="4007666296144256570" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Patches\MapGen_FactionBase_Patch.xml" hash="79927287457116974" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Defs\MapGeneratorBaseBlueprintDefs\MapGeneratorBaseBlueprints_SmallBase.xml" hash="11603268835305228620" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Defs\MapGeneratorBaseBlueprintDefs\MapGeneratorBaseBlueprints_BaseJade2.xml" hash="850966686849271767" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Defs\MapGeneratorBaseBlueprintDefs\MapGeneratorBaseBlueprints_WMBase.xml" hash="3715879189755613217" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Defs\MapGeneratorDefs\MapGenerators_FactionBase_Blueprint.xml" hash="15571522619797654700" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Defs\MapGeneratorBaseBlueprintDefs\MapGeneratorBaseBlueprints_SmallNeolithicDinner.xml" hash="1694674691720766841" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Defs\ThingDefs\MapGenerators_RectTrigger_UnfogBaseArea.xml" hash="3377442976144025998" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Defs\MapGeneratorBaseBlueprintDefs\MapGeneratorBaseBlueprints_BoxHospital.xml" hash="348376834610785489" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Defs\MapGeneratorBaseBlueprintDefs\MapGeneratorBaseBlueprints_SmallOutpostA.xml" hash="14121937807303314949" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Defs\MapGeneratorBaseBlueprintDefs\MapGeneratorBaseBlueprints_BoxBase.xml" hash="8881744731948928808" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Defs\MapGeneratorBaseBlueprintDefs\MapGeneratorBaseBlueprints_BoxWarehouse.xml" hash="4940054799279306520" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Defs\MapGeneratorBaseBlueprintDefs\MapGeneratorBaseBlueprints_BoxBaseNeolithic.xml" hash="1014451647622222490" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Defs\MapGeneratorBaseBlueprintDefs\MapGeneratorBaseBlueprints_Neolithic_Village.xml" hash="16742180655109824439" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Misc. MapGen FactionBase\1.4\Defs\MapGeneratorBaseBlueprintDefs\MapGeneratorBaseBlueprints_BoxColonyS.xml" hash="9889355906663620355" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\Patches\patch_adogsaid.xml" hash="3071816511996124081" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Body_Deviljho.xml" hash="11560422161017390505" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Races_Illithid.xml" hash="15218043901472233455" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Damage.xml" hash="1723850276593225401" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Races_Beetle.xml" hash="14710428936712845524" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Body_Gryphon.xml" hash="6455814927281597772" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Equip_Illithid.xml" hash="5310011598897783099" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Races_Ooze.xml" hash="383673163901700768" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Factions.xml" hash="4265576606443120318" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Races_Deviljho.xml" hash="16912804907571062311" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Body_Hydra.xml" hash="6081864884542839738" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Incidents.xml" hash="14787404179958249299" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Races_Worm.xml" hash="17023777428106405866" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Sounds.xml" hash="8604612935909983764" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Races_Gryphon.xml" hash="18310028298044917070" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Body_Illithid.xml" hash="3173063343288057789" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Body_Slime.xml" hash="8069422587897734796" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Monstrous Compendium (Continued)\1.4\Defs\Races_Hydra.xml" hash="3402452860885659256" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\No Burn Metal\Patches\medieval_overhaul-metal_patch.xml" hash="14604201735199292801" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\No Burn Metal\Patches\alpha_animals_-_metal_patch.xml" hash="4154028514398286510" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\No Burn Metal\Patches\metal_patch.xml" hash="8446559329999185218" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\No Burn Metal\Patches\vanillexpanded_classical_-_metal_patch.xml" hash="9394969970952264564" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\No Burn Metal\Patches\expanded_materials_-_metal_patch.xml" hash="16822363592792397850" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Randomised Stone Refinery\Patches\MedievalOverhaul.xml" hash="16124663532285714918" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Randomised Stone Refinery\Patches\VE_Mechs.xml" hash="10297766768643324769" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Randomised Stone Refinery\Defs\RecipeDefs.xml" hash="17894138835754856220" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Randomised Stone Refinery\Defs\ItemDefs.xml" hash="10037910242853588363" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Chains Lumber\Patches\Genetic Rim\WoodExceptions.xml" hash="16386906307830854808" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Chains Lumber\Patches\patch.owlchemist.simplechains.lumber.xml" hash="624179996185270312" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Chains Lumber\Patches\Xenite Industries\XeniteIndustries.xml" hash="12008222460007382465" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Chains Lumber\Patches\Medieval Overhaul\patch.dankpyon.medieval.overhaul.xml" hash="12736711165075276266" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Chains Lumber\Patches\Yayo Combat\VanillaFactionsExpandedMedieval.xml" hash="18072843627244860532" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Chains Lumber\Patches\Combat Extended\patch.ceteam.combatextended.xml" hash="5811882694268259331" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Chains Lumber\1.3\Defs\ThingDefs_Items\Items_Resource_Fuel.xml" hash="13130795680813450806" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Chains Lumber\1.3\Defs\RecipeDefs\Recipes_Production.xml" hash="2423044927857325220" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Chains Lumber\1.3\Defs\ThingDefs_Items\Items_Resource_Stuff.xml" hash="533210944368268170" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Chains Lumber\1.3\Defs\ThingDefs_Buildings\Buildings_Production.xml" hash="15236612476092121179" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Chains Lumber\1.3\Defs\StuffCategoryDefs\Stuff_RawWoody.xml" hash="6689930752825459752" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Smoke\Patches\Tribal Signal Fire\AddSmokeTribalSignalfire.xml" hash="2900332560868885378" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Smoke\Patches\Trade Ship\AddSmokeTraderShip.xml" hash="10141203459240961712" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Smoke\Patches\patch.owlchemist.simplefx.smoke2.xml" hash="11172088468851405555" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Smoke\Patches\Vanilla Expanded Series\AddSmokeVE.xml" hash="1103007504190504489" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Smoke\Patches\Coal Expanded\AddSmokeCoal_Expanded.xml" hash="358640297745170736" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Smoke\Defs\owlchemist.simplefx.smoke2.xml" hash="11154807026227369320" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Smoke Patches\Patches\SFXS_Patches_HelixienGasBrazier.xml" hash="4093685335365399274" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Smoke Patches\Patches\SFXS_Patches_SimpleUtilitiesWall.xml" hash="11747852890314026763" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Smoke Patches\Patches\SFXSP_AppliancesExpanded.xml" hash="4925473786487441726" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Smoke Patches\Patches\SFXS_Patches_VE.xml" hash="16773348234977307043" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Smoke Patches\Patches\SFXS_Patches_RoyaltyIdeology.xml" hash="6459414667805821153" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Smoke Patches\Patches\SFXS_Patches_DBH.xml" hash="9855419472419454346" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Splashes\Defs\flecks.xml" hash="15531480958932175910" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple FX Vapor\Defs\Fleck_Visual.xml" hash="6161399691562343108" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Utilities Ceiling\Common\Patches\patch.owlchemist.ceilingutilities.xml" hash="7281864277141082166" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Simple Utilities Ceiling\1.4\Defs\ThingDefs_Buildings\CeilingUtilities.xml" hash="3435253402917054983" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Storyteller - Liara Livid\Defs\StorytellerDefs\Storyteller.xml" hash="3235484419948782936" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\RimBeesPatch.xml" hash="16569272955553766066" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\VanillaCookingExpandedPatch.xml" hash="2047429987983288324" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\GimmicksPatch.xml" hash="10301892032632957659" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\ADogSaidPatch.xml" hash="8486955357339972864" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\VanillaCookingExpandedSushiPatch.xml" hash="10762275155368154736" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\RimefellerPatch.xml" hash="4485680642487682779" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\JewelryPatch.xml" hash="4168880560676905651" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\AlphaAnimalsPatch.xml" hash="12878077998003587230" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\RimMadnessBonesPatch.xml" hash="7743272835379425326" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\VanillaFactionsExpandedInsectoidsPatch.xml" hash="15027183441099653671" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\LootBoxesPatch.xml" hash="4854247362561411755" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\AlphaBiomesPatch.xml" hash="2848831741921879233" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\VanillaFactionsExpandedMechanoidsPatch.xml" hash="3329497005009273168" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\RoyaltyPatch.xml" hash="14519098770696901272" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\MoreArchotechPatch.xml" hash="14979620625698317789" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\VanillaFactionsExpandedMedievalPatch.xml" hash="7291739108674714528" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\UltratechAlteredCarbonPatch.xml" hash="5156337037635195283" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\ARimWorldOfMagicPatch.xml" hash="8553303985855158438" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\VanillaFactionsExpandedSettlersPatch.xml" hash="12780104516172773145" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\MoreMeleeWeaponsPatch.xml" hash="13241639143297878273" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\VanillaApparelExpandedPatch.xml" hash="3443868402277934407" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\VanillaFactionsExpandedVikingsPatch.xml" hash="13736395427130265279" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\CallofCthulhuFactionsPatch.xml" hash="12281856176084156162" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\PawnmorpherPatch.xml" hash="9271876829693938989" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\VanillaBooksExpandedPatch.xml" hash="15199337355189439970" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\VanillaWeaponsExpandedPatch.xml" hash="16289934231988714175" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\QuestionableEthicsEnhancedPatch.xml" hash="12487467341758115043" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\CyberneticOrganismandNeuralNetworkPatch.xml" hash="5078031243810992208" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\VanillaBrewingExpandedPatch.xml" hash="2081015416702984806" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\RaceToTheRimPatch.xml" hash="338535157042024047" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\DiceOfDestinyPatch.xml" hash="11369325804621365958" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\RimatomicsPatch.xml" hash="13566904551165163541" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\DragonsDescentPatch.xml" hash="14033279488439273875" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Patches\ExpandedMaterialsPlasticsPatch.xml" hash="9256073337715943497" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Fishing Expanded - Fishing Treasures AddOn\1.4\Defs\FishDefs\FishDefs.xml" hash="650454092030560684" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Wandering Caravans [Adopted]\Defs\WorldObjectDefs\WorldObjectDefs_WanderingCaravans.xml" hash="9895859370346983399" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Wandering Caravans [Adopted]\Defs\IncidentDefs\IncidentDefs_WanderingCaravans.xml" hash="14437411365541347966" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Patches\TailGenesCategoryPatch.xml" hash="14340447496220148558" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Patches\SoakingWetPatch.xml" hash="13006154543249854190" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Patches\FoodConsumptionCategoryPatch.xml" hash="9395236903567920716" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Patches\AteWithoutATablePatch.xml" hash="5774473753632285626" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Patches\ThinkTreeHumanLikePatch.xml" hash="694664383548866697" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Patches\SterilePatch.xml" hash="12605652533321999837" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Patches\HornGenesCategoryPatch.xml" hash="1328242009562680120" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Patches\CorpsesPatch.xml" hash="7406843759772691001" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Patches\VanillaRacesExpandedGeniesPatch.xml" hash="1338992457060165637" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Patches\StrongStomachPatch.xml" hash="14842767588103405906" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Patches\LungRotPatch.xml" hash="12816497616905621553" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Patches\EarGenesCategoryPatch.xml" hash="7079676530070095665" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Mods\Royalty\Defs\AbilityDefs\Abilities_Royalty.xml" hash="2864818431921546431" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_BodySize.xml" hash="7652432500147466360" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\JobDefs\Jobs_Work.xml" hash="2884819784967984994" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Temperature.xml" hash="3761812257036879531" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Mods\Royalty\Defs\GeneDefs\GeneDefs_Royalty.xml" hash="5786701840293324391" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\MentalStateDefs\MentalStates_Special.xml" hash="11169086463001729653" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Voices.xml" hash="6799276656773460093" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Cosmetic.xml" hash="14578959114008716482" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Mods\Royalty\Defs\HediffDefs\Hediffs_Royalty.xml" hash="768792388269563493" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\QuestScriptDefs\Script_BiotechAbandonedLab.xml" hash="12798202627418662995" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Cosmetic_Hair.xml" hash="3020902983553261057" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Vomit.xml" hash="3713350919920721733" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\RulePackDefs\RulePacks_Genepacks.xml" hash="2172863129142775674" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\AbilityDefs\Abilities.xml" hash="17207134176582110530" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Cosmetic_Skin.xml" hash="10425467886867145867" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Wings.xml" hash="16525991581704747110" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\Scenarios\Scenarios.xml" hash="3989920179346659423" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\BodyTypeDefs\BodyTypes.xml" hash="11229749363271050885" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Ears.xml" hash="16105761552883931797" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\Sites\BiotechLabs.xml" hash="958416400975994807" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\XenotypeDefs.xml" hash="7255604862697640098" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\SoundDefs\Pawn_Humanlike_Vox_Genes.xml" hash="2355017636118601244" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\XenotypeIconDefs.xml" hash="5276657105379852175" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Effects.xml" hash="16750024040809448546" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\SoundDefs\Sounds.xml" hash="4020231492243451362" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Eyes.xml" hash="9610486160762764798" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\TerrainDefs\Terrain_Floors.xml" hash="670803672622688742" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HeadTypeDefs\HeadTypeDefs.xml" hash="9738980615539736395" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\ThingCategoryDefs\ThingCategories.xml" hash="108454469744604900" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Food.xml" hash="7763866480922150172" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_Ability.xml" hash="9316625644380455837" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_GameCreationSummons.xml" hash="3110197973336611878" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_Armour.xml" hash="5633716983198378655" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\ThingDefs_Buildings\Buildings_Junk.xml" hash="18313263659716031192" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Gender.xml" hash="8636779317758329864" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\CustomGenDefs\BiotechLabs.xml" hash="15546920643287303383" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_Attacks.xml" hash="10169900405315585026" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Heads.xml" hash="18371033142219942809" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\ThingDefs_Buildings\Buildings_Structure.xml" hash="16725831416463896656" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\CustomGenDefs\Symbols.xml" hash="7796956190078454475" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_Conditions.xml" hash="3882544582967323072" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\ThingDefs_Items\Items_Resource_Eggs.xml" hash="13703423187238352050" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\DamageDefs\Damages_Abilities.xml" hash="8972211713063800171" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Health.xml" hash="9547678088603527787" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_Food.xml" hash="3220148782091581889" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Instability.xml" hash="3537648793533321723" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\ThingDefs_Items\Items_Various.xml" hash="118330106898173594" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\Effects\Effecter_Damage.xml" hash="12145408402160868120" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_Health.xml" hash="18180876862526528068" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_MentalState.xml" hash="9841536656778758356" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\Effects\Effecter_Misc.xml" hash="11756798828598660424" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\ThingDefs_Misc\Filth_Various.xml" hash="7166055872901443299" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Pain.xml" hash="13231623216982340815" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\Effects\Effecter_PawnStates.xml" hash="4698036233239010379" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\ThingDefs_Misc\Motes.xml" hash="4696238794496436785" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_MetalResource.xml" hash="4712637332757897113" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\FactionDefs\Factions_Misc.xml" hash="6443217656700846237" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Psychic.xml" hash="14262820720841274940" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_Movement.xml" hash="18420741784858598252" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\ThingDefs_Misc\Projectiles.xml" hash="12472119897001606955" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\FleshTypeDefs\FleshTypeDef.xml" hash="2418513049387247047" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\ThingSetMakerDefs\ThingSetMakers_Misc.xml" hash="13844107274560216279" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_Reproduction.xml" hash="1079159036267803429" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Reproduction.xml" hash="9375795476563653109" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_ResourceProduction.xml" hash="1661839837673575938" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\FurDefs\FurDefs.xml" hash="16085938939914750750" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\ThoughtDefs\Thoughts_Memory_Misc.xml" hash="5624763529743954248" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_Sunlight.xml" hash="5796454753092230104" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneCategoryDefs.xml" hash="10941314339184871867" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\ThoughtDefs\Thoughts_Situation_Social.xml" hash="13292293923051267042" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Resources.xml" hash="5552123008538577505" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\TraitDefs\Traits_Spectrum.xml" hash="7011024211296483176" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Special.xml" hash="12584547966382246818" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_Temperature.xml" hash="10909976555189655412" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Abilities.xml" hash="2641398413182223108" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Speed.xml" hash="7125628049620011127" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_Thoughts.xml" hash="15640929356895127481" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Aging.xml" hash="10855995467842031634" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\WorkGiverDefs\WorkGivers.xml" hash="2154301330968507504" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\HediffDefs\Hediffs_Weather.xml" hash="13679384768283749304" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Sunlight.xml" hash="7268698664708831189" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\JobDefs\Jobs_Metal.xml" hash="6283743530457122951" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Aptitude.xml" hash="5365963734995097324" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Tails.xml" hash="8832643955636923698" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Archite.xml" hash="17406594241418493044" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Armour.xml" hash="16351686455791413227" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Beauty.xml" hash="5073641127895426301" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Blood.xml" hash="14565935437767827261" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Alpha Genes\1.4\Defs\GeneDefs\GeneDefs_Bodies.xml" hash="11057071071254072887" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4 FORK] EdB Prepare Carefully\Defs\CarefullyPawnRelationDefs\CarefullyPawnRelations_Misc.xml" hash="6443958701949364687" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4 FORK] EdB Prepare Carefully\Defs\CarefullyPawnRelationDefs\CarefullyPawnRelations_FamilyByBlood.xml" hash="16840706588392218493" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4 FORK] EdB Prepare Carefully\Defs\CarefullyPawnRelationDefs\CarefullyPawnRelations_FamilyByChoice.xml" hash="4701429005811458963" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4] Astra Militarum Regimentum - Krieg\Defs\ThingDefs_Misc\Tech\40K_AstraMilitarum_tech.xml" hash="16716638546244026123" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4] Astra Militarum Regimentum - Krieg\Defs\ThingDefs_Misc\Tech\ResearchTabs.xml" hash="16085782245696476202" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4] Astra Militarum Regimentum - Krieg\Defs\ThingDefs_Misc\ThingDefs_Armor.xml" hash="17575811398254164800" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4] Astra Militarum Regimentum - Krieg\Defs\ThingDefs_Misc\ThingDefs_Headgear.xml" hash="16958285782547499485" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4] Astra Militarum Regimentum - Krieg\Defs\ThingDefs_Misc\ThingDefs_Belt.xml" hash="15740664390708813114" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4] Astra Militarum Regimentum - Krieg\Defs\ThingDefs_Misc\ThingDefs_Onskin.xml" hash="8536988006842983048" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4] Ordo Tempestus - Tempestus Scions\1.4\Defs\ThingDefs_Misc\Tech\40K_AstraMilitarum_tech.xml" hash="9861000661953447760" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4] Ordo Tempestus - Tempestus Scions\1.4\Defs\ThingDefs_Misc\Tech\ResearchTabs.xml" hash="16085782245696476202" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4] Ordo Tempestus - Tempestus Scions\1.4\Defs\ThingDefs_Misc\ThingDefs_Armor.xml" hash="8004463787444578689" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4] Ordo Tempestus - Tempestus Scions\1.4\Defs\ThingDefs_Misc\ThingDefs_Onskin.xml" hash="2015473081046842612" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\[1.4] Ordo Tempestus - Tempestus Scions\1.4\Defs\ThingDefs_Misc\ThingDefs_Headgear.xml" hash="7385753159137427064" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Biotech Expansion - Core\Patches\PatchThoughts.xml" hash="12730467016534379788" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Biotech Expansion - Core\Patches\AddCompsToHumanlike.xml" hash="85368894957702266" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Biotech Expansion - Core\Defs\Genes\GeneCategories.xml" hash="8343959564193653519" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Biotech Expansion - Core\Defs\WorkGivers\WorkGivers.xml" hash="6558054926549915005" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Biotech Expansion - Core\Defs\Genes\GeneDefs_Universal.xml" hash="11260355883383579232" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Biotech Expansion - Core\Defs\PawnkindDefs_Humanlike\PawnKinds_CarnivoreTribal.xml" hash="3109814735847243755" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Biotech Expansion - Core\Defs\Hediffs\NaturalWeapons.xml" hash="10209278094948711499" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Biotech Expansion - Core\Defs\Genes\GeneDefs_CoreGenes.xml" hash="5903312700206607951" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\PlanetSide2 NS Black Ops Combat Armor\CE\Patches\boarmors.xml" hash="3721321619385750443" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\PlanetSide2 NS Black Ops Combat Armor\1.4\Defs\ThingDefs_Misc\bohelmet.xml" hash="14168693592605189316" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\PlanetSide2 NS Black Ops Combat Armor\1.4\Defs\ThingDefs_Misc\boarmor.xml" hash="11015281589522342011" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\TD Find Lib - Release\Defs\ThingQueries.xml" hash="15304515391716527704" />
 </AssetsHash>

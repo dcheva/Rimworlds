@@ -27,6 +27,8 @@
 		</Hostiles>
 		<StaticRectPos>(1617.0, 4.0)</StaticRectPos>
 		<NaturalTerrain>True</NaturalTerrain>
+		<AttackAlerts>True</AttackAlerts>
+		<IcoScaleColonist>1.408602</IcoScaleColonist>
 		<ShowAnimals>True</ShowAnimals>
 		<ShowCorpses>True</ShowCorpses>
 		<multi21>200</multi21>
