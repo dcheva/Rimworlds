@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedXenotype>
+	<meta>
+		<gameVersion>1.4.3537 rev237</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>bs.betterlog</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>frozensnowfox.betterancientcomplexloot</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>vanillaexpanded.vcef</li>
+			<li>regrowth.botr.core</li>
+			<li>frozensnowfox.filthvanisheswithrainandtime</li>
+			<li>jangodsoul.theforge.anvil</li>
+			<li>jangodsoul.theforge.ncrarmory</li>
+			<li>derekbickley.legacyterrainoverhaulfinal</li>
+			<li>limetreesnake.systems</li>
+			<li>syrchalis.processor.framework</li>
+			<li>rwnodetree.rwnodetree</li>
+			<li>rwnodetree.rwweaponmodularization</li>
+			<li>owlchemist.toggleableoverlays</li>
+			<li>rimfridge.kv.rw</li>
+			<li>lwm.deepstorage</li>
+			<li>oskarpotocki.vfe.mechanoid</li>
+			<li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
+			<li>ceteam.combatextended</li>
+			<li>tmc.eft.melee</li>
+			<li>wemd.realisticdarknesslight</li>
+			<li>wild.addictol</li>
+			<li>andrewraphaellukasik.alloweverything</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>unlimitedhugs.allowtool</li>
+			<li>biowreck.ancientfalloutarmory</li>
+			<li>vanillaexpanded.vfemedical</li>
+			<li>vanillaexpanded.vfea</li>
+			<li>ifsck.ancientmedicallinking</li>
+			<li>scpchemfuel.appliances</li>
+			<li>bombadier.betterwallsandfloors</li>
+			<li>creeper.betterinfocard</li>
+			<li>m00nl1ght.geologicallandforms</li>
+			<li>m00nl1ght.geologicallandforms.biometransitions</li>
+			<li>murmur.walllight</li>
+			<li>seos.m.vfea.vault.wnd</li>
+			<li>seos.m.vfea.vault.s</li>
+			<li>zal.vwretexture</li>
+			<li>vanillaexpanded.vwems</li>
+			<li>vanillaexpanded.vwel</li>
+			<li>vanillaexpanded.skills</li>
+			<li>regrowth.botr.aspenforest</li>
+			<li>vanillaexpanded.vplantse</li>
+			<li>mrhydralisk.voeadditionaloutposts</li>
+			<li>vanillaexpanded.vmemese</li>
+			<li>vanillaexpanded.viehar</li>
+			<li>vanillaexpanded.varme</li>
+			<li>superniquito.traiticons</li>
+			<li>hobtook.tradeui</li>
+			<li>gt.sam.tilledsoil</li>
+			<li>jangodsoul.t45b.powerarmor</li>
+			<li>seos.m.storages</li>
+			<li>indeed.stackxxl</li>
+			<li>smashphil.srtsexpanded</li>
+			<li>legodude17.smartdecon</li>
+			<li>dhultgren.smarterconstruction</li>
+			<li>sarg.smartspeed</li>
+			<li>owlchemist.smartfarming</li>
+			<li>usgiyi.slaveoutfits</li>
+			<li>petetimessix.simplesidearms</li>
+			<li>owlchemist.seedspleaselite</li>
+			<li>owlchemist.scatteredstones</li>
+			<li>roolo.giddyupcore</li>
+			<li>thelastbulletbender.saddleup</li>
+			<li>trinity.runtimegcupdated</li>
+			<li>mlie.runandhide</li>
+			<li>ru.vanilla.weapons.expanded.laser</li>
+			<li>krkr.rocketman</li>
+			<li>mlie.roadsoftherim</li>
+			<li>arandomkiwi.rimsaves</li>
+			<li>sindre0830.rimnauts2</li>
+			<li>malteschulze.rimmsqol</li>
+			<li>jaxe.rimhud</li>
+			<li>dubwise.rimefeller</li>
+			<li>owlchemist.researchpowl</li>
+			<li>avilmask.researchwhatever</li>
+			<li>regrowth.botr.tundraexpansion</li>
+			<li>regrowth.botr.temperateforestexpansion</li>
+			<li>regrowth.botr.swampexpansion</li>
+			<li>regrowth.botr.borealforestexpansion</li>
+			<li>uuugggg.randomresearch</li>
+			<li>bustedbunny.prisonersarenotswines</li>
+			<li>mehni.pickupandhaul</li>
+			<li>owlchemist.perspectivetrees</li>
+			<li>owlchemist.perspectiveeaves</li>
+			<li>owlchemist.perspectivebuildings</li>
+			<li>saucypigeon.pawnbadge</li>
+			<li>mlie.morefactioninteraction</li>
+			<li>bonible.medullinpure</li>
+			<li>witek.mechscanhaultocharger</li>
+			<li>hydrologist.mechanitorcommandrelays</li>
+			<li>lwm.fuelfilter</li>
+			<li>krafs.levelup</li>
+			<li>jecrell.jecstools</li>
+			<li>aoba.fortress.industrial.concrete</li>
+			<li>erdelf.humanoidalienraces</li>
+			<li>orion.hospitality</li>
+			<li>hc.animal.4</li>
+			<li>hc.animal.3</li>
+			<li>hc.animal.2</li>
+			<li>hc.animal.1</li>
+			<li>grimworld.lasguns</li>
+			<li>telefonmast.graphicssettings</li>
+			<li>bs.mbifvte</li>
+			<li>aoba.cargocontainer.waste</li>
+			<li>orion.cashregister</li>
+			<li>void.charactereditor</li>
+			<li>neronix17.retexture.charactereditor</li>
+			<li>crashm.colorcodedmoodbar.11</li>
+			<li>ceteam.combatextendedguns</li>
+			<li>dubwise.dubsbadhygiene</li>
+			<li>avilmask.commonsense</li>
+			<li>nyan.custompawngeneration</li>
+			<li>ogliss.mythos.diseasesoverhauled</li>
+			<li>forza.diseasesoverhauledbiosculptor</li>
+			<li>proxyer.dismantleancientjunk</li>
+			<li>tikubonn.drugcommandoverhaul</li>
+			<li>dubwise.dubsappareltweaks</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>dubwise.dubsmintminimap</li>
+			<li>dubwise.rimatomics</li>
+			<li>nilchei.dynamicdiplomacy</li>
+			<li>cocaine.electricstonecuttingtable</li>
+			<li>witek.fabricorscanrepairmechs</li>
+			<li>jangodsoul.fallout.nukacola</li>
+			<li>yeffscry.fallout2soundtrack</li>
+			<li>yeffscry.fallout3soundtrack</li>
+			<li>yeffscry.fallout4soundtrack</li>
+			<li>yeffscry.fallout76soundtrack</li>
+			<li>yeffscry.falloutnvsoundtrack</li>
+			<li>mlie.falloutracestherobotspack</li>
+			<li>yeffscry.falloutsoundtrack</li>
+			<li>fuglypump.fallouttraits</li>
+			<li>legendaryminuteman.frwp</li>
+			<li>murmur.fasterprojectiles</li>
+			<li>orion.gastronomy</li>
+			<li>sarg.giddyupsaddles</li>
+			<li>roolo.giddyupbattlemounts</li>
+			<li>roolo.giddyupcaravan</li>
+			<li>roolo.giddyuprideandroll</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Better Log - Fix your errors with style</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>[FSF] Better Ancient Complex Loot</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Vanilla Fishing Expanded</li>
+			<li>ReGrowth: Core</li>
+			<li>[FSF] Filth Vanishes With Rain And Time</li>
+			<li>[JDS] The Forge - Anvil</li>
+			<li>[JDS] The Forge - NCR Armory</li>
+			<li>[LTO] Terrain Overhaul</li>
+			<li>[LTS]Systems</li>
+			<li>[SYR] Processor Framework</li>
+			<li>RW - Node Tree</li>
+			<li>RW - Weapon Modularization</li>
+			<li>Toggleable Overlays</li>
+			<li>RimFridge Updated</li>
+			<li>LWM's Deep Storage</li>
+			<li>Vanilla Factions Expanded - Mechanoids</li>
+			<li>Vanilla Factions Expanded - Medieval</li>
+			<li>Combat Extended</li>
+			<li>[TMC] EFT Sharpsticks</li>
+			<li>[WD] Realistic Darkness (Light)</li>
+			<li>Addictol [1.4]</li>
+			<li>Allow Everything</li>
+			<li>HugsLib</li>
+			<li>Allow Tool</li>
+			<li>Ancient Fallout Armory (1.4)</li>
+			<li>Vanilla Furniture Expanded - Medical Module</li>
+			<li>Vanilla Factions Expanded - Ancients</li>
+			<li>Ancient Medical Linking</li>
+			<li>Appliances Expanded</li>
+			<li>Better Walls and Floors</li>
+			<li>BetterInfoCard</li>
+			<li>Geological Landforms</li>
+			<li>Biome Transitions</li>
+			<li>Wall Light</li>
+			<li>VFE - Ancients : Vault Wall and Door</li>
+			<li>VFE - Ancients : Vault S</li>
+			<li>Vanilla Weapons Retextured (Continued)</li>
+			<li>Vanilla Weapons Expanded - Makeshift</li>
+			<li>Vanilla Weapons Expanded - Laser</li>
+			<li>Vanilla Skills Expanded</li>
+			<li>ReGrowth: Aspen</li>
+			<li>Vanilla Plants Expanded</li>
+			<li>Vanilla Outposts Expanded Additional Outposts</li>
+			<li>Vanilla Ideology Expanded - Memes and Structures</li>
+			<li>Vanilla Ideology Expanded - Hats and Rags</li>
+			<li>Vanilla Armour Expanded</li>
+			<li>Trait and Backstory Icons</li>
+			<li>Trade UI Revised</li>
+			<li>Tilled Soil</li>
+			<li>T-45b Power Armor</li>
+			<li>Storage - Shelves</li>
+			<li>Stack XXL</li>
+			<li>SRTS Expanded</li>
+			<li>Smarter Deconstruction and Mining</li>
+			<li>Smarter Construction</li>
+			<li>Smart Speed</li>
+			<li>Smart Farming</li>
+			<li>Slave Outfits [1.4]</li>
+			<li>Simple sidearms</li>
+			<li>SeedsPlease: Lite</li>
+			<li>Scattered Stones</li>
+			<li>Giddy-up! Core</li>
+			<li>Saddle-up!</li>
+			<li>RuntimeGC [1.4]</li>
+			<li>Run and Hide (Continued)</li>
+			<li>RU Vanilla Weapons Expanded - Laser</li>
+			<li>RocketMan - Performance Mod</li>
+			<li>Roads of the Rim (Continued)</li>
+			<li>RimSaves</li>
+			<li>RimNauts 2</li>
+			<li>RIMMSqol</li>
+			<li>RimHUD</li>
+			<li>Rimefeller</li>
+			<li>ResearchPowl</li>
+			<li>Research Whatever</li>
+			<li>ReGrowth: Tundra</li>
+			<li>ReGrowth: Temperate</li>
+			<li>ReGrowth: Swamp</li>
+			<li>ReGrowth: Boreal</li>
+			<li>Random Research</li>
+			<li>Prisoners Are Not Swines</li>
+			<li>Pick Up And Haul</li>
+			<li>Perspective: Trees</li>
+			<li>Perspective: Eaves</li>
+			<li>Perspective: Buildings</li>
+			<li>Pawn Badge Fan Fork [Adopted]</li>
+			<li>More Faction Interaction (Continued)</li>
+			<li>Medullin Injector</li>
+			<li>Mechs can haul to charger</li>
+			<li>Mechanitor Command Relays</li>
+			<li>LWM's Fuel Filter</li>
+			<li>Level Up!</li>
+			<li>JecsTools</li>
+			<li>Industrial concrete</li>
+			<li>Humanoid Alien Races</li>
+			<li>Hospitality</li>
+			<li>HC_Animal_4</li>
+			<li>HC_Animal_3</li>
+			<li>HC_Animal_2</li>
+			<li>HC_Animal_1</li>
+			<li>Grimworld Lasguns</li>
+			<li>Graphics Settings+</li>
+			<li>Bradson's Main Button Icons for VE Textures</li>
+			<li>Cargo waste container</li>
+			<li>Cash Register</li>
+			<li>Character Editor</li>
+			<li>Character Editor Retextured</li>
+			<li>CM Color Coded Mood Bar [1.1+]</li>
+			<li>Combat Extended Guns</li>
+			<li>Dubs Bad Hygiene</li>
+			<li>Common Sense</li>
+			<li>Custom Pawn Generation</li>
+			<li>Diseases Overhauled</li>
+			<li>Diseases Overhauled - Biosculptor patch</li>
+			<li>Dismantle Ancient Junk</li>
+			<li>Drug Command Overhaul</li>
+			<li>Dubs Apparel Tweaks</li>
+			<li>Dubs Mint Menus</li>
+			<li>Dubs Mint Minimap</li>
+			<li>Dubs Rimatomics</li>
+			<li>Dynamic Diplomacy</li>
+			<li>Electric Stonecutting Table</li>
+			<li>Fabricors can repair mechs</li>
+			<li>Fallout - Nuka Cola Collection</li>
+			<li>Fallout 2 Soundtrack</li>
+			<li>Fallout 3 Soundtrack</li>
+			<li>Fallout 4 Soundtrack</li>
+			<li>Fallout 76 Soundtrack</li>
+			<li>Fallout New Vegas Soundtrack</li>
+			<li>Fallout Races: The Robots Pack (Continued)</li>
+			<li>Fallout Soundtrack</li>
+			<li>Fallout Traits</li>
+			<li>Fallout: Retro Weapon Pack</li>
+			<li>Faster Projectiles</li>
+			<li>Gastronomy</li>
+			<li>Giddy-Up! Add-on: Animal Saddles</li>
+			<li>Giddy-up! Battle Mounts</li>
+			<li>Giddy-up! Caravan</li>
+			<li>Giddy-up! Ride and Roll</li>
+		</modNames>
+	</meta>
+	<xenotype>
+		<name>stoutub</name>
+		<genes>
+			<li>Immunity_SuperStrong</li>
+		</genes>
+		<iconDef>Basic</iconDef>
+	</xenotype>
+</savedXenotype>

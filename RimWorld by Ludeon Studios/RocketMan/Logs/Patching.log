@@ -46,46 +46,6 @@ SOYUZ:[NOTANERROR] patching Hediff:Void Tick() is not possible! Patch attempt sk
 
 SOYUZ:[NOTANERROR] patching Hediff_Level:Void Tick() is not possible! Patch attempt skipped
 
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
-SOYUZ:[NOTANERROR] patching CR_Powerup:Void Tick() is not possible! Patch attempt skipped
-
 SOYUZ:[NOTANERROR] patching Hediff:Void Tick() is not possible! Patch attempt skipped
 
 SOYUZ:[NOTANERROR] patching Hediff:Void Tick() is not possible! Patch attempt skipped
@@ -176,8 +136,6 @@ SOYUZ:[NOTANERROR] patching HediffComp:Void CompPostTick(Single ByRef) is not po
 
 SOYUZ:[NOTANERROR] patching HediffComp:Void CompPostTick(Single ByRef) is not possible! Patch attempt skipped
 
-SOYUZ:[NOTANERROR] patching HediffComp_SeverityModifierBase:Void CompPostTick(Single ByRef) is not possible! Patch attempt skipped
-
 SOYUZ:[NOTANERROR] patching HediffComp:Void CompPostTick(Single ByRef) is not possible! Patch attempt skipped
 
 SOYUZ:[NOTANERROR] patching HediffComp:Void CompPostTick(Single ByRef) is not possible! Patch attempt skipped
@@ -187,3 +145,15 @@ SOYUZ:[NOTANERROR] patching HediffComp:Void CompPostTick(Single ByRef) is not po
 SOYUZ:[NOTANERROR] patching HediffComp:Void CompPostTick(Single ByRef) is not possible! Patch attempt skipped
 
 SOYUZ:[NOTANERROR] patching HediffComp:Void CompPostTick(Single ByRef) is not possible! Patch attempt skipped
+
+SOYUZ:[NOTANERROR] patching HediffComp:Void CompPostTick(Single ByRef) is not possible! Patch attempt skipped
+
+SOYUZ:[NOTANERROR] patching HediffComp:Void CompPostTick(Single ByRef) is not possible! Patch attempt skipped
+
+SOYUZ:[NOTANERROR] patching HediffComp:Void CompPostTick(Single ByRef) is not possible! Patch attempt skipped
+
+SOYUZ:[NOTANERROR] patching HediffComp:Void CompPostTick(Single ByRef) is not possible! Patch attempt skipped
+
+ROCKETMAN:[NOTANERROR] patching ThingWithComps:Void Notify_Equipped(Verse.Pawn) is not possible! Patch attempt skipped
+
+ROCKETMAN:[NOTANERROR] patching ThingWithComps:Void Notify_UsedWeapon(Verse.Pawn) is not possible! Patch attempt skipped

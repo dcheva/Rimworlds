@@ -23,7 +23,7 @@
     </li>
     <li>
       <key>InteractingWithTraders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Drafting</key>
@@ -67,7 +67,7 @@
     </li>
     <li>
       <key>SetGrowingZonePlant</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DrugBurning</key>
@@ -83,11 +83,11 @@
     </li>
     <li>
       <key>Shelves</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CameraDolly</key>
-      <value>0.4799996</value>
+      <value>1</value>
     </li>
     <li>
       <key>CameraZoom</key>
@@ -95,7 +95,7 @@
     </li>
     <li>
       <key>TimeControls</key>
-      <value>0.4</value>
+      <value>1</value>
     </li>
     <li>
       <key>Pause</key>
@@ -111,15 +111,15 @@
     </li>
     <li>
       <key>GrowingFood</key>
-      <value>0</value>
-    </li>
-    <li>
-      <key>EquippingWeapons</key>
       <value>1</value>
     </li>
     <li>
+      <key>EquippingWeapons</key>
+      <value>0</value>
+    </li>
+    <li>
       <key>Alerts</key>
-      <value>0.840001</value>
+      <value>1</value>
     </li>
     <li>
       <key>Mining</key>
@@ -127,7 +127,7 @@
     </li>
     <li>
       <key>WorkTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ForbiddingDoors</key>
@@ -139,7 +139,7 @@
     </li>
     <li>
       <key>FormCaravan</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalTaming</key>
@@ -147,7 +147,7 @@
     </li>
     <li>
       <key>AnimalTraining</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>InfoCard</key>
@@ -155,7 +155,7 @@
     </li>
     <li>
       <key>StorageTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>HomeArea</key>
@@ -183,7 +183,7 @@
     </li>
     <li>
       <key>TimeAssignments</key>
-      <value>0</value>
+      <value>0.6571522</value>
     </li>
     <li>
       <key>ManualWorkPriorities</key>
@@ -251,11 +251,11 @@
     </li>
     <li>
       <key>MeditationSchedule</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MeditationDesiredPsyfocus</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>EditingMemes</key>
@@ -294,11 +294,123 @@
       <value>0</value>
     </li>
     <li>
-      <key>DW_Penalties</key>
+      <key>CE_ReusableNeolithicProjectiles</key>
       <value>0</value>
     </li>
     <li>
-      <key>DW_Settings</key>
+      <key>CE_Reload</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_ReloadNoMag</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_ReloadAuto</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_ReloadManned</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_FireModes</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_AimModes</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_Spotting</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_MortarDirectFire</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_AimingSystem</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_Stabilizing</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>CE_Shields</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_ArmorSystem</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>CE_SuppressionReaction</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>CE_Hunkering</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>CE_WornBulk</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_Crouching</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_NightVision</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_MuzzleFlash</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_TargettedModes</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_Bipods</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_TargettedModesMelee</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_GiveAmmo</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_InventoryWeightBulk</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>CE_Loadouts</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_AmmoCrafting</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_ObtainingFSX</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_ObtainingPrometheum</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_CentipedeArmor</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>CE_AmmoSettings</key>
       <value>0</value>
     </li>
     <li>
@@ -338,8 +450,32 @@
       <value>0</value>
     </li>
     <li>
-      <key>BuildersTryMine</key>
+      <key>GUC_Animal_Handling</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>GuestBeds</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>RecruitGuest</key>
       <value>0</value>
+    </li>
+    <li>
+      <key>GuestWork</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Hospitality</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BM_Mounting</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>BM_Enemy_Mounting</key>
+      <value>1</value>
     </li>
   </knowledge>
 </ConceptKnowledge>

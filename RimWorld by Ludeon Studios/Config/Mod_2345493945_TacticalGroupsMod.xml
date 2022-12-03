@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="TacticalGroups.TacticalGroupsSettings">
-		<WeaponPlacementOffset>10</WeaponPlacementOffset>
-		<AllGroupPresetsSaveable IsNull="True" />
-	</ModSettings>
-</SettingsBlock>

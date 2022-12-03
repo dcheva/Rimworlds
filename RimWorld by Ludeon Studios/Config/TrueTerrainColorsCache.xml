@@ -1,82 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfCacheEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CacheEntry>
-    <DefName>StrawMatting</DefName>
-    <Color>
-      <r>0.494117647</r>
-      <g>0.3882353</g>
-      <b>0.239215687</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>Concrete</DefName>
-    <Color>
-      <r>0.137117714</r>
-      <g>0.135935664</g>
-      <b>0.137117714</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>PavedTile</DefName>
-    <Color>
-      <r>0.135935664</r>
-      <g>0.134753615</g>
-      <b>0.135935664</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>WoodPlankFloor</DefName>
-    <Color>
-      <r>0.165308371</r>
-      <g>0.0862256661</g>
-      <b>0.0428718962</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>MetalTile</DefName>
-    <Color>
-      <r>0.110307626</r>
-      <g>0.110307626</g>
-      <b>0.110307626</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>SilverTile</DefName>
-    <Color>
-      <r>0.1650994</r>
-      <g>0.1650994</g>
-      <b>0.1650994</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>GoldTile</DefName>
-    <Color>
-      <r>0.344006</r>
-      <g>0.344006</g>
-      <b>0.0988848656</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>SterileTile</DefName>
-    <Color>
-      <r>0.408984631</r>
-      <g>0.408984631</g>
-      <b>0.408984631</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>BurnedWoodPlankFloor</DefName>
     <Color>
-      <r>0.266666681</r>
-      <g>0.239215687</g>
+      <r>0.203921571</r>
+      <g>0.203921571</g>
       <b>0.203921571</b>
       <a>0</a>
     </Color>
@@ -84,9 +12,9 @@
   <CacheEntry>
     <DefName>BurnedCarpet</DefName>
     <Color>
-      <r>0.168627456</r>
+      <r>0.164705887</r>
       <g>0.164705887</g>
-      <b>0.168627456</b>
+      <b>0.164705887</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -102,108 +30,261 @@
   <CacheEntry>
     <DefName>TileSandstone</DefName>
     <Color>
-      <r>0.16276817</r>
-      <g>0.10958609</g>
-      <b>0.0905908048</b>
+      <r>0.128299624</r>
+      <g>0.08740796</g>
+      <b>0.07140687</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>TileGranite</DefName>
     <Color>
-      <r>0.113033459</r>
-      <g>0.09143995</g>
-      <b>0.09646547</b>
+      <r>0.08909696</r>
+      <g>0.07293425</g>
+      <b>0.07603749</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>TileLimestone</DefName>
     <Color>
-      <r>0.2559426</r>
-      <g>0.237176508</g>
-      <b>0.186851248</b>
+      <r>0.201743</r>
+      <g>0.1891765</g>
+      <b>0.147282735</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>TileSlate</DefName>
     <Color>
-      <r>0.102524675</r>
-      <g>0.1013185</g>
-      <b>0.102524675</b>
+      <r>0.08081357</r>
+      <g>0.08081357</g>
+      <b>0.08081357</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>TileMarble</DefName>
     <Color>
-      <r>0.17863901</r>
-      <g>0.184652984</g>
-      <b>0.17863901</b>
+      <r>0.140809581</r>
+      <g>0.147282735</g>
+      <b>0.140809581</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>FlagstoneSandstone</DefName>
     <Color>
-      <r>0.201066568</r>
-      <g>0.1376349</g>
-      <b>0.111906283</b>
+      <r>0.163725629</r>
+      <g>0.111542985</g>
+      <b>0.09112369</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>FlagstoneGranite</DefName>
     <Color>
-      <r>0.139629558</r>
-      <g>0.114844225</g>
-      <b>0.119163223</b>
+      <r>0.113698356</r>
+      <g>0.0930728</g>
+      <b>0.09703291</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>FlagstoneLimestone</DefName>
     <Color>
-      <r>0.316164374</r>
-      <g>0.297882378</g>
-      <b>0.23081623</b>
+      <r>0.257448137</r>
+      <g>0.24141179</g>
+      <b>0.187950358</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>FlagstoneSlate</DefName>
     <Color>
-      <r>0.139629558</r>
-      <g>0.140294462</g>
-      <b>0.139629558</b>
+      <r>0.113698356</r>
+      <g>0.113698356</g>
+      <b>0.113698356</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>FlagstoneMarble</DefName>
     <Color>
-      <r>0.220671713</r>
-      <g>0.231915355</g>
-      <b>0.220671713</b>
+      <r>0.179689825</r>
+      <g>0.187950358</g>
+      <b>0.179689825</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>StrawMatting</DefName>
+    <Color>
+      <r>0.5921569</r>
+      <g>0.4392157</g>
+      <b>0.270588249</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Concrete</DefName>
+    <Color>
+      <r>0.139481813</r>
+      <g>0.131207466</g>
+      <b>0.128843367</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>PavedTile</DefName>
+    <Color>
+      <r>0.15721257</r>
+      <g>0.141845912</g>
+      <b>0.126479268</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>WoodPlankFloor</DefName>
+    <Color>
+      <r>0.113253824</r>
+      <g>0.0590737574</g>
+      <b>0.0293718129</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>MetalTile</DefName>
+    <Color>
+      <r>0.116702266</r>
+      <g>0.1193667</g>
+      <b>0.120432481</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>SilverTile</DefName>
+    <Color>
+      <r>0.174670383</r>
+      <g>0.178658292</g>
+      <b>0.180253461</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>GoldTile</DefName>
+    <Color>
+      <r>0.363948375</r>
+      <g>0.37225768</g>
+      <b>0.107961252</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>SterileTile</DefName>
+    <Color>
+      <r>0.432693869</r>
+      <g>0.442572743</g>
+      <b>0.446524262</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Soil</DefName>
+    <Color>
+      <r>0.274509817</r>
+      <g>0.243137255</g>
+      <b>0.215686277</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>MossyTerrain</DefName>
+    <Color>
+      <r>0.2509804</r>
+      <g>0.270588249</g>
+      <b>0.113725491</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>MarshyTerrain</DefName>
+    <Color>
+      <r>0.2509804</r>
+      <g>0.270588249</g>
+      <b>0.113725491</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>SoilRich</DefName>
+    <Color>
+      <r>0.239215687</r>
+      <g>0.1882353</g>
+      <b>0.141176477</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Gravel</DefName>
+    <Color>
+      <r>0.282352954</r>
+      <g>0.266666681</g>
+      <b>0.254901975</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Sand</DefName>
+    <Color>
+      <r>0.68235296</r>
+      <g>0.5529412</g>
+      <b>0.396078438</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>SoftSand</DefName>
+    <Color>
+      <r>0.745098054</r>
+      <g>0.627451</g>
+      <b>0.4862745</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Mud</DefName>
+    <Color>
+      <r>0.294117659</r>
+      <g>0.254901975</g>
+      <b>0.211764708</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Ice</DefName>
+    <Color>
+      <r>0.7607843</r>
+      <g>0.831372559</g>
+      <b>0.921568632</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>BrokenAsphalt</DefName>
     <Color>
-      <r>0.392156869</r>
-      <g>0.41568628</g>
-      <b>0.4627451</b>
+      <r>0.494117647</r>
+      <g>0.454901963</g>
+      <b>0.3882353</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>PackedDirt</DefName>
     <Color>
-      <r>0.380392164</r>
-      <g>0.3372549</g>
-      <b>0.274509817</b>
+      <r>0.3529412</r>
+      <g>0.286274523</g>
+      <b>0.23137255</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -219,54 +300,117 @@
   <CacheEntry>
     <DefName>Bridge</DefName>
     <Color>
-      <r>0.3764706</r>
-      <g>0.274509817</g>
-      <b>0.1882353</b>
+      <r>0.329411775</r>
+      <g>0.2784314</g>
+      <b>0.235294119</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>WaterDeep</DefName>
+    <Color>
+      <r>0.105882354</r>
+      <g>0.23137255</g>
+      <b>0.258823544</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>WaterOceanDeep</DefName>
+    <Color>
+      <r>0.105882354</r>
+      <g>0.23137255</g>
+      <b>0.258823544</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>WaterMovingChestDeep</DefName>
+    <Color>
+      <r>0.149019614</r>
+      <g>0.243137255</g>
+      <b>0.243137255</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>WaterShallow</DefName>
+    <Color>
+      <r>0.196078435</r>
+      <g>0.254901975</g>
+      <b>0.227450982</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>WaterOceanShallow</DefName>
+    <Color>
+      <r>0.196078435</r>
+      <g>0.254901975</g>
+      <b>0.227450982</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>WaterMovingShallow</DefName>
+    <Color>
+      <r>0.196078435</r>
+      <g>0.254901975</g>
+      <b>0.227450982</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Marsh</DefName>
+    <Color>
+      <r>0.254901975</r>
+      <g>0.266666681</g>
+      <b>0.1764706</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>FineTileSandstone</DefName>
     <Color>
-      <r>0.2788868</r>
-      <g>0.208161622</g>
-      <b>0.1797038</b>
+      <r>0.237184092</r>
+      <g>0.177034661</g>
+      <b>0.1528322</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>FineTileGranite</DefName>
     <Color>
-      <r>0.142289177</r>
-      <g>0.116477072</g>
-      <b>0.121433</b>
+      <r>0.121012293</r>
+      <g>0.09905995</g>
+      <b>0.103274792</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>FineTileLimestone</DefName>
     <Color>
-      <r>0.3221866</r>
-      <g>0.302117676</g>
-      <b>0.235212728</b>
+      <r>0.274009138</r>
+      <g>0.2569412</g>
+      <b>0.200040743</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>FineTileSlate</DefName>
     <Color>
-      <r>0.063239634</r>
-      <g>0.063239634</g>
-      <b>0.063239634</b>
+      <r>0.05378324</r>
+      <g>0.05378324</g>
+      <b>0.05378324</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>FineTileMarble</DefName>
     <Color>
-      <r>0.418155938</r>
-      <g>0.418155938</g>
-      <b>0.418155938</b>
+      <r>0.355627924</r>
+      <g>0.355627924</g>
+      <b>0.355627924</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -487,434 +631,632 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>DankPyon_PlowedSoil</DefName>
+    <DefName>RG_AncientConcrete</DefName>
+    <Color>
+      <r>0.3764706</r>
+      <g>0.372549027</g>
+      <b>0.3764706</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_Lava</DefName>
+    <Color>
+      <r>0.470588237</r>
+      <g>0.266666681</g>
+      <b>0.06666667</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_TundraSoil</DefName>
+    <Color>
+      <r>0.34117648</r>
+      <g>0.282352954</g>
+      <b>0.219607845</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_BorealSoil</DefName>
+    <Color>
+      <r>0.333333343</r>
+      <g>0.2784314</g>
+      <b>0.223529413</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_TemperateSoil</DefName>
+    <Color>
+      <r>0.34117648</r>
+      <g>0.286274523</g>
+      <b>0.227450982</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_LavaRock</DefName>
+    <Color>
+      <r>0.1882353</r>
+      <g>0.164705887</g>
+      <b>0.152941182</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_HotSpringSand</DefName>
+    <Color>
+      <r>0.478431374</r>
+      <g>0.349019617</g>
+      <b>0.211764708</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_DepletedSoil</DefName>
+    <Color>
+      <r>0.305882365</r>
+      <g>0.274509817</g>
+      <b>0.247058824</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_RubbleSoil</DefName>
+    <Color>
+      <r>0.3372549</r>
+      <g>0.3137255</g>
+      <b>0.2901961</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_DepletedMossy</DefName>
+    <Color>
+      <r>0.3019608</r>
+      <g>0.2784314</g>
+      <b>0.2509804</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_DepletedGravel</DefName>
+    <Color>
+      <r>0.329411775</r>
+      <g>0.3019608</g>
+      <b>0.2784314</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_AspenSoil</DefName>
+    <Color>
+      <r>0.345098048</r>
+      <g>0.2784314</g>
+      <b>0.223529413</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_AnimaSoil</DefName>
+    <Color>
+      <r>0.423529416</r>
+      <g>0.5176471</g>
+      <b>0.4862745</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_AnimaSoilEnchanted</DefName>
+    <Color>
+      <r>0.380392164</r>
+      <g>0.470588237</g>
+      <b>0.4</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_AnimaSoilCracked</DefName>
+    <Color>
+      <r>0.286274523</r>
+      <g>0.333333343</g>
+      <b>0.294117659</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_AnimaSpringSand</DefName>
+    <Color>
+      <r>0.4745098</r>
+      <g>0.34117648</g>
+      <b>0.345098048</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_HotSpring</DefName>
+    <Color>
+      <r>0.34117648</r>
+      <g>0.482352942</g>
+      <b>0.478431374</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_HotSpringDeep</DefName>
+    <Color>
+      <r>0.247058824</r>
+      <g>0.372549027</g>
+      <b>0.368627459</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RG_ToxicWaste</DefName>
+    <Color>
+      <r>0.298039228</r>
+      <g>0.3647059</g>
+      <b>0.1882353</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>AsphaltA</DefName>
+    <Color>
+      <r>0.180392161</r>
+      <g>0.184313729</g>
+      <b>0.184313729</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>ConcreteA</DefName>
+    <Color>
+      <r>0.4392157</r>
+      <g>0.435294122</g>
+      <b>0.4392157</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>PavedTileCurbSE</DefName>
+    <Color>
+      <r>0.2901961</r>
+      <g>0.2901961</g>
+      <b>0.2901961</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>PavedTileCurbSW</DefName>
+    <Color>
+      <r>0.2901961</r>
+      <g>0.2901961</g>
+      <b>0.2901961</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>PavedTileCurbNW</DefName>
+    <Color>
+      <r>0.2901961</r>
+      <g>0.2901961</g>
+      <b>0.2901961</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>PavedTileCurbNE</DefName>
+    <Color>
+      <r>0.2901961</r>
+      <g>0.2901961</g>
+      <b>0.2901961</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>FarmLandone</DefName>
+    <Color>
+      <r>0.305882365</r>
+      <g>0.282352954</g>
+      <b>0.192156866</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>FarmLandtwo</DefName>
+    <Color>
+      <r>0.4</r>
+      <g>0.3372549</g>
+      <b>0.223529413</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>FarmLandthree</DefName>
+    <Color>
+      <r>0.407843143</r>
+      <g>0.349019617</g>
+      <b>0.2784314</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>FarmLandfour</DefName>
+    <Color>
+      <r>0.3764706</r>
+      <g>0.3137255</g>
+      <b>0.2627451</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>MudFlooring</DefName>
+    <Color>
+      <r>0.321568638</r>
+      <g>0.254901975</g>
+      <b>0.1764706</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>PatchGrassA</DefName>
+    <Color>
+      <r>0.41568628</r>
+      <g>0.3882353</g>
+      <b>0.282352954</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>PatchGrassB</DefName>
+    <Color>
+      <r>0.435294122</r>
+      <g>0.384313732</g>
+      <b>0.2627451</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>GrassFine</DefName>
     <Color>
       <r>0.270588249</r>
-      <g>0.219607845</g>
-      <b>0.180392161</b>
+      <g>0.258823544</g>
+      <b>0.08235294</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_GratedFloor</DefName>
+    <DefName>PastureGrass</DefName>
     <Color>
-      <r>0.255213827</r>
-      <g>0.257413954</g>
-      <b>0.261814177</b>
+      <r>0.254901975</r>
+      <g>0.258823544</g>
+      <b>0.109803922</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_LightFloor</DefName>
+    <DefName>PatchDirt</DefName>
     <Color>
-      <r>0.4004217</r>
-      <g>0.4026218</g>
-      <b>0.404821932</b>
+      <r>0.356862754</r>
+      <g>0.3019608</g>
+      <b>0.20784314</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_PlatedFloor</DefName>
+    <DefName>CrackedDirt</DefName>
     <Color>
-      <r>0.171609312</r>
-      <g>0.173809424</g>
-      <b>0.178209662</b>
+      <r>0.41568628</r>
+      <g>0.3764706</g>
+      <b>0.305882365</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_PlankFloor</DefName>
+    <DefName>DirtFloorone</DefName>
     <Color>
-      <r>0.124508865</r>
-      <g>0.06494444</g>
-      <b>0.0326556154</b>
+      <r>0.427450985</r>
+      <g>0.368627459</g>
+      <b>0.274509817</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_PlankFloorTwo</DefName>
+    <DefName>DirtFloortwo</DefName>
     <Color>
-      <r>0.124508865</r>
-      <g>0.06531136</g>
-      <b>0.0326556154</b>
+      <r>0.4509804</r>
+      <g>0.3764706</g>
+      <b>0.2784314</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_PlankFloorLarge</DefName>
+    <DefName>StoneRoad</DefName>
     <Color>
-      <r>0.125915736</r>
-      <g>0.0656782761</g>
-      <b>0.03302048</b>
+      <r>0.443137258</r>
+      <g>0.4117647</g>
+      <b>0.3529412</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_PlankFloorLargeTwo</DefName>
+    <DefName>StoneRoadB</DefName>
     <Color>
-      <r>0.125915736</r>
-      <g>0.0656782761</g>
-      <b>0.03302048</b>
+      <r>0.3529412</r>
+      <g>0.3137255</g>
+      <b>0.258823544</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_ChevronParquet</DefName>
+    <DefName>VFE_FactoryFloor</DefName>
     <Color>
-      <r>0.125915736</r>
-      <g>0.06604519</g>
-      <b>0.0332029164</b>
+      <r>0.407843143</r>
+      <g>0.380392164</g>
+      <b>0.254901975</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_DiagonalHerringbone</DefName>
+    <DefName>VFE_FactoryPath</DefName>
     <Color>
-      <r>0.123101987</r>
-      <g>0.06457752</g>
-      <b>0.0324731842</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_DiamondPattern</DefName>
-    <Color>
-      <r>0.121695109</r>
-      <g>0.06384368</g>
-      <b>0.0319258831</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_DoubleHerringbone</DefName>
-    <Color>
-      <r>0.116067581</r>
-      <g>0.06017451</g>
-      <b>0.0299191121</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_Herringbone</DefName>
-    <Color>
-      <r>0.115364149</r>
-      <g>0.06017451</g>
-      <b>0.0299191121</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_PatternEvenSandstone</DefName>
-    <Color>
-      <r>0.178087518</r>
-      <g>0.12132746</g>
-      <b>0.09964989</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_PatternEvenGranite</DefName>
-    <Color>
-      <r>0.123671889</r>
-      <g>0.101237088</g>
-      <b>0.106112018</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_PatternEvenLimestone</DefName>
-    <Color>
-      <r>0.280031323</r>
-      <g>0.262588263</g>
-      <b>0.205536366</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_PatternEvenSlate</DefName>
-    <Color>
-      <r>0.112174064</r>
-      <g>0.112174064</g>
-      <b>0.112777144</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_PatternEvenMarble</DefName>
-    <Color>
-      <r>0.195452079</r>
-      <g>0.204437241</g>
-      <b>0.196502924</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_PatternUnevenSandstone</DefName>
-    <Color>
-      <r>0.168512926</r>
-      <g>0.115456775</g>
-      <b>0.09538679</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_PatternUnevenGranite</DefName>
-    <Color>
-      <r>0.117022872</r>
-      <g>0.0963385254</g>
-      <b>0.101572461</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_PatternUnevenLimestone</DefName>
-    <Color>
-      <r>0.264975876</r>
-      <g>0.249882385</g>
-      <b>0.196743354</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_PatternUnevenSlate</DefName>
-    <Color>
-      <r>0.106143191</r>
-      <g>0.106746279</g>
-      <b>0.107952453</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_PatternUnevenMarble</DefName>
-    <Color>
-      <r>0.184943914</r>
-      <g>0.1945451</g>
-      <b>0.188096374</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_GravelSandstone</DefName>
-    <Color>
-      <r>0.157980874</r>
-      <g>0.1076292</g>
-      <b>0.08792637</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_GravelGranite</DefName>
-    <Color>
-      <r>0.10970895</r>
-      <g>0.08980709</g>
-      <b>0.09362825</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_GravelLimestone</DefName>
-    <Color>
-      <r>0.248414889</r>
-      <g>0.23294121</g>
-      <b>0.18135561</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_GravelSlate</DefName>
-    <Color>
-      <r>0.09950925</r>
-      <g>0.09950925</g>
-      <b>0.09950925</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_GravelMarble</DefName>
-    <Color>
-      <r>0.17338492</r>
-      <g>0.18135561</g>
-      <b>0.17338492</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>LTS_RoughSquareDiagonalSandstone</DefName>
-    <Color>
-      <r>0.194364339</r>
-      <g>0.132416531</g>
+      <r>0.108708963</r>
+      <g>0.109241851</g>
       <b>0.108708963</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughSquareDiagonalGranite</DefName>
+    <DefName>vtfloor</DefName>
     <Color>
-      <r>0.13497524</r>
-      <g>0.110489942</g>
-      <b>0.115758568</b>
+      <r>0.5058824</r>
+      <g>0.5294118</g>
+      <b>0.490196079</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughSquareDiagonalLimestone</DefName>
+    <DefName>vtfloormaintenance</DefName>
     <Color>
-      <r>0.3056256</r>
-      <g>0.286588281</g>
-      <b>0.224221483</b>
+      <r>0.20784314</r>
+      <g>0.20784314</g>
+      <b>0.196078435</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughSquareDiagonalSlate</DefName>
+    <DefName>vtfloormaintenancee</DefName>
     <Color>
-      <r>0.122426525</r>
-      <g>0.122426525</g>
-      <b>0.123029612</b>
+      <r>0.235294119</r>
+      <g>0.239215687</g>
+      <b>0.223529413</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughSquareDiagonalMarble</DefName>
+    <DefName>vtfloormainten</DefName>
     <Color>
-      <r>0.213316</r>
-      <g>0.223122358</g>
-      <b>0.214366809</b>
+      <r>0.258823544</r>
+      <g>0.298039228</g>
+      <b>0.286274523</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughSquareStraightSandstone</DefName>
+    <DefName>barberfloor</DefName>
     <Color>
-      <r>0.188619584</r>
-      <g>0.129155025</g>
-      <b>0.105511643</b>
+      <r>0.360784322</r>
+      <g>0.298039228</g>
+      <b>0.274509817</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughSquareStraightGranite</DefName>
+    <DefName>lavatoryfloor</DefName>
     <Color>
-      <r>0.130985826</r>
-      <g>0.107768513</g>
-      <b>0.1123539</b>
+      <r>0.458823532</r>
+      <g>0.5568628</g>
+      <b>0.5568628</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughSquareStraightLimestone</DefName>
+    <DefName>westcoastlivingblue</DefName>
     <Color>
-      <r>0.296592325</r>
-      <g>0.279529452</g>
-      <b>0.217626736</b>
+      <r>0.466666669</r>
+      <g>0.58431375</g>
+      <b>0.654902</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughSquareStraightSlate</DefName>
+    <DefName>westcoastlivingyellow</DefName>
     <Color>
-      <r>0.118808</r>
-      <g>0.119411096</g>
-      <b>0.119411096</b>
+      <r>0.6313726</r>
+      <g>0.5647059</g>
+      <b>0.3529412</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughSquareStraightMarble</DefName>
+    <DefName>overseerofficefloor</DefName>
     <Color>
-      <r>0.207011089</r>
-      <g>0.217626736</g>
-      <b>0.2080619</b>
+      <r>0.494117647</r>
+      <g>0.333333343</g>
+      <b>0.23137255</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughTileBaseHSandstone</DefName>
+    <DefName>concretefloor</DefName>
     <Color>
-      <r>0.188619584</r>
-      <g>0.128502741</g>
-      <b>0.105511643</b>
+      <r>0.321568638</r>
+      <g>0.3254902</g>
+      <b>0.321568638</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughTileBaseHGranite</DefName>
+    <DefName>concretefloore</DefName>
     <Color>
-      <r>0.130985826</r>
-      <g>0.107224226</g>
-      <b>0.1123539</b>
+      <r>0.3764706</r>
+      <g>0.3764706</g>
+      <b>0.3764706</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughTileBaseHLimestone</DefName>
+    <DefName>Vtfloor_luxury</DefName>
     <Color>
-      <r>0.296592325</r>
-      <g>0.2781177</g>
-      <b>0.217626736</b>
+      <r>0.443137258</r>
+      <g>0.31764707</g>
+      <b>0.149019614</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughTileBaseHSlate</DefName>
+    <DefName>Vtfloor_luxuryred</DefName>
     <Color>
-      <r>0.118808</r>
-      <g>0.118808</g>
-      <b>0.119411096</b>
+      <r>0.454901963</r>
+      <g>0.203921571</g>
+      <b>0.145098045</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughTileBaseHMarble</DefName>
+    <DefName>Vtfloor_luxuryg</DefName>
     <Color>
-      <r>0.207011089</r>
-      <g>0.216527611</g>
-      <b>0.2080619</b>
+      <r>0.419607848</r>
+      <g>0.435294122</g>
+      <b>0.137254909</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughTileBaseVSandstone</DefName>
+    <DefName>Vtfloor_luxurysilver</DefName>
     <Color>
-      <r>0.188619584</r>
-      <g>0.128502741</g>
-      <b>0.105511643</b>
+      <r>0.333333343</r>
+      <g>0.329411775</g>
+      <b>0.333333343</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughTileBaseVGranite</DefName>
+    <DefName>Vtfloor_luxuryblue</DefName>
     <Color>
-      <r>0.130985826</r>
-      <g>0.107224226</g>
-      <b>0.1123539</b>
+      <r>0.286274523</r>
+      <g>0.203921571</g>
+      <b>0.3647059</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughTileBaseVLimestone</DefName>
+    <DefName>Vtfloor_luxuryblack</DefName>
     <Color>
-      <r>0.296592325</r>
-      <g>0.2781177</g>
-      <b>0.217626736</b>
+      <r>0.23137255</r>
+      <g>0.23137255</g>
+      <b>0.23137255</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughTileBaseVSlate</DefName>
+    <DefName>vtfloore</DefName>
     <Color>
-      <r>0.118808</r>
-      <g>0.118808</g>
-      <b>0.119411096</b>
+      <r>0.623529434</r>
+      <g>0.623529434</g>
+      <b>0.623529434</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LTS_RoughTileBaseVMarble</DefName>
+    <DefName>dinertw</DefName>
     <Color>
-      <r>0.207011089</r>
-      <g>0.216527611</g>
-      <b>0.2080619</b>
+      <r>0.5176471</r>
+      <g>0.427450985</g>
+      <b>0.396078438</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>dinercyan</DefName>
+    <Color>
+      <r>0.419607848</r>
+      <g>0.5058824</g>
+      <b>0.521568656</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>dineryellow</DefName>
+    <Color>
+      <r>0.6156863</r>
+      <g>0.6117647</g>
+      <b>0.5176471</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>dinerblack</DefName>
+    <Color>
+      <r>0.458823532</r>
+      <g>0.458823532</g>
+      <b>0.458823532</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>vtfloormaintenbig</DefName>
+    <Color>
+      <r>0.266666681</r>
+      <g>0.3372549</g>
+      <b>0.305882365</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>westcoastlivingbluebig</DefName>
+    <Color>
+      <r>0.4627451</r>
+      <g>0.572549045</g>
+      <b>0.694117665</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>westcoastlivingyellowbig</DefName>
+    <Color>
+      <r>0.6392157</r>
+      <g>0.5686275</g>
+      <b>0.356862754</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>overseerofficefloorbig</DefName>
+    <Color>
+      <r>0.490196079</r>
+      <g>0.329411775</g>
+      <b>0.227450982</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>eastcoastfloor</DefName>
+    <Color>
+      <r>0.454901963</r>
+      <g>0.454901963</g>
+      <b>0.454901963</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>VCE_TilledSoil</DefName>
+    <Color>
+      <r>0.23137255</r>
+      <g>0.184313729</g>
+      <b>0.149019614</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -1081,1046 +1423,11 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>AM_JewishTileSandstone</DefName>
-    <Color>
-      <r>0.196279272</r>
-      <g>0.133721128</g>
-      <b>0.109241851</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_JewishTileGranite</DefName>
-    <Color>
-      <r>0.136305034</r>
-      <g>0.111578509</g>
-      <b>0.116326004</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_JewishTileLimestone</DefName>
-    <Color>
-      <r>0.308636665</r>
-      <g>0.289411783</g>
-      <b>0.2253206</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_JewishTileSlate</DefName>
-    <Color>
-      <r>0.123632692</r>
-      <g>0.123632692</g>
-      <b>0.123632692</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_JewishTileMarble</DefName>
-    <Color>
-      <r>0.215417638</r>
-      <g>0.2253206</g>
-      <b>0.215417638</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_JewishFineTileSandstone</DefName>
-    <Color>
-      <r>0.5686275</r>
-      <g>0.6392157</g>
-      <b>0.733333349</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_JewishFineTileGranite</DefName>
-    <Color>
-      <r>0.5686275</r>
-      <g>0.6392157</g>
-      <b>0.733333349</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_JewishFineTileLimestone</DefName>
-    <Color>
-      <r>0.5686275</r>
-      <g>0.6392157</g>
-      <b>0.733333349</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_JewishFineTileSlate</DefName>
-    <Color>
-      <r>0.5686275</r>
-      <g>0.6392157</g>
-      <b>0.733333349</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_JewishFineTileMarble</DefName>
-    <Color>
-      <r>0.5686275</r>
-      <g>0.6392157</g>
-      <b>0.733333349</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_KemeticTileSandstone</DefName>
-    <Color>
-      <r>0.1905345</r>
-      <g>0.129807338</g>
-      <b>0.106044531</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_KemeticTileGranite</DefName>
-    <Color>
-      <r>0.132315636</r>
-      <g>0.1083128</g>
-      <b>0.112921342</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_KemeticTileLimestone</DefName>
-    <Color>
-      <r>0.2996034</r>
-      <g>0.2809412</g>
-      <b>0.21872586</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_KemeticTileSlate</DefName>
-    <Color>
-      <r>0.120014176</r>
-      <g>0.120014176</g>
-      <b>0.120014176</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_KemeticTileMarble</DefName>
-    <Color>
-      <r>0.209112719</r>
-      <g>0.21872586</g>
-      <b>0.209112719</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_KemeticTilePristineLimestone</DefName>
-    <Color>
-      <r>0.346840978</r>
-      <g>0.295822948</g>
-      <b>0.187522143</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_KemeticFineTileSandstone</DefName>
-    <Color>
-      <r>0.182874829</r>
-      <g>0.124588944</g>
-      <b>0.101781428</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_KemeticFineTileGranite</DefName>
-    <Color>
-      <r>0.126996413</r>
-      <g>0.103958517</g>
-      <b>0.108381793</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_KemeticFineTileLimestone</DefName>
-    <Color>
-      <r>0.287559062</r>
-      <g>0.2696471</g>
-      <b>0.209932849</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_KemeticFineTileSlate</DefName>
-    <Color>
-      <r>0.115189485</r>
-      <g>0.115189485</g>
-      <b>0.115189485</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_KemeticFineTileMarble</DefName>
-    <Color>
-      <r>0.200706184</r>
-      <g>0.209932849</g>
-      <b>0.200706184</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_KemeticFineTilePristineLimestone</DefName>
-    <Color>
-      <r>0.332897633</r>
-      <g>0.28393057</g>
-      <b>0.179983571</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_Tile_Futuristic_Kemetic</DefName>
-    <Color>
-      <r>0.5019608</r>
-      <g>0.498039216</g>
-      <b>0.4862745</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_SteampunkTileSandstone</DefName>
-    <Color>
-      <r>0.19340688</r>
-      <g>0.131764233</g>
-      <b>0.107643194</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_SteampunkTileGranite</DefName>
-    <Color>
-      <r>0.134310335</r>
-      <g>0.109945647</g>
-      <b>0.114623673</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_SteampunkTileLimestone</DefName>
-    <Color>
-      <r>0.304120034</r>
-      <g>0.2851765</g>
-      <b>0.222023219</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_SteampunkTileSlate</DefName>
-    <Color>
-      <r>0.121823438</r>
-      <g>0.121823438</g>
-      <b>0.121823438</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_SteampunkTileMarble</DefName>
-    <Color>
-      <r>0.212265164</r>
-      <g>0.222023219</g>
-      <b>0.212265164</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_NeolithicTileSandstone</DefName>
-    <Color>
-      <r>0.4117647</r>
-      <g>0.345098048</g>
-      <b>0.2901961</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_NeolithicTileGranite</DefName>
-    <Color>
-      <r>0.4117647</r>
-      <g>0.345098048</g>
-      <b>0.2901961</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_NeolithicTileLimestone</DefName>
-    <Color>
-      <r>0.4117647</r>
-      <g>0.345098048</g>
-      <b>0.2901961</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_NeolithicTileSlate</DefName>
-    <Color>
-      <r>0.4117647</r>
-      <g>0.345098048</g>
-      <b>0.2901961</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_NeolithicTileMarble</DefName>
-    <Color>
-      <r>0.4117647</r>
-      <g>0.345098048</g>
-      <b>0.2901961</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_Tile_Scavenger</DefName>
-    <Color>
-      <r>0.254901975</r>
-      <g>0.270588249</g>
-      <b>0.2509804</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>AM_Tile_Scavenger_Clean</DefName>
-    <Color>
-      <r>0.3529412</r>
-      <g>0.368627459</g>
-      <b>0.3529412</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>Soil</DefName>
-    <Color>
-      <r>0.3647059</r>
-      <g>0.368627459</g>
-      <b>0.20784314</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>MossyTerrain</DefName>
-    <Color>
-      <r>0.368627459</r>
-      <g>0.368627459</g>
-      <b>0.254901975</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>MarshyTerrain</DefName>
-    <Color>
-      <r>0.3137255</r>
-      <g>0.294117659</g>
-      <b>0.223529413</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>SoilRich</DefName>
-    <Color>
-      <r>0.274509817</r>
-      <g>0.235294119</g>
-      <b>0.1882353</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>Enriched</DefName>
-    <Color>
-      <r>0.0607911</r>
-      <g>0.0521066561</g>
-      <b>0.0416853242</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>Gravel</DefName>
-    <Color>
-      <r>0.435294122</r>
-      <g>0.372549027</g>
-      <b>0.270588249</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>Sand</DefName>
-    <Color>
-      <r>0.7490196</r>
-      <g>0.619607866</g>
-      <b>0.4862745</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>SoftSand</DefName>
-    <Color>
-      <r>0.7529412</r>
-      <g>0.635294139</g>
-      <b>0.498039216</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>Mud</DefName>
-    <Color>
-      <r>0.380392164</r>
-      <g>0.3137255</g>
-      <b>0.266666681</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>Ice</DefName>
-    <Color>
-      <r>0.7529412</r>
-      <g>0.75686276</g>
-      <b>0.772549033</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>WaterDeep</DefName>
-    <Color>
-      <r>0.368627459</r>
-      <g>0.427450985</g>
-      <b>0.4117647</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>WaterOceanDeep</DefName>
-    <Color>
-      <r>0.368627459</r>
-      <g>0.427450985</g>
-      <b>0.4117647</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>WaterMovingChestDeep</DefName>
-    <Color>
-      <r>0.305882365</r>
-      <g>0.3882353</g>
-      <b>0.384313732</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>WaterShallow</DefName>
-    <Color>
-      <r>0.372549027</r>
-      <g>0.478431374</g>
-      <b>0.458823532</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>WaterOceanShallow</DefName>
-    <Color>
-      <r>0.372549027</r>
-      <g>0.478431374</g>
-      <b>0.458823532</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>WaterMovingShallow</DefName>
-    <Color>
-      <r>0.372549027</r>
-      <g>0.478431374</g>
-      <b>0.458823532</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>Marsh</DefName>
-    <Color>
-      <r>0.219607845</r>
-      <g>0.266666681</g>
-      <b>0.1882353</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>Smooth_Sandstone</DefName>
-    <Color>
-      <r>0.19915165</r>
-      <g>0.1363303</g>
-      <b>0.110840514</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>Smooth_Marble</DefName>
-    <Color>
-      <r>0.218570083</r>
-      <g>0.2297171</g>
-      <b>0.218570083</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>Smooth_Granite</DefName>
-    <Color>
-      <r>0.138299763</r>
-      <g>0.113755651</g>
-      <b>0.118028343</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>Smooth_Slate</DefName>
-    <Color>
-      <r>0.125441954</r>
-      <g>0.126045048</g>
-      <b>0.125441954</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>Smooth_Limestone</DefName>
-    <Color>
-      <r>0.313153327</r>
-      <g>0.295058846</g>
-      <b>0.228617981</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>lava</DefName>
-    <Color>
-      <r>0.274380177</r>
-      <g>0.0105178254</g>
-      <b>0.01013185</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>gacid</DefName>
-    <Color>
-      <r>0.0141725279</r>
-      <g>0.262945652</g>
-      <b>0.015831016</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>yacid</DefName>
-    <Color>
-      <r>0.368627459</r>
-      <g>0.427450985</g>
-      <b>0.015831016</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>tar</DefName>
-    <Color>
-      <r>0.004016555</r>
-      <g>0.00314811058</g>
-      <b>0.00249677734</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>QuickSand</DefName>
-    <Color>
-      <r>0.7529412</r>
-      <g>0.635294139</g>
-      <b>0.498039216</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_AncientConcrete</DefName>
-    <Color>
-      <r>0.3764706</r>
-      <g>0.372549027</g>
-      <b>0.3764706</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_Lava</DefName>
-    <Color>
-      <r>0.470588237</r>
-      <g>0.266666681</g>
-      <b>0.06666667</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_TundraSoil</DefName>
-    <Color>
-      <r>0.34117648</r>
-      <g>0.282352954</g>
-      <b>0.219607845</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_BorealSoil</DefName>
-    <Color>
-      <r>0.333333343</r>
-      <g>0.2784314</g>
-      <b>0.223529413</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_TemperateSoil</DefName>
-    <Color>
-      <r>0.34117648</r>
-      <g>0.286274523</g>
-      <b>0.227450982</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_LavaRock</DefName>
-    <Color>
-      <r>0.164705887</r>
-      <g>0.160784319</g>
-      <b>0.164705887</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_HotSpringSand</DefName>
-    <Color>
-      <r>0.498039216</r>
-      <g>0.3529412</g>
-      <b>0.1882353</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_DepletedSoil</DefName>
-    <Color>
-      <r>0.34117648</r>
-      <g>0.309803933</g>
-      <b>0.282352954</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_RubbleSoil</DefName>
-    <Color>
-      <r>0.392156869</r>
-      <g>0.368627459</g>
-      <b>0.345098048</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_DepletedMossy</DefName>
-    <Color>
-      <r>0.329411775</r>
-      <g>0.305882365</g>
-      <b>0.282352954</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_DepletedGravel</DefName>
-    <Color>
-      <r>0.403921574</r>
-      <g>0.384313732</g>
-      <b>0.372549027</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_AspenSoil</DefName>
-    <Color>
-      <r>0.345098048</r>
-      <g>0.2784314</g>
-      <b>0.223529413</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_AnimaSoil</DefName>
-    <Color>
-      <r>0.423529416</r>
-      <g>0.5176471</g>
-      <b>0.4862745</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_AnimaSoilEnchanted</DefName>
-    <Color>
-      <r>0.380392164</r>
-      <g>0.470588237</g>
-      <b>0.4</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_AnimaSoilCracked</DefName>
-    <Color>
-      <r>0.286274523</r>
-      <g>0.333333343</g>
-      <b>0.294117659</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_AnimaSpringSand</DefName>
-    <Color>
-      <r>0.4745098</r>
-      <g>0.34117648</g>
-      <b>0.345098048</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_HotSpring</DefName>
-    <Color>
-      <r>0.34117648</r>
-      <g>0.482352942</g>
-      <b>0.478431374</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_HotSpringDeep</DefName>
-    <Color>
-      <r>0.247058824</r>
-      <g>0.372549027</g>
-      <b>0.368627459</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>RG_ToxicWaste</DefName>
-    <Color>
-      <r>0.286274523</r>
-      <g>0.360784322</g>
-      <b>0.156862751</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_Asphalt</DefName>
-    <Color>
-      <r>0.2627451</r>
-      <g>0.2627451</g>
-      <b>0.2627451</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_WoodenParquet</DefName>
-    <Color>
-      <r>0.1730462</r>
-      <g>0.09026176</g>
-      <b>0.04487867</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_WoodenParquetWalnut</DefName>
-    <Color>
-      <r>0.092591</r>
-      <g>0.0534093231</g>
-      <b>0.0300427452</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_WoodenParquetBirch</DefName>
-    <Color>
-      <r>0.8760464</r>
-      <g>0.5699368</g>
-      <b>0.3338083</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_WoodenParquetMahogany</DefName>
-    <Color>
-      <r>0.26639387</r>
-      <g>0.092591</g>
-      <b>0.03562105</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_WoodPlankFloorWalnut</DefName>
-    <Color>
-      <r>0.08845075</r>
-      <g>0.0510211028</g>
-      <b>0.028699372</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_WoodPlankFloorBirch</DefName>
-    <Color>
-      <r>0.8368736</r>
-      <g>0.544451833</g>
-      <b>0.318881929</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_WoodPlankFloorMahogany</DefName>
-    <Color>
-      <r>0.254481941</r>
-      <g>0.08845075</g>
-      <b>0.03402824</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_CobblestoneFloorSandstone</DefName>
-    <Color>
-      <r>0.1551085</r>
-      <g>0.1043677</g>
-      <b>0.08526193</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_CobblestoneFloorGranite</DefName>
-    <Color>
-      <r>0.107714228</r>
-      <g>0.0870856643</g>
-      <b>0.09079103</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_CobblestoneFloorLimestone</DefName>
-    <Color>
-      <r>0.243898258</r>
-      <g>0.225882381</g>
-      <b>0.175859988</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_CobblestoneFloorSlate</DefName>
-    <Color>
-      <r>0.107714228</r>
-      <g>0.106384426</g>
-      <b>0.106384426</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_CobblestoneFloorMarble</DefName>
-    <Color>
-      <r>0.170232475</r>
-      <g>0.175859988</g>
-      <b>0.168130845</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_PolishedStoneFloorSandstone</DefName>
-    <Color>
-      <r>0.202024028</r>
-      <g>0.138287216</g>
-      <b>0.112439178</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_PolishedStoneFloorGranite</DefName>
-    <Color>
-      <r>0.140294462</r>
-      <g>0.115388505</g>
-      <b>0.119730674</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_PolishedStoneFloorLimestone</DefName>
-    <Color>
-      <r>0.317669928</r>
-      <g>0.299294144</g>
-      <b>0.231915355</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_PolishedStoneFloorSlate</DefName>
-    <Color>
-      <r>0.140294462</r>
-      <g>0.140959367</g>
-      <b>0.140294462</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_PolishedStoneFloorMarble</DefName>
-    <Color>
-      <r>0.221722528</r>
-      <g>0.233014479</g>
-      <b>0.221722528</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_SlabsSandstone</DefName>
-    <Color>
-      <r>0.1694704</r>
-      <g>0.115456775</g>
-      <b>0.09432101</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_SlabsGranite</DefName>
-    <Color>
-      <r>0.117687769</r>
-      <g>0.0963385254</g>
-      <b>0.100437574</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_SlabsLimestone</DefName>
-    <Color>
-      <r>0.266481429</r>
-      <g>0.249882385</g>
-      <b>0.1945451</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_SlabsSlate</DefName>
-    <Color>
-      <r>0.106746279</r>
-      <g>0.106746279</g>
-      <b>0.106746279</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_SlabsMarble</DefName>
-    <Color>
-      <r>0.185994729</r>
-      <g>0.1945451</g>
-      <b>0.185994729</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_Grass</DefName>
-    <Color>
-      <r>0.2509804</r>
-      <g>0.3019608</g>
-      <b>0.168627456</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_LawnPlot</DefName>
-    <Color>
-      <r>0.266666681</r>
-      <g>0.3254902</g>
-      <b>0.184313729</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_PlayerBrokenAsphalt</DefName>
-    <Color>
-      <r>0.392156869</r>
-      <g>0.41568628</g>
-      <b>0.4627451</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_PlayerPackedDirt</DefName>
-    <Color>
-      <r>0.380392164</r>
-      <g>0.3372549</g>
-      <b>0.274509817</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_BridgeSandstone</DefName>
-    <Color>
-      <r>0.161810711</r>
-      <g>0.110238388</g>
-      <b>0.09005792</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_BridgeGranite</DefName>
-    <Color>
-      <r>0.112368546</r>
-      <g>0.0919842348</g>
-      <b>0.09589803</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_BridgeLimestone</DefName>
-    <Color>
-      <r>0.254437059</r>
-      <g>0.238588259</g>
-      <b>0.185752124</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_BridgeSlate</DefName>
-    <Color>
-      <r>0.101921596</r>
-      <g>0.101921596</g>
-      <b>0.101921596</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_BridgeMarble</DefName>
-    <Color>
-      <r>0.1775882</r>
-      <g>0.185752124</g>
-      <b>0.1775882</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_BridgeSteel</DefName>
-    <Color>
-      <r>0.5019608</r>
-      <g>0.5019608</g>
-      <b>0.5019608</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
-    <DefName>VFEArch_ConcreteFoundation</DefName>
-    <Color>
-      <r>0.454901963</r>
-      <g>0.4509804</g>
-      <b>0.454901963</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>Dirt</DefName>
     <Color>
-      <r>0.3647059</r>
-      <g>0.368627459</g>
-      <b>0.20784314</b>
+      <r>0.274509817</r>
+      <g>0.243137255</g>
+      <b>0.215686277</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2134,101 +1441,632 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LotRE_MallornPlankFloor</DefName>
+    <DefName>DirtRecent</DefName>
     <Color>
-      <r>0.816337645</r>
-      <g>0.6735352</g>
-      <b>0.3858471</b>
+      <r>0.3529412</r>
+      <g>0.286274523</g>
+      <b>0.23137255</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>LotRE_MallornPlankFloorTwo</DefName>
+    <DefName>StoneRecent</DefName>
     <Color>
-      <r>0.5556198</r>
-      <g>0.5612463</g>
-      <b>0.5556198</b>
+      <r>0.163725629</r>
+      <g>0.111542985</g>
+      <b>0.09112369</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_FineSteelTile</DefName>
+    <DefName>AsphaltRecent</DefName>
     <Color>
-      <r>0.138964653</r>
-      <g>0.138964653</g>
-      <b>0.138964653</b>
+      <r>0.0755893961</r>
+      <g>0.0755893961</g>
+      <b>0.0755893961</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_FineSilverTile</DefName>
+    <DefName>ConcreteBridge</DefName>
     <Color>
-      <r>0.166694567</r>
-      <g>0.166694567</g>
-      <b>0.166694567</b>
+      <r>0.13438116</r>
+      <g>0.13438116</g>
+      <b>0.13438116</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_FineGoldTile</DefName>
+    <DefName>GlitterRoad</DefName>
     <Color>
-      <r>0.347329736</r>
-      <g>0.347329736</g>
-      <b>0.09984028</b>
+      <r>0.8235294</r>
+      <g>0.8235294</g>
+      <b>0.8235294</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_FineWoodenFloor</DefName>
+    <DefName>RimNauts2_Vacuum_Platform</DefName>
     <Color>
-      <r>0.144205183</r>
-      <g>0.07558505</g>
-      <b>0.03739889</b>
+      <r>0.113725491</r>
+      <g>0.07058824</g>
+      <b>0.0392156877</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_FineWoodenFloorWalnut</DefName>
+    <DefName>RimNauts2_SteelBridge</DefName>
     <Color>
-      <r>0.07715917</r>
+      <r>0.392156869</r>
+      <g>0.380392164</g>
+      <b>0.384313732</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>RimNauts2_Vacuum</DefName>
+    <Color>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_TilesDiagonal</DefName>
+    <Color>
+      <r>0.6313726</r>
+      <g>0.635294139</g>
+      <b>0.627451</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_TilesDiamond</DefName>
+    <Color>
+      <r>0.7490196</r>
+      <g>0.7529412</g>
+      <b>0.7490196</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_TactileTile</DefName>
+    <Color>
+      <r>0.3764706</r>
+      <g>0.372549027</g>
+      <b>0.372549027</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_SterileTile</DefName>
+    <Color>
+      <r>0.432693869</r>
+      <g>0.442572743</g>
+      <b>0.446524262</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_Red</DefName>
+    <Color>
+      <r>0.1729859</r>
+      <g>0.0298290122</g>
+      <b>0.0403642058</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_Green</DefName>
+    <Color>
+      <r>0.0984071642</r>
+      <g>0.136969954</g>
+      <b>0.0477562323</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_Blue</DefName>
+    <Color>
+      <r>0.007155981</r>
+      <g>0.0524896234</g>
+      <b>0.1818936</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_White</DefName>
+    <Color>
+      <r>0.4724066</r>
+      <g>0.457982779</g>
+      <b>0.457982779</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_Dark</DefName>
+    <Color>
+      <r>0.04472488</r>
       <g>0.04472488</g>
-      <b>0.0250356216</b>
+      <b>0.04472488</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_FineWoodenFloorBirch</DefName>
+    <DefName>Lino_Gold</DefName>
     <Color>
-      <r>0.7300387</r>
-      <g>0.4772642</g>
-      <b>0.278173566</b>
+      <r>0.6289436</r>
+      <g>0.3980639</g>
+      <b>0.0219151918</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_FineWoodenFloorMahogany</DefName>
+    <DefName>LinoTile_Red</DefName>
     <Color>
-      <r>0.221994877</r>
-      <g>0.0775355548</g>
-      <b>0.0296842121</b>
+      <r>0.183902487</r>
+      <g>0.03243543</g>
+      <b>0.04428306</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>LinoTile_Green</DefName>
+    <Color>
+      <r>0.104617327</r>
+      <g>0.1489382</g>
+      <b>0.05239276</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>LinoTile_Blue</DefName>
+    <Color>
+      <r>0.00760757225</r>
+      <g>0.0570760928</g>
+      <b>0.199553177</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>LinoTile_White</DefName>
+    <Color>
+      <r>0.5022186</r>
+      <g>0.4980007</g>
+      <b>0.5024471</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>LinoTile_Dark</DefName>
+    <Color>
+      <r>0.04754732</r>
+      <g>0.04863288</g>
+      <b>0.0490671024</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>LinoTile_Gold</DefName>
+    <Color>
+      <r>0.6686343</r>
+      <g>0.432846159</g>
+      <b>0.024042882</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_WoodPlankFloor</DefName>
+    <Color>
+      <r>0.113253824</r>
+      <g>0.0590737574</g>
+      <b>0.0293718129</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_Wood_ParquetHerring</DefName>
+    <Color>
+      <r>0.1146607</r>
+      <g>0.05980759</g>
+      <b>0.029736679</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_Wood_ParquetVersailles</DefName>
+    <Color>
+      <r>0.118881337</r>
+      <g>0.0616421774</g>
+      <b>0.03083128</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Wood_ParquetHerring</DefName>
+    <Color>
+      <r>0.1146607</r>
+      <g>0.05980759</g>
+      <b>0.029736679</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Wood_ParquetVersailles</DefName>
+    <Color>
+      <r>0.118881337</r>
+      <g>0.0616421774</g>
+      <b>0.03083128</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_MosaicRed</DefName>
+    <Color>
+      <r>0.1998575</r>
+      <g>0.0344626456</g>
+      <b>0.0466343723</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_MosaicGreen</DefName>
+    <Color>
+      <r>0.113693707</r>
+      <g>0.15824683</g>
+      <b>0.0551746748</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_MosaicBlue</DefName>
+    <Color>
+      <r>0.00826759</r>
+      <g>0.06064335</g>
+      <b>0.210148931</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_MosaicCream</DefName>
+    <Color>
+      <r>0.5457901</r>
+      <g>0.5457901</g>
+      <b>0.5457901</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_MosaicDark</DefName>
+    <Color>
+      <r>0.0534092</r>
+      <g>0.0534092</g>
+      <b>0.0534092</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_MosaicGold</DefName>
+    <Color>
+      <r>0.7266436</r>
+      <g>0.459899038</g>
+      <b>0.0253194924</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_PavementSandstone</DefName>
+    <Color>
+      <r>0.210641161</r>
+      <g>0.143505588</g>
+      <b>0.117235161</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_PavementGranite</DefName>
+    <Color>
+      <r>0.14627859</r>
+      <g>0.119742796</g>
+      <b>0.124837659</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_PavementLimestone</DefName>
+    <Color>
+      <r>0.331219852</r>
+      <g>0.31058827</g>
+      <b>0.241807476</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_PavementSlate</DefName>
+    <Color>
+      <r>0.14627859</r>
+      <g>0.14627859</g>
+      <b>0.14627859</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_PavementMarble</DefName>
+    <Color>
+      <r>0.2311799</r>
+      <g>0.241807476</g>
+      <b>0.2311799</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_PavementGold</DefName>
+    <Color>
+      <r>0.671687365</r>
+      <g>0.425116748</g>
+      <b>0.0234045759</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_HerringboneSandstone</DefName>
+    <Color>
+      <r>0.163725629</r>
+      <g>0.111542985</g>
+      <b>0.09112369</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_HerringboneGranite</DefName>
+    <Color>
+      <r>0.113698356</r>
+      <g>0.0930728</g>
+      <b>0.09703291</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_HerringboneLimestone</DefName>
+    <Color>
+      <r>0.257448137</r>
+      <g>0.24141179</g>
+      <b>0.187950358</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_HerringboneSlate</DefName>
+    <Color>
+      <r>0.113698356</r>
+      <g>0.113698356</g>
+      <b>0.113698356</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_HerringboneMarble</DefName>
+    <Color>
+      <r>0.179689825</r>
+      <g>0.187950358</g>
+      <b>0.179689825</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_TileSandstone</DefName>
+    <Color>
+      <r>0.128299624</r>
+      <g>0.08740796</g>
+      <b>0.07140687</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_TileGranite</DefName>
+    <Color>
+      <r>0.08909696</r>
+      <g>0.07293425</g>
+      <b>0.07603749</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_TileLimestone</DefName>
+    <Color>
+      <r>0.201743</r>
+      <g>0.1891765</g>
+      <b>0.147282735</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_TileSlate</DefName>
+    <Color>
+      <r>0.08081357</r>
+      <g>0.08081357</g>
+      <b>0.08081357</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_TileMarble</DefName>
+    <Color>
+      <r>0.140809581</r>
+      <g>0.147282735</g>
+      <b>0.140809581</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_FlagstoneSandstone</DefName>
+    <Color>
+      <r>0.163725629</r>
+      <g>0.111542985</g>
+      <b>0.09112369</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_FlagstoneGranite</DefName>
+    <Color>
+      <r>0.113698356</r>
+      <g>0.0930728</g>
+      <b>0.09703291</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_FlagstoneLimestone</DefName>
+    <Color>
+      <r>0.257448137</r>
+      <g>0.24141179</g>
+      <b>0.187950358</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_FlagstoneSlate</DefName>
+    <Color>
+      <r>0.113698356</r>
+      <g>0.113698356</g>
+      <b>0.113698356</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>Lino_FlagstoneMarble</DefName>
+    <Color>
+      <r>0.179689825</r>
+      <g>0.187950358</g>
+      <b>0.179689825</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>FT_Concrete</DefName>
+    <Color>
+      <r>0.271501929</r>
+      <g>0.271501929</g>
+      <b>0.271501929</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>FT_ConcreteTile</DefName>
+    <Color>
+      <r>0.295053959</r>
+      <g>0.295053959</g>
+      <b>0.295053959</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>FT_FineConcreteTile</DefName>
+    <Color>
+      <r>0.355627924</r>
+      <g>0.355627924</g>
+      <b>0.355627924</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>FT_FlagstoneConcrete</DefName>
+    <Color>
+      <r>0.2640071</r>
+      <g>0.2640071</g>
+      <b>0.2640071</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>FT_TileStoneConcrete</DefName>
+    <Color>
+      <r>0.1583946</r>
+      <g>0.1583946</g>
+      <b>0.1583946</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>DBHMosaicTile</DefName>
+    <Color>
+      <r>0.5457901</r>
+      <g>0.5457901</g>
+      <b>0.5457901</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>DBHMosaicSandstone</DefName>
+    <Color>
+      <r>0.227875441</r>
+      <g>0.155246958</g>
+      <b>0.126827121</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>DBHMosaicGranite</DefName>
+    <Color>
+      <r>0.15824683</r>
+      <g>0.129539922</g>
+      <b>0.135051653</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>DBHMosaicLimestone</DefName>
+    <Color>
+      <r>0.35831964</r>
+      <g>0.336000025</g>
+      <b>0.261591733</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>DBHMosaicSlate</DefName>
+    <Color>
+      <r>0.15824683</r>
+      <g>0.15824683</g>
+      <b>0.15824683</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>DBHMosaicMarble</DefName>
+    <Color>
+      <r>0.2500946</r>
+      <g>0.261591733</g>
+      <b>0.2500946</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
+  <CacheEntry>
+    <DefName>PoolWater</DefName>
+    <Color>
+      <r>0.149019614</r>
+      <g>0.243137255</g>
+      <b>0.243137255</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetRed</DefName>
     <Color>
-      <r>0.186421692</r>
-      <g>0.032145828</g>
-      <b>0.0434992872</b>
+      <r>0.212453544</r>
+      <g>0.0366346575</g>
+      <b>0.0495735146</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineRed</DefName>
     <Color>
-      <r>0.207415134</r>
-      <g>0.0359106548</g>
-      <b>0.0483978577</b>
+      <r>0.127640083</r>
+      <g>0.0220097564</g>
+      <b>0.0297833</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2251,29 +2089,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetRed</DefName>
-    <Color>
-      <r>0.171306416</r>
-      <g>0.0295394082</g>
-      <b>0.03997232</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetRedSubtle</DefName>
     <Color>
-      <r>0.233281523</r>
-      <g>0.0944693759</g>
-      <b>0.06940607</b>
+      <r>0.265856862</r>
+      <g>0.107661039</g>
+      <b>0.07909791</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineRedSubtle</DefName>
     <Color>
-      <r>0.259551972</r>
-      <g>0.105533354</g>
-      <b>0.0772220641</b>
+      <r>0.1597243</r>
+      <g>0.06468174</g>
+      <b>0.04752128</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2296,29 +2125,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetRedSubtle</DefName>
-    <Color>
-      <r>0.214366809</r>
-      <g>0.0868096948</g>
-      <b>0.06377856</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetAuburn</DefName>
     <Color>
-      <r>0.254970938</r>
-      <g>0.0348235331</g>
-      <b>0.0173515175</b>
+      <r>0.290574968</r>
+      <g>0.0396862738</g>
+      <b>0.0197744779</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineAuburn</DefName>
     <Color>
-      <r>0.283683866</r>
-      <g>0.0389019623</g>
-      <b>0.019305516</b>
+      <r>0.174574688</r>
+      <g>0.0238431375</g>
+      <b>0.01188032</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2341,29 +2161,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetAuburn</DefName>
-    <Color>
-      <r>0.2342976</r>
-      <g>0.032</g>
-      <b>0.01594464</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetScarlet</DefName>
     <Color>
-      <r>0.3557195</r>
-      <g>0.0225060955</g>
-      <b>0.023617344</b>
+      <r>0.405392021</r>
+      <g>0.02564884</g>
+      <b>0.02691526</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineScarlet</DefName>
     <Color>
-      <r>0.395778</r>
-      <g>0.0251419451</g>
-      <b>0.0262769535</b>
+      <r>0.24355571</r>
+      <g>0.0154095795</g>
+      <b>0.0161704347</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2386,29 +2197,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetScarlet</DefName>
-    <Color>
-      <r>0.3268774</r>
-      <g>0.0206812788</g>
-      <b>0.0217024237</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetBurgundy</DefName>
     <Color>
-      <r>0.1108703</r>
-      <g>0.0225060955</g>
-      <b>0.0271117464</b>
+      <r>0.126352191</r>
+      <g>0.02564884</g>
+      <b>0.0308976211</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineBurgundy</DefName>
     <Color>
-      <r>0.1233557</r>
-      <g>0.0251419451</g>
-      <b>0.03016487</b>
+      <r>0.0759112</r>
+      <g>0.0154095795</g>
+      <b>0.0185629986</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2431,29 +2233,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetBurgundy</DefName>
-    <Color>
-      <r>0.101880826</r>
-      <g>0.0206812788</g>
-      <b>0.0249134973</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetPlum</DefName>
     <Color>
-      <r>0.108446985</r>
-      <g>0.019333018</g>
-      <b>0.04819866</b>
+      <r>0.123590484</r>
+      <g>0.0220326725</g>
+      <b>0.0549291</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFinePlum</DefName>
     <Color>
-      <r>0.120659478</r>
-      <g>0.0215972438</g>
-      <b>0.053626433</b>
+      <r>0.0742519945</r>
+      <g>0.0132370219</g>
+      <b>0.0330008827</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2476,29 +2269,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetPlum</DefName>
-    <Color>
-      <r>0.09965399</r>
-      <g>0.0177654754</g>
-      <b>0.0442906581</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetDarkMauve</DefName>
     <Color>
-      <r>0.229760349</r>
-      <g>0.08145573</g>
-      <b>0.136576265</b>
+      <r>0.261844</r>
+      <g>0.09283018</g>
+      <b>0.15564771</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineDarkMauve</DefName>
     <Color>
-      <r>0.255634248</r>
-      <g>0.0909955949</g>
-      <b>0.151956469</b>
+      <r>0.157313392</r>
+      <g>0.0557715</g>
+      <b>0.09351167</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2521,29 +2305,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetDarkMauve</DefName>
-    <Color>
-      <r>0.211131141</r>
-      <g>0.07485122</g>
-      <b>0.125502512</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetMagenta</DefName>
     <Color>
-      <r>0.189594775</r>
-      <g>0.03347129</g>
-      <b>0.08568651</b>
+      <r>0.216069713</r>
+      <g>0.0381452069</g>
+      <b>0.0976517349</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineMagenta</DefName>
     <Color>
-      <r>0.210945547</r>
-      <g>0.0373913534</g>
-      <b>0.0953358859</b>
+      <r>0.129812643</r>
+      <g>0.02291728</g>
+      <b>0.05866824</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2566,29 +2341,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetMagenta</DefName>
-    <Color>
-      <r>0.174222231</r>
-      <g>0.030757403</g>
-      <b>0.07873896</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetMagentaSubtle</DefName>
     <Color>
-      <r>0.136576265</r>
-      <g>0.0601010546</g>
-      <b>0.09002438</b>
+      <r>0.15564771</r>
+      <g>0.0684935451</g>
+      <b>0.102595359</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineMagentaSubtle</DefName>
     <Color>
-      <r>0.151956469</r>
-      <g>0.0671399161</g>
-      <b>0.100162275</b>
+      <r>0.09351167</r>
+      <g>0.0411502719</g>
+      <b>0.061638318</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2611,29 +2377,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetMagentaSubtle</DefName>
-    <Color>
-      <r>0.125502512</r>
-      <g>0.0552279949</g>
-      <b>0.0827251151</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetPurple</DefName>
     <Color>
-      <r>0.131220847</r>
-      <g>0.03347129</g>
-      <b>0.189594775</b>
+      <r>0.149544477</r>
+      <g>0.0381452069</g>
+      <b>0.216069713</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFinePurple</DefName>
     <Color>
-      <r>0.145997971</r>
-      <g>0.0373913534</g>
-      <b>0.210945547</b>
+      <r>0.0898449048</r>
+      <g>0.02291728</g>
+      <b>0.129812643</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2656,29 +2413,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetPurple</DefName>
-    <Color>
-      <r>0.120581321</r>
-      <g>0.030757403</g>
-      <b>0.174222231</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetPurpleSubtle</DefName>
     <Color>
-      <r>0.108446985</r>
-      <g>0.06940607</g>
-      <b>0.125972554</b>
+      <r>0.123590484</r>
+      <g>0.07909791</g>
+      <b>0.1435633</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFinePurpleSubtle</DefName>
     <Color>
-      <r>0.120659478</r>
-      <g>0.07753471</g>
-      <b>0.140158653</b>
+      <r>0.0742519945</r>
+      <g>0.04752128</g>
+      <b>0.08625148</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2701,29 +2449,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetPurpleSubtle</DefName>
-    <Color>
-      <r>0.09965399</r>
-      <g>0.06377856</g>
-      <b>0.115758568</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetPurpleMuted</DefName>
     <Color>
-      <r>0.180155873</r>
-      <g>0.08145573</g>
-      <b>0.229760349</b>
+      <r>0.205312774</r>
+      <g>0.09283018</g>
+      <b>0.261844</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFinePurpleMuted</DefName>
     <Color>
-      <r>0.200443685</r>
-      <g>0.0909955949</g>
-      <b>0.255634248</b>
+      <r>0.123349972</r>
+      <g>0.0557715</g>
+      <b>0.157313392</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2746,29 +2485,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetPurpleMuted</DefName>
-    <Color>
-      <r>0.165548638</r>
-      <g>0.07485122</g>
-      <b>0.211131141</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetPurpleDeep</DefName>
     <Color>
-      <r>0.07531041</r>
-      <g>0.019333018</g>
-      <b>0.108446985</b>
+      <r>0.0858267248</r>
+      <g>0.0220326725</g>
+      <b>0.123590484</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFinePurpleDeep</DefName>
     <Color>
-      <r>0.08379131</r>
-      <g>0.0215972438</g>
-      <b>0.120659478</b>
+      <r>0.0515638851</r>
+      <g>0.0132370219</g>
+      <b>0.0742519945</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2791,29 +2521,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetPurpleDeep</DefName>
-    <Color>
-      <r>0.06920416</r>
-      <g>0.0177654754</g>
-      <b>0.09965399</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetGrape</DefName>
     <Color>
-      <r>0.156163648</r>
-      <g>0.0362025462</g>
-      <b>0.125972554</b>
+      <r>0.17797029</r>
+      <g>0.04125786</g>
+      <b>0.1435633</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineGrape</DefName>
     <Color>
-      <r>0.173749655</r>
-      <g>0.0404424854</g>
-      <b>0.140158653</b>
+      <r>0.106922865</r>
+      <g>0.024787331</g>
+      <b>0.08625148</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2836,29 +2557,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetGrape</DefName>
-    <Color>
-      <r>0.143501729</r>
-      <g>0.0332672074</g>
-      <b>0.115758568</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetIndigo</DefName>
     <Color>
-      <r>0.209195554</r>
-      <g>0.07134741</g>
-      <b>0.209195554</b>
+      <r>0.238407552</r>
+      <g>0.08131034</g>
+      <b>0.238407552</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineIndigo</DefName>
     <Color>
-      <r>0.2327536</r>
-      <g>0.07970341</g>
-      <b>0.2327536</b>
+      <r>0.143233</r>
+      <g>0.04885048</g>
+      <b>0.143233</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2881,29 +2593,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetIndigo</DefName>
-    <Color>
-      <r>0.192233756</r>
-      <g>0.06556249</g>
-      <b>0.192233756</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetIndigoLight</DefName>
     <Color>
-      <r>0.277624279</r>
-      <g>0.0990214646</g>
-      <b>0.258679539</b>
+      <r>0.316391647</r>
+      <g>0.112848788</g>
+      <b>0.294801474</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineIndigoLight</DefName>
     <Color>
-      <r>0.308888257</r>
-      <g>0.110618576</g>
-      <b>0.287810117</b>
+      <r>0.190085113</r>
+      <g>0.06779849</g>
+      <b>0.177113935</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2926,29 +2629,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetIndigoLight</DefName>
-    <Color>
-      <r>0.255114228</r>
-      <g>0.090992704</g>
-      <b>0.237705529</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetBlue</DefName>
     <Color>
-      <r>0.007711785</r>
-      <g>0.056566488</g>
-      <b>0.196021259</b>
+      <r>0.00878865551</r>
+      <g>0.06446541</g>
+      <b>0.223393589</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineBlue</DefName>
     <Color>
-      <r>0.00858023</r>
-      <g>0.06319139</g>
-      <b>0.21809572</b>
+      <r>0.00528014125</r>
+      <g>0.0387302078</g>
+      <b>0.134212762</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -2971,29 +2665,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetBlue</DefName>
-    <Color>
-      <r>0.00708650565</r>
-      <g>0.0519800149</g>
-      <b>0.18012765</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetBlueSubtle</DefName>
     <Color>
-      <r>0.0601010546</r>
-      <g>0.0878420547</g>
-      <b>0.136576265</b>
+      <r>0.0684935451</r>
+      <g>0.100108288</g>
+      <b>0.15564771</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineBlueSubtle</DefName>
     <Color>
-      <r>0.0668691844</r>
-      <g>0.09812987</g>
-      <b>0.151956469</b>
+      <r>0.0411502719</r>
+      <g>0.0601441152</g>
+      <b>0.09351167</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3016,29 +2701,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetBlueSubtle</DefName>
-    <Color>
-      <r>0.0552279949</r>
-      <g>0.08071973</g>
-      <b>0.125502512</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetBlueIce</DefName>
     <Color>
-      <r>0.262414932</r>
-      <g>0.293262064</g>
-      <b>0.405350715</b>
+      <r>0.299058467</r>
+      <g>0.3342131</g>
+      <b>0.461953759</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineBlueIce</DefName>
     <Color>
-      <r>0.29196617</r>
-      <g>0.327608079</g>
-      <b>0.450998336</b>
+      <r>0.179671481</r>
+      <g>0.200792059</g>
+      <b>0.277537435</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3061,29 +2737,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetBlueIce</DefName>
-    <Color>
-      <r>0.241138056</r>
-      <g>0.269484073</g>
-      <b>0.372484475</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetMarine</DefName>
     <Color>
-      <r>0.019333018</r>
-      <g>0.0466054231</g>
-      <b>0.108446985</b>
+      <r>0.0220326725</r>
+      <g>0.053113386</g>
+      <b>0.123590484</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineMarine</DefName>
     <Color>
-      <r>0.0215101615</r>
-      <g>0.05206372</g>
-      <b>0.120659478</b>
+      <r>0.0132370219</r>
+      <g>0.03191002</g>
+      <b>0.0742519945</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3106,29 +2773,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetMarine</DefName>
-    <Color>
-      <r>0.0177654754</r>
-      <g>0.0428266041</g>
-      <b>0.09965399</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetBlueSky</DefName>
     <Color>
-      <r>0.120831355</r>
-      <g>0.236829489</g>
-      <b>0.488426477</b>
+      <r>0.137704208</r>
+      <g>0.269900262</g>
+      <b>0.5566302</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineBlueSky</DefName>
     <Color>
-      <r>0.1344385</r>
-      <g>0.264566272</g>
-      <b>0.543429434</b>
+      <r>0.08273138</r>
+      <g>0.162153527</g>
+      <b>0.334418148</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3151,29 +2809,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetBlueSky</DefName>
-    <Color>
-      <r>0.111034222</r>
-      <g>0.2176271</g>
-      <b>0.448824316</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetDusk</DefName>
     <Color>
-      <r>0.08145573</r>
-      <g>0.13388516</g>
-      <b>0.229760349</b>
+      <r>0.09283018</r>
+      <g>0.152580827</g>
+      <b>0.261844</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineDusk</DefName>
     <Color>
-      <r>0.0906286761</r>
-      <g>0.149565414</g>
-      <b>0.255634248</b>
+      <r>0.0557715</r>
+      <g>0.09166912</g>
+      <b>0.157313392</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3196,29 +2845,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetDusk</DefName>
-    <Color>
-      <r>0.07485122</r>
-      <g>0.123029612</g>
-      <b>0.211131141</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetMoss</DefName>
     <Color>
-      <r>0.019333018</r>
-      <g>0.106050439</g>
-      <b>0.108446985</b>
+      <r>0.0220326725</r>
+      <g>0.120859288</g>
+      <b>0.123590484</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineMoss</DefName>
     <Color>
-      <r>0.0215101615</r>
-      <g>0.118470758</g>
-      <b>0.120659478</b>
+      <r>0.0132370219</r>
+      <g>0.07261111</g>
+      <b>0.0742519945</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3241,29 +2881,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetMoss</DefName>
-    <Color>
-      <r>0.0177654754</r>
-      <g>0.0974517539</g>
-      <b>0.09965399</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetMossBright</DefName>
     <Color>
-      <r>0.08145573</r>
-      <g>0.226265952</g>
-      <b>0.229760349</b>
+      <r>0.09283018</r>
+      <g>0.257861644</g>
+      <b>0.261844</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineMossBright</DefName>
     <Color>
-      <r>0.0906286761</r>
-      <g>0.252765566</g>
-      <b>0.255634248</b>
+      <r>0.0557715</r>
+      <g>0.154920831</g>
+      <b>0.157313392</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3286,29 +2917,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetMossBright</DefName>
-    <Color>
-      <r>0.07485122</r>
-      <g>0.20792006</g>
-      <b>0.211131141</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetTeal</DefName>
     <Color>
-      <r>0.03347129</r>
-      <g>0.186421692</g>
-      <b>0.189594775</b>
+      <r>0.0381452069</r>
+      <g>0.212453544</g>
+      <b>0.216069713</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineTeal</DefName>
     <Color>
-      <r>0.03724058</r>
-      <g>0.208254874</g>
-      <b>0.210945547</b>
+      <r>0.02291728</r>
+      <g>0.127640083</g>
+      <b>0.129812643</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3331,29 +2953,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetTeal</DefName>
-    <Color>
-      <r>0.030757403</r>
-      <g>0.171306416</g>
-      <b>0.174222231</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetGreen</DefName>
     <Color>
-      <r>0.106050439</r>
-      <g>0.147608384</g>
-      <b>0.0514654554</b>
+      <r>0.120859288</r>
+      <g>0.168220371</g>
+      <b>0.0586520731</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineGreen</DefName>
     <Color>
-      <r>0.117993057</r>
-      <g>0.164895862</g>
-      <b>0.0572611168</b>
+      <r>0.07261111</r>
+      <g>0.101065211</g>
+      <b>0.0352376066</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3376,29 +2989,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetGreen</DefName>
-    <Color>
-      <r>0.0974517539</r>
-      <g>0.135640144</g>
-      <b>0.04729258</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetSage</DefName>
     <Color>
-      <r>0.0733155161</r>
-      <g>0.162001044</g>
-      <b>0.08568651</b>
+      <r>0.08355328</r>
+      <g>0.184622809</g>
+      <b>0.0976517349</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineSage</DefName>
     <Color>
-      <r>0.08157177</r>
-      <g>0.180974141</g>
-      <b>0.0953358859</b>
+      <r>0.0501980148</r>
+      <g>0.110919632</g>
+      <b>0.05866824</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3421,29 +3025,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetSage</DefName>
-    <Color>
-      <r>0.06737102</r>
-      <g>0.148865819</g>
-      <b>0.07873896</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetGreenFaded</DefName>
     <Color>
-      <r>0.0990214646</r>
-      <g>0.115797281</g>
-      <b>0.07733207</b>
+      <r>0.112848788</r>
+      <g>0.131967172</g>
+      <b>0.08813069</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineGreenFaded</DefName>
     <Color>
-      <r>0.11017254</r>
-      <g>0.129359126</g>
-      <b>0.0860406458</b>
+      <r>0.06779849</r>
+      <g>0.07928462</g>
+      <b>0.0529480875</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3466,29 +3061,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetGreenFaded</DefName>
-    <Color>
-      <r>0.090992704</r>
-      <g>0.106408305</g>
-      <b>0.0710619</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetGreenForest</DefName>
     <Color>
-      <r>0.08145573</r>
-      <g>0.229760349</g>
-      <b>0.147608384</b>
+      <r>0.09283018</r>
+      <g>0.261844</g>
+      <b>0.168220371</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineGreenForest</DefName>
     <Color>
-      <r>0.0906286761</r>
-      <g>0.2566692</g>
-      <b>0.164230958</b>
+      <r>0.0557715</r>
+      <g>0.157313392</g>
+      <b>0.101065211</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3511,29 +3097,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetGreenForest</DefName>
-    <Color>
-      <r>0.07485122</r>
-      <g>0.211131141</g>
-      <b>0.135640144</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetGreenPine</DefName>
     <Color>
-      <r>0.019333018</r>
-      <g>0.108446985</g>
-      <b>0.0548393652</b>
+      <r>0.0220326725</r>
+      <g>0.123590484</g>
+      <b>0.0624971166</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineGreenPine</DefName>
     <Color>
-      <r>0.0215101615</r>
-      <g>0.121147983</g>
-      <b>0.0610149726</b>
+      <r>0.0132370219</r>
+      <g>0.0742519945</g>
+      <b>0.037547674</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3556,29 +3133,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetGreenPine</DefName>
-    <Color>
-      <r>0.0177654754</r>
-      <g>0.09965399</g>
-      <b>0.0503929332</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetGreenSwamp</DefName>
     <Color>
-      <r>0.167945549</r>
-      <g>0.229760349</g>
-      <b>0.08145573</b>
+      <r>0.1913974</r>
+      <g>0.261844</g>
+      <b>0.09283018</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineGreenSwamp</DefName>
     <Color>
-      <r>0.186858326</r>
-      <g>0.2566692</g>
-      <b>0.0906286761</b>
+      <r>0.11498975</r>
+      <g>0.157313392</g>
+      <b>0.0557715</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3601,29 +3169,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetGreenSwamp</DefName>
-    <Color>
-      <r>0.154328346</r>
-      <g>0.211131141</g>
-      <b>0.07485122</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetGreenMuddy</DefName>
     <Color>
-      <r>0.123388559</r>
-      <g>0.125972554</g>
-      <b>0.06940607</b>
+      <r>0.140618488</r>
+      <g>0.1435633</g>
+      <b>0.07909791</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineGreenMuddy</DefName>
     <Color>
-      <r>0.137283683</r>
-      <g>0.140726089</g>
-      <b>0.0772220641</b>
+      <r>0.08448226</r>
+      <g>0.08625148</g>
+      <b>0.04752128</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3646,29 +3205,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetGreenMuddy</DefName>
-    <Color>
-      <r>0.11338409</r>
-      <g>0.115758568</g>
-      <b>0.06377856</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetGreenMarsh</DefName>
     <Color>
-      <r>0.226265952</r>
-      <g>0.229760349</g>
-      <b>0.08145573</b>
+      <r>0.257861644</r>
+      <g>0.261844</g>
+      <b>0.09283018</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineGreenMarsh</DefName>
     <Color>
-      <r>0.251746327</r>
-      <g>0.2566692</g>
-      <b>0.0906286761</b>
+      <r>0.154920831</r>
+      <g>0.157313392</g>
+      <b>0.0557715</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3691,29 +3241,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetGreenMarsh</DefName>
-    <Color>
-      <r>0.20792006</r>
-      <g>0.211131141</g>
-      <b>0.07485122</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetViridian</DefName>
     <Color>
-      <r>0.03347129</r>
-      <g>0.189594775</g>
-      <b>0.0944693759</b>
+      <r>0.0381452069</r>
+      <g>0.216069713</g>
+      <b>0.107661039</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineViridian</DefName>
     <Color>
-      <r>0.03724058</r>
-      <g>0.211799562</g>
-      <b>0.105107814</b>
+      <r>0.02291728</r>
+      <g>0.129812643</g>
+      <b>0.06468174</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3736,29 +3277,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetViridian</DefName>
-    <Color>
-      <r>0.030757403</r>
-      <g>0.174222231</g>
-      <b>0.0868096948</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetViridianSubtle</DefName>
     <Color>
-      <r>0.0733155161</r>
-      <g>0.11830093</g>
-      <b>0.0944693759</b>
+      <r>0.08355328</r>
+      <g>0.134820431</g>
+      <b>0.107661039</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineViridianSubtle</DefName>
     <Color>
-      <r>0.08157177</r>
-      <g>0.132156</g>
-      <b>0.105107814</b>
+      <r>0.0501980148</r>
+      <g>0.08099884</g>
+      <b>0.06468174</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3781,29 +3313,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetViridianSubtle</DefName>
-    <Color>
-      <r>0.06737102</r>
-      <g>0.108708963</g>
-      <b>0.0868096948</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetOlive</DefName>
     <Color>
-      <r>0.186421692</r>
-      <g>0.189594775</g>
-      <b>0.03347129</b>
+      <r>0.212453544</r>
+      <g>0.216069713</g>
+      <b>0.0381452069</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineOlive</DefName>
     <Color>
-      <r>0.207415134</r>
-      <g>0.211799562</g>
-      <b>0.03724058</b>
+      <r>0.127640083</r>
+      <g>0.129812643</g>
+      <b>0.02291728</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3826,29 +3349,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetOlive</DefName>
-    <Color>
-      <r>0.171306416</r>
-      <g>0.174222231</g>
-      <b>0.030757403</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetOliveDark</DefName>
     <Color>
-      <r>0.0637427345</r>
-      <g>0.103680678</g>
-      <b>0.0173515175</b>
+      <r>0.07264374</r>
+      <g>0.1181586</g>
+      <b>0.0197744779</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineOliveDark</DefName>
     <Color>
-      <r>0.07092097</r>
-      <g>0.115823448</g>
-      <b>0.019305516</b>
+      <r>0.043643672</r>
+      <g>0.07098857</g>
+      <b>0.01188032</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3871,29 +3385,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetOliveDark</DefName>
-    <Color>
-      <r>0.0585744</r>
-      <g>0.09527413</g>
-      <b>0.01594464</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetMustard</DefName>
     <Color>
-      <r>0.3557195</r>
-      <g>0.229760349</g>
-      <b>0.032145828</b>
+      <r>0.405392021</r>
+      <g>0.261844</g>
+      <b>0.0366346575</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineMustard</DefName>
     <Color>
-      <r>0.395778</r>
-      <g>0.2566692</g>
-      <b>0.0357658528</b>
+      <r>0.24355571</r>
+      <g>0.157313392</g>
+      <b>0.0220097564</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3916,29 +3421,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetMustard</DefName>
-    <Color>
-      <r>0.3268774</r>
-      <g>0.211131141</g>
-      <b>0.0295394082</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetLimePale</DefName>
     <Color>
-      <r>0.368933976</r>
-      <g>0.368933976</g>
-      <b>0.108446985</b>
+      <r>0.42045176</r>
+      <g>0.42045176</g>
+      <b>0.123590484</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineLimePale</DefName>
     <Color>
-      <r>0.410480559</r>
-      <g>0.412142426</g>
-      <b>0.120659478</b>
+      <r>0.252603441</r>
+      <g>0.252603441</g>
+      <b>0.0742519945</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -3961,29 +3457,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetLimePale</DefName>
-    <Color>
-      <r>0.3390204</r>
-      <g>0.3390204</g>
-      <b>0.09965399</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetBrownFaded</DefName>
     <Color>
-      <r>0.0990214646</r>
-      <g>0.07733207</g>
-      <b>0.0434992872</b>
+      <r>0.112848788</r>
+      <g>0.08813069</g>
+      <b>0.0495735146</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineBrownFaded</DefName>
     <Color>
-      <r>0.11017254</r>
-      <g>0.0863889754</g>
-      <b>0.0483978577</b>
+      <r>0.06779849</r>
+      <g>0.0529480875</g>
+      <b>0.0297833</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4006,29 +3493,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetBrownFaded</DefName>
-    <Color>
-      <r>0.090992704</r>
-      <g>0.0710619</g>
-      <b>0.03997232</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetBrownSubtle</DefName>
     <Color>
-      <r>0.136576265</r>
-      <g>0.103680678</g>
-      <b>0.0601010546</b>
+      <r>0.15564771</r>
+      <g>0.1181586</g>
+      <b>0.0684935451</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineBrownSubtle</DefName>
     <Color>
-      <r>0.151956469</r>
-      <g>0.115823448</g>
-      <b>0.0668691844</b>
+      <r>0.09351167</r>
+      <g>0.07098857</g>
+      <b>0.0411502719</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4051,29 +3529,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetBrownSubtle</DefName>
-    <Color>
-      <r>0.125502512</r>
-      <g>0.09527413</g>
-      <b>0.0552279949</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetBrownLight</DefName>
     <Color>
-      <r>0.229760349</r>
-      <g>0.162001044</g>
-      <b>0.08145573</b>
+      <r>0.261844</r>
+      <g>0.184622809</g>
+      <b>0.09283018</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineBrownLight</DefName>
     <Color>
-      <r>0.255634248</r>
-      <g>0.180974141</g>
-      <b>0.0906286761</b>
+      <r>0.157313392</r>
+      <g>0.110919632</g>
+      <b>0.0557715</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4096,29 +3565,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetBrownLight</DefName>
-    <Color>
-      <r>0.211131141</r>
-      <g>0.148865819</g>
-      <b>0.07485122</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetBrownDark</DefName>
     <Color>
-      <r>0.108446985</r>
-      <g>0.0637427345</g>
-      <b>0.019333018</b>
+      <r>0.123590484</r>
+      <g>0.07264374</g>
+      <b>0.0220326725</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineBrownDark</DefName>
     <Color>
-      <r>0.120659478</r>
-      <g>0.0712081</g>
-      <b>0.0215101615</b>
+      <r>0.0742519945</r>
+      <g>0.043643672</g>
+      <b>0.0132370219</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4141,29 +3601,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetBrownDark</DefName>
-    <Color>
-      <r>0.09965399</r>
-      <g>0.0585744</g>
-      <b>0.0177654754</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetBrownDirt</DefName>
     <Color>
-      <r>0.189594775</r>
-      <g>0.1108703</g>
-      <b>0.03347129</b>
+      <r>0.216069713</r>
+      <g>0.126352191</g>
+      <b>0.0381452069</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineBrownDirt</DefName>
     <Color>
-      <r>0.210945547</r>
-      <g>0.123855114</g>
-      <b>0.03724058</b>
+      <r>0.129812643</r>
+      <g>0.0759112</g>
+      <b>0.02291728</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4186,29 +3637,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetBrownDirt</DefName>
-    <Color>
-      <r>0.174222231</r>
-      <g>0.101880826</g>
-      <b>0.030757403</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetUmberBurnt</DefName>
     <Color>
-      <r>0.108446985</r>
-      <g>0.04503897</g>
-      <b>0.0137098413</b>
+      <r>0.123590484</r>
+      <g>0.0513281934</g>
+      <b>0.0156242792</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineUmberBurnt</DefName>
     <Color>
-      <r>0.120659478</r>
-      <g>0.0503138</g>
-      <b>0.0152537432</b>
+      <r>0.0742519945</r>
+      <g>0.030837493</g>
+      <b>0.00938691851</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4231,29 +3673,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetUmberBurnt</DefName>
-    <Color>
-      <r>0.09965399</r>
-      <g>0.04138716</g>
-      <b>0.0125982333</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetBrownWood</DefName>
     <Color>
-      <r>0.156163648</r>
-      <g>0.08145573</g>
-      <b>0.04050026</b>
+      <r>0.17797029</r>
+      <g>0.09283018</g>
+      <b>0.0461557023</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineBrownWood</DefName>
     <Color>
-      <r>0.173749655</r>
-      <g>0.0909955949</g>
-      <b>0.0450611</b>
+      <r>0.106922865</r>
+      <g>0.0557715</g>
+      <b>0.027729908</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4276,29 +3709,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetBrownWood</DefName>
-    <Color>
-      <r>0.143501729</r>
-      <g>0.07485122</g>
-      <b>0.0372164547</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetOrange</DefName>
     <Color>
-      <r>0.373392344</r>
-      <g>0.123388559</g>
-      <b>0.0203639325</b>
+      <r>0.4255327</r>
+      <g>0.140618488</g>
+      <b>0.0232075453</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineOrange</DefName>
     <Color>
-      <r>0.415441</r>
-      <g>0.137839481</g>
-      <b>0.022657169</b>
+      <r>0.255656034</r>
+      <g>0.08448226</g>
+      <b>0.013942875</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4321,29 +3745,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetOrange</DefName>
-    <Color>
-      <r>0.3431173</r>
-      <g>0.11338409</g>
-      <b>0.0187128056</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetRedPastel</DefName>
     <Color>
-      <r>0.540909469</r>
-      <g>0.167945549</g>
-      <b>0.167945549</b>
+      <r>0.616441846</r>
+      <g>0.1913974</g>
+      <b>0.1913974</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineRedPastel</DefName>
     <Color>
-      <r>0.6018227</r>
-      <g>0.187614843</g>
-      <b>0.186858326</b>
+      <r>0.370352447</r>
+      <g>0.11498975</g>
+      <b>0.11498975</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4366,29 +3781,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetRedPastel</DefName>
-    <Color>
-      <r>0.497051924</r>
-      <g>0.154328346</g>
-      <b>0.154328346</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetPink</DefName>
     <Color>
-      <r>0.777618349</r>
-      <g>0.493554235</g>
-      <b>0.6362758</b>
+      <r>0.8862047</r>
+      <g>0.562473953</g>
+      <b>0.7251252</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFinePink</DefName>
     <Color>
-      <r>0.865188</r>
-      <g>0.5513579</g>
-      <b>0.7079285</b>
+      <r>0.532423437</r>
+      <g>0.33792904</g>
+      <b>0.435648352</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4411,29 +3817,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetPink</DefName>
-    <Color>
-      <r>0.714568257</r>
-      <g>0.453536361</g>
-      <b>0.5846859</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetBluePastel</DefName>
     <Color>
-      <r>0.212556079</r>
-      <g>0.360097528</g>
-      <b>0.55717653</b>
+      <r>0.242237329</r>
+      <g>0.410381436</g>
+      <b>0.6349804</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineBluePastel</DefName>
     <Color>
-      <r>0.236492574</r>
-      <g>0.402271122</g>
-      <b>0.6199216</b>
+      <r>0.1455339</r>
+      <g>0.246553272</g>
+      <b>0.3814902</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4456,29 +3853,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetBluePastel</DefName>
-    <Color>
-      <r>0.1953218</r>
-      <g>0.33090046</g>
-      <b>0.512</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetGreenPastel</DefName>
     <Color>
-      <r>0.347043723</r>
-      <g>0.6074236</g>
-      <b>0.433787942</b>
+      <r>0.3955048</r>
+      <g>0.692244</g>
+      <b>0.494361937</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineGreenPastel</DefName>
     <Color>
-      <r>0.386125237</r>
-      <g>0.678563237</g>
-      <b>0.4826379</b>
+      <r>0.237615556</r>
+      <g>0.415893644</g>
+      <b>0.297007978</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4501,29 +3889,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetGreenPastel</DefName>
-    <Color>
-      <r>0.318905056</r>
-      <g>0.558173</g>
-      <b>0.398615956</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetYellowPastel</DefName>
     <Color>
-      <r>0.55717653</r>
-      <g>0.55717653</g>
-      <b>0.13388516</b>
+      <r>0.6349804</r>
+      <g>0.6349804</g>
+      <b>0.152580827</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineYellowPastel</DefName>
     <Color>
-      <r>0.6199216</r>
-      <g>0.6224314</g>
-      <b>0.148962319</b>
+      <r>0.3814902</r>
+      <g>0.3814902</g>
+      <b>0.09166912</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4546,29 +3925,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetYellowPastel</DefName>
-    <Color>
-      <r>0.512</r>
-      <g>0.512</g>
-      <b>0.123029612</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetOrangePastel</DefName>
     <Color>
-      <r>0.488426477</r>
-      <g>0.2512891</g>
-      <b>0.0145800952</b>
+      <r>0.5566302</r>
+      <g>0.286379</g>
+      <b>0.0166160539</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineOrangePastel</DefName>
     <Color>
-      <r>0.543429434</r>
-      <g>0.28071934</g>
-      <b>0.0162219983</b>
+      <r>0.334418148</r>
+      <g>0.1720538</g>
+      <b>0.009982768</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4591,29 +3961,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetOrangePastel</DefName>
-    <Color>
-      <r>0.448824316</r>
-      <g>0.23091428</g>
-      <b>0.0133979255</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetWhite</DefName>
     <Color>
-      <r>0.453281641</r>
-      <g>0.453281641</g>
-      <b>0.453281641</b>
+      <r>0.5165777</r>
+      <g>0.5165777</g>
+      <b>0.5165777</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineWhite</DefName>
     <Color>
-      <r>0.5043269</r>
-      <g>0.506368637</g>
-      <b>0.5043269</b>
+      <r>0.310354978</r>
+      <g>0.310354978</g>
+      <b>0.310354978</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4636,29 +3997,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetWhite</DefName>
-    <Color>
-      <r>0.416529059</r>
-      <g>0.416529059</g>
-      <b>0.416529059</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetCream</DefName>
     <Color>
-      <r>0.509098351</r>
-      <g>0.493554235</g>
-      <b>0.4147227</b>
+      <r>0.580188632</r>
+      <g>0.562473953</g>
+      <b>0.4726344</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineCream</DefName>
     <Color>
-      <r>0.566429257</r>
-      <g>0.5513579</g>
-      <b>0.461425662</b>
+      <r>0.348571837</r>
+      <g>0.33792904</g>
+      <b>0.2839543</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4681,29 +4033,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetCream</DefName>
-    <Color>
-      <r>0.4678201</r>
-      <g>0.453536361</g>
-      <b>0.3810965</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetGrayLight</DefName>
     <Color>
-      <r>0.368933976</r>
-      <g>0.368933976</g>
-      <b>0.368933976</b>
+      <r>0.42045176</r>
+      <g>0.42045176</g>
+      <b>0.42045176</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineGrayLight</DefName>
     <Color>
-      <r>0.410480559</r>
-      <g>0.412142426</g>
-      <b>0.410480559</b>
+      <r>0.252603441</r>
+      <g>0.252603441</g>
+      <b>0.252603441</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4726,29 +4069,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetGrayLight</DefName>
-    <Color>
-      <r>0.3390204</r>
-      <g>0.3390204</g>
-      <b>0.3390204</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetLimestone</DefName>
     <Color>
-      <r>0.334230959</r>
-      <g>0.3134118</g>
-      <b>0.244005725</b>
+      <r>0.3809028</r>
+      <g>0.357176483</g>
+      <b>0.278078616</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineLimestone</DefName>
     <Color>
-      <r>0.371869534</r>
-      <g>0.350117654</g>
-      <b>0.271483839</b>
+      <r>0.22884281</r>
+      <g>0.21458827</g>
+      <b>0.167066976</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4771,29 +4105,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetLimestone</DefName>
-    <Color>
-      <r>0.3071311</r>
-      <g>0.288000017</g>
-      <b>0.224221483</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetMarble</DefName>
     <Color>
-      <r>0.233281523</r>
-      <g>0.244005725</g>
-      <b>0.233281523</b>
+      <r>0.265856862</r>
+      <g>0.278078616</g>
+      <b>0.265856862</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineMarble</DefName>
     <Color>
-      <r>0.259551972</r>
-      <g>0.272582978</g>
-      <b>0.259551972</b>
+      <r>0.1597243</r>
+      <g>0.167066976</g>
+      <b>0.1597243</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4816,29 +4141,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetMarble</DefName>
-    <Color>
-      <r>0.214366809</r>
-      <g>0.224221483</g>
-      <b>0.214366809</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetSandstone</DefName>
     <Color>
-      <r>0.212556079</r>
-      <g>0.144810185</g>
-      <b>0.11830093</b>
+      <r>0.242237329</r>
+      <g>0.165031433</g>
+      <b>0.134820431</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineSandstone</DefName>
     <Color>
-      <r>0.236492574</r>
-      <g>0.161769941</g>
-      <b>0.1316231</b>
+      <r>0.1455339</r>
+      <g>0.099149324</g>
+      <b>0.08099884</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4861,29 +4177,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetSandstone</DefName>
-    <Color>
-      <r>0.1953218</r>
-      <g>0.13306883</g>
-      <b>0.108708963</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetGranite</DefName>
     <Color>
-      <r>0.147608384</r>
-      <g>0.120831355</g>
-      <b>0.125972554</b>
+      <r>0.168220371</r>
+      <g>0.137704208</g>
+      <b>0.1435633</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineGranite</DefName>
     <Color>
-      <r>0.164230958</r>
-      <g>0.13498278</g>
-      <b>0.140158653</b>
+      <r>0.101065211</r>
+      <g>0.08273138</g>
+      <b>0.08625148</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4906,29 +4213,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetGranite</DefName>
-    <Color>
-      <r>0.135640144</r>
-      <g>0.111034222</g>
-      <b>0.115758568</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetGreyDark</DefName>
     <Color>
-      <r>0.0878420547</r>
-      <g>0.0878420547</g>
-      <b>0.0878420547</b>
+      <r>0.100108288</r>
+      <g>0.100108288</g>
+      <b>0.100108288</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineGreyDark</DefName>
     <Color>
-      <r>0.09773418</r>
-      <g>0.09812987</g>
-      <b>0.09773418</b>
+      <r>0.0601441152</r>
+      <g>0.0601441152</g>
+      <b>0.0601441152</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4951,29 +4249,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetGreyDark</DefName>
-    <Color>
-      <r>0.08071973</r>
-      <g>0.08071973</g>
-      <b>0.08071973</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetSlate</DefName>
     <Color>
-      <r>0.06560373</r>
-      <g>0.06560373</g>
-      <b>0.06560373</b>
+      <r>0.07476462</r>
+      <g>0.07476462</g>
+      <b>0.07476462</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineSlate</DefName>
     <Color>
-      <r>0.07299154</r>
-      <g>0.07328705</g>
-      <b>0.07299154</b>
+      <r>0.04491787</r>
+      <g>0.04491787</g>
+      <b>0.04491787</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -4996,29 +4285,20 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetSlate</DefName>
-    <Color>
-      <r>0.060284514</r>
-      <g>0.060284514</g>
-      <b>0.060284514</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>CarpetBlack</DefName>
     <Color>
-      <r>0.04819866</r>
-      <g>0.04819866</g>
-      <b>0.04819866</b>
+      <r>0.0549291</r>
+      <g>0.0549291</g>
+      <b>0.0549291</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>CarpetFineBlack</DefName>
     <Color>
-      <r>0.053626433</r>
-      <g>0.0538435429</g>
-      <b>0.053626433</b>
+      <r>0.0330008827</r>
+      <g>0.0330008827</g>
+      <b>0.0330008827</b>
       <a>0</a>
     </Color>
   </CacheEntry>
@@ -5041,146 +4321,137 @@
     </Color>
   </CacheEntry>
   <CacheEntry>
-    <DefName>VFEArch_WoolCarpetBlack</DefName>
-    <Color>
-      <r>0.0442906581</r>
-      <g>0.0442906581</g>
-      <b>0.0442906581</b>
-      <a>0</a>
-    </Color>
-  </CacheEntry>
-  <CacheEntry>
     <DefName>Sandstone_Rough</DefName>
     <Color>
-      <r>0.182874829</r>
-      <g>0.124588944</g>
-      <b>0.101781428</b>
+      <r>0.136916757</r>
+      <g>0.09327864</g>
+      <b>0.0762028545</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Sandstone_RoughHewn</DefName>
     <Color>
-      <r>0.184789747</r>
-      <g>0.125893548</g>
-      <b>0.102847211</b>
+      <r>0.146491364</r>
+      <g>0.09980162</g>
+      <b>0.0815317258</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Sandstone_Smooth</DefName>
     <Color>
-      <r>0.19915165</r>
-      <g>0.1363303</g>
-      <b>0.110840514</b>
+      <r>0.170427859</r>
+      <g>0.115456775</g>
+      <b>0.09485391</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Granite_Rough</DefName>
     <Color>
-      <r>0.126996413</r>
-      <g>0.103958517</g>
-      <b>0.108381793</b>
+      <r>0.09508108</r>
+      <g>0.07783282</g>
+      <b>0.08114449</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Granite_RoughHewn</DefName>
     <Color>
-      <r>0.128326222</r>
-      <g>0.105047084</g>
-      <b>0.109516673</b>
+      <r>0.101730108</r>
+      <g>0.08327567</g>
+      <b>0.08681892</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Granite_Smooth</DefName>
     <Color>
-      <r>0.138299763</r>
-      <g>0.113755651</g>
-      <b>0.118028343</b>
+      <r>0.118352681</r>
+      <g>0.0963385254</g>
+      <b>0.101005018</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Limestone_Rough</DefName>
     <Color>
-      <r>0.287559062</r>
-      <g>0.2696471</g>
-      <b>0.209932849</b>
+      <r>0.2152929</r>
+      <g>0.201882377</g>
+      <b>0.15717487</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Limestone_RoughHewn</DefName>
     <Color>
-      <r>0.29057014</r>
-      <g>0.272470623</g>
-      <b>0.212131113</b>
+      <r>0.230348349</r>
+      <g>0.216000021</g>
+      <b>0.168166116</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Limestone_Smooth</DefName>
     <Color>
-      <r>0.313153327</r>
-      <g>0.295058846</g>
-      <b>0.228617981</b>
+      <r>0.267986983</r>
+      <g>0.249882385</g>
+      <b>0.19564423</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Slate_Rough</DefName>
     <Color>
-      <r>0.0564428531</r>
-      <g>0.0564428531</g>
-      <b>0.0564428531</b>
+      <r>0.0422582626</r>
+      <g>0.0422582626</g>
+      <b>0.0422582626</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Slate_RoughHewn</DefName>
     <Color>
-      <r>0.0570338778</r>
-      <g>0.0570338778</g>
-      <b>0.0570338778</b>
+      <r>0.0452133864</r>
+      <g>0.0452133864</g>
+      <b>0.0452133864</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Slate_Smooth</DefName>
     <Color>
-      <r>0.0614665635</r>
-      <g>0.0617620721</g>
-      <b>0.0614665635</b>
+      <r>0.0526011921</r>
+      <g>0.0523056835</g>
+      <b>0.0526011921</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Marble_Rough</DefName>
     <Color>
-      <r>0.200706184</r>
-      <g>0.209932849</g>
-      <b>0.200706184</b>
+      <r>0.150266945</r>
+      <g>0.15717487</g>
+      <b>0.150266945</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Marble_RoughHewn</DefName>
     <Color>
-      <r>0.202807814</r>
-      <g>0.212131113</g>
-      <b>0.202807814</b>
+      <r>0.16077511</r>
+      <g>0.168166116</g>
+      <b>0.16077511</b>
       <a>0</a>
     </Color>
   </CacheEntry>
   <CacheEntry>
     <DefName>Marble_Smooth</DefName>
     <Color>
-      <r>0.218570083</r>
-      <g>0.2297171</g>
-      <b>0.218570083</b>
+      <r>0.187045559</r>
+      <g>0.1945451</g>
+      <b>0.187045559</b>
       <a>0</a>
     </Color>
   </CacheEntry>
