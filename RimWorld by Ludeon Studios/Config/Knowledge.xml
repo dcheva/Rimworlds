@@ -195,7 +195,7 @@
     </li>
     <li>
       <key>TileInspector</key>
-      <value>0</value>
+      <value>0.353595</value>
     </li>
     <li>
       <key>Outfits</key>
@@ -259,11 +259,11 @@
     </li>
     <li>
       <key>EditingMemes</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>EditingPrecepts</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>PollutedTerrain</key>
@@ -367,15 +367,15 @@
     </li>
     <li>
       <key>CE_MuzzleFlash</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_TargettedModes</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_Bipods</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_TargettedModesMelee</key>
@@ -415,11 +415,11 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsBasic</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SidearmsDropping</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SidearmsMissing</key>
@@ -427,15 +427,15 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsPreference</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedRanged</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedMelee</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedDrafted</key>
@@ -476,6 +476,10 @@
     <li>
       <key>BM_Enemy_Mounting</key>
       <value>1</value>
+    </li>
+    <li>
+      <key>BuildersTryMine</key>
+      <value>0</value>
     </li>
   </knowledge>
 </ConceptKnowledge>

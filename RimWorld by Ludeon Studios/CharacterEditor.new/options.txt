@@ -1,0 +1,6 @@
+1|1|0|0|0|1|1|0|0|1|1|0|1|0|1|1|1|1|1|1|1|1|0|
+800|100|10|90|
+None|None|
+DankPyon_Headgear_ArmingCap,Arming cap,Medieval,Sellable,True,25,Fabric,MaxHitPoints!100|Flammability!1|DeteriorationRate!2|Beauty!-3|WorkToMake!2200|Mass!0.15|StuffEffectMultiplierArmor!0.25|StuffEffectMultiplierInsulation_Cold!0.1|StuffEffectMultiplierInsulation_Heat!0.05|EquipDelay!0.8,Fertility!1,UpperHead,Overhead,DankPyon_PeasantHelmet|DankPyon_BrigandThug|DankPyon_BillmanHelmet,Worker|Soldier;
+
+Chocolate,Chocolate,Undefined,All,True,0,,Beauty!0|MaxHitPoints!60|MarketValue!5|Mass!0.05|Flammability!1|Nutrition!1|Comfort!0.25|BedRestEffectiveness!0.1|JoyGainFactor!0.1|WorkTableEfficiencyFactor!0.1|WorkTableWorkSpeedFactor!0.1|MeditationFocusStrength!0.1,;Ammo_303British_Incendiary,патрон .303 British (БЗ),4,3,True,0,,MaxHitPoints!75|Beauty!-5|Flammability!1|DeteriorationRate!2|Mass!0.026|Bulk!0.03|MarketValue!0.1,ReloadSpeed!1.25|ShootingAccuracyFactor_Medium!1.25|AimingAccuracy!1.25

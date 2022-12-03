@@ -104,33 +104,6 @@ ROCKETMAN: Found action with attribute OnInitialization, ContextualExtensions:In
 
 ROCKETMAN: Found action with attribute OnInitialization, SoyuzPatcher:Intialize
 
-GAGARIN: <color=yello>Cache disabled from</color>
-StartUpStarted at offset 0 in file:line:column <filename unknown>:0:0
-InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
-Invoke at offset 0 in file:line:column <filename unknown>:0:0
-Invoke at offset 0 in file:line:column <filename unknown>:0:0
-<GetActions>b__3 at offset 0 in file:line:column <filename unknown>:0:0
-.ctor at offset 0 in file:line:column <filename unknown>:0:0
-InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
-InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
-DoInvoke at offset 0 in file:line:column <filename unknown>:0:0
-Invoke at offset 0 in file:line:column <filename unknown>:0:0
-CreateInstanceImpl at offset 0 in file:line:column <filename unknown>:0:0
-CreateInstance at offset 0 in file:line:column <filename unknown>:0:0
-CreateInstance at offset 0 in file:line:column <filename unknown>:0:0
-CreateModClasses at offset 0 in file:line:column <filename unknown>:0:0
-LoadAllActiveMods at offset 0 in file:line:column <filename unknown>:0:0
-DoPlayLoad at offset 0 in file:line:column <filename unknown>:0:0
-LoadAllPlayData at offset 0 in file:line:column <filename unknown>:0:0
-<Start>b__6_1 at offset 0 in file:line:column <filename unknown>:0:0
-RunEventFromAnotherThread at offset 0 in file:line:column <filename unknown>:0:0
-<UpdateCurrentAsynchronousEvent>b__27_0 at offset 0 in file:line:column <filename unknown>:0:0
-ThreadStart_Context at offset 0 in file:line:column <filename unknown>:0:0
-RunInternal at offset 0 in file:line:column <filename unknown>:0:0
-Run at offset 0 in file:line:column <filename unknown>:0:0
-Run at offset 0 in file:line:column <filename unknown>:0:0
-ThreadStart at offset 0 in file:line:column <filename unknown>:0:0
-
 GAGARIN: <color=green>Loading cache settings!</color>
 
 Gagarin:[NOTANERROR] patching TKeySystem:Void Parse(System.Xml.XmlDocument) finished!
@@ -167,9 +140,24 @@ Gagarin:[NOTANERROR] patching LoadedModManager:Void ClearCachedPatches() finishe
 
 Gagarin:[NOTANERROR] patching XmlInheritance:Void Resolve() finished!
 
+GAGARIN: <color=yello>Cache disabled from</color>
+Postfix at offset 0 in file:line:column <filename unknown>:0:0
+Verse.LoadedModManager.LoadModXML_Patch4 at offset 0 in file:line:column <filename unknown>:0:0
+LoadAllActiveMods at offset 0 in file:line:column <filename unknown>:0:0
+DoPlayLoad at offset 0 in file:line:column <filename unknown>:0:0
+LoadAllPlayData at offset 0 in file:line:column <filename unknown>:0:0
+<Start>b__6_1 at offset 0 in file:line:column <filename unknown>:0:0
+RunEventFromAnotherThread at offset 0 in file:line:column <filename unknown>:0:0
+<UpdateCurrentAsynchronousEvent>b__27_0 at offset 0 in file:line:column <filename unknown>:0:0
+ThreadStart_Context at offset 0 in file:line:column <filename unknown>:0:0
+RunInternal at offset 0 in file:line:column <filename unknown>:0:0
+Run at offset 0 in file:line:column <filename unknown>:0:0
+Run at offset 0 in file:line:column <filename unknown>:0:0
+ThreadStart at offset 0 in file:line:column <filename unknown>:0:0
+
 GAGARIN:[DUPLICATE]: Started!
 
-GAGARIN:[DUPLICATE] Creating duplication reports took 556 MS
+GAGARIN:[DUPLICATE] Creating duplication reports took 660 MS
 
 GAGARIN:[<color=orange>DUPLICATE:CRITICAL</color>]<color=red> duplicate found for Name=BaseBullet</color>
 	1. PackageId=ludeon.rimworld	| ModName=Core	| XmlFilePath=C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\BaseWeapons.xml
@@ -180,7 +168,6 @@ GAGARIN:[<color=yellow>DUPLICATE:CRITICAL</color>]<color=white> duplicate found 
 	2. PackageId=roolo.giddyupcore	| ModName=Giddy-up! Core	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Giddy - up!Core\Defs\UpdateFeatureDefs\UpdateFeatures.xml
 	3. PackageId=roolo.giddyupbattlemounts	| ModName=Giddy-up! Battle Mounts	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Giddy - up!Battle Mounts\Defs\UpdateFeatureDefs\UpdateFeatures.xml
 	4. PackageId=roolo.giddyuprideandroll	| ModName=Giddy-up! Ride and Roll	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Giddy - up!Ride and Roll\Defs\UpdateFeatureDefs\UpdateFeatures.xml
-	5. PackageId=unlimitedhugs.defensivepositions	| ModName=Defensive Positions	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Defensive Positions\Defs\UpdateFeatureDefs\UpdateFeatures.xml
 
 GAGARIN:[DUPLICATE] Finished creating reports at <color=red>C:\Users\Dmytro\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\RocketMan\Reports</color>
 
@@ -740,7 +727,7 @@ ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.legacy
 
 ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory
 
-[0.001504 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
+[0.001942 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
 ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedCentipede
 ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedLancer
 ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedKnight
@@ -866,3 +853,11 @@ Bucket[0].Count = 1
 ROCKETMAN: <color=red>Warm up</color> Finished for new map!
 
 ROCKETMAN: Position verfication started!
+
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+
+ROCKETMAN: <color=red>Warm up ABORTED!</color> for new map!
+
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+
+SOYUZ: Preset loaded!

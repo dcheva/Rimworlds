@@ -4471,10 +4471,6 @@
 					<version>2</version>
 				</li>
 				<li>
-					<job>DPDraftToPosition</job>
-					<version>2</version>
-				</li>
-				<li>
 					<job>AG_ConsumeMetal</job>
 					<version>2</version>
 				</li>

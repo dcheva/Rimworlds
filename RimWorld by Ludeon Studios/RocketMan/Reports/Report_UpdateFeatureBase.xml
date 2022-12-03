@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<DuplicateReport Name="UpdateFeatureBase" Type="DuplicateReportType.Base" Length="5" IsCoreModInvolved="False">
+<DuplicateReport Name="UpdateFeatureBase" Type="DuplicateReportType.Base" Length="4" IsCoreModInvolved="False">
   <DuplicationRecord PackageId="PeteTimesSix.SimpleSidearms" ModName="Simple sidearms" XmlFilePath="C:\Games\RimWorld 1.4\Mods\Simple sidearms\v1.4\Defs\UpdateTextDefs\updateDefs.xml">
     <HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
       <modNameReadable>Simple Sidearms</modNameReadable>
@@ -26,14 +26,6 @@
       <modNameReadable>Giddy-up! Ride and Roll</modNameReadable>
       <modIdentifier>GiddyUpRideAndRoll</modIdentifier>
       <linkUrl>https://ludeon.com/forums/index.php?topic=37323</linkUrl>
-    </HugsLib.UpdateFeatureDef>
-  </DuplicationRecord>
-  <DuplicationRecord PackageId="UnlimitedHugs.DefensivePositions" ModName="Defensive Positions" XmlFilePath="C:\Games\RimWorld 1.4\Mods\Defensive Positions\Defs\UpdateFeatureDefs\UpdateFeatures.xml">
-    <HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
-      <defName>DefensivePositionsUpdateFeature</defName>
-      <modNameReadable>Defensive Positions</modNameReadable>
-      <modIdentifier>DefensivePositions</modIdentifier>
-      <linkUrl>https://ludeon.com/forums/index.php?topic=25535</linkUrl>
     </HugsLib.UpdateFeatureDef>
   </DuplicationRecord>
 </DuplicateReport>

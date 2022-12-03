@@ -1256,28 +1256,6 @@
   <Asset id="C:\Games\RimWorld 1.4\Mods\[SYR] Processor Framework\1.4\Defs\WorkGiverDefs.xml" hash="14219175848478550719" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\[SYR] Processor Framework\1.4\Defs\ThingDefs_Buildings.xml" hash="14308350884267694090" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\[SYR] Processor Framework\1.4\Defs\JobDefs.xml" hash="5131683039825828736" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\CombatExtended\1.4\Patches\ThingDefs_Misc\Modular_ChargeRifle.xml" hash="5743537614428668718" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\CombatExtended\1.4\Patches\ThingDefs_Misc\Modular_SniperRifle.xml" hash="3640327479842239426" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\CombatExtended\1.4\Patches\ThingDefs_Misc\Modular_AssaultRifle.xml" hash="3586903323988132768" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\CombatExtended\1.4\Patches\ThingDefs_Misc\UniversalModules.xml" hash="7939094341228542095" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\CombatExtended\1.4\Patches\ThingDefs_Misc\MuzzleDevices.xml" hash="16077479557726260497" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\CombatExtended\1.4\Patches\ThingDefs_Misc\Modular_HeavySMG.xml" hash="2770922179663663290" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\CombatExtended\1.4\Patches\ThingDefs_Misc\Modular_AutoPistol.xml" hash="6801193914038785958" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\1.4\Patches\Patches.xml" hash="2491389460846015094" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\CombatExtended\1.4\Patches\ThingDefs_Misc\UnderbarrelLaunchers.xml" hash="17295207634662828908" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\CombatExtended\1.4\Patches\ThingDefs_Misc\Modular_MachinePistole.xml" hash="16321273367234083543" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\CombatExtended\1.4\Patches\ThingDefs_Misc\Modular_ChainShotgun.xml" hash="9185200301252645653" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\1.4\Defs\SoundDef.xml" hash="13032500710111269679" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\1.4\Defs\ThingDefs_Misc\Modular_MachinePistole.xml" hash="4827977976373972030" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\1.4\Defs\ThingDefs_Misc\UnderbarrelLaunchers.xml" hash="8407455777744669529" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\1.4\Defs\ThingDefs_Misc\Modular_ChainShotgun.xml" hash="15250071153859427406" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\1.4\Defs\ThingDefs_Misc\Modular_AssaultRifle.xml" hash="3305900850360377617" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\1.4\Defs\ThingDefs_Misc\Modular_SniperRifle.xml" hash="2821696191481304771" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\1.4\Defs\ThingDefs_Misc\UniversalModules.xml" hash="9851801580582645307" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\1.4\Defs\ThingDefs_Misc\Modular_ChargeRifle.xml" hash="2676722774008669909" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\1.4\Defs\ThingDefs_Misc\Modular_AutoPistol.xml" hash="3746307838749987686" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\1.4\Defs\ThingDefs_Misc\MuzzleDevices.xml" hash="15629179051016984046" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Modularization Vanilla Weapon\1.4\Defs\ThingDefs_Misc\Modular_HeavySMG.xml" hash="10181049418284198290" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Toggleable Overlays\Defs\KeyBindings.xml" hash="13653104842244368793" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\RimFridge Updated\1.4\Patches\BiotechWastepacks.xml" hash="15335678680257813528" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\RimFridge Updated\1.4\Patches\SaveStorageSettings.xml" hash="4051056445917502450" />
@@ -4412,7 +4390,6 @@
   <Asset id="C:\Games\RimWorld 1.4\Mods\Addictol - Addiction Removal [1.4]\Defs\ResearchProjectDefs\ResearchProjects_Addictol.xml" hash="7157542354933916092" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Addictol - Addiction Removal [1.4]\Defs\HediffsDef\Hediffs_Global_Addictol.xml" hash="12187014018795874959" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Addictol - Addiction Removal [1.4]\Defs\Drugs\Addictol.xml" hash="16000218409221005183" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Multiplayer\1.4\Defs\KeyBindings.xml" hash="4894992922761137316" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\HugsLib\Defs\KeyBindingCategoryDefs\KeyBindingCategories.xml" hash="2508678012240434524" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\HugsLib\Defs\KeyBindingDefs\KeyBindings.xml" hash="18419337013003307689" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Allow tool\Patches\AllowToolDesignators.xml" hash="18104503040078653504" />
@@ -4533,44 +4510,6 @@
   <Asset id="C:\Games\RimWorld 1.4\Mods\VFE - Ancients  Vault S\1.4\Defs\CustomGenDefs\VFEA_SymbolsAdditional.xml" hash="7065963265815380932" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\VFE - Ancients  Vault S\1.4\Defs\CustomGenDefs\VFEA_LootedVaultsAdditional.xml" hash="8333588103683688648" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\VFE - Ancients  Vault S\1.4\Defs\CustomGenDefs\VFEA_SealedVaultsAdditional.xml" hash="17829468039786781490" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\Patches\Patches_vt_linkables.xml" hash="2845645716272012473" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Apparel\Items_Vault.xml" hash="11476487897511210447" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_simu_sun_lamps.xml" hash="12020478810469013437" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\RecipeDefs\VTmgabore.xml" hash="17744389860624309282" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_sofa.xml" hash="6120082877780438239" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_dresser.xml" hash="4347935243614575529" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Apparel\Items_Vaultarmor.xml" hash="17529094794306529207" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\RecipeDefs\VTRecyler.xml" hash="5161476248611531060" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_Furniture_Base.xml" hash="3020492409629016229" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\RecipeDefs\VTschool.xml" hash="8415292936034304951" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_superreactor.xml" hash="4117083368356248437" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Terrains_vtoors.xml" hash="17981279504728230396" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_hospital.xml" hash="14297372933159891709" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_temperature.xml" hash="2434866099152499457" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Research\VTResearchTree.xml" hash="9213460576199890863" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_autodoors.xml" hash="9796894532493993809" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_lamps.xml" hash="17212286450197439313" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\ThingDefs\antidepressant.xml" hash="18371719451857690980" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_battery.xml" hash="14626168500451875898" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\ThingDefs\vtmedibase.xml" hash="7551146465039579425" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_linkables_and_rugs.xml" hash="12475491745588561250" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_beds.xml" hash="16961710910436769202" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\ThingDefs\Vtmedicine.xml" hash="12092398995018160270" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_nutritient_dispenser.xml" hash="14165916923983442805" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_bigfloors.xml" hash="9743283275384759753" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\VTApparelLayerDefs\VTApparelLayerDefs.xml" hash="4454731522880710881" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_walls.xml" hash="13409555503834764815" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_CategoryDef.xml" hash="17087905963792258503" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\WorkGiverDefs\VT_WorkGivers.xml" hash="15498904479593690998" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_production.xml" hash="1517978594935900316" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_windows_lux.xml" hash="16186480644917661954" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_chairs_and_tables.xml" hash="2237168653726337074" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_recycler.xml" hash="5895904943052419015" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Custom Meals\VTMealExamples.xml" hash="7919913331646316072" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Buildings\Vault_security.xml" hash="6691085094010251481" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\Custom Meals\VTSurvivalMeal.xml" hash="4247265589398839535" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault-Tec - Handy things for your vault!\1.2\Defs\RecipeDefs\VTCraftingRecipes.xml" hash="108357374830444044" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Vault Suit\Defs\ThingDefs\FalloutSuit.xml" hash="7594153224547527361" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Weapons Expanded - Makeshift\Patches\WeaponTags.xml" hash="6466342405659940017" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Weapons Expanded - Makeshift\1.4\Defs\ResearchTabDefs\ResearchTabs.xml" hash="11096698050540056359" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Weapons Expanded - Makeshift\1.4\Defs\ResearchProjectDefs\ResearchProjects.xml" hash="10112050567333941154" />
@@ -5048,12 +4987,6 @@
   <Asset id="C:\Games\RimWorld 1.4\Mods\ReGrowth Boreal\1.4\Defs\ThingDefs_Plants\Plants_Wild_Boreal.xml" hash="2825385177877957563" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Random Research\Defs\ScenPart_RandomResearchDef.xml" hash="9603558036728767657" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Prisoners Are Not Swines\Patches\Humanlike.xml" hash="8813380022003196385" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Pollution Overhaul\Patches\Patches_Pollution.xml" hash="17341598513700042622" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Pollution Overhaul\Defs\modsettings.xml" hash="11325693652083576789" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Pollution Overhaul\Defs\Scenarios\Pollution Overhaul.xml" hash="3157314003160730410" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Pollution Overhaul\Defs\ThingDefs\Items_Resource_Shellsss.xml" hash="14159633556389957516" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Pollution Overhaul\Defs\RecipeDefs\Recipes_Pollution.xml" hash="4025700618897329150" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Pollution Overhaul\Defs\ThingDefs\Buildings_Pollution.xml" hash="179228242745482313" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Pick Up And Haul\Patches\PickUpAndHaul.xml" hash="9565995648268113293" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Pick Up And Haul\Defs\JobDefs\WorkGiver.xml" hash="50996621984649190" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Perspective Trees\Patches\PerspectiveTrees.xml" hash="2920905388540897268" />
@@ -5181,9 +5114,6 @@
   <Asset id="C:\Games\RimWorld 1.4\Mods\Cash Register\1.4\Defs\CashRegister\SoundDefs.xml" hash="5513543472454612779" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Cash Register\1.4\Defs\CashRegister\WorkGivers.xml" hash="4791424501319603265" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Cash Register\1.4\Defs\CashRegister\ThingDefs_Buildings.xml" hash="12250183684662878276" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Character Editor Updated\Defs\CharEditor.xml" hash="2483095062080959467" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Character Editor Updated\Defs\GradientHairMasks.xml" hash="13288496430261497960" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Character Editor Updated\v1.4\Defs\LifeStageGiant.xml" hash="8096035658497654183" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Combat Extended Guns\1.4\Patches\Core\ThingDefs_Misc\Patch_ResearchProjects.xml" hash="11974693214363553628" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Combat Extended Guns\1.4\Patches\RunAndGun\Weapons_Guns.xml" hash="11838746094759345442" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Combat Extended Guns\1.4\Patches\Clutter Hands\Hands.xml" hash="7768333615094770186" />
@@ -5689,11 +5619,6 @@
   <Asset id="C:\Games\RimWorld 1.4\Mods\CAI 5000 - Advance Combat AI Mod\Defs\Stats\Stats_AI.xml" hash="13130735227387187981" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\CAI 5000 - Advance Combat AI Mod\Defs\ThingDef_Buildings\Buildings_Security.xml" hash="9234650686456511058" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Ctrl F\Defs\CtrlFKeyBinding.xml" hash="11101544842232067443" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Defensive Positions\Defs\JobDefs\DefensivePositionsJobs.xml" hash="17792706496828587038" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Defensive Positions\Defs\MoteDefs\DefensivePositionsMotes.xml" hash="16550392337176439631" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Defensive Positions\Defs\UpdateFeatureDefs\UpdateFeatures.xml" hash="15654953367489723538" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Defensive Positions\Defs\KeyBindingDefs\KeyBindings.xml" hash="8971934758765029297" />
-  <Asset id="C:\Games\RimWorld 1.4\Mods\Defensive Positions\Defs\KeyBindingCategoryDefs\KeyBindingCategories.xml" hash="18193285492218241181" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Large Faction Bases\1.4\Patches\RimWar_Large.xml" hash="17193010279782833953" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Large Faction Bases\1.4\Patches\Ideology_Large.xml" hash="14971449982741915405" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Large Faction Bases\1.4\Patches\Royalty_Large.xml" hash="16802233334659148466" />
@@ -5935,4 +5860,12 @@
   <Asset id="C:\Games\RimWorld 1.4\Mods\PlanetSide2 NS Black Ops Combat Armor\1.4\Defs\ThingDefs_Misc\bohelmet.xml" hash="14168693592605189316" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\PlanetSide2 NS Black Ops Combat Armor\1.4\Defs\ThingDefs_Misc\boarmor.xml" hash="11015281589522342011" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\TD Find Lib - Release\Defs\ThingQueries.xml" hash="15304515391716527704" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Camera+\Defs\Sounds.xml" hash="8270645088619669169" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\CleaningArea\Defs\WorkGiverDefs\WorkGivers.xml" hash="7863433582813426897" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\CleaningArea\Defs\JobDefs\Jobs_Work.xml" hash="14339724174591416974" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\QualityBuilder\Defs\DesignationDefs\Designations.xml" hash="14862741195888859107" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Replace Stuff\Patches\ReplaceStuffPatches.xml" hash="17105464082832031720" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Replace Stuff\Patches\CoolerOverWallPatches.xml" hash="11025663669355924962" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Replace Stuff\Defs\BuildingTryMineConcept.xml" hash="9388253980888531023" />
+  <Asset id="C:\Games\RimWorld 1.4\Mods\Replace Stuff\Defs\OverWallCoolerVent.xml" hash="17495954219647523306" />
 </AssetsHash>
