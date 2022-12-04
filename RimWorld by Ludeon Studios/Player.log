@@ -5319,3 +5319,45 @@ CombatExtended.Verb_MeleeAttackCE was already deepsaved at .
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Wrote screenshot C:/Users/Dmytro/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Test.jpg of size 311601
+Constructed TargetInfo with cell=(42, 0, 59) and a null map. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DebugLoadIDsSavingErrorsChecker error: tried to register deep-saved object with loadID Thing_MrHandy40820__Smash_Managed, but it's already here. label=MVCF_ManagedVerb (not cleared after the previous save? different objects have the same load ID? the same object is deep-saved twice?) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MVCF.ManagedVerb was already deepsaved at . 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DebugLoadIDsSavingErrorsChecker error: tried to register deep-saved object with loadID Verb_Thing_MrHandy40820__Smash, but it's already here. label=li (not cleared after the previous save? different objects have the same load ID? the same object is deep-saved twice?) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CombatExtended.Verb_MeleeAttackCE was already deepsaved at . 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Object with load ID Job_11641 is referenced (xml node name: targetJob) but is not deep-saved. This will cause errors during loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wrote screenshot C:/Users/Dmytro/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Autosave-1.jpg of size 294680
+DebugLoadIDsSavingErrorsChecker error: tried to register deep-saved object with loadID Thing_MrHandy40820__Smash_Managed, but it's already here. label=MVCF_ManagedVerb (not cleared after the previous save? different objects have the same load ID? the same object is deep-saved twice?) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MVCF.ManagedVerb was already deepsaved at . 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DebugLoadIDsSavingErrorsChecker error: tried to register deep-saved object with loadID Verb_Thing_MrHandy40820__Smash, but it's already here. label=li (not cleared after the previous save? different objects have the same load ID? the same object is deep-saved twice?) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CombatExtended.Verb_MeleeAttackCE was already deepsaved at . 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wrote screenshot C:/Users/Dmytro/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Test.jpg of size 336051
+Unloading 3 Unused Serialized files (Serialized files now loaded: 5)
+UnloadTime: 0.931700 ms
+checking editor settings...
+activating bodysize genes...
+bodysizes genes are active
+CharacterEditor v1.4.1205 ...done
+
+Unloading 6677 unused Assets to reduce memory usage. Loaded Objects now: 41964.
+Total: 997.323600 ms (FindLiveObjects: 11.038200 ms CreateObjectMapping: 7.450000 ms MarkObjects: 955.482400 ms  DeleteObjects: 23.352700 ms)
+
