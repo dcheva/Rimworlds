@@ -10,11 +10,11 @@ Direct3D:
     VRAM:     5980 MB
     Driver:   31.0.15.2647
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.090 seconds
+- Completed reload, in  0.084 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.704100 ms
+UnloadTime: 0.657000 ms
 [Steamworks.NET] SteamAPI.Init() failed. Possible causes: Steam client not running, launched from outside Steam without steam_appid.txt in place, running with different privileges than Steam client (e.g. "as administrator") 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
@@ -24,168 +24,168 @@ C:\Games\RimWorld 1.4\Mods\Character Editor Updated
 C:\Games\RimWorld 1.4\Mods\Character Editor 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0000080.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8E2B48C0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8ECFCFB0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8EE85810.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8EE90C20.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8EE5C020.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8EE93E30.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A6AD5D0C0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8EEA9850.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0104F30.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8EED6270.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8EDCE010.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0133740.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB014E950.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8EEE4CB0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0168160.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0169770.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB016AD80.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB01865A0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB01A01C0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0306020.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0308C30.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0321C40.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0342260.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0430880.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB043CA90.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB043F0A0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB04454B0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0450AD0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0474CF0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB049FB40.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB04CC960.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB04D2970.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8EEEDC50.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB04E47A0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB04FF9B0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB053F010.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB054BA30.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB054E040.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB066F180.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0670390.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0677DD0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0694FF0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB06DFB40.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8E2B5CD0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB074A530.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB077EC80.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0780E90.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB078E4A0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0791EB0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB07A28D0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A6AD49070.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB07B7CE0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB07C0EF0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB080B440.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0810050.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0815E60.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0820480.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0821A90.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0917EC0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB093FAD0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0948AF0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB094F500.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0953310.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB095C920.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0980330.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB098DD60.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0A7FDA0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB073C550.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0B797E0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8E2AF880.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0B97400.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0BC4D30.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8E2AD060.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0BE6550.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0BFBD70.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0C23390.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB17DD040.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0CB5010.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0DCA430.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0DEEA40.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A6AD690F0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0E0AC50.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0E12E70.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0E1C690.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0E330C0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0E38EE0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0E3A8F0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0F22D20.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0F38010.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0F69150.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0F6E160.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0F70D70.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0F79B80.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0FA57A0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0FB81B0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0FBD9C0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0FC1BD0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0FC4BE0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0FC8400.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1948090.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0CA98A0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1966CC0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0FC9E10.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB19684D0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8E2AE470.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1970700.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1979D10.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1989140.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB0C9B830.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1A95580.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1B16610.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1B59820.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1B62040.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1B63C50.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1B6CE60.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1D13E80.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1D19490.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1D264B0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1E0DEE0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1ECE010.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1EE9210.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1EF4220.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB1FD9E40.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB20C5060.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB21CF680.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB22CF8D0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB23288E0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A8E2B9900.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB235CB10.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2360520.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2363330.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB236E150.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2450F80.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB254C5C0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2723430.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2739460.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2744C70.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB27D2010.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2806240.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2819C60.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB282B870.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2832080.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2835890.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2836AA0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB283A0B0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB284D6D0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB285DB00.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2860110.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2863120.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2AAA4A0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2881D50.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2886B60.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2888170.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB28A8190.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB28B53A0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020A6AD550A0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB28DDDC0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB28E6DD0.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB290E230.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2F80090.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AB2FD0370.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475480080.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015473667F20.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154743DDEF0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547434B010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154742B1840.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015474356420.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547440ED00.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154502E60C0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015474414710.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475564F20.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015474461140.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015474462B50.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154755BD770.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154755DA990.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015474466360.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547446C180.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547446D790.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154755F41A0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547560F9C0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154756195D0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475798020.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547579AC30.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154757B3C40.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154757CCA60.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154758BD090.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154758C92A0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154758CB8B0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154758D1CC0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154758E12F0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475905510.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547591E320.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475949670.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475951690.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154759614B0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154759636D0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547597E8E0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154759CA530.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154759DDD40.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154759E0350.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475B00180.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475B01390.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475B08DD0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475B25FF0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475B8A010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547366BB50.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475BD3750.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475C01960.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475C03F70.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475C11580.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475C14F90.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475C1D9A0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154502EA0D0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475C32DB0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475C3BFC0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475C86510.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475C8B120.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475C90F30.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475C97550.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475C99950.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475D7FD70.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475DA7980.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475DB49A0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475DBB3B0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475DBF1C0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475DC87D0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475DEBDE0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475DF4FF0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475EDF020.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475B86770.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015475FD4A50.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015473669330.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154760046B0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547607B010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547366A740.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547608CC30.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154760B2A40.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154760DA060.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476450040.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547612D010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476240E40.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476265970.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154502EE0E0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547629DBB0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154762A3DC0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154762A55D0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154762B3FE0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154762B5DF0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154762B7800.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154763AF830.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154763B3A40.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476426010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547642B020.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547642DC30.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476D30080.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476D4BC90.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547643AA50.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476440260.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476448490.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476D5E6A0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547644B4A0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476D5FEB0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154763EEC20.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547644CEB0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476D66AC0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476D6BAD0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476D73B80.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476D8F900.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476D9CF20.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476DBA020.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154763E6BE0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476EC2470.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476F0CCA0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476F53EC0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476F642E0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476F65EF0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476F6F100.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477167630.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547716CC40.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477178C50.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477264690.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154772E32B0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154772FD6C0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154773186E0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154773FE300.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154774E9520.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154775F3B40.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154776E9D80.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154777471A0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015476D6D730.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547776B3C0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547776EDD0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477771BE0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001547777CA00.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154778A9E10.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477995440.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477B6C2B0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477B822E0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477B8DAF0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477BC5B00.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477C11D40.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477C15750.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477C27360.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477C2DB70.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477C31380.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477C32590.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477C35BA0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477C511D0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477C555E0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477C641F0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477C67200.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477E9A0A0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477CAF010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477F3D820.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477CD3E30.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477F3EE30.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477F4C040.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154502F20F0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477F9CA90.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015477FA5AA0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015478174030.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154782D3EE0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000154783CF040.dll
 [VanillaAchievementsExpanded] version 1.4.8315
 [TerrainOverhaul] Init
 [TerrainOverhaul] Patched 3 methods.
@@ -196,44 +196,36 @@ Combat Extended :: Harmony_GenRadial_RadialPatternCount :: Info: Post GenRadial 
 Combat Extended :: initialized
 [HugsLib] version 10.0.1
 [HugsLib] early-initializing AllowTool
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020ABF3EF350.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020ABF42B330.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020ABF9DA010.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020ABE9AA500.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020ABF445B50.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020ABEC57020.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020ABF916020.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AC26F3020.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020AC273A360.dll
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020ABEC9B8F0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015480A07D00.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015480E88030.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015480634020.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015480446010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000152C40E1010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-00000152C4063120.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015483318010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015483323020.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001548332FE30.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-000001548329D010.dll
 GAGARIN: StartUpStarted called!
 GAGARIN: Cache found 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 b.3563:11/29/2022 12:00:00 AM:1.4.3563 rev533
-GAGARIN: Game build changed 3537:11/3/2022 12:00:00 AM:1.4.3537 rev237 vs 3563:11/29/2022 12:00:00 AM:1.4.3563 rev533 clearing cache 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
+b.3563:11/29/2022 12:00:00 AM:1.4.3563 rev533
+b.3563:11/29/2022 12:00:00 AM:1.4.3563 rev533
+b.3563:11/29/2022 12:00:00 AM:1.4.3563 rev533
+RimSaves NX
+Rimefeller 1.2.1227
+[1.3]Graphics Setter - Loaded
+dubwise.dubsbadhygiene 3.0.2228
+DubsMintMenus v1.3.995
+Dubs Mint Minimap 1.3.787
+Rimatomics 1.7.2500
+Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000015480989040.dll
+QualityBuilder successfully patched Replace Stuff
 GAGARIN: Cache disabled from
-ExposeData at offset 0 in file:line:column <filename unknown>:0:0
-SaveableFromNode at offset 0 in file:line:column <filename unknown>:0:0
-Look at offset 0 in file:line:column <filename unknown>:0:0
-Look at offset 0 in file:line:column <filename unknown>:0:0
-LoadSettings at offset 0 in file:line:column <filename unknown>:0:0
-StartUpStarted at offset 0 in file:line:column <filename unknown>:0:0
-InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
-Invoke at offset 0 in file:line:column <filename unknown>:0:0
-Invoke at offset 0 in file:line:column <filename unknown>:0:0
-<GetActions>b__3 at offset 0 in file:line:column <filename unknown>:0:0
-.ctor at offset 0 in file:line:column <filename unknown>:0:0
-InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
-InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
-DoInvoke at offset 0 in file:line:column <filename unknown>:0:0
-Invoke at offset 0 in file:line:column <filename unknown>:0:0
-CreateInstanceImpl at offset 0 in file:line:column <filename unknown>:0:0
-CreateInstance at offset 0 in file:line:column <filename unknown>:0:0
-CreateInstance at offset 0 in file:line:column <filename unknown>:0:0
-CreateModClasses at offset 0 in file:line:column <filename unknown>:0:0
+Postfix at offset 0 in file:line:column <filename unknown>:0:0
+Verse.LoadedModManager.LoadModXML_Patch4 at offset 0 in file:line:column <filename unknown>:0:0
 LoadAllActiveMods at offset 0 in file:line:column <filename unknown>:0:0
 DoPlayLoad at offset 0 in file:line:column <filename unknown>:0:0
 LoadAllPlayData at offset 0 in file:line:column <filename unknown>:0:0
@@ -247,25 +239,16 @@ Run at offset 0 in file:line:column <filename unknown>:0:0
 ThreadStart at offset 0 in file:line:column <filename unknown>:0:0 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-b.3563:11/29/2022 12:00:00 AM:1.4.3563 rev533
-b.3563:11/29/2022 12:00:00 AM:1.4.3563 rev533
-b.3563:11/29/2022 12:00:00 AM:1.4.3563 rev533
-RimSaves NX
-Rimefeller 1.2.1227
-[1.3]Graphics Setter - Loaded
-dubwise.dubsbadhygiene 3.0.2228
-DubsMintMenus v1.3.995
-Dubs Mint Minimap 1.3.787
-Rimatomics 1.7.2500
-Fallback handler could not load library C:/Games/RimWorld 1.4/RimWorldWin64_Data/Mono/data-0000020ABF6EC020.dll
-QualityBuilder successfully patched Replace Stuff
-GAGARIN: LoadModXML_Profiler took 2.343 seconds 
+GAGARIN: Total number of files changed. Reseting cache 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: LoadModXML_Profiler took 2.096 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 GAGARIN: CombineIntoUnifiedXML has Context.IsUsingCache=False 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: CombineIntoUnifiedXML_Profiler took 1.28 seconds 
+GAGARIN: CombineIntoUnifiedXML_Profiler took 1.099 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 GAGARIN: TKeySystem.Parse took 0.002 seconds 
@@ -273,13 +256,13 @@ GAGARIN: TKeySystem.Parse took 0.002 seconds
 
 LWM Deep Storage: activated compatibility patch for Combat Extended
 LWM Deep Storage: activated compatibility patch for Dubs Bad Hygiene
-GAGARIN: ApplyPatches_Profiler took 24.53 seconds 
+GAGARIN: ApplyPatches_Profiler took 22.546 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 XML error: Duplicate XML node name combatPower in this XML block: <PawnKindDef ParentName="LightMechanoidKind"><defName>Mech_Militor</defName><label>militor</label><race>Mech_Militor</race><combatPower>45</combatPower><lifeStages><li><bodyGraphicData><texPath>Things/Pawn/Mechanoid/Militor</texPath><maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/Mech_Slugger</maskPath><shaderType>CutoutWithOverlay</shaderType><graphicClass>Graphic_Multi</graphicClass><drawSize>1.25</drawSize><shadowData><volume>(0.3, 0.4, 0.3)</volume><offset>(0,0,-0.25)</offset></shadowData></bodyGraphicData></li><li><bodyGraphicData><texPath>Things/Pawn/Mechanoid/MilitorAncient</texPath><maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/Mech_Slugger</maskPath><shaderType>CutoutWithOverlay</shaderType><graphicClass>Graphic_Multi</graphicClass><drawSize>1.25</drawSize><shadowData><volume>(0.3, 0.4, 0.3)</volume><offset>(0,0,-0.25)</offset></shadowData></bodyGraphicData></li></lifeStages><weaponTags><li>MechanoidGunShortRange</li></weaponTags><combatPower>90</combatPower><modExtensions><li Class="CombatExtended.LoadoutPropertiesExtension"><primaryMagazineCount><min>5</min><max>6</max></primaryMagazineCount></li></modExtensions></PawnKindDef> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: XmlInheritance.Resolve took 0.428 seconds 
+GAGARIN: XmlInheritance.Resolve took 0.386 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Parsed 2.2 as int. 
@@ -316,7 +299,7 @@ b.3563:11/29/2022 12:00:00 AM:1.4.3563 rev533
 GAGARIN: Cache created! creating cache took 0 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: ParseAndProcessXML_Profiler took 15.806 seconds 
+GAGARIN: ParseAndProcessXML_Profiler took 14.245 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 [Combat Extended] Patch operation Verse.PatchOperationFindMod([JDS] The Forge - NCR Armory) failed
@@ -330,10 +313,10 @@ file: C:\Games\RimWorld 1.4\Mods\Combat Extended\Patches\Rimefeller\Napalm_Tweak
 GAGARIN: ClearCachedPatches_Profiler took 0.001 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: XmlInheritance.Resolve took 0.428 seconds 
+GAGARIN: XmlInheritance.Resolve took 0.387 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: XmlInheritance.Resolve took 0.428 seconds 
+GAGARIN: XmlInheritance.Resolve took 0.387 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Translation data for language Russian / Русский has 966 errors. Generate translation report for more info. 
@@ -4998,34 +4981,14 @@ The given key was not present in the dictionary.
   at CharacterEditor.CEditor+a.b () [0x00052] in <cb089a98036648abb111f0b07a919a81>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Tried loading mod with the same packageId multiple times: void.charactereditor. Ignoring the duplicates.
-C:\Games\RimWorld 1.4\Mods\Character Editor Updated
-C:\Games\RimWorld 1.4\Mods\Character Editor 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
 Unloading 5 Unused Serialized files (Serialized files now loaded: 5)
-
-Unloading 944 unused Assets to reduce memory usage. Loaded Objects now: 40155.
-Total: 667.830200 ms (FindLiveObjects: 2.816400 ms CreateObjectMapping: 3.303000 ms MarkObjects: 660.031800 ms  DeleteObjects: 1.678300 ms)
-
-Tried loading mod with the same packageId multiple times: void.charactereditor. Ignoring the duplicates.
-C:\Games\RimWorld 1.4\Mods\Character Editor Updated
-C:\Games\RimWorld 1.4\Mods\Character Editor 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 5)
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 40156.
-Total: 655.814400 ms (FindLiveObjects: 2.840500 ms CreateObjectMapping: 3.031000 ms MarkObjects: 649.865400 ms  DeleteObjects: 0.077200 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 5)
-UnloadTime: 0.391700 ms
+UnloadTime: 0.321100 ms
 QualityBuilder added property to '173' things
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 40181.
-Total: 653.544100 ms (FindLiveObjects: 2.004100 ms CreateObjectMapping: 3.031800 ms MarkObjects: 648.440000 ms  DeleteObjects: 0.067800 ms)
+Unloading 944 unused Assets to reduce memory usage. Loaded Objects now: 40180.
+Total: 641.150000 ms (FindLiveObjects: 2.002000 ms CreateObjectMapping: 3.271300 ms MarkObjects: 634.899800 ms  DeleteObjects: 0.976600 ms)
 
-Loading game from file Test with mods:
+Loading game from file Autosave-2 with mods:
   - brrainz.harmony
   - Ludeon.RimWorld
   - bs.betterlog
@@ -5215,112 +5178,94 @@ Loading game from file Test with mods:
   - hatti.qualitybuilder
   - Uuugggg.ReplaceStuff
   - RU.pashka.Uuugggg.ReplaceStuff
-Loaded file (Map) is from version 1.4.3537 rev237, we are running version 1.4.3563 rev533. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Couldn't load adult backstory CaesicMarshal72 for Dee 'Dee' Covan. Giving random. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_MrHandy40820__Smash: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_MrHandy40820__Smash
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_HC_Serval48944__Scratch: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_HC_Serval48944__Scratch
   at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
   at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
   at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_MrHandy40820__Smash_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_MrHandy40820__Smash_Managed
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_HC_Serval48944__Scratch_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_HC_Serval48944__Scratch_Managed
   at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
   at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
   at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not find think node with key -545544018 
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_HC_Cheetah48963__Scratch: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_HC_Cheetah48963__Scratch
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not find think node with key -868441353 
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_HC_Cheetah48963__Scratch_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_HC_Cheetah48963__Scratch_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not find think node with key 661042295 
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_HC_Weasel48928__Scratch: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_HC_Weasel48928__Scratch
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not find think node with key -1869528960 
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_HC_Weasel48928__Scratch_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_HC_Weasel48928__Scratch_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Trying to get valid region at (219, 0, 205) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_HC_Weasel48929__Scratch: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_HC_Weasel48929__Scratch
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Trying to get valid region at (218, 0, 202) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_HC_Weasel48929__Scratch_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_HC_Weasel48929__Scratch_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Trying to get valid region at (221, 0, 205) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_HC_Weasel48930__Scratch: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_HC_Weasel48930__Scratch
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Trying to get valid region at (220, 0, 207) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_HC_Weasel48930__Scratch_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_HC_Weasel48930__Scratch_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Trying to get valid region at (218, 0, 207) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_HC_Pangolin48940__Scratch: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_HC_Pangolin48940__Scratch
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Trying to get valid region at (212, 0, 205) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_HC_Pangolin48940__Scratch_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_HC_Pangolin48940__Scratch_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Trying to get valid region at (210, 0, 191) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
+Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_HC_Crocodale48966__Scratch: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_HC_Crocodale48966__Scratch
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Trying to get valid region at (213, 0, 203) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
+Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_HC_Crocodale48966__Scratch_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_HC_Crocodale48966__Scratch_Managed
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Trying to get valid region at (214, 0, 205) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
+Could not resolve reference to object with loadID Thing_Human50534 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.DirectPawnRelation curPathRelToParent= 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Trying to get valid region at (215, 0, 207) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (213, 0, 205) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (220, 0, 208) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (216, 0, 207) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (210, 0, 192) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (214, 0, 204) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (219, 0, 209) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (214, 0, 206) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (219, 0, 208) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (217, 0, 207) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (209, 0, 194) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (214, 0, 207) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (216, 0, 208) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (211, 0, 204) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (220, 0, 209) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (211, 0, 206) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Trying to get valid region at (218, 0, 208) but RegionAndRoomUpdater is disabled. The result may be incorrect. 
+Pawn Naoko has relation "Parent" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships). 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Dining spot count changed from 0 to 0
@@ -5330,395 +5275,47 @@ bodysizes genes are active
 QualityBuilder added to приказы category.
 Unloading 0 Unused Serialized files (Serialized files now loaded: 5)
 
-Unloading 259 unused Assets to reduce memory usage. Loaded Objects now: 47159.
-Total: 768.524900 ms (FindLiveObjects: 2.385800 ms CreateObjectMapping: 4.247400 ms MarkObjects: 761.578800 ms  DeleteObjects: 0.312500 ms)
+Unloading 259 unused Assets to reduce memory usage. Loaded Objects now: 44986.
+Total: 781.710700 ms (FindLiveObjects: 2.135100 ms CreateObjectMapping: 4.037800 ms MarkObjects: 775.264400 ms  DeleteObjects: 0.273100 ms)
 
-Constructed TargetInfo with cell=(48, 0, 51) and a null map. 
+Could not find file "C:\Users\Dmytro\Desktop\pawnslots.txt" 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Pawn Mai threw exception while executing toil MakeNewToils's finish action (2), jobDriver=RimWorld.JobDriver_ConstructFinishFrame, job=FinishFrame (Job_15338) A=Thing_Frame_Bed41615, toilIndex=1: System.NullReferenceException: Object reference not set to an instance of an object
-  at QualityBuilder.QualityBuilder.GetFirstBuildingBuildingOrFrame (Verse.Map map, Verse.IntVec3 c) [0x00000] in <cf9061a8ceb949b7adc6ea895c139469>:0 
-  at QualityBuilder._JobDriver_ConstructFinishFrame.afterFinishToil (QualityBuilder.CompQualityBuilder cmp, Verse.Map curMap, Verse.LocalTargetInfo targetInfo) [0x00083] in <cf9061a8ceb949b7adc6ea895c139469>:0 
-  at QualityBuilder._JobDriver_ConstructFinishFrame+<>c__DisplayClass0_0.<Postfix>b__0 () [0x00000] in <cf9061a8ceb949b7adc6ea895c139469>:0 
-  at Verse.AI.Toil.Cleanup (System.Int32 myIndex, Verse.AI.JobDriver jobDriver) [0x0001f] in <8c412d4a16f94d4cb337e846f2dee469>:0  
+Could not find file "C:\Users\Dmytro\Desktop\pawnslots.txt" 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Exception in JobDriver tick for pawn Dee driver=JobDriver_AttackStatic (toilIndex=1)
+Could not find file "C:\Users\Dmytro\Desktop\pawnslots.txt" 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wrote screenshot C:/Users/Dmytro/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ancients 000.jpg of size 149379
+[GC Log] Pre-Initializing GC...
+[GC Log] Generating EntryPoints from Map Pawns...
+[GC Log] Collecting Pawns concerned by Used Tales...
+[GC Log] Running diagnosis on WorldPawns...
+[GC Log] Expanding Relation networks through Map Pawn Entry Points...
+[GC Log] Expanding Relation networks on marked World Pawns...
+[GC Log] Excluding Pawns concerned by Used Tales...
+[GC Log] Excluding Quest Pawns: 0
+[GC Log] Disposing World Pawns...
+Tried to discard a world pawn Duran. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to discard a world pawn McCarthy. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to discard a world pawn Naoko. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[GC Log] GC() completed with 4 World Pawns disposed
+Wrote screenshot C:/Users/Dmytro/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ancients 000.jpg of size 148049
+[Geological Landforms v1.5.2] Found 631 walkable map edge cells. Caching enabled: False
 System.NullReferenceException: Object reference not set to an instance of an object
-  at Verse.AI.JobDriver_AttackStatic+<>c__DisplayClass4_0.<MakeNewToils>b__1 () [0x0012b] in <8c412d4a16f94d4cb337e846f2dee469>:0 
-  at (wrapper dynamic-method) Verse.AI.JobDriver.Verse.AI.JobDriver.DriverTick_Patch0(Verse.AI.JobDriver) 
+  at Verse.GridsUtility.Fogged (Verse.IntVec3 c, Verse.Map map) [0x00000] in <8c412d4a16f94d4cb337e846f2dee469>:0 
+  at AllowTool.Designator_HaulUrgently.ThingIsRelevant (Verse.Thing thing) [0x00015] in <d3e3fec3eced4dceb8190139680bcabd>:0 
+  at AllowTool.Designator_HaulUrgently.CanDesignateThing (Verse.Thing t) [0x00001] in <d3e3fec3eced4dceb8190139680bcabd>:0 
+  at (wrapper dynamic-method) Verse.Designator.Verse.Designator.CreateReverseDesignationGizmo_Patch1(Verse.Designator,Verse.Thing)
+  at (wrapper dynamic-method) RimWorld.InspectGizmoGrid.RimWorld.InspectGizmoGrid.DrawInspectGizmoGridFor_Patch0(System.Collections.Generic.IEnumerable`1<object>,Verse.Gizmo&) currentSelectable: null 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Exception in JobDriver tick for pawn Dee driver=JobDriver_AttackStatic (toilIndex=1)
-System.NullReferenceException: Object reference not set to an instance of an object
-  at Verse.AI.JobDriver_AttackStatic+<>c__DisplayClass4_0.<MakeNewToils>b__1 () [0x0012b] in <8c412d4a16f94d4cb337e846f2dee469>:0 
-  at (wrapper dynamic-method) Verse.AI.JobDriver.Verse.AI.JobDriver.DriverTick_Patch0(Verse.AI.JobDriver) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Constructed TargetInfo with cell=(53, 0, 128) and a null map. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Constructed TargetInfo with cell=(53, 0, 128) and a null map. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Geological Landforms v1.5.2] Found 967 walkable map edge cells. Caching enabled: False
-Wrote screenshot C:/Users/Dmytro/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Autosave-1.jpg of size 310522
-KeyNotFoundException: The given key was not present in the dictionary.
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at BetterInfoCard.Dialog_InfoCard_Patch.get_QuickSearchWidgetInstanced (Verse.Dialog_InfoCard dialog) [0x00001] in <fb43dc73ecaa40e6bab770f7b2aedb53>:0 
-  at (wrapper dynamic-method) Verse.Dialog_InfoCard.Verse.Dialog_InfoCard.get_CommonSearchWidget_Patch0(Verse.Dialog_InfoCard)
-  at (wrapper dynamic-method) Verse.Window.Verse.Window.InnerWindowOnGUI_Patch0(Verse.Window,int)
-  at UnityEngine.GUI.CallWindowDelegate (UnityEngine.GUI+WindowFunction func, System.Int32 id, System.Int32 instanceID, UnityEngine.GUISkin _skin, System.Int32 forceRect, System.Single width, System.Single height, UnityEngine.GUIStyle style) [0x00078] in <83a6362a90a344f1831389f7137844c4>:0 
- 
-(Filename: <eae584ce26bc40229c1b1aa476bfa589> Line: 0)
-
-Created 2 new pawns for Каа.
-Created 2 new pawns for Каа.
-Created 2 new pawns for Каа.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 5)
-UnloadTime: 0.635600 ms
-QualityBuilder added property to '0' things
-
-Unloading 6638 unused Assets to reduce memory usage. Loaded Objects now: 41702.
-Total: 855.787700 ms (FindLiveObjects: 4.204300 ms CreateObjectMapping: 4.343100 ms MarkObjects: 838.591800 ms  DeleteObjects: 8.647900 ms)
-
-Loading game from file Getmen with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - bs.betterlog
-  - Ludeon.RimWorld.Royalty
-  - Ludeon.RimWorld.Ideology
-  - Ludeon.RimWorld.Biotech
-  - OskarPotocki.VanillaFactionsExpanded.Core
-  - sarg.alphagenes
-  - FrozenSnowFox.BetterAncientComplexLoot
-  - VanillaExpanded.VCEF
-  - DakkPasserida.AnimaReplant
-  - ReGrowth.BOTR.Core
-  - FrozenSnowFox.FilthVanishesWithRainAndTime
-  - JangoDsoul.TheForge.Anvil
-  - JangoDsoul.TheForge.NCRArmory
-  - DerekBickley.LegacyTerrainOverhaulFinal
-  - LimeTreeSnake.Systems
-  - syrchalis.processor.framework
-  - RWNodeTree.RWNodeTree
-  - RWNodeTree.RWWeaponModularization
-  - Owlchemist.ToggleableOverlays
-  - rimfridge.kv.rw
-  - LWM.DeepStorage
-  - OskarPotocki.VFE.Mechanoid
-  - OskarPotocki.VanillaFactionsExpanded.MedievalModule
-  - CETeam.CombatExtended
-  - TMC.EFT.Melee
-  - Wemd.RealisticDarknessLight
-  - Wild.Addictol
-  - AndrewRaphaelLukasik.AllowEverything
-  - UnlimitedHugs.HugsLib
-  - UnlimitedHugs.AllowTool
-  - biowreck.AncientFalloutArmory
-  - VanillaExpanded.VFEMedical
-  - VanillaExpanded.VFEA
-  - ifsck.ancientmedicallinking
-  - scpchemfuel.appliances
-  - Bombadier.BetterWallsAndFloors
-  - Creeper.BetterInfoCard
-  - m00nl1ght.GeologicalLandforms
-  - m00nl1ght.GeologicalLandforms.BiomeTransitions
-  - Murmur.WallLight
-  - seos.m.vfea.vault.wnd
-  - seos.m.vfea.vault.s
-  - zal.vwretexture
-  - VanillaExpanded.VWEMS
-  - VanillaExpanded.VWEL
-  - vanillaexpanded.skills
-  - ReGrowth.BOTR.AspenForest
-  - VanillaExpanded.VPlantsE
-  - MrHydralisk.VOEAdditionalOutposts
-  - VanillaExpanded.VMemesE
-  - VanillaExpanded.VIEHAR
-  - VanillaExpanded.VARME
-  - Superniquito.TraitIcons
-  - hobtook.tradeui
-  - GT.Sam.TilledSoil
-  - JangoDsoul.T45b.PowerArmor
-  - Owlchemist.FridgeUtilities
-  - seos.m.storages
-  - Indeed.StackXXL
-  - smashphil.srtsexpanded
-  - legodude17.smartdecon
-  - dhultgren.smarterconstruction
-  - sarg.smartspeed
-  - Owlchemist.SmartFarming
-  - Usgiyi.SlaveOutfits
-  - PeteTimesSix.SimpleSidearms
-  - Owlchemist.SeedsPleaseLite
-  - Owlchemist.ScatteredStones
-  - roolo.giddyupcore
-  - thelastbulletbender.saddleup
-  - trinity.RuntimeGCupdated
-  - Mlie.RunAndHide
-  - RU.Vanilla.Weapons.Expanded.Laser
-  - Krkr.RocketMan
-  - Mlie.RoadsOfTheRim
-  - aRandomKiwi.RimSaves
-  - sindre0830.RimNauts2
-  - MalteSchulze.RIMMSqol
-  - Jaxe.RimHUD
-  - Dubwise.Rimefeller
-  - Owlchemist.ResearchPowl
-  - avilmask.ResearchWhatever
-  - ReGrowth.BOTR.TundraExpansion
-  - ReGrowth.BOTR.TemperateForestExpansion
-  - ReGrowth.BOTR.SwampExpansion
-  - ReGrowth.BOTR.BorealForestExpansion
-  - Uuugggg.RandomResearch
-  - bustedbunny.PrisonersAreNotSwines
-  - Mehni.PickUpAndHaul
-  - Owlchemist.PerspectiveTrees
-  - Owlchemist.PerspectiveEaves
-  - Owlchemist.WallUtilities
-  - Owlchemist.PerspectiveBuildings
-  - SaucyPigeon.PawnBadge
-  - Mlie.MoreFactionInteraction
-  - bonible.medullinpure
-  - Witek.MechsCanHaulToCharger
-  - hydrologist.MechanitorCommandRelays
-  - LWM.FuelFilter
-  - Krafs.LevelUp
-  - jecrell.jecstools
-  - Aoba.Fortress.Industrial.Concrete
-  - erdelf.HumanoidAlienRaces
-  - Orion.Hospitality
-  - HC.Animal.4
-  - HC.Animal.3
-  - HC.Animal.2
-  - HC.Animal.1
-  - Grimworld.Lasguns
-  - Telefonmast.GraphicsSettings
-  - bs.mbifvte
-  - Aoba.CargoContainer.Waste
-  - Orion.CashRegister
-  - void.charactereditor
-  - Neronix17.Retexture.CharacterEditor
-  - CrashM.ColorCodedMoodBar.11
-  - CETeam.CombatExtendedGuns
-  - Dubwise.DubsBadHygiene
-  - avilmask.CommonSense
-  - Nyan.CustomPawnGeneration
-  - Ogliss.Mythos.DiseasesOverhauled
-  - ForZa.DiseasesOverhauledBiosculptor
-  - proxyer.dismantleancientjunk
-  - tikubonn.DrugCommandOverhaul
-  - Dubwise.DubsApparelTweaks
-  - Dubwise.DubsMintMenus
-  - dubwise.dubsmintminimap
-  - Dubwise.Rimatomics
-  - nilchei.dynamicdiplomacy
-  - Cocaine.ElectricStonecuttingTable
-  - Witek.FabricorsCanRepairMechs
-  - JangoDsoul.Fallout.NukaCola
-  - YeffScry.Fallout2Soundtrack
-  - YeffScry.Fallout3Soundtrack
-  - YeffScry.Fallout4Soundtrack
-  - YeffScry.Fallout76Soundtrack
-  - YeffScry.FalloutNVSoundtrack
-  - Mlie.FalloutRacesTheRobotsPack
-  - YeffScry.FalloutSoundtrack
-  - Fuglypump.FalloutTraits
-  - LegendaryMinuteman.FRWP
-  - Murmur.FasterProjectiles
-  - Orion.Gastronomy
-  - sarg.giddyupsaddles
-  - roolo.giddyupbattlemounts
-  - roolo.giddyupcaravan
-  - roolo.giddyuprideandroll
-  - EdB.PrepareCarefully.alonske.fork.kotobike
-  - Dopwop.SimpleDwarves
-  - Mlie.Apothecary
-  - ILuvSilicon.BasicMedicine2
-  - Krkr.rule56
-  - Uuugggg.TDFindLib
-  - Uuugggg.CtrlF
-  - newcolonist.largefactionbases
-  - Haplo.Miscellaneous.MapGenFactionbase
-  - Mlie.MonstrousCompendium
-  - Unon.NoBurnMetal
-  - jp.perfectpathing
-  - MrKociak.RandomisedStoneRefinery
-  - RU.pashka.VinaLx.ResearchPalForked
-  - Am.Rus.Splashes
-  - Am.Rus.Vapor
-  - Owlchemist.SimpleChains.Lumber
-  - Owlchemist.SimpleFX.Smoke2
-  - MysticFelines.SimpleFX.Smoke2.Patches
-  - Owlchemist.SimpleFX.Splashes
-  - Owlchemist.SimpleFX.Vapor
-  - Owlchemist.CeilingUtilities
-  - seos.m.st.liaraangry
-  - VanillaExpanded.VCEFAddon
-  - Ogliss.g223.wanderingcaravans
-  - EdB.PrepareCarefully.alonske.fork
-  - Odz.40k.ImperialGuard.DKOK
-  - Odz.40k.OrdoTempestus.TempestusScions
-  - biotexpans.core
-  - enzo4ka12.biotexpans.core
-  - flangopink.disableautoselecttravelsupplies
-  - huhu.lions.PS2NSBOarmor
-  - PlanetSide2.ru
-  - Uuugggg.TDSBugFixes
-  - brrainz.cameraplus
-  - hatti.cleaningarea
-  - Kamikadza13.legodude17.qualcolor
-  - hatti.qualitybuilder
-  - Uuugggg.ReplaceStuff
-  - RU.pashka.Uuugggg.ReplaceStuff
-Loaded file (Map) is from version 1.4.3537 rev237, we are running version 1.4.3563 rev533. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Couldn't load adult backstory CaesicMarshal72 for Dee 'Dee' Covan. Giving random. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_MrHandy40820__Smash: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_MrHandy40820__Smash
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_MrHandy40820__Smash_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_MrHandy40820__Smash_Managed
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Exception registering CombatExtended.Verb_MeleeAttackCE CombatExtended.Verb_MeleeAttackCE(null) in loaded object directory with unique load ID Verb_Thing_HC_Tiger47350__Scratch: System.ArgumentException: An item with the same key has already been added. Key: Verb_Thing_HC_Tiger47350__Scratch
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Exception registering MVCF.ManagedVerb MVCF.ManagedVerb in loaded object directory with unique load ID Thing_HC_Tiger47350__Scratch_Managed: System.ArgumentException: An item with the same key has already been added. Key: Thing_HC_Tiger47350__Scratch_Managed
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000bf] in <8c412d4a16f94d4cb337e846f2dee469>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Replaced verb RimWorld.Verb_MeleeAttack/Thing_ooze_green48977__slimeattack; may have been changed through a version update or a mod change 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not instantiate Verb (directOwner=ooze_green48977): System.MissingMethodException: Default constructor not found for type RimWorld.Verb_MeleeAttack
-  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at Verse.VerbTracker+<>c__DisplayClass11_0.<ExposeData>b__1 (System.Type type, System.String id) [0x0004a] in <8c412d4a16f94d4cb337e846f2dee469>:0 
-  at Verse.VerbTracker.InitVerbs (System.Func`3[T1,T2,TResult] creator) [0x000e0] in <8c412d4a16f94d4cb337e846f2dee469>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not find think node with key -868441353 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not find think node with key -1539188888 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not find think node with key -1539188888 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not find think node with key -1869528960 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-ooze_green48977 has no available melee attack, spawned=True dead=False downed=False curJob=Ingest (Job_137437) A=Thing_RG_Plant_TreeWhiteWillow20080 verbList= bodyVerbs= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Dining spot count changed from 0 to 0
-checking editor settings...
-activating bodysize genes...
-bodysizes genes are active
-Unloading 0 Unused Serialized files (Serialized files now loaded: 5)
-
-Unloading 512 unused Assets to reduce memory usage. Loaded Objects now: 48135.
-Total: 974.308700 ms (FindLiveObjects: 2.461800 ms CreateObjectMapping: 4.807600 ms MarkObjects: 966.222100 ms  DeleteObjects: 0.816800 ms)
-
-Wrote screenshot C:/Users/Dmytro/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Getmen.jpg of size 250192
-updating CE_Gun_ChargeAMR
-... successful
-The given key was not present in the dictionary.
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at CharacterEditor.CEditor+a.i () [0x000cf] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor+a.e () [0x00019] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor+a.a (g A_0, System.String A_1, System.String A_2) [0x000c7] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor.a (g A_0, System.String A_1, System.String A_2) [0x0000d] in <cb089a98036648abb111f0b07a919a81>:0 
-  at bm.h () [0x0000d] in <cb089a98036648abb111f0b07a919a81>:0 
-  at bm.b (Verse.ThingDef A_0) [0x0001e] in <cb089a98036648abb111f0b07a919a81>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-updating CE_Gun_ChargeAMR
-... successful
-The given key was not present in the dictionary.
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at CharacterEditor.CEditor+a.i () [0x000cf] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor+a.e () [0x00019] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor+a.a (g A_0, System.String A_1, System.String A_2) [0x000c7] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor.a (g A_0, System.String A_1, System.String A_2) [0x0000d] in <cb089a98036648abb111f0b07a919a81>:0 
-  at bm.h () [0x0000d] in <cb089a98036648abb111f0b07a919a81>:0 
-  at bm.b (Verse.ThingDef A_0) [0x0001e] in <cb089a98036648abb111f0b07a919a81>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-The given key was not present in the dictionary.
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at CharacterEditor.CEditor+a.i () [0x000cf] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor+a.e () [0x00019] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor+a.a (g A_0, System.String A_1, System.String A_2) [0x000c7] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor.a (g A_0, System.String A_1, System.String A_2) [0x0000d] in <cb089a98036648abb111f0b07a919a81>:0 
-  at q.g () [0x0000d] in <cb089a98036648abb111f0b07a919a81>:0 
-  at q.b (Verse.ThingDef A_0) [0x0001a] in <cb089a98036648abb111f0b07a919a81>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-The given key was not present in the dictionary.
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at CharacterEditor.CEditor+a.i () [0x000cf] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor+a.e () [0x00019] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor+a.a (g A_0, System.String A_1, System.String A_2) [0x000c7] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor.a (g A_0, System.String A_1, System.String A_2) [0x0000d] in <cb089a98036648abb111f0b07a919a81>:0 
-  at q.g () [0x0000d] in <cb089a98036648abb111f0b07a919a81>:0 
-  at q.b (Verse.ThingDef A_0) [0x0001a] in <cb089a98036648abb111f0b07a919a81>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-updating CE_Gun_ChargeAMR
-... successful
-The given key was not present in the dictionary.
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at CharacterEditor.CEditor+a.i () [0x000cf] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor+a.e () [0x00019] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor+a.a (g A_0, System.String A_1, System.String A_2) [0x000c7] in <cb089a98036648abb111f0b07a919a81>:0 
-  at CharacterEditor.CEditor.a (g A_0, System.String A_1, System.String A_2) [0x0000d] in <cb089a98036648abb111f0b07a919a81>:0 
-  at bm.h () [0x0000d] in <cb089a98036648abb111f0b07a919a81>:0 
-  at bm.b (Verse.ThingDef A_0) [0x0001e] in <cb089a98036648abb111f0b07a919a81>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Constructed TargetInfo with cell=(44, 0, 49) and a null map. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Wrote screenshot C:/Users/Dmytro/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Getmen.jpg of size 320207
-ResearchPowl :: Research layout initialized
-Wrote screenshot C:/Users/Dmytro/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Getmen.jpg of size 343517
-Setting up 3 worker threads for Enlighten.
-  Thread -> id: 29bc -> priority: 1 
-  Thread -> id: 2428 -> priority: 1 
-  Thread -> id: 26cc -> priority: 1 
-System.Threading.ThreadAbortException
-  at (wrapper managed-to-native) System.Threading.Thread.SleepInternal(int)
-  at System.Threading.Thread.Sleep (System.Int32 millisecondsTimeout) [0x00019] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at CombatAI.MapComponent_FogGrid.OffThreadLoop (System.Int32 minU, System.Int32 minV, System.Int32 maxU, System.Int32 maxV) [0x00079] in <fc8c7515d00d4533af1595431ea8723d>:0 
-  at CombatAI.MapComponent_FogGrid.<.ctor>b__22_0 () [0x00000] in <fc8c7515d00d4533af1595431ea8723d>:0 
-  at CombatAI.AsyncActions.OffMainThreadActionLoop () [0x0000c] in <fc8c7515d00d4533af1595431ea8723d>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-System.Threading.ThreadAbortException
-  at (wrapper managed-to-native) System.Threading.Thread.SleepInternal(int)
-  at System.Threading.Thread.Sleep (System.Int32 millisecondsTimeout) [0x00019] in <eae584ce26bc40229c1b1aa476bfa589>:0 
-  at CombatAI.MapComponent_FogGrid.OffThreadLoop (System.Int32 minU, System.Int32 minV, System.Int32 maxU, System.Int32 maxV) [0x00079] in <fc8c7515d00d4533af1595431ea8723d>:0 
-  at CombatAI.MapComponent_FogGrid.<.ctor>b__22_0 () [0x00000] in <fc8c7515d00d4533af1595431ea8723d>:0 
-  at CombatAI.AsyncActions.OffMainThreadActionLoop () [0x0000c] in <fc8c7515d00d4533af1595431ea8723d>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
+Wrote screenshot C:/Users/Dmytro/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ancients 000.jpg of size 128390
+Wrote screenshot C:/Users/Dmytro/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ancients 000 quest 1.jpg of size 127691

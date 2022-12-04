@@ -3,6 +3,7 @@
 	<ModSettings Class="BetterInfoCard.BetterInfoCardModSetting">
 		<FavoriteStatDrawIds>
 			<li>Питание</li>
+			<li>Источник</li>
 		</FavoriteStatDrawIds>
 		<lesserIsBetterDefNames>
 			<li>Ability_CastingTime</li>

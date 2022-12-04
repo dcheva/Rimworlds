@@ -8,20 +8,16 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\MapGeneration\CommonMapGenerator.xml" hash="1933188181306152436" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Ancient_Active.xml" hash="14465307076752347401" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RuleDefs\Rules_AncientComplex.xml" hash="15018809102384823183" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\Gambler_Adult.xml" hash="14751090459460809807" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\MapGeneration\EncounterMapGenerator.xml" hash="18380896297319615319" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Ancient_Indoors.xml" hash="3959576259916607253" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RuleDefs\Rules_BasePart_Indoors.xml" hash="10976061158942192013" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\MapGeneration\EscapeShipMapGenerator.xml" hash="14183201638535547001" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\Gambler_Child.xml" hash="16197018793653169883" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Ancient_Outdoors.xml" hash="17969943775471485870" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RuleDefs\Rules_BasePart_Outdoors.xml" hash="11184907726010581363" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\MeditationFocusDefs\MeditationFocuses.xml" hash="4433967542734926886" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\InsectsRelated_Child.xml" hash="5461572262778096307" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\Marshal_Adult.xml" hash="11729601126397920198" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Art.xml" hash="10105744067015503794" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RuleDefs\Rules_Basic.xml" hash="6283979312757706022" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\Mate_Child.xml" hash="15392394565372437351" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Base.xml" hash="8174040605890239763" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RuleDefs\Rules_Complex.xml" hash="7588087966140651044" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Exotic.xml" hash="14126286281437452884" />
@@ -65,9 +61,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RulePackDefs\RulePacks_GameplayTips.xml" hash="16229878412545401368" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\DesignatorDropdownGroupDef\DesignatorDropdownGroupDef.xml" hash="7257965058248795324" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_MusicalInstruments.xml" hash="5362663814825694757" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\Sadist_Adult.xml" hash="5915980504400656117" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\DifficultyDefs\Difficulties.xml" hash="2006979411331976750" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\Sadist_Child.xml" hash="13688771161648250096" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RulePackDefs\RulePacks_Global.xml" hash="10561046388360320961" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Natural.xml" hash="303184823211020811" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\ExpansionDefs\ExpansionDefs.xml" hash="10559236861724945313" />
