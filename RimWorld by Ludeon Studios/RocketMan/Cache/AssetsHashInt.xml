@@ -3,7 +3,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Rooms\RoomRoles.xml" hash="10149210898535354386" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\MapGeneration\BasePlayerMapGenerator.xml" hash="14442544788662837189" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Ancient.xml" hash="9883026227165091806" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\AbilityDefs\AbilityDefs.xml" hash="11935886229416763097" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\AbilityDefs\AbilityDefs.xml" hash="4335263836906725327" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Rooms\RoomStats.xml" hash="14650955839822627194" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\MapGeneration\CommonMapGenerator.xml" hash="1933188181306152436" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Ancient_Active.xml" hash="14465307076752347401" />
@@ -16,7 +16,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\Gambler_Child.xml" hash="16197018793653169883" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Ancient_Outdoors.xml" hash="17969943775471485870" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RuleDefs\Rules_BasePart_Outdoors.xml" hash="11184907726010581363" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\MeditationFocusDefs\MeditationFocuses.xml" hash="16536277781304613445" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\MeditationFocusDefs\MeditationFocuses.xml" hash="4433967542734926886" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\InsectsRelated_Child.xml" hash="5461572262778096307" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\Marshal_Adult.xml" hash="11729601126397920198" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Art.xml" hash="10105744067015503794" />
@@ -26,7 +26,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RuleDefs\Rules_Complex.xml" hash="7588087966140651044" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Exotic.xml" hash="14126286281437452884" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\Offworld_Glitterworld_Adult.xml" hash="12348015025991156252" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\MentalStateDefs\MentalStates_Mood.xml" hash="16524559892612836680" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\MentalStateDefs\MentalStates_Mood.xml" hash="14216216330739902025" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RuleDefs\Rules_Interior.xml" hash="11366516628603831642" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RuleDefs\Rules_Ship.xml" hash="14001286723335941258" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\Offworld_Medieval_Adult.xml" hash="16194571151836023339" />
@@ -40,10 +40,10 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\BillDefs\BillStoreModeDefs.xml" hash="17532659527888128863" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RulePackDefs\RulePacks_Battles.xml" hash="16058822208193602442" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\BodyPartTagDefs\BodyPartTagDefs.xml" hash="4640314441020760608" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Furniture.xml" hash="4721960947101603014" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Furniture.xml" hash="7449082148168847198" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RulePackDefs\RulePacks_CombatIncludes.xml" hash="4354781326560975364" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\Offworld_Nonspecific_Adult.xml" hash="849703448012325249" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Joy.xml" hash="15370962343610303963" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Joy.xml" hash="603091739419244351" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RulePackDefs\RulePacks_CombatMelee.xml" hash="7553400282542545342" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\BodyTypeDefs\BodyTypes.xml" hash="9017487318200369751" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\ClamorDefs\ClamorDefs.xml" hash="18273648327949743639" />
@@ -71,7 +71,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RulePackDefs\RulePacks_Global.xml" hash="10561046388360320961" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Natural.xml" hash="303184823211020811" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\ExpansionDefs\ExpansionDefs.xml" hash="10559236861724945313" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\Special.xml" hash="1399470315334510276" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Shuffled\Special.xml" hash="14165935941705778580" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RulePackDefs\RulePacks_Maneuvers.xml" hash="14529846265759370961" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Power.xml" hash="3135592478451343757" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RulePackDefs\RulePacks_Namers_Animals.xml" hash="17812712499058411834" />
@@ -111,7 +111,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\InventoryStockGroupDefs\InventoryStockGroups.xml" hash="10927217092197723375" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Sites\Cores\Nothing.xml" hash="4220332124997882948" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\KeyBindings\KeyBindingCategories.xml" hash="1664787129769660876" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Special.xml" hash="5096909140538214027" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Buildings\Buildings_Special.xml" hash="1147602870690998081" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Sites\Parts\AmbushEdge.xml" hash="11111403882347874209" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Sites\Parts\AmbushHidden.xml" hash="11946660829224603308" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\KeyBindings\KeyBindings.xml" hash="4929710123446077161" />
@@ -132,7 +132,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Sites\Parts\PossibleUnknownThreatMarker.xml" hash="10430587461935916921" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\MainButtonDefs\MainButtons.xml" hash="12647030512931001742" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Sites\Parts\PreciousLump.xml" hash="2560469294809300340" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Items\Items_Exotic.xml" hash="10103338296573025815" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Items\Items_Exotic.xml" hash="9563548852217116175" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\MessageTypeDefs\MessageTypeDef.xml" hash="1030595193278011573" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Sites\Parts\PrisonerWillingToJoin.xml" hash="13739477556251778351" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\OptionCategoryDefs\OptionCategories.xml" hash="6665340494487071585" />
@@ -150,7 +150,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\Building_Exotic_Sustainers.xml" hash="4877847643150850198" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Items\Items_Resource_Base.xml" hash="12923359249408574533" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\PawnColumnDefs\PawnColumns_Layout.xml" hash="1386894199999885536" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Items\Items_Resource_Manufactured.xml" hash="14218267414226880628" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Items\Items_Resource_Manufactured.xml" hash="13122169910072892484" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\PawnColumnDefs\PawnColumns_Misc.xml" hash="10067434366215070403" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\Building_Oneshots_Misc.xml" hash="2329552093606359560" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\PawnColumnDefs\PawnColumns_Text.xml" hash="2401508319889618792" />
@@ -160,13 +160,13 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Solid\Solid_Adult.xml" hash="6231813255997690669" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\PawnsArrivalModeDefs\PawnsArrivalModes.xml" hash="4438263454829284271" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\Building_Sustainers_Ambiences.xml" hash="7255045353279679821" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Items\Items_Resource_Shell.xml" hash="15074353799538738586" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Items\Items_Resource_Shell.xml" hash="14237841221255564634" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\PawnTableDefs\PawnTables.xml" hash="1198477972322014722" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\Exotic_Oneshots.xml" hash="16981710166915623239" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\PrisonerInteractionModeDefs\PrisonerInteractionMode.xml" hash="10812987676109052517" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\Interact_Ingest.xml" hash="5205174645455117568" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\RecordDefs\Records_Misc.xml" hash="5806497267529611840" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Items\Items_Resource_Stuff.xml" hash="14942423445736429833" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Items\Items_Resource_Stuff.xml" hash="12135011114788424956" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\Interact_Oneshots_Melee.xml" hash="13137234405138730730" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\RecordDefs\Records_Time.xml" hash="8002979436164543574" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Items\Items_Resource_Stuff_Leather.xml" hash="3366982973553464160" />
@@ -177,7 +177,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\RoofDefs\Roofs.xml" hash="15783291312044636665" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\Interact_Oneshots_PickupDrop.xml" hash="9305253456865178280" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\ScatterableDefs\Scatterables.xml" hash="15286130192970184762" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Apparel_Belts.xml" hash="3284964138625984825" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Apparel_Belts.xml" hash="14635748141035063418" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\Interact_Oneshots_Violent.xml" hash="10696942325692370758" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\ShaderTypeDefs\ShaderTypes.xml" hash="3682798063404254098" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\SongDefs\Songs_Entry.xml" hash="1367431446020844654" />
@@ -188,10 +188,10 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\Interact_Sustainers_Work.xml" hash="1225506703409187195" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Apparel_Packs.xml" hash="2767875658060158029" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\Pawn_Animal_Domestic_Vox.xml" hash="3058183298496895963" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Apparel_Utility.xml" hash="3552032411465693947" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Apparel_Utility.xml" hash="18131078268694080996" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\Pawn_Animal_Insect_Vox.xml" hash="14639810921508379655" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\SpecialThingFilterDefs\SpecialThingFilters.xml" hash="3766713342216952299" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Apparel_Various.xml" hash="9240218023360069144" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\SpecialThingFilterDefs\SpecialThingFilters.xml" hash="4393056941430510932" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Apparel_Various.xml" hash="2853924178445502451" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\StuffAppearanceDefs\StuffAppearances.xml" hash="13932659246208477724" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Ethereal_OrbitalStrikes.xml" hash="2960467606934718981" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Misc\StuffCategoryDefs\StuffCategories.xml" hash="16306276520937289526" />
@@ -220,13 +220,13 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PawnCapacityDefs\PawnCapacity.xml" hash="3972578200865490587" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\Breach.xml" hash="9130784845657425185" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\UI_Sustainers_Designation.xml" hash="1280333679435152955" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PawnKindDefs_Humanlikes\PawnKinds_Mercenary.xml" hash="2533294617994337376" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\MeleeMedieval.xml" hash="15801688948629492712" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PawnKindDefs_Humanlikes\PawnKinds_Mercenary.xml" hash="9290196866941645764" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\MeleeMedieval.xml" hash="8922334341106033502" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\UI_Sustainers_Trade.xml" hash="13928168396173729709" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PawnKindDefs_Humanlikes\PawnKinds_Outlander.xml" hash="4773331712963568089" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\World_Oneshots_Doors.xml" hash="17449975317395072724" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\MeleeNeolithic.xml" hash="6391705272943575226" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PawnKindDefs_Humanlikes\PawnKinds_Pirate.xml" hash="9199620639875088945" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PawnKindDefs_Humanlikes\PawnKinds_Pirate.xml" hash="6610884986732532768" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\World_Oneshots_Explosions.xml" hash="4031278824065045024" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\World_Oneshots_GunTurret.xml" hash="4584932865423735893" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PawnKindDefs_Humanlikes\PawnKinds_Player.xml" hash="4512547352649621275" />
@@ -234,7 +234,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PawnKindDefs_Humanlikes\PawnKinds_Spacer.xml" hash="12742936641893893435" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\World_Oneshots_Misc.xml" hash="11227552436889590111" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BackstoryDefs\Solid\TynanCustom.xml" hash="785796334529336979" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\RangedIndustrial.xml" hash="1160658307261262966" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\RangedIndustrial.xml" hash="5591285625201104269" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\World_Oneshots_Mortars.xml" hash="12038715388456883653" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PawnKindDefs_Humanlikes\PawnKinds_Special.xml" hash="16873575504091594010" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\RangedIndustrialConsumable.xml" hash="3044016940372984204" />
@@ -246,7 +246,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\RangedIndustrialGrenades.xml" hash="9381453178975190034" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PawnRelationDefs\PawnRelations_FamilyByBlood.xml" hash="17593997782385490762" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\World_Oneshots_Weapons.xml" hash="6828490164013763333" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\RangedMechanoid.xml" hash="2438452425595174934" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\RangedMechanoid.xml" hash="15011160396819479018" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PawnRelationDefs\PawnRelations_FamilyByChoice.xml" hash="14246481005483676029" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BiomeDefs\Biomes_Cold.xml" hash="16421305327591582034" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PawnRelationDefs\PawnRelations_Misc.xml" hash="6811710323266266914" />
@@ -256,11 +256,11 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PreceptDefs\Precepts_Cannibalism.xml" hash="468614775572953577" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PreceptDefs\Precepts_Corpses.xml" hash="14129718059698514006" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BiomeDefs\Biomes_Warm.xml" hash="13279559539402650801" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\RangedNeolithic.xml" hash="10418833696837202642" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\RangedNeolithic.xml" hash="15360706262499447872" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PreceptDefs\Precepts_InsectMeat.xml" hash="3603745011798862904" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PreceptDefs\Precepts_Lovin.xml" hash="14266719258477689189" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BiomeDefs\Biomes_WarmArid.xml" hash="9770419400339768548" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\RangedSpacer.xml" hash="11260453194622073899" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\RangedSpacer.xml" hash="13801411809336773154" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\SoundDefs\World_Sustainers_Misc.xml" hash="14166628735970244469" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\BiomeDefs\Biomes_Water.xml" hash="4073103093855258262" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\PreceptDefs\Precepts_MarriageName.xml" hash="9459702181952785637" />
@@ -302,7 +302,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\QuestScriptDefs\Script_EndGame_ShipEscape.xml" hash="4924903091852779361" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Bodies\Bodies_Mechanoid.xml" hash="5497742943419685455" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Plants\Plants_Wild_Temperate.xml" hash="7473483919081790918" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Stats\Stats_Pawns_General.xml" hash="1484849526681555483" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Stats\Stats_Pawns_General.xml" hash="16984234513217024323" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\QuestScriptDefs\Script_ItemStash.xml" hash="9896356821316312903" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Bodies\BodyPartGroups.xml" hash="15736357182533468189" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Plants\Plants_Wild_Tropical.xml" hash="16064174029490304266" />
@@ -324,7 +324,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Bodies\BodyParts_Mechanoid.xml" hash="7111908934620169312" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RecipeDefs\Recipes_Butchery.xml" hash="7186841781519185980" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Bodies\BodyParts_Organs.xml" hash="7680969221920980654" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Stats\Stats_Pawns_WorkRecipes.xml" hash="12829467031769864304" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Stats\Stats_Pawns_WorkRecipes.xml" hash="17036460363561134701" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RecipeDefs\Recipes_Cremation.xml" hash="9360290856458744673" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Stats\Stats_Stuff.xml" hash="3233178802594738365" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Races\Races_Animal_BigCats.xml" hash="15019837261949948904" />
@@ -338,7 +338,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Storyteller\Incidents_Caravan_All.xml" hash="8713588509648493528" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\DamageDefs\Damages_Environmental.xml" hash="6840244719983335655" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Races\Races_Animal_CatGroup.xml" hash="13189772345689404952" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RecipeDefs\Recipes_Production.xml" hash="3854187514381111752" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RecipeDefs\Recipes_Production.xml" hash="14564727023780903311" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Storyteller\Incidents_Map_Disease.xml" hash="11874349692758728150" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\DamageDefs\Damages_Medical.xml" hash="3275299135351179962" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RecipeDefs\Recipes_Surgery_Misc.xml" hash="8183585794974276698" />
@@ -361,38 +361,38 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Storyteller\RaidStrategies_Basic.xml" hash="10357140349337931515" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ResearchProjectDefs\ResearchProjects_4_MultiAnalyzer.xml" hash="3009267651470854604" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Storyteller\RaidStrategies_Breach.xml" hash="3295817561639918565" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Alcohol_Beer.xml" hash="9810297198030082717" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Alcohol_Beer.xml" hash="16046185579759616677" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ResearchProjectDefs\ResearchProjects_5_Ship.xml" hash="18216281306911784932" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Storyteller\RaidStrategies_Sapper.xml" hash="38496849834260591" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Races\Races_Animal_CowGroup.xml" hash="7445646625284775175" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ResearchProjectDefs\ResearchTabs.xml" hash="14107260002965894075" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Ambrosia.xml" hash="17719052645007397736" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Ambrosia.xml" hash="13509772596683745088" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Storyteller\RaidStrategies_Siege.xml" hash="412121369545964947" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RitualEffectDefs\RitualEffectDefs.xml" hash="7563672493857803954" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Races\Races_Animal_Hares.xml" hash="12956452482850030275" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\DrugBases.xml" hash="15930613402536754747" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Rituals\Ritual_Outcomes.xml" hash="18433214134478625977" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\GoJuice.xml" hash="14481897452907768665" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\GoJuice.xml" hash="15885959073001963212" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RiverDefs\RiverDefs.xml" hash="3172480576207918247" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Races\Races_Animal_Insect.xml" hash="9360600305087828123" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Luciferium.xml" hash="14288864287168386472" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Luciferium.xml" hash="14321313620876510555" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Storyteller\Storytellers.xml" hash="18141608024294921118" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Penoxycyline.xml" hash="1353326513454287404" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RoadDefs\RoadDefs.xml" hash="14202121858673670386" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TaleDefs\Tales_Caravan.xml" hash="12975579709888361412" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RoadDefs\RoadPathingDefs.xml" hash="12102866561629722445" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\RoadDefs\RoadWorldLayerDefs.xml" hash="18324794100935142155" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Psychite_Flake.xml" hash="6337039441330890998" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Psychite_Flake.xml" hash="3804199347984314076" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Races\Races_Animal_MiscGroup.xml" hash="16200164975167260580" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Psychite_Tea.xml" hash="12442829381710079766" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Psychite_Tea.xml" hash="14247766656460546240" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TaleDefs\Tales_DoublePawn.xml" hash="4345287475603984530" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TaleDefs\Tales_DoublePawn_Relationships.xml" hash="9713852165909852755" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Psychite_Yayo.xml" hash="16412658534495182979" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Psychite_Yayo.xml" hash="14223867313398306041" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TaleDefs\Tales_Event.xml" hash="5024894801817850429" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Races\Races_Animal_PigGroup.xml" hash="11486778989936302683" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Smokeleaf.xml" hash="4400361792498620466" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TaleDefs\Tales_Health.xml" hash="777875107771076194" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\WakeUp.xml" hash="1001263066106572511" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\Smokeleaf.xml" hash="5088200672949703315" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TaleDefs\Tales_Health.xml" hash="11080760496374938223" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Drugs\WakeUp.xml" hash="376816122377563497" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Races\Races_Animal_SheepGroup.xml" hash="10413438170220444381" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\DutyDefs\Duties_Caravan.xml" hash="61445573234932732" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TaleDefs\Tales_Incident.xml" hash="17053936897452137285" />
@@ -413,15 +413,15 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Effects\Effecter_Ingest.xml" hash="4776763168542783595" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TerrainDefs\Terrain_Floors.xml" hash="7466386180930750651" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TerrainDefs\Terrain_Floors_Burned.xml" hash="9331633751084220743" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Races\Races_Mechanoid.xml" hash="10199891992496676691" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Races\Races_Mechanoid.xml" hash="16126364865426623744" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Effects\Effecter_Misc.xml" hash="7188598193367438437" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Effects\Effecter_PawnStates.xml" hash="4440164707911996386" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TerrainDefs\Terrain_Floors_StoneTile.xml" hash="2211480076773635820" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingSetMakerDefs\ThingSetMakers_MapGen.xml" hash="5968501603706511053" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingSetMakerDefs\ThingSetMakers_MapGen.xml" hash="3585217970119765952" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Effects\Effecter_Recipes.xml" hash="920412854868276511" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingSetMakerDefs\ThingSetMakers_Misc.xml" hash="6857085537171458012" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingSetMakerDefs\ThingSetMakers_Misc.xml" hash="7750490017574180114" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TerrainDefs\Terrain_Natural.xml" hash="6414999744567076087" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingSetMakerDefs\ThingSetMakers_Reward.xml" hash="10025950145267804045" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingSetMakerDefs\ThingSetMakers_Reward.xml" hash="15121544364205960529" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TerrainDefs\Terrain_Road.xml" hash="2095001256039132903" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Effects\Effecter_WorkGeneral.xml" hash="7542801195038169759" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TerrainDefs\Terrain_Special.xml" hash="499691348137861494" />
@@ -431,8 +431,8 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TerrainDefs\Terrain_Water.xml" hash="11724001488801853164" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThinkTreeDefs\Humanlike.xml" hash="1872417580781510119" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Effects\Fleck_Special.xml" hash="9477152364693322288" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThinkTreeDefs\Mechanoid.xml" hash="8481156784915293651" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingCategoryDefs\ThingCategories.xml" hash="6559823899739852892" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThinkTreeDefs\Mechanoid.xml" hash="3611392697860022019" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThingCategoryDefs\ThingCategories.xml" hash="1359496519924366771" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThinkTreeDefs\SubTrees_Duty.xml" hash="10786721203273684012" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Effects\Fleck_Visual.xml" hash="11329636046919220492" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Effects\Fleck_Water.xml" hash="6164490914736798554" />
@@ -455,7 +455,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThoughtDefs\Thoughts_Memory_RoomStats.xml" hash="972567444125723544" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\GameConditionDefs\GameConditions_Misc.xml" hash="15544264900270585132" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\GatheringDefs\Gatherings.xml" hash="15362275387209357130" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\GeneDefs\GeneDefs_Endogenes.xml" hash="2045408255864529257" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\GeneDefs\GeneDefs_Endogenes.xml" hash="13582424805548954890" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThoughtDefs\Thoughts_Memory_Social.xml" hash="14325664466624155963" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Goodwill\GoodwillEvents_Diplomatic.xml" hash="10311986112123565664" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThoughtDefs\Thoughts_Memory_Special.xml" hash="7176826283408342703" />
@@ -472,48 +472,48 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\Hediffs_Debug.xml" hash="2083524496454118200" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThoughtDefs\Thoughts_Situation_Social.xml" hash="15162110938955784362" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThoughtDefs\Thoughts_Situation_Special.xml" hash="3977787413444816942" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\Hediffs_Global_Misc.xml" hash="479211569260525659" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\Hediffs_Global_Misc.xml" hash="12955094586920221051" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\Hediffs_Global_Needs.xml" hash="14402309048339111749" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThoughtDefs\Thoughts_Situation_Traits.xml" hash="10584182834027307023" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThoughtDefs\Thoughts_Situation_Traits.xml" hash="5807931842122956009" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\Hediffs_Global_Temperature.xml" hash="14959522422093380990" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ThoughtDefs\Thoughts_Situation_TraitsPerm.xml" hash="5828801657785020711" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\ToolCapacityDefs\ToolCapacity.xml" hash="11546403710138197054" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\Hediffs_Local_Chronic.xml" hash="15607760743274287684" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TraderKindDefs\TraderKinds_Base_Neolithic.xml" hash="3383378144843717686" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TraderKindDefs\TraderKinds_Base_Outlander.xml" hash="7025965481274325370" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\Hediffs_Local_Infections.xml" hash="16670792698540989609" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TraderKindDefs\TraderKinds_Base_Outlander.xml" hash="34828408037785447" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\Hediffs_Local_Infections.xml" hash="3365712320195320591" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TraderKindDefs\TraderKinds_Caravan_Neolithic.xml" hash="5067350623350579720" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\Hediffs_Local_Injuries.xml" hash="12500065402947562998" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\Hediffs_Local_Misc.xml" hash="3262811642324142892" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TraderKindDefs\TraderKinds_Caravan_Outlander.xml" hash="16400482633991506513" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TraderKindDefs\TraderKinds_Caravan_Outlander.xml" hash="6131928152250465663" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\Hediffs_Local_TerrainAttacks.xml" hash="1715009709712844268" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\Hediffs_Psycasts.xml" hash="11998408015963034777" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TraderKindDefs\TraderKinds_Orbital_Misc.xml" hash="17980449922197002279" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\BodyParts\Hediffs_BodyParts_Archotech.xml" hash="16689700597066988684" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TraderKindDefs\TraderKinds_Orbital_Misc.xml" hash="5056220919151135766" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\BodyParts\Hediffs_BodyParts_Archotech.xml" hash="9064489234728001882" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TraderKindDefs\TraderKinds_Visitor_Neolithic.xml" hash="8485516395003477555" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\BodyParts\Hediffs_BodyParts_Base.xml" hash="18422591518441174988" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TraderKindDefs\TraderKinds_Visitor_Outlander.xml" hash="11622846743524255678" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TrainableDefs\Trainables.xml" hash="1646419849527061510" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\BodyParts\Hediffs_BodyParts_Bionic.xml" hash="15465788229644054422" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TraitDefs\Traits_Singular.xml" hash="6219643904229738540" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TraitDefs\Traits_Singular.xml" hash="11734072446803930375" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\BodyParts\Hediffs_BodyParts_Medieval.xml" hash="10014541283867096563" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\TraitDefs\Traits_Spectrum.xml" hash="16571533241105444550" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\BodyParts\Hediffs_BodyParts_Natural.xml" hash="14212544406399647100" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Tutor\Concepts_Entry.xml" hash="8341926428315109478" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Tutor\Concepts_NotedOpportunistic.xml" hash="2414596254555623192" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\BodyParts\Hediffs_BodyParts_Prosthetic.xml" hash="7862186027046962280" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\BodyParts\Hediffs_BodyParts_Prosthetic.xml" hash="4717602763798348294" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Tutor\Concepts_NotedSelfshow.xml" hash="10806891865880664216" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffDefs\BodyParts\Hediffs_BodyParts_Special.xml" hash="416858701228666982" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Tutor\Concepts_TriggeredModal.xml" hash="9358518155626341533" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HediffGiverSetDefs\HediffGiverSets.xml" hash="10050625427167489704" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HistoryEventDefs\HistoryEventDefs.xml" hash="16103763862262067416" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\HistoryEventDefs\HistoryEventDefs.xml" hash="16539918098247370921" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Tutor\Instructions.xml" hash="608318244248451480" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\WeaponClassDefs\WeaponClassDefs.xml" hash="10958795934734765593" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\InspirationDefs\Inspirations.xml" hash="7845927532455925398" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\WeatherDefs\Weathers.xml" hash="10116782219297056224" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\InteractionDefs\Interactions_Animal.xml" hash="9854780638696797546" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\InteractionDefs\Interactions_Prisoner.xml" hash="15625949259475229214" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\WorkGiverDefs\WorkGivers.xml" hash="7893003444643663135" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\WorkGiverDefs\WorkGivers.xml" hash="9058969255009598585" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\InteractionDefs\Interactions_Romance.xml" hash="9121205907457496748" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\WorkTypeDefs\WorkTypes.xml" hash="2418391607657323793" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\InteractionDefs\Interactions_Social.xml" hash="15281113660489965284" />
@@ -525,7 +525,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\JobDefs\Jobs_Gatherings.xml" hash="13649500531352581441" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\JobDefs\Jobs_Joy.xml" hash="10183021289536394001" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\JobDefs\Jobs_Misc.xml" hash="10617902649710966248" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\JobDefs\Jobs_Work.xml" hash="5403350181061012608" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\JobDefs\Jobs_Work.xml" hash="10153563935529001058" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Joy\JoyGivers.xml" hash="10698522078333759126" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Joy\JoyKinds.xml" hash="3830516174391416065" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Core\Defs\Maneuvers\Maneuvers.xml" hash="13272351266908165297" />
@@ -541,7 +541,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\PreceptDefs\Precepts_Ritual.xml" hash="17870884189894051719" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\Rituals\Ritual_Targets.xml" hash="13499404340399849050" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThingDefs_Buildings\Buildings_Mech_ShieldGenerators.xml" hash="937648875592200723" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\AbilityDefs\Abilities.xml" hash="10588308408012150832" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\AbilityDefs\Abilities.xml" hash="1385493971480096430" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\Rooms\RoomRoles.xml" hash="9487482964447450872" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\PreceptDefs\RitualPatternDefs\RitualPatterns.xml" hash="14826665693312354331" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\AbilityDefs\AbilityCategories.xml" hash="5041034516807967171" />
@@ -569,19 +569,19 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\Script_ChangeRoyalHeir.xml" hash="15482933374725235549" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\BackstoryDefs\Shuffled\ImperialRoyal_Child.xml" hash="5396435900253283300" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ShipObjectDefs\TransportShipDefs.xml" hash="13484163284230117797" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThingDefs_Misc\Apparel_Packs.xml" hash="6768758969079981129" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThingDefs_Misc\Apparel_Packs.xml" hash="13413937472827725063" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\CultureDefs\Cultures.xml" hash="5143751249947137866" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\Sites\Parts\MechCluster.xml" hash="13548538209202593368" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\Script_Hospitality_Refugee.xml" hash="16221626850782505070" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\DutyDefs\Duties_Gatherings.xml" hash="6161934543420198367" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\Sites\Parts\RaidSource.xml" hash="7250830821567347303" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThingDefs_Misc\Apparel_Psychic.xml" hash="10209380097018205106" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThingDefs_Misc\Apparel_Psychic.xml" hash="1904381368804690174" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\SketchResolverDefs\SketchResolvers.xml" hash="17973458842568709604" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\DutyDefs\Duties_Misc.xml" hash="1998097616102969123" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\Script_PawnLend.xml" hash="6045758241142313413" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\SongDefs\Songs_Gameplay.xml" hash="8314264551916287230" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\SongDefs\Songs_Tension.xml" hash="4661152408931816248" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\Script_ShuttleCrash_Rescue.xml" hash="13868422278268480753" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\Script_ShuttleCrash_Rescue.xml" hash="1524044271439992286" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\Effects\Effecter_Misc.xml" hash="3432817495527374249" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThingDefs_Misc\Apparel_Royal.xml" hash="11090959138597570220" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\Script_WandererJoins.xml" hash="1351409376224806164" />
@@ -591,7 +591,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\SoundDefs\Exotic_Oneshots.xml" hash="14517539003976537817" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\BuildMonument\Script_BuildMonument_Root_Basic.xml" hash="12870079898314135709" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\Effects\Mote_Visual.xml" hash="3854827097480042354" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThingDefs_Misc\Apparel_Various.xml" hash="16840413079495743802" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThingDefs_Misc\Apparel_Various.xml" hash="3005332631993386473" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\SoundDefs\Exotic_Sustainers.xml" hash="15711953507393555011" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\BuildMonument\Script_BuildMonument_Root_TimeProtect.xml" hash="16529621076246458848" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThingDefs_Misc\Ethereal_Skyfallers.xml" hash="11594788412437273790" />
@@ -621,7 +621,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\HediffDefs\Hediffs_BodyParts_BaseEmpire.xml" hash="6920522380190918154" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\Stats\Stats_Pawns_General.xml" hash="5267663555541881397" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\Hospitality\Script_EndGame_RoyalAscent.xml" hash="211783867872209826" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThingDefs_Plants\Plants_Wild.xml" hash="78948237112475341" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThingDefs_Plants\Plants_Wild.xml" hash="1043261030109186885" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\StoryTeller\Incidents_Map_Disease.xml" hash="2433370481232663726" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThingStyleDefs\ThingStyleDefs.xml" hash="2043227054730432667" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\TaleDefs\Tales_Job.xml" hash="12219908424599813476" />
@@ -635,7 +635,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThoughtDefs\Thoughts_Memory_Rituals.xml" hash="4365529497103724982" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThoughtDefs\Thoughts_Memory_RoomStats.xml" hash="10956350392575671690" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\Hospitality\Script_Hospitality_Root_Prisoners.xml" hash="13094230622149387965" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\HediffDefs\Hediffs_BodyParts_Bionic_Empire.xml" hash="4475847489880143528" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\HediffDefs\Hediffs_BodyParts_Bionic_Empire.xml" hash="17229651193611450256" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThoughtDefs\Thoughts_Memory_Special.xml" hash="14095889608228009843" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ThingDefs_Buildings\Buildings_ConditionCausers.xml" hash="15774536141330676747" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\Hospitality\Script_Hospitality_TextCommon.xml" hash="8654625627223328982" />
@@ -676,7 +676,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\PawnKinds\PawnKinds_Empire.xml" hash="8452203890601378199" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\Utility\Scripts_Utility.xml" hash="16232032954423892547" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\PawnKinds\PawnKinds_Refugee.xml" hash="8403156348166281062" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\Utility\Scripts_Utility_Helpers.xml" hash="12914152700640032049" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\Utility\Scripts_Utility_Helpers.xml" hash="14006010081312196393" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\QuestScriptDefs\Utility\Scripts_Utility_Threats.xml" hash="3321701253108267573" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ResearchProjectDefs\ResearchProjects_Apparel.xml" hash="10022813268172556783" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Royalty\Defs\ResearchProjectDefs\ResearchProjects_Implants.xml" hash="10820442287864940498" />
@@ -687,7 +687,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreconfiguredIdeos\IdeoPresetDefs.xml" hash="674005050381208613" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\SoundDefs\UI_Oneshots_Misc.xml" hash="4517510808058799791" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_Animal.xml" hash="646548153051592751" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\AbilityDefs\Abilities.xml" hash="9981511006330256031" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\AbilityDefs\Abilities.xml" hash="17963269224258981721" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_AnimalPersonhood.xml" hash="817242895030637508" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\SoundDefs\World_OneShot_Misc.xml" hash="845752024148311331" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ComplexDefs\Complex_Misc.xml" hash="11029821735977308908" />
@@ -710,10 +710,10 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\QuestScriptDefs\Script_Hack_AncientComplex.xml" hash="17153877476555817762" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\StatDefs\Stats_Pawns_Ideo.xml" hash="2937297446315473337" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\QuestScriptDefs\Script_Hack_Spacedrone.xml" hash="3706276135960579514" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_AutonomousWeapons.xml" hash="2625901284436621290" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_AutonomousWeapons.xml" hash="6183503855051417578" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\DutyDefs\Duties_Rituals.xml" hash="3515327227621781093" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\QuestScriptDefs\Script_Loot_AncientComplex.xml" hash="10256491971018043890" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\StatDefs\Stats_Pawns_Social.xml" hash="11798313017968095183" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\StatDefs\Stats_Pawns_Social.xml" hash="8717483553563532801" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\QuestScriptDefs\Script_Missions.xml" hash="1300290268433648012" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\StatDefs\Stats_Pawns_WorkGeneral.xml" hash="11904494658802268999" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\Effects\Effecter_Misc.xml" hash="8396291916237982094" />
@@ -729,11 +729,11 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\QuestScriptDefs\Script_WorshipppedTerminal.xml" hash="870022602943045282" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\Effects\Fleck_RitualEffects.xml" hash="9284662858327739322" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ResearchProjectDefs\ResearchProjects_Misc.xml" hash="17817667871923979977" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_BodyMod.xml" hash="17605709845175624642" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_BodyMod.xml" hash="6026236417517620073" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\TattooDefs\TattooDefs.xml" hash="10979582639731925209" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\Effects\Fleck_Visual.xml" hash="14004059164043072561" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_Bond.xml" hash="1720946595571140667" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\TerrainDefs\Terrain_Floors.xml" hash="13813160459035702352" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\TerrainDefs\Terrain_Floors.xml" hash="14360386529849973214" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_Buildings.xml" hash="2506957963137802636" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\Effects\Mote_RitualEffect.xml" hash="3216005068177402033" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\TerrainDefs\Terrain_Special.xml" hash="17360977761553865926" />
@@ -767,7 +767,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\IdeoSymbolDefs\IdeoColorDefs.xml" hash="10164926738781122999" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\RulePackDefs\RulePacks_Deity_Names.xml" hash="8029486987345353346" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_HighLife.xml" hash="12519837258147918941" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ThingDefs_Buildings\Buildings_Ideo.xml" hash="10631307499399879286" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ThingDefs_Buildings\Buildings_Ideo.xml" hash="4912157871172001797" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\RulePackDefs\RulePacks_Deity_Types.xml" hash="5161823478423231408" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\IdeoSymbolDefs\IdeoIconDefs_Specific.xml" hash="16955277182038439832" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\IdeoSymbolDefs\IdeoIconDefs_Universal.xml" hash="15764088315351791136" />
@@ -794,7 +794,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\JobDefs\Jobs_Misc.xml" hash="5507249326677185143" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ThingDefs_Misc\Apparel_Various.xml" hash="4436087665084109100" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\RulePackDefs\RulePacks_Ritual_Duel.xml" hash="9344310008951368195" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\JobDefs\Jobs_Work.xml" hash="3238501348933254496" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\JobDefs\Jobs_Work.xml" hash="2501323490078149302" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\RulePackDefs\RulePacks_Ritual_Festival.xml" hash="36588256605057687" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ThingDefs_Misc\Ethereal_Skyfallers.xml" hash="18081338447602747290" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_MarriageName.xml" hash="9124098899883587322" />
@@ -816,7 +816,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\Sites\WorkSites.xml" hash="5043885890626320821" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\Sites\WorshippedTerminal.xml" hash="3930007774713446273" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\MemeDefs\Memes_GroupRelation.xml" hash="9467227787055773398" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ThingDefs_Plants\Plants_Special.xml" hash="13167246612765820759" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ThingDefs_Plants\Plants_Special.xml" hash="12399336982324732652" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_Nudity.xml" hash="13372830716857978828" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\Sites\Parts\Archonexus.xml" hash="9866681569166569428" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\MemeDefs\Memes_Individualism.xml" hash="12639201968642139503" />
@@ -826,13 +826,13 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\SlaveInteractionModeDefs\SlaveInteractionMode.xml" hash="14669187688301205077" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_Pain.xml" hash="12310781661143652823" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\SongDefs\Songs_Misc.xml" hash="5699871754034843620" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ThingSetMakerDefs\ThingSetMakers_MapGen.xml" hash="13950048151931308610" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ThingSetMakerDefs\ThingSetMakers_MapGen.xml" hash="16562718246108467068" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ThingSetMakerDefs\ThingSetMakers_Reward.xml" hash="2979841629613651814" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\SoundDefs\Ability_SoundDefs.xml" hash="5640890871883842042" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_PrisonerExecution.xml" hash="11117309769133227834" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\SoundDefs\Biosculpter_SoundDefs.xml" hash="5952274294074677014" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_Proselytizing.xml" hash="4580784809603758858" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\MemeDefs\Memes_Misc.xml" hash="8988653666065397278" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\MemeDefs\Memes_Misc.xml" hash="533616252644181162" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\SoundDefs\Building_Exotic_Sustainers.xml" hash="3947602545892875916" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_Raiders.xml" hash="16453638832032420709" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ThingStyleDefs\ThingStyleDefs.xml" hash="9970265676343520823" />
@@ -859,7 +859,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\Misc\DesignationCategories.xml" hash="6199963107384645290" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ThoughtDefs\Thoughts_Memory_Social.xml" hash="15013898658063021559" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\Misc\Designations\Designations.xml" hash="5443036481136086722" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_Role.xml" hash="556020457085976441" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_Role.xml" hash="14777671343558394054" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ThoughtDefs\Thoughts_Memory_Terror.xml" hash="13914677612652957578" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\SoundDefs\Interact_Sustainers_Work.xml" hash="11712097608047639609" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\Misc\ExpectationDefs\Expectations.xml" hash="17726164236643677049" />
@@ -879,7 +879,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\Misc\ShaderTypeDefs\ShaderTypes.xml" hash="9695963664092542988" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_SmallSpaces.xml" hash="3549145188314429081" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\ThoughtDefs\Thoughts_Situation_Special.xml" hash="700108904947307638" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\Misc\SpecialThingFilterDefs\SpecialThingFilters.xml" hash="7671500688205054841" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\Misc\SpecialThingFilterDefs\SpecialThingFilters.xml" hash="18263114879532754627" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\NeedDefs\Needs.xml" hash="626335880693099496" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\TipSetDefs\Tips.xml" hash="17202658237304889053" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_SpouseCount.xml" hash="14644642219268697365" />
@@ -890,7 +890,7 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\WeaponClassPairDefs\WeaponClassPairDefs.xml" hash="3980619313127226480" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PawnKinds\PawnKinds_NeutralCamps.xml" hash="12017718650467675583" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_TreeCutting.xml" hash="2690090655084242425" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\WorkGiverDefs\WorkGivers.xml" hash="17970872617327885958" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\WorkGiverDefs\WorkGivers.xml" hash="8229876809166194001" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_Trees.xml" hash="10337131239451254970" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\WorldObjectDefs\WorldObjects.xml" hash="16609613995122887703" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Ideology\Defs\PreceptDefs\Precepts_Weapons.xml" hash="1180726820599567725" />
@@ -907,19 +907,19 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Rooms\RoomStats.xml" hash="9235109368830219396" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\JobDefs\Jobs_Misc.xml" hash="3543125425293587295" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Buildings\Buildings_Ancient_Outdoors.xml" hash="1993730833040079935" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\AbilityDefs\Abilities.xml" hash="4926254634237534153" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\AbilityDefs\Abilities.xml" hash="18278516042594951732" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\JobDefs\Jobs_Play.xml" hash="15832797625092036681" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RuleDefs\Rules_AncientComplex.xml" hash="6119479960293497130" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\BabyPlayDefs\BabyPlay.xml" hash="9600847607276369862" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\JobDefs\Jobs_Work.xml" hash="16102130380870886529" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RuleDefs\Rules_Basic.xml" hash="14688462564358591384" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\BeardDefs\BeardDefs.xml" hash="9865527323625133231" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Buildings\Buildings_Deathrest.xml" hash="11130371294044152354" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Buildings\Buildings_Deathrest.xml" hash="13902563929839785920" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\LearningDesireDefs\LearningDesires.xml" hash="4893175954105853339" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RulePackDefs\RulePacks_Damages.xml" hash="18332117655362035993" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Bodies\Bodies_Mechanoid_Heavy.xml" hash="18075612686968547411" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\MainButtonDefs\MainButtons.xml" hash="9788892062813610429" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Buildings\Buildings_Furniture.xml" hash="6240508162307397641" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Buildings\Buildings_Furniture.xml" hash="16537897860601712801" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RulePackDefs\RulePacks_Genepacks.xml" hash="13871594619058932467" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Bodies\Bodies_Mechanoid_Light.xml" hash="902456044789243133" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\MapGeneration\BasePlayerMapGenerator.xml" hash="13078471227682866425" />
@@ -928,13 +928,13 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Bodies\Bodies_Mechanoid_Medium.xml" hash="1547988611513195448" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\MentalStateDefs\MentalStates_BabyFits.xml" hash="16492043083653232949" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Bodies\Bodies_Mechanoid_Superheavy.xml" hash="8635271193998080812" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Buildings\Buildings_Misc.xml" hash="6210728272321046369" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Buildings\Buildings_Misc.xml" hash="13920456791115898666" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RulePackDefs\RulePacks_Namers_Faction.xml" hash="12558789682905420342" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Bodies\BodyPartGroups.xml" hash="12039230183444072571" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RulePackDefs\RulePacks_Namers_Mechs.xml" hash="8295545783553842034" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Buildings\Buildings_Natural.xml" hash="2376611919354930331" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\MentalStateDefs\MentalStates_Special.xml" hash="7901232913569684500" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Bodies\BodyParts_Mechanoid.xml" hash="18234776723912343909" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Bodies\BodyParts_Mechanoid.xml" hash="12061914396325623614" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Misc\ClamorDefs.xml" hash="17614391497485638426" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RulePackDefs\RulePacks_Namers_Xenohumans.xml" hash="17143284572526749307" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Misc\CustomNotificationLetters.xml" hash="8921642777577032482" />
@@ -947,14 +947,14 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ComplexDefs\Complex_Misc.xml" hash="8037085848115787189" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Scenarios\ScenParts_Various.xml" hash="3209044279367478762" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Misc\MechWorkModes.xml" hash="1122175123959839287" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Items\Items_Food.xml" hash="9981492951577977347" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Items\Items_Food.xml" hash="15177090402211913120" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Sites\AncientComplex_Mechanitor.xml" hash="12402176263893263388" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Misc\ShaderTypes.xml" hash="5092757176882591990" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ComplexRoomDefs\ComplexRooms_Mechanitor.xml" hash="1167300479242058137" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Items\Items_Resources_RawPlant.xml" hash="15193171165559368798" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SketchResolverDefs\SketchResolvers.xml" hash="16296890017222869733" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Misc\BodyTypeDefs\BodyTypes.xml" hash="5951538842014921826" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\DamageDefs\Damages_Misc.xml" hash="15026221943408568607" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\DamageDefs\Damages_Misc.xml" hash="4273692352842776547" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\Building_Oneshot_Misc.xml" hash="3332632898165262701" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Misc\LifeStageDefs\LifeStages.xml" hash="17449146066110096999" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Items\Items_Resource_Manufactured.xml" hash="11341611562225016926" />
@@ -965,25 +965,25 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\DamageDefs\Damages_Stun.xml" hash="17902677938032289666" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PawnColumnDefs\PawnColumns_Icon.xml" hash="11195411294634566969" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\DutyDefs\Duties_MechBosses.xml" hash="8016071517235481342" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Items\Items_Various.xml" hash="999807753787884508" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Items\Items_Various.xml" hash="12186712233991168096" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PawnColumnDefs\PawnColumns_Mechs.xml" hash="13237176369436571754" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\DutyDefs\Duties_Misc.xml" hash="11955885623356462125" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\Building_Sustainers_Ambiences.xml" hash="13724316349631484495" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PawnKindDefs_Humanlikes\PawnKinds_Impid.xml" hash="7719088986975170359" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\DutyDefs\Duties_Rituals.xml" hash="16622821988581269611" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Misc\Apparel_Child.xml" hash="13817510675349433446" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Misc\Apparel_Child.xml" hash="8026069032038390272" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\Building_Sustainers_Misc.xml" hash="4276096406365023656" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PawnKindDefs_Humanlikes\PawnKinds_Pigskin.xml" hash="5816691103612025541" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Effects\Effecter_BabyFits.xml" hash="9533671438237651939" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\Building_Sustainers_Natural.xml" hash="626915646667505541" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Misc\Apparel_Headgear.xml" hash="15779668055311372341" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Effects\Effecter_GivingBirth.xml" hash="15280809386513206211" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PawnKindDefs_Humanlikes\PawnKinds_Special.xml" hash="14467742187446687313" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PawnKindDefs_Humanlikes\PawnKinds_Special.xml" hash="16092227336406053840" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Misc\Apparel_Mech.xml" hash="5363127598856071759" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Effects\Effecter_LifeStages.xml" hash="4934561186006273376" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\Interact_Mechinator.xml" hash="15596176671800447804" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PawnKindDefs_Humanlikes\PawnKinds_Waster.xml" hash="5946775793709965178" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PawnKindDefs_Humanlikes\PawnKinds_Yttakin.xml" hash="16062762470674057256" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PawnKindDefs_Humanlikes\PawnKinds_Yttakin.xml" hash="1684480826873619916" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\Interact_Oneshot_Misc.xml" hash="2854942758687437117" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Effects\Effecter_Mechanitor.xml" hash="14917851856365967207" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Misc\Apparel_Packs.xml" hash="3809830259579286242" />
@@ -1010,11 +1010,11 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\Pawn_Mech_Vox_Heavy.xml" hash="11565701577011692907" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\QuestScriptDefs\Script_PollutionDump.xml" hash="7491286022454771204" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Effects\Fleck_Visual.xml" hash="1703635824786733894" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\QuestScriptDefs\Script_SanguophageMeetingHost.xml" hash="7123267241503993269" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\QuestScriptDefs\Script_SanguophageMeetingHost.xml" hash="7423481657162340948" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\Pawn_Mech_Vox_Light.xml" hash="3814793221506250143" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Effects\Mote_Meta.xml" hash="15980784727543897883" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Misc\Weapons\RangedIndustrial.xml" hash="17227681314474885133" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\QuestScriptDefs\Script_SanguophageShip.xml" hash="9951897153196461139" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\QuestScriptDefs\Script_SanguophageShip.xml" hash="10856585409743666754" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\Pawn_Mech_Vox_Medium.xml" hash="15404180576655333710" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\QuestScriptDefs\Script_StartingMech.xml" hash="16741590276367297313" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Misc\Weapons\RangedMechanoid_Heavy.xml" hash="3442698987113396287" />
@@ -1023,18 +1023,18 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\Pawn_Oneshot_Birthdays.xml" hash="11837533301059846410" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RecipeDefs\Recipes_Food.xml" hash="3784450882321744167" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\UI_Oneshots_Designation.xml" hash="10319459242370180102" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Misc\Weapons\RangedMechanoid_Light.xml" hash="15749759283461999457" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Misc\Weapons\RangedMechanoid_Light.xml" hash="17359605575495005965" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RecipeDefs\Recipes_MechGestator_Heavy.xml" hash="6155475773642847344" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\UI_Oneshot_Misc.xml" hash="12578672606320957778" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Effects\Mote_Visual.xml" hash="14461331634526758803" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\World_Oneshots_Explosions.xml" hash="11595160922888385590" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RecipeDefs\Recipes_MechGestator_Light.xml" hash="6241809009108888859" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Misc\Weapons\RangedMechanoid_Medium.xml" hash="14162814871165710406" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Misc\Weapons\RangedMechanoid_Medium.xml" hash="7155734296586873550" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\World_Oneshots_Impacts.xml" hash="10590218594333164981" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Plants\Plants_Cultivated_Farm.xml" hash="14130965347047943742" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RecipeDefs\Recipes_MechGestator_Medium.xml" hash="7929610101196564766" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Plants\Plants_Special.xml" hash="11567652138857016494" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\FactionDefs\Factions_Misc.xml" hash="16911907342697327949" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Plants\Plants_Special.xml" hash="10503906426992227637" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\FactionDefs\Factions_Misc.xml" hash="12637745856939021302" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RecipeDefs\Recipes_MechGestator_SuperHeavy.xml" hash="15136778828832209194" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\World_Oneshots_Misc.xml" hash="11594412580106318505" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Plants\Plants_Wild_General.xml" hash="15585140221303751853" />
@@ -1045,21 +1045,21 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SoundDefs\World_Sustainers_Weapons.xml" hash="12183710905433314423" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Races\Races_Animal_Pollution.xml" hash="4046459862230719882" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\SpecialThingFilterDefs\SpecialThingFilters.xml" hash="3330416739013066376" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\GeneDefs_Abilities.xml" hash="8307159898382272659" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Races\Races_Mechanoids_Heavy.xml" hash="6394125808088363360" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\GeneDefs_Abilities.xml" hash="11388275275796703292" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Races\Races_Mechanoids_Heavy.xml" hash="3702068325376761264" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Stats\StatCategories.xml" hash="3143577176924288866" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RecipeDefs\Recipes_Surgery_Misc.xml" hash="6500759576799617377" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RecipeDefs\Recipes_Surgery_Misc.xml" hash="14233474668089856223" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Stats\Stats_Buildings_Special.xml" hash="8403286084000486308" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RecipeDefs\SurgeryOutcomeEffectDefs.xml" hash="10727703598278130052" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\GeneDefs_Cosmetic.xml" hash="474045368955954477" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\GeneDefs_Cosmetic.xml" hash="18119993023556332325" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Stats\Stats_Misc.xml" hash="3810124250269708139" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Races\Races_Mechanoids_Light.xml" hash="18398216426982619063" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Races\Races_Mechanoids_Light.xml" hash="4749087707220333741" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ResearchProjectDefs\ResearchProjects_Mechanitor.xml" hash="15750517780607922457" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Stats\Stats_Pawns_Combat.xml" hash="10542172538627334897" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Stats\Stats_Pawns_Combat.xml" hash="18345916181489731330" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ResearchProjectDefs\ResearchProjects_Misc.xml" hash="2274348818406676213" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Races\Races_Mechanoids_Medium.xml" hash="16890682615185843269" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Races\Races_Mechanoids_Medium.xml" hash="3798694154047540904" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\GeneDefs_Endogenes.xml" hash="823142669220955387" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Stats\Stats_Pawns_General.xml" hash="4082686270460082642" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Stats\Stats_Pawns_General.xml" hash="7605145720539871563" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Rituals\Ritual_Behaviors.xml" hash="15326965809162553363" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Stats\Stats_Pawns_WorkGeneral.xml" hash="16918926739116082935" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Races\Races_Mechanoids_SuperHeavy.xml" hash="2826481645095466313" />
@@ -1070,48 +1070,48 @@
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThinkTreeDefs\HumanlikeBaby.xml" hash="8213804474871580847" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Rituals\Ritual_Targets.xml" hash="11310540007285564425" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Storyteller\Incidents_Map_Threats.xml" hash="757730115304985759" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThinkTreeDefs\SubTrees_Ability.xml" hash="622916413055482475" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\GeneDefs_Misc.xml" hash="5257459354543252633" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThinkTreeDefs\SubTrees_Ability.xml" hash="11425803331017740814" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\GeneDefs_Misc.xml" hash="10911798152237389166" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Storyteller\RaidAgeRestrictions.xml" hash="13552288459670350626" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\TaleDefs\Tales_DoublePawns.xml" hash="15840220228295687002" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThinkTreeDefs\SubTrees_Mech.xml" hash="8097955900691231750" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\GeneDefs_Sanguophage.xml" hash="5585969936065721854" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\GeneDefs_Sanguophage.xml" hash="8812099656695026915" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\TaleDefs\Tales_Incident.xml" hash="1768932672692135886" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Memory_Childcare.xml" hash="17977454966195774471" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThingDefs_Buildings\Buildings_Ancient_Mechanitor.xml" hash="5971266960399555498" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Memory_Death.xml" hash="5897314419976098869" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Memory_Eating.xml" hash="17503238683669430755" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Memory_Social.xml" hash="6043425458784050274" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Memory_Special.xml" hash="17749033616374700584" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\GeneDefs_Spectrum.xml" hash="10672850848633213262" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Situational_Children.xml" hash="15765718809459635816" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\GeneTemplateDefs.xml" hash="16327600994963458954" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Memory_Social.xml" hash="15390167700155600356" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Memory_Special.xml" hash="8197942717049809151" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\GeneDefs_Spectrum.xml" hash="9719058829378120001" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Situational_Children.xml" hash="14896594210634057304" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\GeneTemplateDefs.xml" hash="10485276331353399809" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Situation_Needs.xml" hash="3300243695556773139" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Situation_Social.xml" hash="2131655293398626744" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\XenotypeDefs.xml" hash="12387520061194946561" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Situation_Special.xml" hash="14893067575170270872" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\XenotypeDefs.xml" hash="17091066934741791614" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Situation_Special.xml" hash="7197855454135228953" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\GeneDefs\XenotypeIconDefs.xml" hash="5734726380061117260" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\TipSetDefs\Tips.xml" hash="11638286425335202614" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\TipSetDefs\Tips.xml" hash="9192188684296673235" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ToolCapacityDefs\ToolCapacityDefs.xml" hash="17692801986604334436" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\HeadTypeDefs\HeadTypeDefs.xml" hash="7858722054983731250" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\TraitDefs\Traits.xml" hash="812708843951744553" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\TransportShipDefs\TransportShipDefs.xml" hash="16558973532334292205" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\HediffDefs\Hediffs_BodyParts_Detoxifier.xml" hash="13711516352311129548" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\Tutor\Tutor.xml" hash="598691409339962569" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\HediffDefs\Hediffs_Global_Misc.xml" hash="11344681119686586209" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\HediffDefs\Hediffs_Global_Misc.xml" hash="5129194809704807814" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\WorkGiverDefs\WorkGivers.xml" hash="17149792352943581842" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\HediffDefs\Hediffs_Local_Injuries.xml" hash="8134709532417836741" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\WorkTypeDefs\WorkTypes.xml" hash="15415601353556276249" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\HediffDefs\Hediffs_Local_Misc.xml" hash="9198343069734308179" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\WorldGeneration\WorldGenerator.xml" hash="17905787668050257728" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\HediffDefs\Hediffs_Mechanitor.xml" hash="9341289275651035273" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\HediffDefs\Hediffs_Mechanitor.xml" hash="437204509872105902" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\HediffDefs\Hediffs_Mechs.xml" hash="4800920587385262110" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\HediffDefs\Hediffs_Various.xml" hash="746684880423916480" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\HistoryEventDefs\HistoryEventDefs.xml" hash="5052193655744542389" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\HediffDefs\Hediffs_Various.xml" hash="15410942024211017514" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\HistoryEventDefs\HistoryEventDefs.xml" hash="13722379792544849020" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ImpactSoundTypeDefs\ImpactSoundTypeDefs.xml" hash="6358950830878760214" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\IncidentDefs\Incidents_Map_Special.xml" hash="5963636518751781196" />
   <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\InteractionDefs\Interactions_Social.xml" hash="13495843136237089211" />
-  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\JobDefs\Jobs_Childcare.xml" hash="14025142541439301613" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\JobDefs\Jobs_Childcare.xml" hash="14698618537599333960" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\[FSF] Better Ancient Complex Loot\1.4\Defs\ThingSetMakerDefs\ThingSetMakers_MapGen.xml" hash="2706634602477967162" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Expanded Framework\1.4\Patches\Misc\Reloading.xml" hash="11281707048179343527" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Vanilla Expanded Framework\1.4\Patches\Core\ThingDefs_Misc\Weapons\RangedIndustrialGrenades.xml" hash="13038851574158878977" />
@@ -5868,4 +5868,15 @@
   <Asset id="C:\Games\RimWorld 1.4\Mods\Replace Stuff\Patches\CoolerOverWallPatches.xml" hash="11248573280158593913" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Replace Stuff\Defs\BuildingTryMineConcept.xml" hash="5010170080731494670" />
   <Asset id="C:\Games\RimWorld 1.4\Mods\Replace Stuff\Defs\OverWallCoolerVent.xml" hash="16253398235069006999" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PreceptDefs\Precepts_Bloodfeeders.xml" hash="7842479980076333795" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PreceptDefs\Precepts_ChildLabor.xml" hash="891549887781321561" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PreceptDefs\Precepts_GrowthVat.xml" hash="895621013524801982" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PreceptDefs\Precepts_Mechanoids.xml" hash="17955087438264921182" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PreceptDefs\Precepts_Xenotype.xml" hash="9991959286644803485" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\PreconfiguredIdeos\IdeoPresetDefs.xml" hash="6053708882521052568" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\QuestScriptDefs\Script_PollutionRaid.xml" hash="7894280498367182168" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\QuestScriptDefs\Script_PollutionRetaliation.xml" hash="17798175077013504430" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\ThoughtDefs\Thoughts_Situation_Genes.xml" hash="12947063761765037573" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\MemeDefs\Memes_Bloodfeeding.xml" hash="8564155631819549134" />
+  <Asset id="C:\Games\RimWorld 1.4\Data\Biotech\Defs\RecordDefs\Records_Time.xml" hash="8491079564295455929" />
 </AssetsHash>
