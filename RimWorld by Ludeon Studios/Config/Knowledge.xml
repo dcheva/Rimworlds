@@ -39,11 +39,11 @@
     </li>
     <li>
       <key>AnimalsDontAttackDoors</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BillsTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>OpeningComms</key>
@@ -107,7 +107,7 @@
     </li>
     <li>
       <key>Forbidding</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GrowingFood</key>
@@ -123,7 +123,7 @@
     </li>
     <li>
       <key>Mining</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>WorkTab</key>
@@ -159,7 +159,7 @@
     </li>
     <li>
       <key>HomeArea</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SpoilageAndFreezers</key>
@@ -187,7 +187,7 @@
     </li>
     <li>
       <key>ManualWorkPriorities</key>
-      <value>0</value>
+      <value>0.5975199</value>
     </li>
     <li>
       <key>GettingMoreTraders</key>
@@ -379,11 +379,11 @@
     </li>
     <li>
       <key>CE_TargettedModesMelee</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_GiveAmmo</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_InventoryWeightBulk</key>
@@ -423,7 +423,7 @@
     </li>
     <li>
       <key>Concept_SidearmsMissing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsPreference</key>
@@ -439,7 +439,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedDrafted</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsLosingWeapons</key>
@@ -459,15 +459,15 @@
     </li>
     <li>
       <key>RecruitGuest</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GuestWork</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Hospitality</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BM_Mounting</key>
