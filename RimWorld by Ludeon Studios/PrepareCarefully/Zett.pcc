@@ -1,0 +1,7569 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>5</version>
+	<mods>Harmony, Core, Better Log - Fix your errors with style, Royalty, Ideology, Biotech, Vanilla Expanded Framework, Alpha Genes, [FSF] Better Ancient Complex Loot, Vanilla Fishing Expanded, Replantable Anima Trees, ReGrowth: Core, [FSF] Filth Vanishes With Rain And Time, [JDS] The Forge - Anvil, [JDS] The Forge - NCR Armory, [LTO] Terrain Overhaul, [LTS]Systems, [SYR] Processor Framework, RW - Node Tree, RW - Weapon Modularization, Toggleable Overlays, RimFridge Updated, LWM's Deep Storage, Vanilla Factions Expanded - Mechanoids, Vanilla Factions Expanded - Medieval, Combat Extended, [TMC] EFT Sharpsticks, [WD] Realistic Darkness (Light), Addictol [1.4], Allow Everything, HugsLib, Allow Tool, Ancient Fallout Armory (1.4), Vanilla Furniture Expanded - Medical Module, Vanilla Factions Expanded - Ancients, Ancient Medical Linking, Appliances Expanded, Better Walls and Floors, BetterInfoCard, Geological Landforms, Biome Transitions, Wall Light, VFE - Ancients : Vault Wall and Door, VFE - Ancients : Vault S, Vanilla Weapons Retextured (Continued), Vanilla Weapons Expanded - Makeshift, Vanilla Weapons Expanded - Laser, Vanilla Skills Expanded, ReGrowth: Aspen, Vanilla Plants Expanded, Vanilla Outposts Expanded Additional Outposts, Vanilla Ideology Expanded - Memes and Structures, Vanilla Ideology Expanded - Hats and Rags, Vanilla Armour Expanded, Trait and Backstory Icons, Trade UI Revised, Tilled Soil, T-45b Power Armor, Simple Utilities: Fridge, Storage - Shelves, Stack XXL, SRTS Expanded, Smarter Deconstruction and Mining, Smarter Construction, Smart Speed, Smart Farming, Slave Outfits [1.4], Simple sidearms, SeedsPlease: Lite, Scattered Stones, Giddy-up! Core, Saddle-up!, RuntimeGC [1.4], Run and Hide (Continued), RU Vanilla Weapons Expanded - Laser, RocketMan - Performance Mod, Roads of the Rim (Continued), RimSaves, RimNauts 2, RIMMSqol, RimHUD, Rimefeller, ReGrowth: Tundra, ReGrowth: Temperate, ReGrowth: Swamp, ReGrowth: Boreal, Prisoners Are Not Swines, Pick Up And Haul, Perspective: Trees, Perspective: Eaves, Simple Utilities: Wall, Perspective: Buildings, Pawn Badge Fan Fork [Adopted], More Faction Interaction (Continued), Medullin Injector, Mechs can haul to charger, Mechanitor Command Relays, LWM's Fuel Filter, Level Up!, JecsTools, Industrial concrete, Humanoid Alien Races, Hospitality, HC_Animal_4, HC_Animal_3, HC_Animal_2, HC_Animal_1, Grimworld Lasguns, Graphics Settings+, Bradson's Main Button Icons for VE Textures, Cargo waste container, Cash Register, Character Editor, Character Editor Retextured, CM Color Coded Mood Bar [1.1+], Combat Extended Guns, Dubs Bad Hygiene, Common Sense, Custom Pawn Generation, Diseases Overhauled, Diseases Overhauled - Biosculptor patch, Dismantle Ancient Junk, Drug Command Overhaul, Dubs Apparel Tweaks, Dubs Mint Menus, Dubs Mint Minimap, Dubs Rimatomics, Dynamic Diplomacy, Electric Stonecutting Table, Fabricors can repair mechs, Fallout - Nuka Cola Collection, Fallout 2 Soundtrack, Fallout 3 Soundtrack, Fallout 4 Soundtrack, Fallout 76 Soundtrack, Fallout New Vegas Soundtrack, Fallout Races: The Robots Pack (Continued), Fallout Soundtrack, Fallout Traits, Fallout: Retro Weapon Pack, Faster Projectiles, Gastronomy, Giddy-Up! Add-on: Animal Saddles, Giddy-up! Battle Mounts, Giddy-up! Caravan, Giddy-up! Ride and Roll, [1.4 FORK] EdB Prepare Carefully RUS, [DW] Simple Dwarves, Apothecary (Continued), Basic Medicine, CAI 5000 - Advance Combat AI Mod, TD Find Lib, Ctrl F, Large Faction Bases, Misc. MapGen FactionBase, Monstrous Compendium (Continued), No Burn Metal, Perfect Pathfinding, Randomised Stone Refinery, Rus Simple FX: Splashes, Rus Simple FX: Vapor, Simple Chains: Lumber, Simple FX: Smoke, Simple FX: Smoke Patches, Simple FX: Splashes, Simple FX: Vapor, Simple Utilities: Ceiling, Storyteller - Liara Livid, Vanilla Fishing Expanded - Fishing Treasures AddOn, Wandering Caravans, [1.4 FORK] EdB Prepare Carefully, [1.4] Astra Militarum Regimentum - Krieg, [1.4] Ordo Tempestus - Tempestus Scions, Biotech Expansion - Core, Biotech Expansion - Core - Русская Локализация, Disable Automatically Select Travel Supplies, PlanetSide2 NS Black Ops Combat Armor, PlanetSide2 NS Black Ops Combat Armor RU, TDS Bug Fixes, Camera+, CleaningArea, Quality Colors rus, QualityBuilder, Replace Stuff, Replace Stuff Russian Language, Random Research, ResearchPowl, ResearchPowl Russian Language и Research Whatever</mods>
+	<pawn>
+		<id>1e4e7a3d-fbc0-4e2c-bdd4-baf76e1b9421</id>
+		<type>Colonist</type>
+		<faction IsNull="True" />
+		<pawnKindDef>VFEA_PlayerAncientSoldierOneAbility</pawnKindDef>
+		<originalFactionDef>VFEA_NewVault</originalFactionDef>
+		<gender>Female</gender>
+		<adulthood>WanderingCrafter42</adulthood>
+		<traits>
+			<li>
+				<def>Nimble</def>
+			</li>
+			<li>
+				<def>FT_Serendipitous</def>
+			</li>
+			<li>
+				<def>FT_Evasion</def>
+				<degree>2</degree>
+			</li>
+		</traits>
+		<traitNames />
+		<traitDegrees />
+		<skinColor>RGBA(0.949, 0.780, 0.549, 1.000)</skinColor>
+		<melanin>0</melanin>
+		<bodyType>Female</bodyType>
+		<headGraphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Wide</headGraphicPath>
+		<hairDef>Senorita</hairDef>
+		<hairColor>RGBA(0.992, 0.859, 0.729, 1.000)</hairColor>
+		<beard>NoBeard</beard>
+		<faceTattoo>NoTattoo_Face</faceTattoo>
+		<bodyTattoo>NoTattoo_Body</bodyTattoo>
+		<hairDef>Senorita</hairDef>
+		<firstName>Zett</firstName>
+		<nickName>Zett</nickName>
+		<lastName>Ryo</lastName>
+		<favoriteColor>RGBA(0.992, 0.859, 0.729, 1.000)</favoriteColor>
+		<biologicalAge>28</biologicalAge>
+		<chronologicalAge>69</chronologicalAge>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>6</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>5</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>4</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>4</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>4</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>8</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>8</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>4</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>3</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>6</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>0</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>1</value>
+				<passion>None</passion>
+			</li>
+		</skills>
+		<apparel>
+			<li>
+				<layer>Pants</layer>
+				<apparel>Apparel_Pants</apparel>
+				<stuff>Synthread</stuff>
+				<color>RGBA(0.992, 0.859, 0.729, 1.000)</color>
+			</li>
+			<li>
+				<layer>BottomClothingLayer</layer>
+				<apparel>Apparel_BasicShirt</apparel>
+				<stuff>Synthread</stuff>
+				<color>RGBA(0.992, 0.859, 0.729, 1.000)</color>
+			</li>
+			<li>
+				<layer>TopClothingLayer</layer>
+				<apparel>Apparel_ArmorRecon</apparel>
+				<color>RGBA(0.992, 0.859, 0.729, 1.000)</color>
+			</li>
+			<li>
+				<layer>Hat</layer>
+				<apparel>JDS_NCR_Beret</apparel>
+				<stuff>Synthread</stuff>
+				<color>RGBA(1.000, 0.961, 0.894, 1.000)</color>
+			</li>
+			<li>
+				<layer>Accessory</layer>
+				<apparel>Apparel_SmokepopBelt</apparel>
+				<color>RGBA(0.992, 0.859, 0.729, 1.000)</color>
+			</li>
+		</apparel>
+		<ideo>
+			<name>Пути Eschatologism</name>
+			<certainty>0.9034483</certainty>
+			<culture>Astropolitan</culture>
+			<memes>
+				<li>VME_Structure_Eschatologism</li>
+				<li>HumanPrimacy</li>
+				<li>VFEA_Isolationist</li>
+				<li>VME_Gestalt</li>
+			</memes>
+		</ideo>
+		<abilities>
+			<li>WordOfInspiration</li>
+			<li>Coagulate</li>
+		</abilities>
+		<implants />
+		<injuries>
+			<li>
+				<hediffDef>PsychicAmplifier</hediffDef>
+				<bodyPart>Brain</bodyPart>
+				<severity>1</severity>
+			</li>
+		</injuries>
+		<compFields>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.992, 0.859, 0.729, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+						<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.510, 0.357, 0.188, 0.800)</first>
+						<second>RGBA(0.510, 0.357, 0.188, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>
+								<first>skin</first>
+							</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+			<headVariant>0</headVariant>
+			<bodyVariant>0</bodyVariant>
+			<headMaskVariant>0</headMaskVariant>
+			<bodyMaskVariant>0</bodyMaskVariant>
+		</compFields>
+		<savedComps>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+		</savedComps>
+	</pawn>
+</character>

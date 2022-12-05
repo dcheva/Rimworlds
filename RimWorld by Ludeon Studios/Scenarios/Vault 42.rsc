@@ -628,6 +628,14 @@ Will today be the day you not only wake up, but also open your eyes?</text>
 				<incident>ToxicFallout</incident>
 				<intervalDays>29.31771</intervalDays>
 			</li>
+			<li Class="ScenPart_ScatterThingsNearPlayerStart">
+				<def>ScatterThingsNearPlayerStart</def>
+				<thingDef>HospitalBed</thingDef>
+				<stuff>FiberComposite</stuff>
+				<count>87</count>
+				<quality>Good</quality>
+				<allowRoofed>True</allowRoofed>
+			</li>
 		</parts>
 	</scenario>
 </savedscenario>
