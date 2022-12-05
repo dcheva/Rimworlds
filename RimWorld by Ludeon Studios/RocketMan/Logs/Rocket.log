@@ -140,37 +140,6 @@ Gagarin:[NOTANERROR] patching LoadedModManager:Void ClearCachedPatches() finishe
 
 Gagarin:[NOTANERROR] patching XmlInheritance:Void Resolve() finished!
 
-GAGARIN: <color=yello>Cache disabled from</color>
-Postfix at offset 0 in file:line:column <filename unknown>:0:0
-Verse.LoadedModManager.LoadModXML_Patch4 at offset 0 in file:line:column <filename unknown>:0:0
-LoadAllActiveMods at offset 0 in file:line:column <filename unknown>:0:0
-DoPlayLoad at offset 0 in file:line:column <filename unknown>:0:0
-LoadAllPlayData at offset 0 in file:line:column <filename unknown>:0:0
-<Start>b__6_1 at offset 0 in file:line:column <filename unknown>:0:0
-RunEventFromAnotherThread at offset 0 in file:line:column <filename unknown>:0:0
-<UpdateCurrentAsynchronousEvent>b__27_0 at offset 0 in file:line:column <filename unknown>:0:0
-ThreadStart_Context at offset 0 in file:line:column <filename unknown>:0:0
-RunInternal at offset 0 in file:line:column <filename unknown>:0:0
-Run at offset 0 in file:line:column <filename unknown>:0:0
-Run at offset 0 in file:line:column <filename unknown>:0:0
-ThreadStart at offset 0 in file:line:column <filename unknown>:0:0
-
-GAGARIN:[DUPLICATE]: Started!
-
-GAGARIN:[DUPLICATE] Creating duplication reports took 788 MS
-
-GAGARIN:[<color=orange>DUPLICATE:CRITICAL</color>]<color=red> duplicate found for Name=BaseBullet</color>
-	1. PackageId=ludeon.rimworld	| ModName=Core	| XmlFilePath=C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\BaseWeapons.xml
-	2. PackageId=ceteam.combatextended	| ModName=Combat Extended	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Combat Extended\Defs\Ammo\AmmoBases.xml
-
-GAGARIN:[<color=yellow>DUPLICATE:CRITICAL</color>]<color=white> duplicate found for Name=UpdateFeatureBase</color>
-	1. PackageId=petetimessix.simplesidearms	| ModName=Simple sidearms	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Simple sidearms\v1.4\Defs\UpdateTextDefs\updateDefs.xml
-	2. PackageId=roolo.giddyupcore	| ModName=Giddy-up! Core	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Giddy - up!Core\Defs\UpdateFeatureDefs\UpdateFeatures.xml
-	3. PackageId=roolo.giddyupbattlemounts	| ModName=Giddy-up! Battle Mounts	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Giddy - up!Battle Mounts\Defs\UpdateFeatureDefs\UpdateFeatures.xml
-	4. PackageId=roolo.giddyuprideandroll	| ModName=Giddy-up! Ride and Roll	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Giddy - up!Ride and Roll\Defs\UpdateFeatureDefs\UpdateFeatures.xml
-
-GAGARIN:[DUPLICATE] Finished creating reports at <color=red>C:\Users\Dmytro\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\RocketMan\Reports</color>
-
 ROCKETMAN: Found action with attribute OnStaticConstructor, StartupHelper:StartUpFinished
 
 ROCKETMAN: RocketMan settings are stored in <color=red>C:\Users\Dmytro\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\RocketMan\Mod_RocketMan - Performance Mod_RocketMod.xml</color>
@@ -407,8 +376,6 @@ PROTON:[NOTANERROR] patching Alert_ConsoleTab:Void .ctor() finished!
 
 PROTON:[NOTANERROR] patching Alert_DrillingPhase:Void .ctor() finished!
 
-PROTON:[NOTANERROR] patching Alert_NoResearchProject:Void .ctor() finished!
-
 PROTON:[NOTANERROR] patching Alert_GuestCantClaimBed:Void .ctor() finished!
 
 PROTON:[NOTANERROR] patching Alert_GuestHasNoFood:Void .ctor() finished!
@@ -444,6 +411,8 @@ PROTON:[NOTANERROR] patching Alert_NoRegister:Void .ctor() finished!
 PROTON:[NOTANERROR] patching Alert_NoWaiter:Void .ctor() finished!
 
 PROTON:[NOTANERROR] patching Alert_NoDropAnimal:Void .ctor() finished!
+
+PROTON:[NOTANERROR] patching Alert_NoResearchProject:Void .ctor() finished!
 
 PROTON:[NOTANERROR] patching GlowGrid:Void RegisterGlower(Verse.CompGlower) finished!
 
@@ -727,7 +696,7 @@ ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.legacy
 
 ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory
 
-[0.001486 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
+[0.001924 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
 ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedCentipede
 ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedLancer
 ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedKnight
@@ -833,27 +802,3 @@ ROCKETMAN:[NOTANERROR] patching Pawn:Void Notify_BulletImpactNearby(RimWorld.Bul
 ROCKETMAN:[NOTANERROR] patching Pawn_HealthTracker:Void Notify_HediffChanged(Verse.Hediff) finished!
 
 ROCKETMAN:[NOTANERROR] patching Pawn_HealthTracker:Void Notify_UsedVerb(Verse.Verb, Verse.LocalTargetInfo) finished!
-
-GAGARIN: Lock removed!
-
-ROCKETMAN: <color=red>Warm up</color> started for new map!
-
-ROCKETMAN: <color=red>Warm up ABORTED!</color> for new map!
-
-ROCKETMAN: <color=red>Warm up</color> started for new map!
-
-SOYUZ: Preset loaded!
-
-Created ticker bucket: BaseInterval=250 BucketInterval=125
-
-Bucket[0].Count = 1
-
-Bucket[1].Count = 1
-
-Created ticker bucket: BaseInterval=8000 BucketInterval=8000
-
-Bucket[0].Count = 1
-
-ROCKETMAN: <color=red>Warm up</color> Finished for new map!
-
-ROCKETMAN: Position verfication started!

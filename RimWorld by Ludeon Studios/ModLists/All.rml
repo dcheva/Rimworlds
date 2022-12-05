@@ -85,13 +85,10 @@
 			<li>malteschulze.rimmsqol</li>
 			<li>jaxe.rimhud</li>
 			<li>dubwise.rimefeller</li>
-			<li>owlchemist.researchpowl</li>
-			<li>avilmask.researchwhatever</li>
 			<li>regrowth.botr.tundraexpansion</li>
 			<li>regrowth.botr.temperateforestexpansion</li>
 			<li>regrowth.botr.swampexpansion</li>
 			<li>regrowth.botr.borealforestexpansion</li>
-			<li>uuugggg.randomresearch</li>
 			<li>bustedbunny.prisonersarenotswines</li>
 			<li>mehni.pickupandhaul</li>
 			<li>owlchemist.perspectivetrees</li>
@@ -159,14 +156,12 @@
 			<li>krkr.rule56</li>
 			<li>uuugggg.tdfindlib</li>
 			<li>uuugggg.ctrlf</li>
-			<li>unlimitedhugs.defensivepositions</li>
 			<li>newcolonist.largefactionbases</li>
 			<li>haplo.miscellaneous.mapgenfactionbase</li>
 			<li>mlie.monstrouscompendium</li>
 			<li>unon.noburnmetal</li>
 			<li>jp.perfectpathing</li>
 			<li>mrkociak.randomisedstonerefinery</li>
-			<li>ru.pashka.vinalx.researchpalforked</li>
 			<li>am.rus.splashes</li>
 			<li>am.rus.vapor</li>
 			<li>owlchemist.simplechains.lumber</li>
@@ -193,6 +188,10 @@
 			<li>hatti.qualitybuilder</li>
 			<li>uuugggg.replacestuff</li>
 			<li>ru.pashka.uuugggg.replacestuff</li>
+			<li>uuugggg.randomresearch</li>
+			<li>owlchemist.researchpowl</li>
+			<li>ru.pashka.vinalx.researchpalforked</li>
+			<li>avilmask.researchwhatever</li>
 		</modIds>
 		<modSteamIds>
 			<li>0</li>
@@ -200,7 +199,6 @@
 			<li>0</li>
 			<li>1149640</li>
 			<li>1392840</li>
-			<li>0</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -469,13 +467,10 @@
 			<li>RIMMSqol</li>
 			<li>RimHUD</li>
 			<li>Rimefeller</li>
-			<li>ResearchPowl</li>
-			<li>Research Whatever</li>
 			<li>ReGrowth: Tundra</li>
 			<li>ReGrowth: Temperate</li>
 			<li>ReGrowth: Swamp</li>
 			<li>ReGrowth: Boreal</li>
-			<li>Random Research</li>
 			<li>Prisoners Are Not Swines</li>
 			<li>Pick Up And Haul</li>
 			<li>Perspective: Trees</li>
@@ -543,14 +538,12 @@
 			<li>CAI 5000 - Advance Combat AI Mod</li>
 			<li>TD Find Lib</li>
 			<li>Ctrl F</li>
-			<li>Defensive Positions</li>
 			<li>Large Faction Bases</li>
 			<li>Misc. MapGen FactionBase</li>
 			<li>Monstrous Compendium (Continued)</li>
 			<li>No Burn Metal</li>
 			<li>Perfect Pathfinding</li>
 			<li>Randomised Stone Refinery</li>
-			<li>ResearchPowl Russian Language</li>
 			<li>Rus Simple FX: Splashes</li>
 			<li>Rus Simple FX: Vapor</li>
 			<li>Simple Chains: Lumber</li>
@@ -577,6 +570,10 @@
 			<li>QualityBuilder</li>
 			<li>Replace Stuff</li>
 			<li>Replace Stuff Russian Language</li>
+			<li>Random Research</li>
+			<li>ResearchPowl</li>
+			<li>ResearchPowl Russian Language</li>
+			<li>Research Whatever</li>
 		</modNames>
 	</meta>
 	<modList>
@@ -663,13 +660,10 @@
 			<li>malteschulze.rimmsqol</li>
 			<li>jaxe.rimhud</li>
 			<li>dubwise.rimefeller</li>
-			<li>owlchemist.researchpowl</li>
-			<li>avilmask.researchwhatever</li>
 			<li>regrowth.botr.tundraexpansion</li>
 			<li>regrowth.botr.temperateforestexpansion</li>
 			<li>regrowth.botr.swampexpansion</li>
 			<li>regrowth.botr.borealforestexpansion</li>
-			<li>uuugggg.randomresearch</li>
 			<li>bustedbunny.prisonersarenotswines</li>
 			<li>mehni.pickupandhaul</li>
 			<li>owlchemist.perspectivetrees</li>
@@ -737,14 +731,12 @@
 			<li>krkr.rule56</li>
 			<li>uuugggg.tdfindlib</li>
 			<li>uuugggg.ctrlf</li>
-			<li>unlimitedhugs.defensivepositions</li>
 			<li>newcolonist.largefactionbases</li>
 			<li>haplo.miscellaneous.mapgenfactionbase</li>
 			<li>mlie.monstrouscompendium</li>
 			<li>unon.noburnmetal</li>
 			<li>jp.perfectpathing</li>
 			<li>mrkociak.randomisedstonerefinery</li>
-			<li>ru.pashka.vinalx.researchpalforked</li>
 			<li>am.rus.splashes</li>
 			<li>am.rus.vapor</li>
 			<li>owlchemist.simplechains.lumber</li>
@@ -771,6 +763,10 @@
 			<li>hatti.qualitybuilder</li>
 			<li>uuugggg.replacestuff</li>
 			<li>ru.pashka.uuugggg.replacestuff</li>
+			<li>uuugggg.randomresearch</li>
+			<li>owlchemist.researchpowl</li>
+			<li>ru.pashka.vinalx.researchpalforked</li>
+			<li>avilmask.researchwhatever</li>
 		</ids>
 		<names>
 			<li>Harmony</li>
@@ -855,13 +851,10 @@
 			<li>RIMMSqol</li>
 			<li>RimHUD</li>
 			<li>Rimefeller</li>
-			<li>ResearchPowl</li>
-			<li>Research Whatever</li>
 			<li>ReGrowth: Tundra</li>
 			<li>ReGrowth: Temperate</li>
 			<li>ReGrowth: Swamp</li>
 			<li>ReGrowth: Boreal</li>
-			<li>Random Research</li>
 			<li>Prisoners Are Not Swines</li>
 			<li>Pick Up And Haul</li>
 			<li>Perspective: Trees</li>
@@ -929,14 +922,12 @@
 			<li>CAI 5000 - Advance Combat AI Mod</li>
 			<li>TD Find Lib</li>
 			<li>Ctrl F</li>
-			<li>Defensive Positions</li>
 			<li>Large Faction Bases</li>
 			<li>Misc. MapGen FactionBase</li>
 			<li>Monstrous Compendium (Continued)</li>
 			<li>No Burn Metal</li>
 			<li>Perfect Pathfinding</li>
 			<li>Randomised Stone Refinery</li>
-			<li>ResearchPowl Russian Language</li>
 			<li>Rus Simple FX: Splashes</li>
 			<li>Rus Simple FX: Vapor</li>
 			<li>Simple Chains: Lumber</li>
@@ -963,6 +954,10 @@
 			<li>QualityBuilder</li>
 			<li>Replace Stuff</li>
 			<li>Replace Stuff Russian Language</li>
+			<li>Random Research</li>
+			<li>ResearchPowl</li>
+			<li>ResearchPowl Russian Language</li>
+			<li>Research Whatever</li>
 		</names>
 	</modList>
 </savedModList>

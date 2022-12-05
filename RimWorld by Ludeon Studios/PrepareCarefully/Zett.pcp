@@ -1,0 +1,2210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preset>
+	<version>5</version>
+	<mods>Harmony, Core, Better Log - Fix your errors with style, Royalty, Ideology, Biotech, Vanilla Expanded Framework, Alpha Genes, [FSF] Better Ancient Complex Loot, Vanilla Fishing Expanded, Replantable Anima Trees, ReGrowth: Core, [FSF] Filth Vanishes With Rain And Time, [JDS] The Forge - Anvil, [JDS] The Forge - NCR Armory, [LTO] Terrain Overhaul, [LTS]Systems, [SYR] Processor Framework, RW - Node Tree, RW - Weapon Modularization, Toggleable Overlays, RimFridge Updated, LWM's Deep Storage, Vanilla Factions Expanded - Mechanoids, Vanilla Factions Expanded - Medieval, Combat Extended, [TMC] EFT Sharpsticks, [WD] Realistic Darkness (Light), Addictol [1.4], Allow Everything, HugsLib, Allow Tool, Ancient Fallout Armory (1.4), Vanilla Furniture Expanded - Medical Module, Vanilla Factions Expanded - Ancients, Ancient Medical Linking, Appliances Expanded, Better Walls and Floors, BetterInfoCard, Geological Landforms, Biome Transitions, Wall Light, VFE - Ancients : Vault Wall and Door, VFE - Ancients : Vault S, Vanilla Weapons Retextured (Continued), Vanilla Weapons Expanded - Makeshift, Vanilla Weapons Expanded - Laser, Vanilla Skills Expanded, ReGrowth: Aspen, Vanilla Plants Expanded, Vanilla Outposts Expanded Additional Outposts, Vanilla Ideology Expanded - Memes and Structures, Vanilla Ideology Expanded - Hats and Rags, Vanilla Armour Expanded, Trait and Backstory Icons, Trade UI Revised, Tilled Soil, T-45b Power Armor, Simple Utilities: Fridge, Storage - Shelves, Stack XXL, SRTS Expanded, Smarter Deconstruction and Mining, Smarter Construction, Smart Speed, Smart Farming, Slave Outfits [1.4], Simple sidearms, SeedsPlease: Lite, Scattered Stones, Giddy-up! Core, Saddle-up!, RuntimeGC [1.4], Run and Hide (Continued), RU Vanilla Weapons Expanded - Laser, RocketMan - Performance Mod, Roads of the Rim (Continued), RimSaves, RimNauts 2, RIMMSqol, RimHUD, Rimefeller, ReGrowth: Tundra, ReGrowth: Temperate, ReGrowth: Swamp, ReGrowth: Boreal, Prisoners Are Not Swines, Pick Up And Haul, Perspective: Trees, Perspective: Eaves, Simple Utilities: Wall, Perspective: Buildings, Pawn Badge Fan Fork [Adopted], More Faction Interaction (Continued), Medullin Injector, Mechs can haul to charger, Mechanitor Command Relays, LWM's Fuel Filter, Level Up!, JecsTools, Industrial concrete, Humanoid Alien Races, Hospitality, HC_Animal_4, HC_Animal_3, HC_Animal_2, HC_Animal_1, Grimworld Lasguns, Graphics Settings+, Bradson's Main Button Icons for VE Textures, Cargo waste container, Cash Register, Character Editor, Character Editor Retextured, CM Color Coded Mood Bar [1.1+], Combat Extended Guns, Dubs Bad Hygiene, Common Sense, Custom Pawn Generation, Diseases Overhauled, Diseases Overhauled - Biosculptor patch, Dismantle Ancient Junk, Drug Command Overhaul, Dubs Apparel Tweaks, Dubs Mint Menus, Dubs Mint Minimap, Dubs Rimatomics, Dynamic Diplomacy, Electric Stonecutting Table, Fabricors can repair mechs, Fallout - Nuka Cola Collection, Fallout 2 Soundtrack, Fallout 3 Soundtrack, Fallout 4 Soundtrack, Fallout 76 Soundtrack, Fallout New Vegas Soundtrack, Fallout Races: The Robots Pack (Continued), Fallout Soundtrack, Fallout Traits, Fallout: Retro Weapon Pack, Faster Projectiles, Gastronomy, Giddy-Up! Add-on: Animal Saddles, Giddy-up! Battle Mounts, Giddy-up! Caravan, Giddy-up! Ride and Roll, [1.4 FORK] EdB Prepare Carefully RUS, [DW] Simple Dwarves, Apothecary (Continued), Basic Medicine, CAI 5000 - Advance Combat AI Mod, TD Find Lib, Ctrl F, Large Faction Bases, Misc. MapGen FactionBase, Monstrous Compendium (Continued), No Burn Metal, Perfect Pathfinding, Randomised Stone Refinery, Rus Simple FX: Splashes, Rus Simple FX: Vapor, Simple Chains: Lumber, Simple FX: Smoke, Simple FX: Smoke Patches, Simple FX: Splashes, Simple FX: Vapor, Simple Utilities: Ceiling, Storyteller - Liara Livid, Vanilla Fishing Expanded - Fishing Treasures AddOn, Wandering Caravans, [1.4 FORK] EdB Prepare Carefully, [1.4] Astra Militarum Regimentum - Krieg, [1.4] Ordo Tempestus - Tempestus Scions, Biotech Expansion - Core, Biotech Expansion - Core - Русская Локализация, Disable Automatically Select Travel Supplies, PlanetSide2 NS Black Ops Combat Armor, PlanetSide2 NS Black Ops Combat Armor RU, TDS Bug Fixes, Camera+, CleaningArea, Quality Colors rus, QualityBuilder, Replace Stuff, Replace Stuff Russian Language, Random Research, ResearchPowl, ResearchPowl Russian Language и Research Whatever</mods>
+	<pawns>
+		<li>
+			<id>a7edc380-f419-426a-922f-56c5e8c68fd2</id>
+			<type>Colonist</type>
+			<faction IsNull="True" />
+			<pawnKindDef>VFEA_PlayerAncientSoldierOneAbility</pawnKindDef>
+			<originalFactionDef>VFEA_NewVault</originalFactionDef>
+			<gender>Female</gender>
+			<adulthood>WanderingCrafter42</adulthood>
+			<traits>
+				<li>
+					<def>Nimble</def>
+				</li>
+				<li>
+					<def>FT_Serendipitous</def>
+				</li>
+				<li>
+					<def>FT_Evasion</def>
+					<degree>2</degree>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(0.949, 0.780, 0.549, 1.000)</skinColor>
+			<melanin>0</melanin>
+			<bodyType>Female</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Wide</headGraphicPath>
+			<hairDef>Senorita</hairDef>
+			<hairColor>RGBA(0.996, 0.859, 0.733, 1.000)</hairColor>
+			<beard>NoBeard</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>Senorita</hairDef>
+			<firstName>Zett</firstName>
+			<nickName>Zett</nickName>
+			<lastName>Ryo</lastName>
+			<favoriteColor>RGBA(0.996, 0.859, 0.733, 1.000)</favoriteColor>
+			<biologicalAge>28</biologicalAge>
+			<chronologicalAge>69</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>6</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>5</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>4</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>4</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>8</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>8</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>6</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>10</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>Pants</layer>
+					<apparel>Apparel_Pants</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.996, 0.859, 0.733, 1.000)</color>
+				</li>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>Apparel_BasicShirt</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.996, 0.859, 0.733, 1.000)</color>
+				</li>
+				<li>
+					<layer>TopClothingLayer</layer>
+					<apparel>Apparel_ArmorRecon</apparel>
+					<color>RGBA(0.996, 0.859, 0.733, 1.000)</color>
+				</li>
+				<li>
+					<layer>Accessory</layer>
+					<apparel>Apparel_SmokepopBelt</apparel>
+					<color>RGBA(0.996, 0.859, 0.733, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>Астрополитизм</name>
+				<certainty>0.7220802</certainty>
+				<culture>Astropolitan</culture>
+				<memes />
+			</ideo>
+			<abilities>
+				<li>WordOfInspiration</li>
+				<li>Coagulate</li>
+			</abilities>
+			<implants />
+			<injuries>
+				<li>
+					<hediffDef>PsychicAmplifier</hediffDef>
+					<bodyPart>Brain</bodyPart>
+					<severity>1</severity>
+				</li>
+				<li>
+					<hediffDef>Power_Deaf</hediffDef>
+					<severity>1</severity>
+				</li>
+			</injuries>
+			<compFields>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.996, 0.859, 0.733, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+							<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<headVariant>0</headVariant>
+				<bodyVariant>0</bodyVariant>
+				<headMaskVariant>0</headMaskVariant>
+				<bodyMaskVariant>0</bodyMaskVariant>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.996, 0.859, 0.733, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+							<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<headVariant>0</headVariant>
+				<bodyVariant>0</bodyVariant>
+				<headMaskVariant>0</headMaskVariant>
+				<bodyMaskVariant>0</bodyMaskVariant>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.996, 0.859, 0.733, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+							<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<headVariant>0</headVariant>
+				<bodyVariant>0</bodyVariant>
+				<headMaskVariant>0</headMaskVariant>
+				<bodyMaskVariant>0</bodyMaskVariant>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.996, 0.859, 0.733, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+							<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<headVariant>0</headVariant>
+				<bodyVariant>0</bodyVariant>
+				<headMaskVariant>0</headMaskVariant>
+				<bodyMaskVariant>0</bodyMaskVariant>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.996, 0.859, 0.733, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.949, 0.780, 0.549, 1.000)</first>
+							<second>RGBA(0.949, 0.780, 0.549, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<headVariant>0</headVariant>
+				<bodyVariant>0</bodyVariant>
+				<headMaskVariant>0</headMaskVariant>
+				<bodyMaskVariant>0</bodyMaskVariant>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>b8d6d1cc-27af-4a58-b092-6027190f3acf</id>
+			<type>World</type>
+			<faction IsNull="True" />
+			<pawnKindDef>VFEA_PlayerAncientSoldierOneAbility</pawnKindDef>
+			<originalFactionDef>VFEA_NewVault</originalFactionDef>
+			<adulthood>GeneticScientist66</adulthood>
+			<traits>
+				<li>
+					<def>FT_Tenderizer</def>
+				</li>
+				<li>
+					<def>Industriousness</def>
+					<degree>-1</degree>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(0.949, 0.929, 0.878, 1.000)</skinColor>
+			<melanin>0.25</melanin>
+			<bodyType>Male</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Pointy</headGraphicPath>
+			<hairDef>Henry</hairDef>
+			<hairColor>RGBA(0.506, 0.318, 0.180, 1.000)</hairColor>
+			<beard>Boxed</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>Henry</hairDef>
+			<firstName>Hooke</firstName>
+			<nickName>Hooke</nickName>
+			<lastName>Vaughn</lastName>
+			<favoriteColor>RGBA(0.250, 0.200, 0.150, 1.000)</favoriteColor>
+			<biologicalAge>17</biologicalAge>
+			<chronologicalAge>69</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>11</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>3</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>1</value>
+					<passion>Minor</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>Pants</layer>
+					<apparel>Apparel_Pants</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>Apparel_BasicShirt</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+				<li>
+					<layer>TopClothingLayer</layer>
+					<apparel>FallArmory_HeavyCombatArmorUS</apparel>
+				</li>
+				<li>
+					<layer>Accessory</layer>
+					<apparel>Apparel_SmokepopBelt</apparel>
+					<color>RGBA(0.409, 0.305, 0.485, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>Астрополитизм</name>
+				<certainty>0.7645485</certainty>
+				<culture>Astropolitan</culture>
+				<memes />
+			</ideo>
+			<abilities />
+			<implants>
+				<li>
+					<bodyPart>Arm</bodyPart>
+				</li>
+			</implants>
+			<injuries />
+			<compFields>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.506, 0.318, 0.180, 1.000)</first>
+							<second>RGBA(0.518, 0.325, 0.184, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.949, 0.929, 0.878, 1.000)</first>
+							<second>RGBA(0.949, 0.929, 0.878, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<headVariant>0</headVariant>
+				<bodyVariant>0</bodyVariant>
+				<headMaskVariant>0</headMaskVariant>
+				<bodyMaskVariant>0</bodyMaskVariant>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.506, 0.318, 0.180, 1.000)</first>
+							<second>RGBA(0.518, 0.325, 0.184, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.949, 0.929, 0.878, 1.000)</first>
+							<second>RGBA(0.949, 0.929, 0.878, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<headVariant>0</headVariant>
+				<bodyVariant>0</bodyVariant>
+				<headMaskVariant>0</headMaskVariant>
+				<bodyMaskVariant>0</bodyMaskVariant>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.506, 0.318, 0.180, 1.000)</first>
+							<second>RGBA(0.518, 0.325, 0.184, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.949, 0.929, 0.878, 1.000)</first>
+							<second>RGBA(0.949, 0.929, 0.878, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<headVariant>0</headVariant>
+				<bodyVariant>0</bodyVariant>
+				<headMaskVariant>0</headMaskVariant>
+				<bodyMaskVariant>0</bodyMaskVariant>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.506, 0.318, 0.180, 1.000)</first>
+							<second>RGBA(0.518, 0.325, 0.184, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.949, 0.929, 0.878, 1.000)</first>
+							<second>RGBA(0.949, 0.929, 0.878, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<headVariant>0</headVariant>
+				<bodyVariant>0</bodyVariant>
+				<headMaskVariant>0</headMaskVariant>
+				<bodyMaskVariant>0</bodyMaskVariant>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.506, 0.318, 0.180, 1.000)</first>
+							<second>RGBA(0.518, 0.325, 0.184, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.949, 0.929, 0.878, 1.000)</first>
+							<second>RGBA(0.949, 0.929, 0.878, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<headVariant>0</headVariant>
+				<bodyVariant>0</bodyVariant>
+				<headMaskVariant>0</headMaskVariant>
+				<bodyMaskVariant>0</bodyMaskVariant>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>554c2e42-324a-435b-b5f0-18c79b700282</id>
+			<type>Hidden</type>
+			<faction IsNull="True" />
+			<pawnKindDef>VFEM_Medieval_King</pawnKindDef>
+			<originalFactionDef>VFEM_KingdomSavage</originalFactionDef>
+			<traits>
+				<li>
+					<def>NaturalMood</def>
+					<degree>-2</degree>
+				</li>
+				<li>
+					<def>ShootingAccuracy</def>
+					<degree>1</degree>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(0.510, 0.357, 0.188, 1.000)</skinColor>
+			<melanin>0.45</melanin>
+			<bodyType>Hulk</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Normal</headGraphicPath>
+			<hairDef>Rockstar</hairDef>
+			<hairColor>RGBA(0.118, 0.219, 0.789, 1.000)</hairColor>
+			<beard>StacheAndChops</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>Rockstar</hairDef>
+			<firstName>Kelsey</firstName>
+			<nickName>Sir</nickName>
+			<lastName>Rositzke</lastName>
+			<favoriteColor>RGBA(0.424, 0.204, 0.380, 1.000)</favoriteColor>
+			<biologicalAge>61</biologicalAge>
+			<chronologicalAge>88</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>3</value>
+					<passion>VSE_Critical</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>-11</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>0</value>
+					<passion>VSE_Natural</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>-3</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>Pants</layer>
+					<apparel>Apparel_Pants</apparel>
+					<stuff>Leather_Light</stuff>
+					<color>RGBA(0.549, 0.333, 0.141, 1.000)</color>
+				</li>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>VAE_Apparel_Gambeson</apparel>
+					<stuff>Leather_Bird</stuff>
+					<color>RGBA(0.298, 0.325, 0.388, 1.000)</color>
+				</li>
+				<li>
+					<layer>MiddleClothingLayer</layer>
+					<apparel>VAE_Apparel_Chestplate</apparel>
+					<stuff>Silver</stuff>
+					<color>RGBA(0.706, 0.678, 0.588, 1.000)</color>
+				</li>
+				<li>
+					<layer>TopClothingLayer</layer>
+					<apparel>VFEM_Apparel_KingsRobes</apparel>
+					<stuff>DevilstrandCloth</stuff>
+					<color>RGBA(0.706, 0.235, 0.235, 1.000)</color>
+				</li>
+				<li>
+					<layer>Hat</layer>
+					<apparel>VFEM_Apparel_KingsCrown</apparel>
+					<stuff>Steel</stuff>
+					<color>RGBA(0.412, 0.412, 0.412, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>Астрополитизм</name>
+				<certainty>0.7285854</certainty>
+				<culture>Astropolitan</culture>
+				<memes />
+			</ideo>
+			<abilities />
+			<implants />
+			<injuries />
+			<compFields>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.711, 0.711, 0.711, 1.000)</first>
+							<second>RGBA(0.250, 0.200, 0.150, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.510, 0.357, 0.188, 1.000)</first>
+							<second>RGBA(0.510, 0.357, 0.188, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.711, 0.711, 0.711, 1.000)</first>
+							<second>RGBA(0.250, 0.200, 0.150, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.510, 0.357, 0.188, 1.000)</first>
+							<second>RGBA(0.510, 0.357, 0.188, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.711, 0.711, 0.711, 1.000)</first>
+							<second>RGBA(0.250, 0.200, 0.150, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.510, 0.357, 0.188, 1.000)</first>
+							<second>RGBA(0.510, 0.357, 0.188, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.711, 0.711, 0.711, 1.000)</first>
+							<second>RGBA(0.250, 0.200, 0.150, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.510, 0.357, 0.188, 1.000)</first>
+							<second>RGBA(0.510, 0.357, 0.188, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.711, 0.711, 0.711, 1.000)</first>
+							<second>RGBA(0.250, 0.200, 0.150, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.510, 0.357, 0.188, 1.000)</first>
+							<second>RGBA(0.510, 0.357, 0.188, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>066033af-1e1d-4047-a04e-3716cd534a03</id>
+			<type>Hidden</type>
+			<faction IsNull="True" />
+			<pawnKindDef>VFEM_Medieval_King</pawnKindDef>
+			<originalFactionDef>VFEM_KingdomSavage</originalFactionDef>
+			<gender>Female</gender>
+			<traits>
+				<li>
+					<def>DislikesMen</def>
+				</li>
+				<li>
+					<def>FT_Artisan</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(1.000, 0.937, 0.788, 1.000)</skinColor>
+			<melanin>0.45</melanin>
+			<bodyType>Female</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Pointy</headGraphicPath>
+			<hairDef>Shaved</hairDef>
+			<hairColor>RGBA(0.702, 0.702, 0.702, 1.000)</hairColor>
+			<beard>NoBeard</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>Shaved</hairDef>
+			<firstName>Belegardis</firstName>
+			<nickName>Belegardis</nickName>
+			<lastName>Rositzke</lastName>
+			<favoriteColor>RGBA(0.514, 0.306, 0.396, 1.000)</favoriteColor>
+			<biologicalAge>62</biologicalAge>
+			<chronologicalAge>62</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>-3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>0</value>
+					<passion>VSE_Critical</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>-2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>-12</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>-5</value>
+					<passion>VSE_Natural</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>-3</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>Pants</layer>
+					<apparel>Apparel_Pants</apparel>
+					<stuff>Cloth</stuff>
+					<color>RGBA(0.635, 0.616, 0.596, 1.000)</color>
+				</li>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>Apparel_BasicShirt</apparel>
+					<stuff>WoolSheep</stuff>
+					<color>RGBA(0.859, 0.839, 0.820, 1.000)</color>
+				</li>
+				<li>
+					<layer>MiddleClothingLayer</layer>
+					<apparel>VAE_Apparel_QuiltedVest</apparel>
+					<stuff>Leather_Light</stuff>
+					<color>RGBA(0.549, 0.333, 0.141, 1.000)</color>
+				</li>
+				<li>
+					<layer>TopClothingLayer</layer>
+					<apparel>VAE_Footwear_PlateBoots</apparel>
+					<stuff>Steel</stuff>
+					<color>RGBA(0.412, 0.412, 0.412, 1.000)</color>
+				</li>
+				<li>
+					<layer>Hat</layer>
+					<apparel>VFEM_Apparel_KingsCrown</apparel>
+					<stuff>Steel</stuff>
+					<color>RGBA(0.412, 0.412, 0.412, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>Астрополитизм</name>
+				<certainty>0.6794547</certainty>
+				<culture>Astropolitan</culture>
+				<memes />
+			</ideo>
+			<abilities />
+			<implants />
+			<injuries>
+				<li>
+					<hediffDef>Asthma</hediffDef>
+					<bodyPart>Lung</bodyPart>
+					<severity>0.001</severity>
+				</li>
+				<li>
+					<hediffDef>Asthma</hediffDef>
+					<bodyPart>Lung</bodyPart>
+					<bodyPartIndex>1</bodyPartIndex>
+					<severity>0.001</severity>
+				</li>
+			</injuries>
+			<compFields>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.658, 0.658, 0.658, 1.000)</first>
+							<second>RGBA(0.658, 0.658, 0.658, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.658, 0.658, 0.658, 1.000)</first>
+							<second>RGBA(0.658, 0.658, 0.658, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.658, 0.658, 0.658, 1.000)</first>
+							<second>RGBA(0.658, 0.658, 0.658, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.658, 0.658, 0.658, 1.000)</first>
+							<second>RGBA(0.658, 0.658, 0.658, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.658, 0.658, 0.658, 1.000)</first>
+							<second>RGBA(0.658, 0.658, 0.658, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>fc408ad6-2d28-466a-beef-1b43659fc759</id>
+			<type>Hidden</type>
+			<faction IsNull="True" />
+			<pawnKindDef>VFEM_Medieval_King</pawnKindDef>
+			<originalFactionDef>VFEM_KingdomSavage</originalFactionDef>
+			<gender>Female</gender>
+			<traits>
+				<li>
+					<def>Hygienic</def>
+					<degree>-2</degree>
+				</li>
+				<li>
+					<def>DislikesMen</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(1.000, 0.937, 0.788, 1.000)</skinColor>
+			<melanin>0.9</melanin>
+			<bodyType>Female</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Pointy</headGraphicPath>
+			<hairDef>Long</hairDef>
+			<hairColor>RGBA(0.713, 0.713, 0.713, 1.000)</hairColor>
+			<beard>NoBeard</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>Long</hairDef>
+			<firstName>Alla</firstName>
+			<nickName>Rios</nickName>
+			<lastName>Rios</lastName>
+			<favoriteColor>RGBA(0.451, 1.000, 1.000, 1.000)</favoriteColor>
+			<biologicalAge>69</biologicalAge>
+			<chronologicalAge>87</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>2</value>
+					<passion>VSE_Apathy</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>-2</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>-6</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>-2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>0</value>
+					<passion>Minor</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>Pants</layer>
+					<apparel>Apparel_Pants</apparel>
+					<stuff>Leather_Plain</stuff>
+					<color>RGBA(0.635, 0.416, 0.224, 1.000)</color>
+				</li>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>Apparel_BasicShirt</apparel>
+					<stuff>Leather_Plain</stuff>
+					<color>RGBA(0.635, 0.416, 0.224, 1.000)</color>
+				</li>
+				<li>
+					<layer>MiddleClothingLayer</layer>
+					<apparel>VAE_Apparel_Chestplate</apparel>
+					<stuff>Uranium</stuff>
+					<color>RGBA(0.392, 0.392, 0.392, 1.000)</color>
+				</li>
+				<li>
+					<layer>TopClothingLayer</layer>
+					<apparel>VAE_Handwear_PlateGloves</apparel>
+					<stuff>Steel</stuff>
+					<color>RGBA(0.412, 0.412, 0.412, 1.000)</color>
+				</li>
+				<li>
+					<layer>Hat</layer>
+					<apparel>VFEM_Apparel_KingsCrown</apparel>
+					<stuff>Steel</stuff>
+					<color>RGBA(0.412, 0.412, 0.412, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>Астрополитизм</name>
+				<certainty>0.6111953</certainty>
+				<culture>Astropolitan</culture>
+				<memes />
+			</ideo>
+			<abilities />
+			<implants />
+			<injuries>
+				<li>
+					<hediffDef>Frail</hediffDef>
+					<bodyPart>Torso</bodyPart>
+					<severity>0.001</severity>
+				</li>
+			</injuries>
+			<compFields>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.832, 0.832, 0.832, 1.000)</first>
+							<second>RGBA(0.827, 0.827, 0.827, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.388, 0.275, 0.141, 0.800)</first>
+							<second>RGBA(0.388, 0.275, 0.141, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.832, 0.832, 0.832, 1.000)</first>
+							<second>RGBA(0.827, 0.827, 0.827, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.388, 0.275, 0.141, 0.800)</first>
+							<second>RGBA(0.388, 0.275, 0.141, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.832, 0.832, 0.832, 1.000)</first>
+							<second>RGBA(0.827, 0.827, 0.827, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.388, 0.275, 0.141, 0.800)</first>
+							<second>RGBA(0.388, 0.275, 0.141, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.832, 0.832, 0.832, 1.000)</first>
+							<second>RGBA(0.827, 0.827, 0.827, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.388, 0.275, 0.141, 0.800)</first>
+							<second>RGBA(0.388, 0.275, 0.141, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.832, 0.832, 0.832, 1.000)</first>
+							<second>RGBA(0.827, 0.827, 0.827, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.388, 0.275, 0.141, 0.800)</first>
+							<second>RGBA(0.388, 0.275, 0.141, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>066033af-1e1d-4047-a04e-3716cd534a03</id>
+			<type>Hidden</type>
+			<faction IsNull="True" />
+			<pawnKindDef>VFEM_Medieval_King</pawnKindDef>
+			<originalFactionDef>VFEM_KingdomSavage</originalFactionDef>
+			<gender>Female</gender>
+			<traits>
+				<li>
+					<def>DislikesMen</def>
+				</li>
+				<li>
+					<def>FT_Artisan</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(1.000, 0.937, 0.788, 1.000)</skinColor>
+			<melanin>0.45</melanin>
+			<bodyType>Female</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Pointy</headGraphicPath>
+			<hairDef>Shaved</hairDef>
+			<hairColor>RGBA(0.702, 0.702, 0.702, 1.000)</hairColor>
+			<beard>NoBeard</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>Shaved</hairDef>
+			<firstName>Belegardis</firstName>
+			<nickName>Belegardis</nickName>
+			<lastName>Rositzke</lastName>
+			<favoriteColor>RGBA(0.514, 0.306, 0.396, 1.000)</favoriteColor>
+			<biologicalAge>62</biologicalAge>
+			<chronologicalAge>62</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>-3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>0</value>
+					<passion>VSE_Critical</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>-2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>-12</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>-5</value>
+					<passion>VSE_Natural</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>-3</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>Pants</layer>
+					<apparel>Apparel_Pants</apparel>
+					<stuff>Cloth</stuff>
+					<color>RGBA(0.635, 0.616, 0.596, 1.000)</color>
+				</li>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>Apparel_BasicShirt</apparel>
+					<stuff>WoolSheep</stuff>
+					<color>RGBA(0.859, 0.839, 0.820, 1.000)</color>
+				</li>
+				<li>
+					<layer>MiddleClothingLayer</layer>
+					<apparel>VAE_Apparel_QuiltedVest</apparel>
+					<stuff>Leather_Light</stuff>
+					<color>RGBA(0.549, 0.333, 0.141, 1.000)</color>
+				</li>
+				<li>
+					<layer>TopClothingLayer</layer>
+					<apparel>VAE_Footwear_PlateBoots</apparel>
+					<stuff>Steel</stuff>
+					<color>RGBA(0.412, 0.412, 0.412, 1.000)</color>
+				</li>
+				<li>
+					<layer>Hat</layer>
+					<apparel>VFEM_Apparel_KingsCrown</apparel>
+					<stuff>Steel</stuff>
+					<color>RGBA(0.412, 0.412, 0.412, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>Астрополитизм</name>
+				<certainty>0.6794547</certainty>
+				<culture>Astropolitan</culture>
+				<memes />
+			</ideo>
+			<abilities />
+			<implants />
+			<injuries>
+				<li>
+					<hediffDef>Asthma</hediffDef>
+					<bodyPart>Lung</bodyPart>
+					<severity>0.001</severity>
+				</li>
+				<li>
+					<hediffDef>Asthma</hediffDef>
+					<bodyPart>Lung</bodyPart>
+					<bodyPartIndex>1</bodyPartIndex>
+					<severity>0.001</severity>
+				</li>
+			</injuries>
+			<compFields>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.658, 0.658, 0.658, 1.000)</first>
+							<second>RGBA(0.658, 0.658, 0.658, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.658, 0.658, 0.658, 1.000)</first>
+							<second>RGBA(0.658, 0.658, 0.658, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.658, 0.658, 0.658, 1.000)</first>
+							<second>RGBA(0.658, 0.658, 0.658, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.658, 0.658, 0.658, 1.000)</first>
+							<second>RGBA(0.658, 0.658, 0.658, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.658, 0.658, 0.658, 1.000)</first>
+							<second>RGBA(0.658, 0.658, 0.658, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.788, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.788, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>
+									<first>skin</first>
+								</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+	</pawns>
+	<parentChildGroups>
+		<li>
+			<parents>
+				<li>554c2e42-324a-435b-b5f0-18c79b700282</li>
+				<li>fc408ad6-2d28-466a-beef-1b43659fc759</li>
+			</parents>
+			<children>
+				<li>066033af-1e1d-4047-a04e-3716cd534a03</li>
+			</children>
+		</li>
+	</parentChildGroups>
+	<relationships>
+		<li>
+			<source>fc408ad6-2d28-466a-beef-1b43659fc759</source>
+			<target>554c2e42-324a-435b-b5f0-18c79b700282</target>
+			<relation>Spouse</relation>
+		</li>
+	</relationships>
+	<equipment />
+</preset>
