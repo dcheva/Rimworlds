@@ -18829,3 +18829,6 @@ Unloading 0 Unused Serialized files (Serialized files now loaded: 5)
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 52757.
 Total: 1346.716400 ms (FindLiveObjects: 2.832600 ms CreateObjectMapping: 5.985100 ms MarkObjects: 1337.717500 ms  DeleteObjects: 0.180600 ms)
 
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 75c -> priority: 1 
+  Thread -> id: 1c3c -> priority: 1 
