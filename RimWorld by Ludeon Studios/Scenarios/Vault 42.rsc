@@ -608,14 +608,12 @@ Will today be the day you not only wake up, but also open your eyes?</text>
 					<li>VFEA_SealedVaultAlpha</li>
 					<li>VFEA_SealedVaultBravo</li>
 					<li>VFEA_SealedVaultCharlie</li>
-					<li>VFEA_SealedVaultDelta</li>
-					<li>VFEA_SealedVaultEpsilon</li>
 					<li>VFEA_SealedVaultF</li>
 					<li>VFEA_SealedVaultG</li>
 					<li>VFEA_SealedVaultH</li>
 					<li>VFEA_SealedVaultI</li>
-					<li>VFEA_SealedVaultJ</li>
-					<li>VFEA_A_SealedVaultS</li>
+					<li>VFEA_SealedVaultEpsilon</li>
+					<li>VFEA_SealedVaultDelta</li>
 				</chooseFrom>
 			</li>
 			<li Class="VFEAncients.ScenPart_ReconnectAllPowerBuildings">
