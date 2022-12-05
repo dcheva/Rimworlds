@@ -604,7 +604,6 @@ Will today be the day you not only wake up, but also open your eyes?</text>
 				<def>VFEC_AddStartingStructure</def>
 				<structureLabel>Vault 42</structureLabel>
 				<nearMapCenter>True</nearMapCenter>
-				<allowFoggedPosition>True</allowFoggedPosition>
 				<chooseFrom>
 					<li>VFEA_SealedVaultAlpha</li>
 					<li>VFEA_SealedVaultBravo</li>

@@ -15991,3 +15991,1072 @@ Failed to resolve text. Trying again with English.
 Combat Extended :: Apparel CE_Apparel_GasMask2527 tried removing hediff WearingGasMask from Dina but could not find any 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 5)
+UnloadTime: 2.619100 ms
+Exception parsing latest version: System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Int32.Parse (System.String s, System.Globalization.NumberStyles style, System.IFormatProvider provider) [0x0000e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Convert.ToInt32 (System.String value, System.IFormatProvider provider) [0x00005] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at RimWorld.LatestVersionGetter+<Start>d__4.MoveNext () [0x000bf] in <4b53ac099a7e43a0bd38f6db4241a7ad>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+
+Unloading 375 unused Assets to reduce memory usage. Loaded Objects now: 45684.
+Total: 1162.449700 ms (FindLiveObjects: 13.713100 ms CreateObjectMapping: 6.181200 ms MarkObjects: 1139.908900 ms  DeleteObjects: 2.646200 ms)
+
+Initializing new game with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - bs.betterlog
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - sarg.alphagenes
+  - FrozenSnowFox.BetterAncientComplexLoot
+  - VanillaExpanded.VCEF
+  - DakkPasserida.AnimaReplant
+  - ReGrowth.BOTR.Core
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - JangoDsoul.TheForge.Anvil
+  - JangoDsoul.TheForge.NCRArmory
+  - DerekBickley.LegacyTerrainOverhaulFinal
+  - LimeTreeSnake.Systems
+  - syrchalis.processor.framework
+  - RWNodeTree.RWNodeTree
+  - RWNodeTree.RWWeaponModularization
+  - Owlchemist.ToggleableOverlays
+  - rimfridge.kv.rw
+  - LWM.DeepStorage
+  - OskarPotocki.VFE.Mechanoid
+  - OskarPotocki.VanillaFactionsExpanded.MedievalModule
+  - CETeam.CombatExtended
+  - TMC.EFT.Melee
+  - Wemd.RealisticDarknessLight
+  - Wild.Addictol
+  - AndrewRaphaelLukasik.AllowEverything
+  - UnlimitedHugs.HugsLib
+  - UnlimitedHugs.AllowTool
+  - biowreck.AncientFalloutArmory
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEA
+  - ifsck.ancientmedicallinking
+  - scpchemfuel.appliances
+  - Bombadier.BetterWallsAndFloors
+  - Creeper.BetterInfoCard
+  - m00nl1ght.GeologicalLandforms
+  - m00nl1ght.GeologicalLandforms.BiomeTransitions
+  - Murmur.WallLight
+  - seos.m.vfea.vault.wnd
+  - seos.m.vfea.vault.s
+  - zal.vwretexture
+  - VanillaExpanded.VWEMS
+  - VanillaExpanded.VWEL
+  - vanillaexpanded.skills
+  - ReGrowth.BOTR.AspenForest
+  - VanillaExpanded.VPlantsE
+  - MrHydralisk.VOEAdditionalOutposts
+  - VanillaExpanded.VMemesE
+  - VanillaExpanded.VIEHAR
+  - VanillaExpanded.VARME
+  - Superniquito.TraitIcons
+  - hobtook.tradeui
+  - GT.Sam.TilledSoil
+  - JangoDsoul.T45b.PowerArmor
+  - Owlchemist.FridgeUtilities
+  - seos.m.storages
+  - Indeed.StackXXL
+  - smashphil.srtsexpanded
+  - legodude17.smartdecon
+  - dhultgren.smarterconstruction
+  - sarg.smartspeed
+  - Owlchemist.SmartFarming
+  - Usgiyi.SlaveOutfits
+  - PeteTimesSix.SimpleSidearms
+  - Owlchemist.SeedsPleaseLite
+  - Owlchemist.ScatteredStones
+  - roolo.giddyupcore
+  - thelastbulletbender.saddleup
+  - trinity.RuntimeGCupdated
+  - Mlie.RunAndHide
+  - RU.Vanilla.Weapons.Expanded.Laser
+  - Krkr.RocketMan
+  - Mlie.RoadsOfTheRim
+  - aRandomKiwi.RimSaves
+  - sindre0830.RimNauts2
+  - MalteSchulze.RIMMSqol
+  - Jaxe.RimHUD
+  - Dubwise.Rimefeller
+  - ReGrowth.BOTR.TundraExpansion
+  - ReGrowth.BOTR.TemperateForestExpansion
+  - ReGrowth.BOTR.SwampExpansion
+  - ReGrowth.BOTR.BorealForestExpansion
+  - bustedbunny.PrisonersAreNotSwines
+  - Mehni.PickUpAndHaul
+  - Owlchemist.PerspectiveTrees
+  - Owlchemist.PerspectiveEaves
+  - Owlchemist.WallUtilities
+  - Owlchemist.PerspectiveBuildings
+  - SaucyPigeon.PawnBadge
+  - Mlie.MoreFactionInteraction
+  - bonible.medullinpure
+  - Witek.MechsCanHaulToCharger
+  - hydrologist.MechanitorCommandRelays
+  - LWM.FuelFilter
+  - Krafs.LevelUp
+  - jecrell.jecstools
+  - Aoba.Fortress.Industrial.Concrete
+  - erdelf.HumanoidAlienRaces
+  - Orion.Hospitality
+  - HC.Animal.4
+  - HC.Animal.3
+  - HC.Animal.2
+  - HC.Animal.1
+  - Grimworld.Lasguns
+  - Telefonmast.GraphicsSettings
+  - bs.mbifvte
+  - Aoba.CargoContainer.Waste
+  - Orion.CashRegister
+  - void.charactereditor
+  - Neronix17.Retexture.CharacterEditor
+  - CrashM.ColorCodedMoodBar.11
+  - CETeam.CombatExtendedGuns
+  - Dubwise.DubsBadHygiene
+  - avilmask.CommonSense
+  - Nyan.CustomPawnGeneration
+  - Ogliss.Mythos.DiseasesOverhauled
+  - ForZa.DiseasesOverhauledBiosculptor
+  - proxyer.dismantleancientjunk
+  - tikubonn.DrugCommandOverhaul
+  - Dubwise.DubsApparelTweaks
+  - Dubwise.DubsMintMenus
+  - dubwise.dubsmintminimap
+  - Dubwise.Rimatomics
+  - nilchei.dynamicdiplomacy
+  - Cocaine.ElectricStonecuttingTable
+  - Witek.FabricorsCanRepairMechs
+  - JangoDsoul.Fallout.NukaCola
+  - YeffScry.Fallout2Soundtrack
+  - YeffScry.Fallout3Soundtrack
+  - YeffScry.Fallout4Soundtrack
+  - YeffScry.Fallout76Soundtrack
+  - YeffScry.FalloutNVSoundtrack
+  - Mlie.FalloutRacesTheRobotsPack
+  - YeffScry.FalloutSoundtrack
+  - Fuglypump.FalloutTraits
+  - LegendaryMinuteman.FRWP
+  - Murmur.FasterProjectiles
+  - Orion.Gastronomy
+  - sarg.giddyupsaddles
+  - roolo.giddyupbattlemounts
+  - roolo.giddyupcaravan
+  - roolo.giddyuprideandroll
+  - EdB.PrepareCarefully.alonske.fork.kotobike
+  - Dopwop.SimpleDwarves
+  - Mlie.Apothecary
+  - ILuvSilicon.BasicMedicine2
+  - Krkr.rule56
+  - Uuugggg.TDFindLib
+  - Uuugggg.CtrlF
+  - newcolonist.largefactionbases
+  - Haplo.Miscellaneous.MapGenFactionbase
+  - Mlie.MonstrousCompendium
+  - Unon.NoBurnMetal
+  - jp.perfectpathing
+  - MrKociak.RandomisedStoneRefinery
+  - Am.Rus.Splashes
+  - Am.Rus.Vapor
+  - Owlchemist.SimpleChains.Lumber
+  - Owlchemist.SimpleFX.Smoke2
+  - MysticFelines.SimpleFX.Smoke2.Patches
+  - Owlchemist.SimpleFX.Splashes
+  - Owlchemist.SimpleFX.Vapor
+  - Owlchemist.CeilingUtilities
+  - seos.m.st.liaraangry
+  - VanillaExpanded.VCEFAddon
+  - Ogliss.g223.wanderingcaravans
+  - EdB.PrepareCarefully.alonske.fork
+  - Odz.40k.ImperialGuard.DKOK
+  - Odz.40k.OrdoTempestus.TempestusScions
+  - biotexpans.core
+  - enzo4ka12.biotexpans.core
+  - flangopink.disableautoselecttravelsupplies
+  - huhu.lions.PS2NSBOarmor
+  - PlanetSide2.ru
+  - Uuugggg.TDSBugFixes
+  - brrainz.cameraplus
+  - hatti.cleaningarea
+  - Kamikadza13.legodude17.qualcolor
+  - hatti.qualitybuilder
+  - Uuugggg.ReplaceStuff
+  - RU.pashka.Uuugggg.ReplaceStuff
+  - Uuugggg.RandomResearch
+  - Owlchemist.ResearchPowl
+  - RU.pashka.VinaLx.ResearchPalForked
+  - avilmask.ResearchWhatever
+QualityBuilder added property to '173' things
+Can't enable CompPowerTrader(parent=VFEA_Turret_AncientPointDefense32330 at=(123, 0, 94))
+Can't enable CompPowerTrader(parent=VFEA_VaultDoor33939 at=(115, 0, 146))
+ShallowReservoirSeed == 0 Regenerating seeds
+Dining spot count changed from 0 to 0
+checking editor settings...
+activating bodysize genes...
+bodysizes genes are active
+QualityBuilder added to приказы category.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 5)
+
+Unloading 299 unused Assets to reduce memory usage. Loaded Objects now: 52484.
+Total: 1107.262100 ms (FindLiveObjects: 3.617300 ms CreateObjectMapping: 8.903000 ms MarkObjects: 1093.080200 ms  DeleteObjects: 1.661100 ms)
+
+Форлер are coming after 15.0755 days.
+Тотоай are coming after 35.87381 days.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 5)
+UnloadTime: 0.427100 ms
+checking editor settings...
+activating bodysize genes...
+bodysizes genes are active
+CharacterEditor v1.4.1205 ...done
+
+Unloading 6842 unused Assets to reduce memory usage. Loaded Objects now: 46078.
+Total: 1106.660800 ms (FindLiveObjects: 5.791900 ms CreateObjectMapping: 6.274200 ms MarkObjects: 1079.889500 ms  DeleteObjects: 14.704700 ms)
+
+Exception parsing latest version: System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Int32.Parse (System.String s, System.Globalization.NumberStyles style, System.IFormatProvider provider) [0x0000e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Convert.ToInt32 (System.String value, System.IFormatProvider provider) [0x00005] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at RimWorld.LatestVersionGetter+<Start>d__4.MoveNext () [0x000bf] in <4b53ac099a7e43a0bd38f6db4241a7ad>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [nameCore]
+2      nameCore → [SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        end → und
+2      nameCore → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        end → mm
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+       nameCore → UNRESOLVABLE
+1    r_name → [nameCore] [political_union_outlander]
+       nameCore → UNRESOLVABLE
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+1    r_name → [political_union_outlander] of [nameCore]
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+       nameCore → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerFactionOutlanderPig
+OutlanderPlaceNameUtility
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [nameCore]
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        end → pig
+2      nameCore → [SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        end → lom
+       nameCore → UNRESOLVABLE
+1    r_name → [nameCore] [political_union_outlander]
+       nameCore → UNRESOLVABLE
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+1    r_name → [political_union_outlander] of [nameCore]
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+       nameCore → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerFactionOutlanderPig
+OutlanderPlaceNameUtility
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [nameCore]
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        end → oog
+2      nameCore → [SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        end → lok
+2      nameCore → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+       nameCore → UNRESOLVABLE
+1    r_name → [nameCore] [political_union_outlander]
+       nameCore → UNRESOLVABLE
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+1    r_name → [political_union_outlander] of [nameCore]
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+       nameCore → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerFactionOutlanderPig
+OutlanderPlaceNameUtility
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [nameCore]
+2      nameCore → [SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        end → und
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        end → mok
+2      nameCore → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+       nameCore → UNRESOLVABLE
+1    r_name → [political_union_outlander] of [nameCore]
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+       nameCore → UNRESOLVABLE
+1    r_name → [nameCore] [political_union_outlander]
+       nameCore → UNRESOLVABLE
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerFactionOutlanderPig
+OutlanderPlaceNameUtility
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [nameCore] [political_union_outlander]
+2      nameCore → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        end → pig
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        end → und
+       nameCore → UNRESOLVABLE
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+1    r_name → [political_union_outlander] of [nameCore]
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+       nameCore → UNRESOLVABLE
+1    r_name → [nameCore]
+       nameCore → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerFactionOutlanderPig
+OutlanderPlaceNameUtility
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [nameCore]
+2      nameCore → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        end → pog
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        end → lom
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+       nameCore → UNRESOLVABLE
+1    r_name → [nameCore] [political_union_outlander]
+       nameCore → UNRESOLVABLE
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+1    r_name → [political_union_outlander] of [nameCore]
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+       nameCore → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerFactionOutlanderPig
+OutlanderPlaceNameUtility
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [nameCore] [political_union_outlander]
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        end → oo
+2      nameCore → [SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        end → oog
+2      nameCore → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+       nameCore → UNRESOLVABLE
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+1    r_name → [nameCore]
+       nameCore → UNRESOLVABLE
+1    r_name → [political_union_outlander] of [nameCore]
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+       nameCore → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerFactionOutlanderPig
+OutlanderPlaceNameUtility
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [political_union_outlander] of [nameCore]
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+2      nameCore → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        end → mm
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        end → mok
+       nameCore → UNRESOLVABLE
+1    r_name → [nameCore]
+       nameCore → UNRESOLVABLE
+1    r_name → [nameCore] [political_union_outlander]
+       nameCore → UNRESOLVABLE
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerFactionOutlanderPig
+OutlanderPlaceNameUtility
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [nameCore] [political_union_outlander]
+2      nameCore → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        end → pog
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        end → oink
+       nameCore → UNRESOLVABLE
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+1    r_name → [nameCore]
+       nameCore → UNRESOLVABLE
+1    r_name → [political_union_outlander] of [nameCore]
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+       nameCore → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerFactionOutlanderPig
+OutlanderPlaceNameUtility
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [nameCore] [political_union_outlander]
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+2      nameCore → [SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        end → pig
+2      nameCore → [SylP][maybeHyphen][SylP][maybeHyphen][end]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        end → mok
+2      nameCore → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+       nameCore → UNRESOLVABLE
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+1    r_name → [nameCore]
+       nameCore → UNRESOLVABLE
+1    r_name → [political_union_outlander] of [nameCore]
+2      political_union_outlander->(16 strings from file: Words/Nouns/PoliticalUnions_Outlander)
+       nameCore → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerFactionOutlanderPig
+OutlanderPlaceNameUtility
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [townname_wordgen]
+2      townname_wordgen → [SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        townend → bwug
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        townend → roog
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+2      townname_wordgen → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+       townname_wordgen → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerSettlementOutlanderPig
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_ideoName'
+
+GRAMMAR RESOLUTION TRACE
+1    r_ideoName → [memeAdjective_neutral] [creed_neutral]
+       memeAdjective_neutral → UNRESOLVABLE
+2      creed_neutral → [memeCreed_neutral]
+         memeCreed_neutral → UNRESOLVABLE
+2      creed_neutral → [genericCreed_neutral]
+3        genericCreed_neutral → учение
+1    r_ideoName → [memeAdjective_fem] [creed_fem]
+       memeAdjective_fem → UNRESOLVABLE
+2      creed_fem → [memeCreed_fem]
+         memeCreed_fem → UNRESOLVABLE
+2      creed_fem → [genericCreed_fem]
+3        genericCreed_fem → вера
+1    r_ideoName → [memeAdjective_masc] [packIdeoName]
+       memeAdjective_masc → UNRESOLVABLE
+       packIdeoName → UNRESOLVABLE
+1    r_ideoName → [globalAdjective] [packIdeoName]
+2      globalAdjective → Племенной
+       packIdeoName → UNRESOLVABLE
+1    r_ideoName → [hyphenPrefix]-[keyDeity]изм
+2      hyphenPrefix → [globalHyphenPrefix]
+3        globalHyphenPrefix → нео
+       keyDeity → UNRESOLVABLE
+1    r_ideoName → [memeAdjective_masc] [creed_masc]
+       memeAdjective_masc → UNRESOLVABLE
+2      creed_masc → [memeCreed_masc]
+         memeCreed_masc → UNRESOLVABLE
+2      creed_masc → [genericCreed_masc]
+3        genericCreed_masc → путь
+1    r_ideoName → [creed] [keyDeity]
+2      creed → [creed_plural]
+3        creed_plural → [memeCreed_plural]
+           memeCreed_plural → UNRESOLVABLE
+3        creed_plural → [genericCreed_plural]
+4          genericCreed_plural → пути
+       keyDeity → UNRESOLVABLE
+1    r_ideoName → [keyDeity]изм
+       keyDeity → UNRESOLVABLE
+1    r_ideoName → [creed] [packTheme]
+2      creed → [creed_neutral]
+3        creed_neutral → [genericCreed_neutral]
+4          genericCreed_neutral → учение
+       packTheme → UNRESOLVABLE
+1    r_ideoName → [memeAdjective_plural] [creed_plural]
+       memeAdjective_plural → UNRESOLVABLE
+2      creed_plural → [genericCreed_plural]
+3        genericCreed_plural → пути
+     r_ideoName → UNRESOLVABLE
+
+INCLUDES
+NamerIdeoCorunan
+NamerIdeoGlobal
+GlobalUtility
+TalkTopicsUtility
+
+BARE INCLUDES
+  place_name → Нухад
+  place_adjective → нухадец
+  place_summary → тусклый вулканический мир
+  place_community → базальтовый остров
+  place_community → город у озера в кальдере
+  place_community → деревня на дирижабле
+  place_powerCenter → геотермальная крепость
+  place_job → сейсмолог
+  place_job → работник фермы лавовых улиток
+  place_job → ремонтник танковых гусениц
+  place_job → десантник-разведчик
+  place_personalWeapon → обсидиановый кинжал
+  place_personalWeapon → гарпунное ружьё
+  place_massWeapon → вызванное архотеком извержение вулкана
+  place_massWeapon → химическая бомба
+  place_foeLeader → владыка лавы
+  place_foeSoldiers → адские пехотинцы
+  place_personalWeapon → автомат
+  place_massWeapon → управляемый архотеком инвертор масс
+  seismicDevice → генератор сейсмических волн
+  anEMPAttack → нацеленный на системы жизнеобеспечения ЭМИ
+  memeAdjective → bloody
+  memeAdjective → brutal
+  memeConcept → strength
+  memeConcept → strife
+  memeLeaderNoun → bloodletter
+  memeLeaderNoun → gladiator
+CONSTANTS
+deity0_gender                          Male
+forcePrefix                            True
+
+CUSTOM RULES
+■deity0_name → Христос-Владыка
+■deity0_pronoun → он
+■deity0_objective → ему
+■deity0_possessive → его
+■deity0_type → Вселенский Бог
+■packIdeoNameStructure → Пост-мормонство
+■packAdjective → Пост-мормонский
+■packMember → Пост-мормон
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to resolve text. Trying again with English. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name: Вечеринка Strength at 50% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name: Статуя Strife at 50% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [townname_wordgen]
+2      townname_wordgen → [SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        townend → woog
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      townname_wordgen → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        townend → wope
+       townname_wordgen → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerSettlementOutlanderPig
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [townname_wordgen]
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+2      townname_wordgen → [SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        townend → pig
+2      townname_wordgen → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        townend → born
+       townname_wordgen → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerSettlementOutlanderPig
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [townname_wordgen]
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        townend → gon
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      townname_wordgen → [SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        townend → roog
+2      townname_wordgen → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+       townname_wordgen → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerSettlementOutlanderPig
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [townname_wordgen]
+2      townname_wordgen → [SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        townend → born
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        townend → wag
+2      townname_wordgen → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+       townname_wordgen → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerSettlementOutlanderPig
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [townname_wordgen]
+2      townname_wordgen → [SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        townend → worg
+2      townname_wordgen → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        townend → roog
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+       townname_wordgen → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerSettlementOutlanderPig
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [townname_wordgen]
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        townend → kess
+2      townname_wordgen → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+2      townname_wordgen → [SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        townend → bille
+       townname_wordgen → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerSettlementOutlanderPig
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [townname_wordgen]
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        townend → gon
+2      townname_wordgen → [SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        townend → mur
+2      townname_wordgen → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+       townname_wordgen → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerSettlementOutlanderPig
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_name'
+
+GRAMMAR RESOLUTION TRACE
+1    r_name → [townname_wordgen]
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+3        townend → rog
+2      townname_wordgen → [SylP][maybeHyphen][SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+         SylP → UNRESOLVABLE
+2      townname_wordgen → [SylP][maybeHyphen][townend]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → -
+3        townend → roog
+2      townname_wordgen → [SylP][maybeHyphen][SylP]
+         SylP → UNRESOLVABLE
+3        maybeHyphen → 
+         SylP → UNRESOLVABLE
+       townname_wordgen → UNRESOLVABLE
+     r_name → UNRESOLVABLE
+
+INCLUDES
+NamerSettlementOutlanderPig
+
+CUSTOM RULES
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 5)
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 46533.
+Total: 1081.081100 ms (FindLiveObjects: 4.684500 ms CreateObjectMapping: 7.559200 ms MarkObjects: 1068.546800 ms  DeleteObjects: 0.290300 ms)
+

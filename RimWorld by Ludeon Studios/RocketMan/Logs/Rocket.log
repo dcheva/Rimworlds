@@ -802,3 +802,21 @@ ROCKETMAN:[NOTANERROR] patching Pawn:Void Notify_BulletImpactNearby(RimWorld.Bul
 ROCKETMAN:[NOTANERROR] patching Pawn_HealthTracker:Void Notify_HediffChanged(Verse.Hediff) finished!
 
 ROCKETMAN:[NOTANERROR] patching Pawn_HealthTracker:Void Notify_UsedVerb(Verse.Verb, Verse.LocalTargetInfo) finished!
+
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+
+SOYUZ: Preset loaded!
+
+Created ticker bucket: BaseInterval=250 BucketInterval=125
+
+Bucket[0].Count = 1
+
+Bucket[1].Count = 1
+
+Created ticker bucket: BaseInterval=8000 BucketInterval=8000
+
+Bucket[0].Count = 1
+
+ROCKETMAN: <color=red>Warm up</color> Finished for new map!
+
+ROCKETMAN: Position verfication started!
