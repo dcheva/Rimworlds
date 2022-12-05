@@ -1,0 +1,2243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedideo>
+	<meta>
+		<gameVersion>1.4.3537 rev237</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>bs.betterlog</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>sarg.alphagenes</li>
+			<li>frozensnowfox.betterancientcomplexloot</li>
+			<li>vanillaexpanded.vcef</li>
+			<li>dakkpasserida.animareplant</li>
+			<li>regrowth.botr.core</li>
+			<li>frozensnowfox.filthvanisheswithrainandtime</li>
+			<li>jangodsoul.theforge.anvil</li>
+			<li>jangodsoul.theforge.ncrarmory</li>
+			<li>derekbickley.legacyterrainoverhaulfinal</li>
+			<li>limetreesnake.systems</li>
+			<li>syrchalis.processor.framework</li>
+			<li>rwnodetree.rwnodetree</li>
+			<li>rwnodetree.rwweaponmodularization</li>
+			<li>owlchemist.toggleableoverlays</li>
+			<li>rimfridge.kv.rw</li>
+			<li>lwm.deepstorage</li>
+			<li>oskarpotocki.vfe.mechanoid</li>
+			<li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
+			<li>ceteam.combatextended</li>
+			<li>tmc.eft.melee</li>
+			<li>wemd.realisticdarknesslight</li>
+			<li>wild.addictol</li>
+			<li>andrewraphaellukasik.alloweverything</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>unlimitedhugs.allowtool</li>
+			<li>biowreck.ancientfalloutarmory</li>
+			<li>vanillaexpanded.vfemedical</li>
+			<li>vanillaexpanded.vfea</li>
+			<li>ifsck.ancientmedicallinking</li>
+			<li>scpchemfuel.appliances</li>
+			<li>bombadier.betterwallsandfloors</li>
+			<li>creeper.betterinfocard</li>
+			<li>m00nl1ght.geologicallandforms</li>
+			<li>m00nl1ght.geologicallandforms.biometransitions</li>
+			<li>murmur.walllight</li>
+			<li>seos.m.vfea.vault.wnd</li>
+			<li>seos.m.vfea.vault.s</li>
+			<li>zal.vwretexture</li>
+			<li>vanillaexpanded.vwems</li>
+			<li>vanillaexpanded.vwel</li>
+			<li>vanillaexpanded.skills</li>
+			<li>regrowth.botr.aspenforest</li>
+			<li>vanillaexpanded.vplantse</li>
+			<li>mrhydralisk.voeadditionaloutposts</li>
+			<li>vanillaexpanded.vmemese</li>
+			<li>vanillaexpanded.viehar</li>
+			<li>vanillaexpanded.varme</li>
+			<li>superniquito.traiticons</li>
+			<li>hobtook.tradeui</li>
+			<li>gt.sam.tilledsoil</li>
+			<li>jangodsoul.t45b.powerarmor</li>
+			<li>owlchemist.fridgeutilities</li>
+			<li>seos.m.storages</li>
+			<li>indeed.stackxxl</li>
+			<li>smashphil.srtsexpanded</li>
+			<li>legodude17.smartdecon</li>
+			<li>dhultgren.smarterconstruction</li>
+			<li>sarg.smartspeed</li>
+			<li>owlchemist.smartfarming</li>
+			<li>usgiyi.slaveoutfits</li>
+			<li>petetimessix.simplesidearms</li>
+			<li>owlchemist.seedspleaselite</li>
+			<li>owlchemist.scatteredstones</li>
+			<li>roolo.giddyupcore</li>
+			<li>thelastbulletbender.saddleup</li>
+			<li>trinity.runtimegcupdated</li>
+			<li>mlie.runandhide</li>
+			<li>ru.vanilla.weapons.expanded.laser</li>
+			<li>krkr.rocketman</li>
+			<li>mlie.roadsoftherim</li>
+			<li>arandomkiwi.rimsaves</li>
+			<li>sindre0830.rimnauts2</li>
+			<li>malteschulze.rimmsqol</li>
+			<li>jaxe.rimhud</li>
+			<li>dubwise.rimefeller</li>
+			<li>regrowth.botr.tundraexpansion</li>
+			<li>regrowth.botr.temperateforestexpansion</li>
+			<li>regrowth.botr.swampexpansion</li>
+			<li>regrowth.botr.borealforestexpansion</li>
+			<li>bustedbunny.prisonersarenotswines</li>
+			<li>mehni.pickupandhaul</li>
+			<li>owlchemist.perspectivetrees</li>
+			<li>owlchemist.perspectiveeaves</li>
+			<li>owlchemist.wallutilities</li>
+			<li>owlchemist.perspectivebuildings</li>
+			<li>saucypigeon.pawnbadge</li>
+			<li>mlie.morefactioninteraction</li>
+			<li>bonible.medullinpure</li>
+			<li>witek.mechscanhaultocharger</li>
+			<li>hydrologist.mechanitorcommandrelays</li>
+			<li>lwm.fuelfilter</li>
+			<li>krafs.levelup</li>
+			<li>jecrell.jecstools</li>
+			<li>aoba.fortress.industrial.concrete</li>
+			<li>erdelf.humanoidalienraces</li>
+			<li>orion.hospitality</li>
+			<li>hc.animal.4</li>
+			<li>hc.animal.3</li>
+			<li>hc.animal.2</li>
+			<li>hc.animal.1</li>
+			<li>grimworld.lasguns</li>
+			<li>telefonmast.graphicssettings</li>
+			<li>bs.mbifvte</li>
+			<li>aoba.cargocontainer.waste</li>
+			<li>orion.cashregister</li>
+			<li>void.charactereditor</li>
+			<li>neronix17.retexture.charactereditor</li>
+			<li>crashm.colorcodedmoodbar.11</li>
+			<li>ceteam.combatextendedguns</li>
+			<li>dubwise.dubsbadhygiene</li>
+			<li>avilmask.commonsense</li>
+			<li>nyan.custompawngeneration</li>
+			<li>ogliss.mythos.diseasesoverhauled</li>
+			<li>forza.diseasesoverhauledbiosculptor</li>
+			<li>proxyer.dismantleancientjunk</li>
+			<li>tikubonn.drugcommandoverhaul</li>
+			<li>dubwise.dubsappareltweaks</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>dubwise.dubsmintminimap</li>
+			<li>dubwise.rimatomics</li>
+			<li>nilchei.dynamicdiplomacy</li>
+			<li>cocaine.electricstonecuttingtable</li>
+			<li>witek.fabricorscanrepairmechs</li>
+			<li>jangodsoul.fallout.nukacola</li>
+			<li>yeffscry.fallout2soundtrack</li>
+			<li>yeffscry.fallout3soundtrack</li>
+			<li>yeffscry.fallout4soundtrack</li>
+			<li>yeffscry.fallout76soundtrack</li>
+			<li>yeffscry.falloutnvsoundtrack</li>
+			<li>mlie.falloutracestherobotspack</li>
+			<li>yeffscry.falloutsoundtrack</li>
+			<li>fuglypump.fallouttraits</li>
+			<li>legendaryminuteman.frwp</li>
+			<li>murmur.fasterprojectiles</li>
+			<li>orion.gastronomy</li>
+			<li>sarg.giddyupsaddles</li>
+			<li>roolo.giddyupbattlemounts</li>
+			<li>roolo.giddyupcaravan</li>
+			<li>roolo.giddyuprideandroll</li>
+			<li>edb.preparecarefully.alonske.fork.kotobike</li>
+			<li>dopwop.simpledwarves</li>
+			<li>mlie.apothecary</li>
+			<li>iluvsilicon.basicmedicine2</li>
+			<li>krkr.rule56</li>
+			<li>uuugggg.tdfindlib</li>
+			<li>uuugggg.ctrlf</li>
+			<li>newcolonist.largefactionbases</li>
+			<li>haplo.miscellaneous.mapgenfactionbase</li>
+			<li>mlie.monstrouscompendium</li>
+			<li>unon.noburnmetal</li>
+			<li>jp.perfectpathing</li>
+			<li>mrkociak.randomisedstonerefinery</li>
+			<li>am.rus.splashes</li>
+			<li>am.rus.vapor</li>
+			<li>owlchemist.simplechains.lumber</li>
+			<li>owlchemist.simplefx.smoke2</li>
+			<li>mysticfelines.simplefx.smoke2.patches</li>
+			<li>owlchemist.simplefx.splashes</li>
+			<li>owlchemist.simplefx.vapor</li>
+			<li>owlchemist.ceilingutilities</li>
+			<li>seos.m.st.liaraangry</li>
+			<li>vanillaexpanded.vcefaddon</li>
+			<li>ogliss.g223.wanderingcaravans</li>
+			<li>edb.preparecarefully.alonske.fork</li>
+			<li>odz.40k.imperialguard.dkok</li>
+			<li>odz.40k.ordotempestus.tempestusscions</li>
+			<li>biotexpans.core</li>
+			<li>enzo4ka12.biotexpans.core</li>
+			<li>flangopink.disableautoselecttravelsupplies</li>
+			<li>huhu.lions.ps2nsboarmor</li>
+			<li>planetside2.ru</li>
+			<li>uuugggg.tdsbugfixes</li>
+			<li>brrainz.cameraplus</li>
+			<li>hatti.cleaningarea</li>
+			<li>kamikadza13.legodude17.qualcolor</li>
+			<li>hatti.qualitybuilder</li>
+			<li>uuugggg.replacestuff</li>
+			<li>ru.pashka.uuugggg.replacestuff</li>
+			<li>uuugggg.randomresearch</li>
+			<li>owlchemist.researchpowl</li>
+			<li>ru.pashka.vinalx.researchpalforked</li>
+			<li>avilmask.researchwhatever</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Better Log - Fix your errors with style</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Alpha Genes</li>
+			<li>[FSF] Better Ancient Complex Loot</li>
+			<li>Vanilla Fishing Expanded</li>
+			<li>Replantable Anima Trees</li>
+			<li>ReGrowth: Core</li>
+			<li>[FSF] Filth Vanishes With Rain And Time</li>
+			<li>[JDS] The Forge - Anvil</li>
+			<li>[JDS] The Forge - NCR Armory</li>
+			<li>[LTO] Terrain Overhaul</li>
+			<li>[LTS]Systems</li>
+			<li>[SYR] Processor Framework</li>
+			<li>RW - Node Tree</li>
+			<li>RW - Weapon Modularization</li>
+			<li>Toggleable Overlays</li>
+			<li>RimFridge Updated</li>
+			<li>LWM's Deep Storage</li>
+			<li>Vanilla Factions Expanded - Mechanoids</li>
+			<li>Vanilla Factions Expanded - Medieval</li>
+			<li>Combat Extended</li>
+			<li>[TMC] EFT Sharpsticks</li>
+			<li>[WD] Realistic Darkness (Light)</li>
+			<li>Addictol [1.4]</li>
+			<li>Allow Everything</li>
+			<li>HugsLib</li>
+			<li>Allow Tool</li>
+			<li>Ancient Fallout Armory (1.4)</li>
+			<li>Vanilla Furniture Expanded - Medical Module</li>
+			<li>Vanilla Factions Expanded - Ancients</li>
+			<li>Ancient Medical Linking</li>
+			<li>Appliances Expanded</li>
+			<li>Better Walls and Floors</li>
+			<li>BetterInfoCard</li>
+			<li>Geological Landforms</li>
+			<li>Biome Transitions</li>
+			<li>Wall Light</li>
+			<li>VFE - Ancients : Vault Wall and Door</li>
+			<li>VFE - Ancients : Vault S</li>
+			<li>Vanilla Weapons Retextured (Continued)</li>
+			<li>Vanilla Weapons Expanded - Makeshift</li>
+			<li>Vanilla Weapons Expanded - Laser</li>
+			<li>Vanilla Skills Expanded</li>
+			<li>ReGrowth: Aspen</li>
+			<li>Vanilla Plants Expanded</li>
+			<li>Vanilla Outposts Expanded Additional Outposts</li>
+			<li>Vanilla Ideology Expanded - Memes and Structures</li>
+			<li>Vanilla Ideology Expanded - Hats and Rags</li>
+			<li>Vanilla Armour Expanded</li>
+			<li>Trait and Backstory Icons</li>
+			<li>Trade UI Revised</li>
+			<li>Tilled Soil</li>
+			<li>T-45b Power Armor</li>
+			<li>Simple Utilities: Fridge</li>
+			<li>Storage - Shelves</li>
+			<li>Stack XXL</li>
+			<li>SRTS Expanded</li>
+			<li>Smarter Deconstruction and Mining</li>
+			<li>Smarter Construction</li>
+			<li>Smart Speed</li>
+			<li>Smart Farming</li>
+			<li>Slave Outfits [1.4]</li>
+			<li>Simple sidearms</li>
+			<li>SeedsPlease: Lite</li>
+			<li>Scattered Stones</li>
+			<li>Giddy-up! Core</li>
+			<li>Saddle-up!</li>
+			<li>RuntimeGC [1.4]</li>
+			<li>Run and Hide (Continued)</li>
+			<li>RU Vanilla Weapons Expanded - Laser</li>
+			<li>RocketMan - Performance Mod</li>
+			<li>Roads of the Rim (Continued)</li>
+			<li>RimSaves</li>
+			<li>RimNauts 2</li>
+			<li>RIMMSqol</li>
+			<li>RimHUD</li>
+			<li>Rimefeller</li>
+			<li>ReGrowth: Tundra</li>
+			<li>ReGrowth: Temperate</li>
+			<li>ReGrowth: Swamp</li>
+			<li>ReGrowth: Boreal</li>
+			<li>Prisoners Are Not Swines</li>
+			<li>Pick Up And Haul</li>
+			<li>Perspective: Trees</li>
+			<li>Perspective: Eaves</li>
+			<li>Simple Utilities: Wall</li>
+			<li>Perspective: Buildings</li>
+			<li>Pawn Badge Fan Fork [Adopted]</li>
+			<li>More Faction Interaction (Continued)</li>
+			<li>Medullin Injector</li>
+			<li>Mechs can haul to charger</li>
+			<li>Mechanitor Command Relays</li>
+			<li>LWM's Fuel Filter</li>
+			<li>Level Up!</li>
+			<li>JecsTools</li>
+			<li>Industrial concrete</li>
+			<li>Humanoid Alien Races</li>
+			<li>Hospitality</li>
+			<li>HC_Animal_4</li>
+			<li>HC_Animal_3</li>
+			<li>HC_Animal_2</li>
+			<li>HC_Animal_1</li>
+			<li>Grimworld Lasguns</li>
+			<li>Graphics Settings+</li>
+			<li>Bradson's Main Button Icons for VE Textures</li>
+			<li>Cargo waste container</li>
+			<li>Cash Register</li>
+			<li>Character Editor</li>
+			<li>Character Editor Retextured</li>
+			<li>CM Color Coded Mood Bar [1.1+]</li>
+			<li>Combat Extended Guns</li>
+			<li>Dubs Bad Hygiene</li>
+			<li>Common Sense</li>
+			<li>Custom Pawn Generation</li>
+			<li>Diseases Overhauled</li>
+			<li>Diseases Overhauled - Biosculptor patch</li>
+			<li>Dismantle Ancient Junk</li>
+			<li>Drug Command Overhaul</li>
+			<li>Dubs Apparel Tweaks</li>
+			<li>Dubs Mint Menus</li>
+			<li>Dubs Mint Minimap</li>
+			<li>Dubs Rimatomics</li>
+			<li>Dynamic Diplomacy</li>
+			<li>Electric Stonecutting Table</li>
+			<li>Fabricors can repair mechs</li>
+			<li>Fallout - Nuka Cola Collection</li>
+			<li>Fallout 2 Soundtrack</li>
+			<li>Fallout 3 Soundtrack</li>
+			<li>Fallout 4 Soundtrack</li>
+			<li>Fallout 76 Soundtrack</li>
+			<li>Fallout New Vegas Soundtrack</li>
+			<li>Fallout Races: The Robots Pack (Continued)</li>
+			<li>Fallout Soundtrack</li>
+			<li>Fallout Traits</li>
+			<li>Fallout: Retro Weapon Pack</li>
+			<li>Faster Projectiles</li>
+			<li>Gastronomy</li>
+			<li>Giddy-Up! Add-on: Animal Saddles</li>
+			<li>Giddy-up! Battle Mounts</li>
+			<li>Giddy-up! Caravan</li>
+			<li>Giddy-up! Ride and Roll</li>
+			<li>[1.4 FORK] EdB Prepare Carefully RUS</li>
+			<li>[DW] Simple Dwarves</li>
+			<li>Apothecary (Continued)</li>
+			<li>Basic Medicine</li>
+			<li>CAI 5000 - Advance Combat AI Mod</li>
+			<li>TD Find Lib</li>
+			<li>Ctrl F</li>
+			<li>Large Faction Bases</li>
+			<li>Misc. MapGen FactionBase</li>
+			<li>Monstrous Compendium (Continued)</li>
+			<li>No Burn Metal</li>
+			<li>Perfect Pathfinding</li>
+			<li>Randomised Stone Refinery</li>
+			<li>Rus Simple FX: Splashes</li>
+			<li>Rus Simple FX: Vapor</li>
+			<li>Simple Chains: Lumber</li>
+			<li>Simple FX: Smoke</li>
+			<li>Simple FX: Smoke Patches</li>
+			<li>Simple FX: Splashes</li>
+			<li>Simple FX: Vapor</li>
+			<li>Simple Utilities: Ceiling</li>
+			<li>Storyteller - Liara Livid</li>
+			<li>Vanilla Fishing Expanded - Fishing Treasures AddOn</li>
+			<li>Wandering Caravans</li>
+			<li>[1.4 FORK] EdB Prepare Carefully</li>
+			<li>[1.4] Astra Militarum Regimentum - Krieg</li>
+			<li>[1.4] Ordo Tempestus - Tempestus Scions</li>
+			<li>Biotech Expansion - Core</li>
+			<li>Biotech Expansion - Core - Русская Локализация</li>
+			<li>Disable Automatically Select Travel Supplies</li>
+			<li>PlanetSide2 NS Black Ops Combat Armor</li>
+			<li>PlanetSide2 NS Black Ops Combat Armor RU</li>
+			<li>TDS Bug Fixes</li>
+			<li>Camera+</li>
+			<li>CleaningArea</li>
+			<li>Quality Colors rus</li>
+			<li>QualityBuilder</li>
+			<li>Replace Stuff</li>
+			<li>Replace Stuff Russian Language</li>
+			<li>Random Research</li>
+			<li>ResearchPowl</li>
+			<li>ResearchPowl Russian Language</li>
+			<li>Research Whatever</li>
+		</modNames>
+	</meta>
+	<ideo>
+		<foundation Class="IdeoFoundation_Deity">
+			<def>Deity</def>
+			<place>Lutuni</place>
+			<deities />
+		</foundation>
+		<name>Пути Eschatologism</name>
+		<adjective>eschatological</adjective>
+		<memberName>Doomsday cultist</memberName>
+		<leaderTitleMale>Oracular Cult Leader</leaderTitleMale>
+		<leaderTitleFemale>Oracular Cult Leader</leaderTitleFemale>
+		<description>This world is tainted, impure, and it must be purged. We shall bring the end of days and a new Universe will be reborn from the ashes of the current one. We will unify our minds in a harmony of purpose and thought; no indecision, no doubts. A single purpose, a single will: To destroy. When we finally strike, all shall fall before us.</description>
+		<descriptionTemplate>This world is tainted, impure, and it must be purged. We shall bring the end of days and a new Universe will be reborn from the ashes of the current one. We will unify our minds in a harmony of purpose and thought; no indecision, no doubts. A single purpose, a single will: To destroy. When we finally strike, all shall fall before us.</descriptionTemplate>
+		<culture>Astropolitan</culture>
+		<iconDef>SpiralsE</iconDef>
+		<colorDef>DarkPink</colorDef>
+		<memes>
+			<li>VME_Structure_Eschatologism</li>
+			<li>HumanPrimacy</li>
+			<li>VFEA_Isolationist</li>
+			<li>VME_Gestalt</li>
+		</memes>
+		<precepts>
+			<li>
+				<name>being recruited</name>
+				<def>VFEA_BeingRecruited_Forbidden</def>
+				<ID>888</ID>
+				<randomSeed>-528677838</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>recruiting</name>
+				<def>VFEA_Recruiting_Forbidden</def>
+				<ID>889</ID>
+				<randomSeed>-1979877427</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>mood</name>
+				<def>VME_Mood_Shared</def>
+				<ID>890</ID>
+				<randomSeed>326191639</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>Панегирик Eschatologism</name>
+				<def>Funeral</def>
+				<ID>891</ID>
+				<randomSeed>130657226</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<nameMaker>NamerRitualFuneral</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>Вы можете провести {IDEOLIGION_adjective} похоронный обряд для {PAWN_nameDef}.</ritualExpectedDesc>
+				<ritualExpectedDescNoAdjective>Вы можете провести похороны для {PAWN_nameDef}.</ritualExpectedDescNoAdjective>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>FuneralStandard</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_GraveWithTarget">
+					<def>GraveWithTargetsCorpse</def>
+					<parent>Precept_891</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_Funeral">
+					<def>Funeral</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_MemberDied">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+					</li>
+				</triggers>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_FromQuality">
+					<def>AttendedFuneral</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>Панегирик Eschatologism</name>
+				<def>FuneralNoCorpse</def>
+				<ID>892</ID>
+				<randomSeed>-1529036864</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>Вы можете провести {IDEOLIGION_adjective} похоронный обряд для {PAWN_nameDef}, несмотря на то, что его {PAWN_possessive} тело утеряно.</ritualExpectedDesc>
+				<ritualExpectedDescNoAdjective>Вы можете провести похороны для {PAWN_nameDef}, несмотря на то, что его {PAWN_possessive} тело утеряно.</ritualExpectedDescNoAdjective>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>FuneralNoCorpse</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyEmptyGrave">
+					<def>AnyEmptyGrave</def>
+					<parent>Precept_892</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_Funeral">
+					<def>Funeral</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_MemberCorpseDestroyed">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+					</li>
+				</triggers>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_FromQuality">
+					<def>AttendedFuneralNoCorpse</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>Eschatological Убой</name>
+				<def>Festival</def>
+				<ID>893</ID>
+				<randomSeed>1085318930</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<descOverride>Ритуальное жертвоприношение. Исполнитель произнесёт речь, чтобы разгорячить толпу, после чего перережет жертве горло. Когда животное умрёт, исполнитель произнесёт короткую завершающую речь.</descOverride>
+				<nameMaker>NamerRitualSacrifice</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>Каждый год {DATE} {MEMBERS} могут отметить свой праздник.</ritualExpectedDesc>
+				<shortDescOverride>животное жертвоприношение</shortDescOverride>
+				<iconPathOverride>UI/Icons/Rituals/RitualAnimalSacrifice</iconPathOverride>
+				<patternGroupTag />
+				<isAnytime>True</isAnytime>
+				<canBeAnytime>True</canBeAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>SacrificeAnimal</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyRitualSpotOrAltar">
+					<def>RitualSpotOrAltar</def>
+					<parent>Precept_893</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior>
+					<def>SacrificeAnimal</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_Date">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+						<triggerDaysSinceStartOfYear>19</triggerDaysSinceStartOfYear>
+					</li>
+				</triggers>
+				<attachableOutcomeEffect>NearbyFactionGoodwill</attachableOutcomeEffect>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Consumable">
+					<def>Sacrifice</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>Смертный Праздник</name>
+				<def>Festival</def>
+				<ID>894</ID>
+				<randomSeed>-726053423</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<nameMaker>NamerRitualFestival</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>Каждый год {DATE} {MEMBERS} могут отметить свой праздник.</ritualExpectedDesc>
+				<iconPathOverride>UI/Icons/Rituals/RitualFestival</iconPathOverride>
+				<patternGroupTag>CelebratedDate</patternGroupTag>
+				<canBeAnytime>True</canBeAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>CelebrationPartyChat</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyGatherSpotOrAltar">
+					<def>GatheringSpotOrAltar</def>
+					<parent>Precept_894</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior>
+					<def>DateRitual</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_Date">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+						<triggerDaysSinceStartOfYear>45</triggerDaysSinceStartOfYear>
+					</li>
+				</triggers>
+				<attachableOutcomeEffect>RechargePsyfocus</attachableOutcomeEffect>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_FromQuality">
+					<def>CelebratedDate</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_RitualSeat">
+				<name>ритуальное место</name>
+				<def>IdeoRitualSeat</def>
+				<ID>895</ID>
+				<randomSeed>1091485079</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<thingDef>KneelPillow</thingDef>
+			</li>
+			<li>
+				<name>казнь</name>
+				<def>Execution_HorribleIfInnocent</def>
+				<ID>896</ID>
+				<randomSeed>-1881232004</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>alien slavery</name>
+				<def>HAR_AlienSlavery_Disapproved</def>
+				<ID>897</ID>
+				<randomSeed>-1241598013</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>женская одежда</name>
+				<def>Nudity_Female_UncoveredGroinOrChestDisapproved</def>
+				<ID>898</ID>
+				<randomSeed>1243463039</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>мужская одежда</name>
+				<def>Nudity_Male_UncoveredGroinDisapproved</def>
+				<ID>899</ID>
+				<randomSeed>-1388618078</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>использование органов</name>
+				<def>OrganUse_HorribleSellOK</def>
+				<ID>900</ID>
+				<randomSeed>-1136638513</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>каннибализм</name>
+				<def>Cannibalism_Abhorrent</def>
+				<ID>901</ID>
+				<randomSeed>1460863071</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>eating aliens</name>
+				<def>HAR_EatingAliens_Abhorrent</def>
+				<ID>902</ID>
+				<randomSeed>-235039467</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>ритуал связывания</name>
+				<def>AnimaTreeLinking</def>
+				<ID>903</ID>
+				<randomSeed>52772808</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<isAnytime>True</isAnytime>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>AnimaTreeLinking</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnimaTree">
+					<def>AnimaTree</def>
+					<parent>Precept_903</parent>
+				</obligationTargetFilter>
+				<targetFilter Class="RitualTargetFilter_SelectedThing">
+					<def>SelectedThing</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_AnimaLinking">
+					<def>AnimaTreeLinking</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_AnimaTreeLinking">
+					<def>AnimaTreeLinking</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li>
+				<name>слепота</name>
+				<def>Blinding_Horrible</def>
+				<ID>904</ID>
+				<randomSeed>-918145314</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>привязанность</name>
+				<def>Bonding_Disapproved</def>
+				<ID>905</ID>
+				<randomSeed>-2134010012</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>child birth</name>
+				<def>ChildBirth</def>
+				<ID>906</ID>
+				<randomSeed>-822786202</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<isAnytime>True</isAnytime>
+				<allowOtherInstances>True</allowOtherInstances>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>ChildBirth</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_ChildBirth">
+					<def>ChildBirth</def>
+					<parent>Precept_906</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_ChildBirth">
+					<def>ChildBirth</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_ChildBirth">
+					<def>ChildBirth</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataRoomStatCached" />
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>ритуал обращения</name>
+				<def>Conversion</def>
+				<ID>907</ID>
+				<randomSeed>-1954980374</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<ritualExplanation>В случае успеха, уверенность цели снизится и она может незамедлительно принять новую идеолигию. Провал лишь повысит уверенность цели в своих убеждениях.</ritualExplanation>
+				<canMergeGizmosFromDifferentIdeos>False</canMergeGizmosFromDifferentIdeos>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>Conversion</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyRitualSpotOrAltar">
+					<def>RitualSpotOrAltar</def>
+					<parent>Precept_907</parent>
+				</obligationTargetFilter>
+				<targetFilter Class="RitualTargetFilter_Altar">
+					<def>AltarOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Conversion">
+					<def>Conversion</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Conversion">
+					<def>Conversion</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataRoomStatCached" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li>
+				<name>трупы</name>
+				<def>Corpses_Ugly</def>
+				<ID>908</ID>
+				<randomSeed>1531828498</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>публичная казнь</name>
+				<def>Execution</def>
+				<ID>909</ID>
+				<randomSeed>386745502</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>Execution</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyRitualSpotIdeogramOrAltar">
+					<def>RitualSpotIdeogramOrAltar</def>
+					<parent>Precept_909</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_Execution">
+					<def>Execution</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Execution">
+					<def>Execution</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li>
+				<name>пещерные грибы</name>
+				<def>FungusEating_Despised</def>
+				<ID>910</ID>
+				<randomSeed>-439340529</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>alien races</name>
+				<def>HAR_AlienRaces_Standard</def>
+				<ID>911</ID>
+				<randomSeed>-382749186</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>плюрализм мысли</name>
+				<def>IdeoDiversity_Standard</def>
+				<ID>912</ID>
+				<randomSeed>-1673363538</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>мясо насекомых</name>
+				<def>InsectMeatEating_Despised_Classic</def>
+				<ID>913</ID>
+				<randomSeed>-424371280</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>речь лидера</name>
+				<def>LeaderSpeech</def>
+				<ID>914</ID>
+				<randomSeed>1737201500</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<canMergeGizmosFromDifferentIdeos>False</canMergeGizmosFromDifferentIdeos>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>LeaderSpeech</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_IdeoBuildingOrRitualSpot">
+					<def>AnyIdeoBuildingOrRitualSpot</def>
+					<parent>Precept_914</parent>
+				</obligationTargetFilter>
+				<targetFilter Class="RitualTargetFilter_IdeoBuildingOrRitualSpot">
+					<def>IdeoBuildingOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Speech">
+					<def>LeaderSpeech</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Speech">
+					<def>AttendedSpeech</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li Class="RitualOutcomeComp_DataRoomStatCached" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li>
+				<name>физическая близость</name>
+				<def>Lovin_SpouseOnly_Moderate</def>
+				<ID>915</ID>
+				<randomSeed>-457266136</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>переход фамилии</name>
+				<def>MarriageName_UsuallyMans</def>
+				<ID>916</ID>
+				<randomSeed>-1196924146</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>питательная паста</name>
+				<def>NutrientPasteEating_Disgusting</def>
+				<ID>917</ID>
+				<randomSeed>1682834075</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>исследование</name>
+				<def>Research_Normal</def>
+				<ID>918</ID>
+				<randomSeed>-2021314811</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>смена роли</name>
+				<def>RoleChange</def>
+				<ID>919</ID>
+				<randomSeed>536145645</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>RoleChange</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyRitualSpotIdeogramOrAltar">
+					<def>RitualSpotIdeogramOrAltar</def>
+					<parent>Precept_919</parent>
+				</obligationTargetFilter>
+				<targetFilter Class="RitualTargetFilter_AltarOrIdeogram">
+					<def>AltarIdeogramOrRitualSpot</def>
+				</targetFilter>
+				<behavior>
+					<def>RoleChange</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_RoleChange">
+					<def>RoleChange</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataRoleChangeParticipants">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li>
+				<name>шрамирование</name>
+				<def>Scarification_Horrible</def>
+				<ID>920</ID>
+				<randomSeed>-1491563662</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>черепа на кольях</name>
+				<def>Skullspike_Disapproved</def>
+				<ID>921</ID>
+				<randomSeed>-797442893</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>рабство</name>
+				<def>Slavery_Acceptable</def>
+				<ID>922</ID>
+				<randomSeed>-1016444255</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>тронная речь</name>
+				<def>ThroneSpeech</def>
+				<ID>923</ID>
+				<randomSeed>51235544</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>ThroneSpeech</sourcePattern>
+				<obligationTargetFilter IsNull="True" />
+				<targetFilter Class="RitualTargetFilter_UsableThrone">
+					<def>UsableThrone</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_ThroneSpeech">
+					<def>ThroneSpeech</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Speech">
+					<def>AttendedSpeech</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li Class="RitualOutcomeComp_DataRoomStatCached" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>ритуал связывания с деревом</name>
+				<def>TreeConnection</def>
+				<ID>924</ID>
+				<randomSeed>1961818570</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<iconPathOverride>UI/Icons/Rituals/TreeConnection</iconPathOverride>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>TreeConnection</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_UnconnectedGauranlenTree">
+					<def>GauranlenTree</def>
+					<parent>Precept_924</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior>
+					<def>TreeConnection</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_ConnectToTree">
+					<def>ConnectToTree</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>суд</name>
+				<def>Trial</def>
+				<ID>925</ID>
+				<randomSeed>-1740071166</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>Trial</sourcePattern>
+				<obligationTargetFilter IsNull="True" />
+				<targetFilter Class="RitualTargetFilter_IdeoBuildingOrRitualSpot">
+					<def>IdeoBuildingOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Trial">
+					<def>Trial</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Trial">
+					<def>Trial</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>суд</name>
+				<def>TrialMentalState</def>
+				<ID>926</ID>
+				<randomSeed>1241796548</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>TrialMentalState</sourcePattern>
+				<obligationTargetFilter IsNull="True" />
+				<targetFilter Class="RitualTargetFilter_IdeoBuildingOrRitualSpot">
+					<def>IdeoBuildingOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Trial">
+					<def>TrialMentalState</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Trial">
+					<def>TrialMentalState</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>суд</name>
+				<def>TrialPrisoner</def>
+				<ID>927</ID>
+				<randomSeed>660230358</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>TrialPrisoner</sourcePattern>
+				<obligationTargetFilter IsNull="True" />
+				<targetFilter Class="RitualTargetFilter_IdeoBuildingOrRitualSpot">
+					<def>IdeoBuildingOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Trial">
+					<def>TrialPrisoner</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Trial">
+					<def>Trial</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li>
+				<name>death</name>
+				<def>VME_Death_Normal</def>
+				<ID>928</ID>
+				<randomSeed>468526190</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>dumb labor</name>
+				<def>VME_DumbLabor_Indifferent</def>
+				<ID>929</ID>
+				<randomSeed>54632908</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>illness</name>
+				<def>VME_Illness_Indifferent</def>
+				<ID>930</ID>
+				<randomSeed>1836569342</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>insect jelly</name>
+				<def>VME_InsectJellyEaten_Neutral_Classic</def>
+				<ID>931</ID>
+				<randomSeed>1493132419</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>recreation</name>
+				<def>VME_Recreation_Normal</def>
+				<ID>932</ID>
+				<randomSeed>-1418257898</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>tainted apparel</name>
+				<def>VME_TaintedApparel_Disapproved</def>
+				<ID>933</ID>
+				<randomSeed>-580688922</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>tattered apparel</name>
+				<def>VME_TatteredApparel_Disapproved</def>
+				<ID>934</ID>
+				<randomSeed>-980083082</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>violence</name>
+				<def>VME_Violence_Acceptable</def>
+				<ID>935</ID>
+				<randomSeed>2144617645</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>брак женщины</name>
+				<def>SpouseCount_Female_MaxOne</def>
+				<ID>936</ID>
+				<randomSeed>-1365731645</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>брак мужчины</name>
+				<def>SpouseCount_Male_MaxOne</def>
+				<ID>937</ID>
+				<randomSeed>1300719861</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_RoleSingle">
+				<name>Oracular Cult Leader</name>
+				<def>IdeoRole_Leader</def>
+				<ID>938</ID>
+				<randomSeed>-1037649656</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<apparelRequirements>
+					<li>
+						<allowedFactionCategoryTags IsNull="True" />
+						<disallowedFactionCategoryTags IsNull="True" />
+						<anyMemeRequired IsNull="True" />
+						<requirement>
+							<bodyPartGroupsMatchAny>
+								<li>UpperHead</li>
+							</bodyPartGroupsMatchAny>
+							<requiredDefs>
+								<li>VIEHAR_Apparel_Headscarf</li>
+							</requiredDefs>
+							<requiredTags IsNull="True" />
+							<allowedTags IsNull="True" />
+						</requirement>
+					</li>
+				</apparelRequirements>
+				<restrictToSupremeGender>True</restrictToSupremeGender>
+				<chosenPawn>
+					<pawn>null</pawn>
+					<abilities>
+						<li>
+							<def>LeaderSpeech</def>
+							<Id>202</Id>
+							<sourcePrecept>Precept_938</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_202_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_202</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>WorkDrive</def>
+							<Id>203</Id>
+							<sourcePrecept>Precept_938</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_203_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_203</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>CombatCommand</def>
+							<Id>204</Id>
+							<sourcePrecept>Precept_938</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_204_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_204</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>Trial</def>
+							<Id>205</Id>
+							<sourcePrecept>Precept_938</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_205_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_205</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>VME_LeaderConversionRitual</def>
+							<Id>206</Id>
+							<sourcePrecept>Precept_938</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_206_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_206</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>VME_LeaderConvert</def>
+							<Id>207</Id>
+							<sourcePrecept>Precept_938</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_207_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_207</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>VME_LeaderPreachHealth</def>
+							<Id>208</Id>
+							<sourcePrecept>Precept_938</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_208_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_208</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>VME_LeaderReassure</def>
+							<Id>209</Id>
+							<sourcePrecept>Precept_938</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_209_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_209</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>VME_LeaderCounsel</def>
+							<Id>210</Id>
+							<sourcePrecept>Precept_938</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_210_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_210</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+					</abilities>
+				</chosenPawn>
+			</li>
+			<li Class="Precept_RoleSingle">
+				<name>Scaremonger War</name>
+				<def>IdeoRole_Moralist</def>
+				<ID>939</ID>
+				<randomSeed>1582457666</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<apparelRequirements>
+					<li>
+						<allowedFactionCategoryTags IsNull="True" />
+						<disallowedFactionCategoryTags IsNull="True" />
+						<anyMemeRequired IsNull="True" />
+						<requirement>
+							<bodyPartGroupsMatchAny>
+								<li>UpperHead</li>
+							</bodyPartGroupsMatchAny>
+							<requiredDefs>
+								<li>VIEHAR_Apparel_BrimlessHat</li>
+							</requiredDefs>
+							<requiredTags IsNull="True" />
+							<allowedTags IsNull="True" />
+						</requirement>
+					</li>
+					<li>
+						<allowedFactionCategoryTags IsNull="True" />
+						<disallowedFactionCategoryTags IsNull="True" />
+						<anyMemeRequired IsNull="True" />
+						<requirement>
+							<bodyPartGroupsMatchAny>
+								<li>Torso</li>
+								<li>FullHead</li>
+								<li>UpperHead</li>
+								<li>Legs</li>
+								<li>Arms</li>
+							</bodyPartGroupsMatchAny>
+							<requiredDefs>
+								<li>Apparel_Burka</li>
+							</requiredDefs>
+							<requiredTags IsNull="True" />
+							<allowedTags IsNull="True" />
+						</requirement>
+					</li>
+				</apparelRequirements>
+				<restrictToSupremeGender>True</restrictToSupremeGender>
+				<chosenPawn>
+					<pawn>null</pawn>
+					<abilities>
+						<li>
+							<def>Convert</def>
+							<Id>211</Id>
+							<sourcePrecept>Precept_939</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_211_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_211</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>Counsel</def>
+							<Id>212</Id>
+							<sourcePrecept>Precept_939</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_212_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_212</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>Reassure</def>
+							<Id>213</Id>
+							<sourcePrecept>Precept_939</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_213_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_213</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>ConversionRitual</def>
+							<Id>214</Id>
+							<sourcePrecept>Precept_939</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_214_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_214</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>PreachHealth</def>
+							<Id>215</Id>
+							<sourcePrecept>Precept_939</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_215_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_215</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+					</abilities>
+				</chosenPawn>
+			</li>
+			<li Class="Precept_RoleMulti">
+				<name>Манунор</name>
+				<def>IdeoRole_ProductionSpecialist</def>
+				<ID>940</ID>
+				<randomSeed>-1062743577</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<active>True</active>
+				<apparelRequirements>
+					<li>
+						<allowedFactionCategoryTags IsNull="True" />
+						<disallowedFactionCategoryTags IsNull="True" />
+						<anyMemeRequired IsNull="True" />
+						<requirement>
+							<bodyPartGroupsMatchAny>
+								<li>FullHead</li>
+							</bodyPartGroupsMatchAny>
+							<requiredDefs>
+								<li>VIEHAR_Apparel_Headbag</li>
+							</requiredDefs>
+							<requiredTags IsNull="True" />
+							<allowedTags IsNull="True" />
+						</requirement>
+					</li>
+				</apparelRequirements>
+			</li>
+			<li Class="Precept_Building">
+				<name>Смертный Алтарь</name>
+				<def>IdeoBuilding</def>
+				<ID>941</ID>
+				<randomSeed>-319306888</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<thingDef>Altar_Grand</thingDef>
+				<presenceDemand>
+					<ID>29</ID>
+					<minExpectation>High</minExpectation>
+					<roomRequirements>
+						<li Class="RoomRequirement_ThingCount">
+							<thingDef>Column</thingDef>
+							<count>4</count>
+						</li>
+						<li Class="RoomRequirement_ForbiddenBuildings">
+							<labelKey>RoomRequirementNoBeds</labelKey>
+							<buildingTags>
+								<li>Bed</li>
+							</buildingTags>
+						</li>
+						<li Class="RoomRequirement_ForbiddenBuildings">
+							<labelKey>RoomRequirementNoProductionFacilities</labelKey>
+							<buildingTags>
+								<li>Production</li>
+							</buildingTags>
+						</li>
+					</roomRequirements>
+				</presenceDemand>
+			</li>
+			<li Class="Precept_Building">
+				<name>Монумент War</name>
+				<def>IdeoBuilding</def>
+				<ID>942</ID>
+				<randomSeed>14367932</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<thingDef>SculptureSmall</thingDef>
+				<presenceDemand>
+					<ID>30</ID>
+					<minExpectation>Moderate</minExpectation>
+					<roomRequirements>
+						<li Class="RoomRequirement_Impressiveness">
+							<impressiveness>60</impressiveness>
+						</li>
+						<li Class="RoomRequirement_ForbiddenBuildings">
+							<labelKey>RoomRequirementNoBeds</labelKey>
+							<buildingTags>
+								<li>Bed</li>
+							</buildingTags>
+						</li>
+						<li Class="RoomRequirement_ForbiddenBuildings">
+							<labelKey>RoomRequirementNoProductionFacilities</labelKey>
+							<buildingTags>
+								<li>Production</li>
+							</buildingTags>
+						</li>
+					</roomRequirements>
+				</presenceDemand>
+			</li>
+			<li Class="Precept_Relic">
+				<name>Hidden-Скрижаль</name>
+				<def>IdeoRelic</def>
+				<ID>943</ID>
+				<randomSeed>-1918279867</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<thingDef>RelicInertTablet</thingDef>
+				<stuff>Jade</stuff>
+			</li>
+			<li Class="Precept_Relic">
+				<name>Hidden-Наследие</name>
+				<def>IdeoRelic</def>
+				<ID>944</ID>
+				<randomSeed>873136943</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<thingDef>Apparel_PsychicShockLance</thingDef>
+			</li>
+		</precepts>
+		<thingStyleCategories>
+			<li>
+				<category>VME_SecularSpirituality</category>
+				<priority>3</priority>
+			</li>
+		</thingStyleCategories>
+		<usedSymbols>
+			<li>Пути eschatologism</li>
+			<li>eschatological</li>
+			<li>Doomsday cultist</li>
+		</usedSymbols>
+		<usedSymbolPacks>
+			<li>eschatologism</li>
+		</usedSymbolPacks>
+		<style>
+			<hairFrequencies>
+				<vals>
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li />
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li />
+					<li />
+				</vals>
+			</hairFrequencies>
+			<beardFrequencies>
+				<vals>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li />
+					<li />
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li />
+					<li />
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Rare</frequency>
+					</li>
+					<li>
+						<frequency>Rare</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Rare</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Rare</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Rare</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Rare</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+				</vals>
+			</beardFrequencies>
+			<tattooFrequencies>
+				<vals>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+				</vals>
+			</tattooFrequencies>
+			<styleForThingDef>
+				<keys />
+				<values />
+			</styleForThingDef>
+		</style>
+	</ideo>
+</savedideo>
