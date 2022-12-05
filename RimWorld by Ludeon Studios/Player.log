@@ -18588,3 +18588,206 @@ Unloading 0 Unused Serialized files (Serialized files now loaded: 5)
 Unloading 291 unused Assets to reduce memory usage. Loaded Objects now: 46861.
 Total: 1102.824300 ms (FindLiveObjects: 2.750700 ms CreateObjectMapping: 6.443900 ms MarkObjects: 1092.869800 ms  DeleteObjects: 0.759600 ms)
 
+Tried to change priority on disabled worktype Warden for pawn Zett 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to change priority on disabled worktype Childcare for pawn Zett 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to change priority on disabled worktype Diplomat for pawn Zett 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Outfit_Что угодно1 of type RimWorld.Outfit. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_OutfitTracker curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not initialize body types for alien race, Human. Defaulting to humanlike body types. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_SimpleNightVision.  Last layer: StrappedHead 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_Backpack.  Last layer: Backpack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_Backpack.  Last layer: Backpack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: Apparel_Tuque.  Last layer: OnHead 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: Apparel_GasMask.  Last layer: StrappedHead 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: Apparel_Tuque.  Last layer: OnHead 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: Apparel_GasMask.  Last layer: StrappedHead 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_Backpack.  Last layer: Backpack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_TribalBackpack.  Last layer: Backpack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_MeleeShield.  Last layer: Shield 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: VFEM_Apparel_Tabard.  Last layer: VFEC_OuterShell 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: VFEM_Apparel_Tabard.  Last layer: VFEC_OuterShell 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: VFEM_Shield_Kite.  Last layer: Shield 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: VFEM_Apparel_Tabard.  Last layer: VFEC_OuterShell 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_TribalBackpack.  Last layer: Backpack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_TribalBackpack.  Last layer: Backpack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: Apparel_Tuque.  Last layer: OnHead 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_GasMask.  Last layer: StrappedHead 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_TacVest.  Last layer: Webbing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: Apparel_ArmorHelmetRecon.  Last layer: StrappedHead 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_Backpack.  Last layer: Backpack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: Apparel_Tuque.  Last layer: OnHead 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: Apparel_GasMask.  Last layer: StrappedHead 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_TacVest.  Last layer: Webbing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: Apparel_GasMask.  Last layer: StrappedHead 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_TribalBackpack.  Last layer: Backpack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_MeleeShield.  Last layer: Shield 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_TribalBackpack.  Last layer: Backpack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_GasMask.  Last layer: StrappedHead 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Could not convert graphicPaths field value into a collection for Human. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_TacVest.  Last layer: Webbing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Reached max messages limit. Stopping logging to avoid spam. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Prepare Carefully] Cannot find matching layer for apparel: CE_Apparel_Backpack.  Last layer: Backpack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 5)
+UnloadTime: 0.351000 ms
+
+Unloading 303 unused Assets to reduce memory usage. Loaded Objects now: 46689.
+Total: 1100.403600 ms (FindLiveObjects: 4.900400 ms CreateObjectMapping: 5.012400 ms MarkObjects: 1089.333600 ms  DeleteObjects: 1.156800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 5)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 53776.
+Total: 1162.414300 ms (FindLiveObjects: 2.719700 ms CreateObjectMapping: 6.189600 ms MarkObjects: 1153.405300 ms  DeleteObjects: 0.099400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 5)
+UnloadTime: 0.455300 ms
+
+Unloading 7004 unused Assets to reduce memory usage. Loaded Objects now: 46823.
+Total: 1129.683600 ms (FindLiveObjects: 4.097000 ms CreateObjectMapping: 6.011500 ms MarkObjects: 1104.459300 ms  DeleteObjects: 15.115400 ms)
+
