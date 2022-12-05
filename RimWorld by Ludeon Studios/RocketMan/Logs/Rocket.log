@@ -157,7 +157,7 @@ ThreadStart at offset 0 in file:line:column <filename unknown>:0:0
 
 GAGARIN:[DUPLICATE]: Started!
 
-GAGARIN:[DUPLICATE] Creating duplication reports took 612 MS
+GAGARIN:[DUPLICATE] Creating duplication reports took 788 MS
 
 GAGARIN:[<color=orange>DUPLICATE:CRITICAL</color>]<color=red> duplicate found for Name=BaseBullet</color>
 	1. PackageId=ludeon.rimworld	| ModName=Core	| XmlFilePath=C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\BaseWeapons.xml
@@ -382,8 +382,6 @@ PROTON:[NOTANERROR] patching Alert_PsychicBondedSeparated:Void .ctor() finished!
 PROTON:[NOTANERROR] patching Alert_MechDamaged:Void .ctor() finished!
 
 PROTON:[NOTANERROR] patching Alert_GenebankUnpowered:Void .ctor() finished!
-
-PROTON:[NOTANERROR] patching Alert_DeathrestComplete:Void .ctor() finished!
 
 PROTON:[NOTANERROR] patching Alert_TatteredApparel:Void .ctor() finished!
 
@@ -729,7 +727,7 @@ ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.legacy
 
 ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory
 
-[0.001176 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
+[0.001486 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
 ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedCentipede
 ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedLancer
 ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedKnight

@@ -11,7 +11,7 @@
     </li>
     <li>
       <key>Rescuing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Capturing</key>
@@ -131,11 +131,11 @@
     </li>
     <li>
       <key>ForbiddingDoors</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CoverAndShooting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>FormCaravan</key>
@@ -163,11 +163,11 @@
     </li>
     <li>
       <key>SpoilageAndFreezers</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Deterioration</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>HostilityResponse</key>
@@ -187,7 +187,7 @@
     </li>
     <li>
       <key>ManualWorkPriorities</key>
-      <value>0.1279313</value>
+      <value>0</value>
     </li>
     <li>
       <key>GettingMoreTraders</key>
@@ -231,7 +231,7 @@
     </li>
     <li>
       <key>SwitchFlickingDesignation</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MaxNumberOfPlayerSettlements</key>
@@ -307,7 +307,7 @@
     </li>
     <li>
       <key>CE_ReloadAuto</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_ReloadManned</key>
@@ -315,7 +315,7 @@
     </li>
     <li>
       <key>CE_FireModes</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_AimModes</key>
@@ -395,7 +395,7 @@
     </li>
     <li>
       <key>CE_AmmoCrafting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_ObtainingFSX</key>
