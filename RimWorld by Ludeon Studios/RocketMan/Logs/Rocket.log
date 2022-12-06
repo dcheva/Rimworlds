@@ -106,6 +106,38 @@ ROCKETMAN: Found action with attribute OnInitialization, SoyuzPatcher:Intialize
 
 GAGARIN: <color=green>Loading cache settings!</color>
 
+GAGARIN: <color=yello>Cache disabled from</color>
+ExposeData at offset 0 in file:line:column <filename unknown>:0:0
+SaveableFromNode at offset 0 in file:line:column <filename unknown>:0:0
+Look at offset 0 in file:line:column <filename unknown>:0:0
+Look at offset 0 in file:line:column <filename unknown>:0:0
+LoadSettings at offset 0 in file:line:column <filename unknown>:0:0
+StartUpStarted at offset 0 in file:line:column <filename unknown>:0:0
+InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
+Invoke at offset 0 in file:line:column <filename unknown>:0:0
+Invoke at offset 0 in file:line:column <filename unknown>:0:0
+<GetActions>b__3 at offset 0 in file:line:column <filename unknown>:0:0
+.ctor at offset 0 in file:line:column <filename unknown>:0:0
+InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
+InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
+DoInvoke at offset 0 in file:line:column <filename unknown>:0:0
+Invoke at offset 0 in file:line:column <filename unknown>:0:0
+CreateInstanceImpl at offset 0 in file:line:column <filename unknown>:0:0
+CreateInstance at offset 0 in file:line:column <filename unknown>:0:0
+CreateInstance at offset 0 in file:line:column <filename unknown>:0:0
+CreateModClasses at offset 0 in file:line:column <filename unknown>:0:0
+LoadAllActiveMods at offset 0 in file:line:column <filename unknown>:0:0
+DoPlayLoad at offset 0 in file:line:column <filename unknown>:0:0
+LoadAllPlayData at offset 0 in file:line:column <filename unknown>:0:0
+<Start>b__6_1 at offset 0 in file:line:column <filename unknown>:0:0
+RunEventFromAnotherThread at offset 0 in file:line:column <filename unknown>:0:0
+<UpdateCurrentAsynchronousEvent>b__27_0 at offset 0 in file:line:column <filename unknown>:0:0
+ThreadStart_Context at offset 0 in file:line:column <filename unknown>:0:0
+RunInternal at offset 0 in file:line:column <filename unknown>:0:0
+Run at offset 0 in file:line:column <filename unknown>:0:0
+Run at offset 0 in file:line:column <filename unknown>:0:0
+ThreadStart at offset 0 in file:line:column <filename unknown>:0:0
+
 Gagarin:[NOTANERROR] patching TKeySystem:Void Parse(System.Xml.XmlDocument) finished!
 
 Gagarin:[NOTANERROR] patching DirectXmlLoader:Verse.Def DefFromNode(System.Xml.XmlNode, Verse.LoadableXmlAsset) finished!
@@ -139,6 +171,22 @@ Gagarin:[NOTANERROR] patching LoadedModManager:Void ParseAndProcessXML(System.Xm
 Gagarin:[NOTANERROR] patching LoadedModManager:Void ClearCachedPatches() finished!
 
 Gagarin:[NOTANERROR] patching XmlInheritance:Void Resolve() finished!
+
+GAGARIN:[DUPLICATE]: Started!
+
+GAGARIN:[DUPLICATE] Creating duplication reports took 610 MS
+
+GAGARIN:[<color=orange>DUPLICATE:CRITICAL</color>]<color=red> duplicate found for Name=BaseBullet</color>
+	1. PackageId=ludeon.rimworld	| ModName=Core	| XmlFilePath=C:\Games\RimWorld 1.4\Data\Core\Defs\ThingDefs_Misc\Weapons\BaseWeapons.xml
+	2. PackageId=ceteam.combatextended	| ModName=Combat Extended	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Combat Extended\Defs\Ammo\AmmoBases.xml
+
+GAGARIN:[<color=yellow>DUPLICATE:CRITICAL</color>]<color=white> duplicate found for Name=UpdateFeatureBase</color>
+	1. PackageId=petetimessix.simplesidearms	| ModName=Simple sidearms	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Simple sidearms\v1.4\Defs\UpdateTextDefs\updateDefs.xml
+	2. PackageId=roolo.giddyupcore	| ModName=Giddy-up! Core	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Giddy - up!Core\Defs\UpdateFeatureDefs\UpdateFeatures.xml
+	3. PackageId=roolo.giddyupbattlemounts	| ModName=Giddy-up! Battle Mounts	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Giddy - up!Battle Mounts\Defs\UpdateFeatureDefs\UpdateFeatures.xml
+	4. PackageId=roolo.giddyuprideandroll	| ModName=Giddy-up! Ride and Roll	| XmlFilePath=C:\Games\RimWorld 1.4\Mods\Giddy - up!Ride and Roll\Defs\UpdateFeatureDefs\UpdateFeatures.xml
+
+GAGARIN:[DUPLICATE] Finished creating reports at <color=red>C:\Users\Dmytro\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\RocketMan\Reports</color>
 
 ROCKETMAN: Found action with attribute OnStaticConstructor, StartupHelper:StartUpFinished
 
@@ -351,6 +399,8 @@ PROTON:[NOTANERROR] patching Alert_PsychicBondedSeparated:Void .ctor() finished!
 PROTON:[NOTANERROR] patching Alert_MechDamaged:Void .ctor() finished!
 
 PROTON:[NOTANERROR] patching Alert_GenebankUnpowered:Void .ctor() finished!
+
+PROTON:[NOTANERROR] patching Alert_DeathrestComplete:Void .ctor() finished!
 
 PROTON:[NOTANERROR] patching Alert_TatteredApparel:Void .ctor() finished!
 
@@ -696,7 +746,7 @@ ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.legacy
 
 ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory
 
-[0.001924 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
+[0.000761 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
 ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedCentipede
 ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedLancer
 ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedKnight
@@ -803,6 +853,8 @@ ROCKETMAN:[NOTANERROR] patching Pawn_HealthTracker:Void Notify_HediffChanged(Ver
 
 ROCKETMAN:[NOTANERROR] patching Pawn_HealthTracker:Void Notify_UsedVerb(Verse.Verb, Verse.LocalTargetInfo) finished!
 
+GAGARIN: Lock removed!
+
 ROCKETMAN: <color=red>Warm up</color> started for new map!
 
 SOYUZ: Preset loaded!
@@ -817,25 +869,11 @@ Created ticker bucket: BaseInterval=8000 BucketInterval=8000
 
 Bucket[0].Count = 1
 
-ROCKETMAN: <color=red>Warm up</color> Finished for new map!
-
-ROCKETMAN: Position verfication started!
+ROCKETMAN: <color=red>Warm up ABORTED!</color> for new map!
 
 ROCKETMAN: <color=red>Warm up</color> started for new map!
 
-SOYUZ: Preset loaded!
-
-ROCKETMAN: <color=red>Warm up</color> Finished for new map!
-
-ROCKETMAN: Position verfication started!
-
-ROCKETMAN: <color=red>Warm up</color> started for new map!
-
-SOYUZ: Preset loaded!
-
-ROCKETMAN: <color=red>Warm up</color> Finished for new map!
-
-ROCKETMAN: Position verfication started!
+ROCKETMAN: <color=red>Warm up ABORTED!</color> for new map!
 
 ROCKETMAN: <color=red>Warm up</color> started for new map!
 
