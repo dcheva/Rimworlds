@@ -187,11 +187,11 @@
     </li>
     <li>
       <key>ManualWorkPriorities</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GettingMoreTraders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TileInspector</key>
@@ -199,11 +199,11 @@
     </li>
     <li>
       <key>Outfits</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>FirePreparation</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>HistoryTab</key>
@@ -399,11 +399,11 @@
     </li>
     <li>
       <key>CE_ObtainingFSX</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_ObtainingPrometheum</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CE_CentipedeArmor</key>
